@@ -7,7 +7,7 @@ jobs:
     working_directory: ~/circleci-demo-workflows
     steps:
       - checkout
-      # Run script
+      # Run python script
       - run: python3 demo.py
 
 workflows:
