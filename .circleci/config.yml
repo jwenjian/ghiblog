@@ -1,0 +1,27 @@
+version: 2.0
+
+jobs:
+  build:
+    docker:
+      - image: circleci/python:latest
+    working_directory: ~/circleci-demo-workflows
+    steps:
+      - checkout
+      # Run script
+      - run: python3 demo.py
+
+workflows:
+  version: 2
+  commit-workflow:
+    jobs:
+      - build 
+  scheduled-workflow:
+    triggers:
+      - schedule:
+          cron: "0 0 * * *" 
+          filters:
+            branches:
+              only: test-cron-ci
+
+    jobs:
+      - build
