@@ -16,7 +16,7 @@ jobs:
       - run: git config --global user.name "jwenjian"
       - run: git add .
       - run: git commit -m "update from circle ci"
-      - run: git push origin master
+      - run: git push https://$GITHUB_LOGIN:$GITHUB_PASSWORD@github.com/$GITHUB_LOGIN/ghiblog.git origin master
       - run: echo 'done'
 
 workflows:
