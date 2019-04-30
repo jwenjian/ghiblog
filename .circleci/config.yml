@@ -12,6 +12,8 @@ jobs:
       - run: python3 demo.py
       - run: git version
       - run: git status
+      - run: git config --global user.email "1639301503@qq.com"
+      - run: git config --global user.name "jwenjian"
       - run: git add .
       - run: git commit -m "update from circle ci"
       - run: git push origin master
