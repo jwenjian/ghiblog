@@ -8,7 +8,15 @@ jobs:
     steps:
       - checkout
       # Run python script
-      - run: python3 demo.py
+      - run:
+        - pip install PyGithub
+        - python3 demo.py
+        - git version
+        - git status
+        - git add .
+        - git commit -m "update from circle ci"
+        - git push origin master
+        - echo 'done'
 
 workflows:
   version: 2
