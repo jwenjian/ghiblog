@@ -8,7 +8,7 @@ jobs:
     steps:
       - checkout
       # Run python script
-      - run: pip install PyGithub
+      - run: pip install PyGithub --user
       - run: python3 demo.py
       - run: git version
       - run: git status
