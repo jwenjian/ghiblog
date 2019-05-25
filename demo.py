@@ -1,9 +1,13 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
 from github import Github
 from github.Issue import Issue
 from github.Repository import Repository
 import os
 import time
 import urllib.parse
+import codecs
 
 user: Github
 ghiblog: Repository
@@ -25,10 +29,16 @@ def sub(text: str):
 
 def save_md_file(contents):
     read_me = open('README.md', 'w')
-    read_me.write('updated at ' + time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()) + '\n')
     read_me.writelines(contents)
     read_me.flush()
     read_me.close()
+
+
+def update_readme_md_file(contents):
+    with codecs.open('README.md', 'w', encoding='utf-8') as f:
+        f.writelines(contents)
+        f.flush()
+        f.close()
 
 
 def login():
@@ -59,7 +69,7 @@ def bundle_summary_section():
 > :alarm_clock: 上次更新: %s
     
 共 [%s](%s) 个标签, [%s](%s) 篇博文.
-    ''' % (cur_time, total_label_count, labels_html_url, total_issue_count, issues_html_url)
+''' % (cur_time, total_label_count, labels_html_url, total_issue_count, issues_html_url)
 
     return summary_section
 
@@ -70,7 +80,7 @@ def bundle_pinned_issues_section():
     pinned_label = ghiblog.get_label(':+1:置顶')
     pinned_issues = ghiblog.get_issues(labels=(pinned_label,))
 
-    pinned_issues_section = '## 置顶 :thumbsup: \n'
+    pinned_issues_section = '\n## 置顶 :thumbsup: \n'
 
     for issue in pinned_issues:
         pinned_issues_section += format_issue(issue)
@@ -188,7 +198,10 @@ def execute():
     about_me_section = bundle_about_me_section()
     print(about_me_section)
 
-    pass
+    contents = [summary_section, pinned_issues_section, new_created_section, list_by_labels_section, about_me_section]
+    update_readme_md_file(contents)
+
+    print('README.md updated successfully!!!')
 
 
 if __name__ == '__main__':
