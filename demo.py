@@ -106,6 +106,36 @@ def bundle_new_created_section():
     return new_created_section
 
 
+def bundle_list_by_labels_section():
+    global ghiblog
+    global user
+
+    list_by_labels_section = '## 分类  :card_file_box: \n'
+
+    all_labels = ghiblog.get_labels()
+
+    for label in all_labels:
+        temp = ''
+        # 这里的count是用来计算该label下有多少issue的, 按理说应该是取issues_in_label的totalCount, 但是不知道为什么取出来的一直都是
+        # 所有的issue数量, 之后再优化.
+        count = 0
+        issues_in_label = ghiblog.get_issues(labels=(label,))
+        for issue in issues_in_label:
+            temp += format_issue(issue)
+            count += 1
+
+        list_by_labels_section += '''
+<details>
+<summary>%s\t<sup>%s:newspaper:</sup></summary>
+
+%s
+
+</details>
+''' % (label.name, count, temp)
+
+    return list_by_labels_section
+
+
 def execute():
     global cur_time
     # common
@@ -128,6 +158,10 @@ def execute():
     # 5. new created section
     new_created_section = bundle_new_created_section()
     print(new_created_section)
+
+    # 6. list by labels section
+    list_by_labels_section = bundle_list_by_labels_section()
+    print(list_by_labels_section)
 
     # 4. get issues
 
