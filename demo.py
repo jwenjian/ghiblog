@@ -4,14 +4,14 @@ from github.Repository import Repository
 import os
 import time
 
-
-def test():
-    print('hello  circle ci')
+user: Github
+ghiblog: Repository
+cur_time: str
 
 
 def format_issue(issue: Issue):
-    return '- [%s](%s)  %s   %s \n' % (
-        issue.title, issue.html_url, sup('%s comments' % issue.comments), issue.created_at)
+    return '- [%s](%s)  %s  \t :alarm_clock:%s \n' % (
+        issue.title, issue.html_url, sup('%s :speech_balloon:' % issue.comments), sub(issue.created_at))
 
 
 def sup(text: str):
@@ -30,31 +30,77 @@ def save_md_file(contents):
     read_me.close()
 
 
-def list_repos():
-    login = os.environ.get('GITHUB_LOGIN')
+def login():
+    global user
+    username = os.environ.get('GITHUB_LOGIN')
     password = os.environ.get('GITHUB_PASSWORD')
+    user = Github(username, password)
 
-    for key in os.environ:
-        print(key + ':' + os.environ[key])
 
-    u = Github(login, password)
-    for repo in u.get_user().get_repos():
-        print(repo.name)
+def get_ghiblog():
+    global ghiblog
+    ghiblog = user.get_repo('%s/ghiblog' % user.get_user().login)
 
-    # list issues
-    r: Repository = u.get_repo('jwenjian/jwenjian.github.io')
-    issues = r.get_issues()
 
-    print(issues.totalCount)
+def bundle_summary_section():
+    global ghiblog
+    global cur_time
+    global user
 
-    contents: list = []
+    total_label_count = ghiblog.get_labels().totalCount
+    total_issue_count = ghiblog.get_issues().totalCount
+    labels_html_url = 'https://github.com/%s/ghiblog/labels' % user.get_user().login
+    issues_html_url = 'https://github.com/%s/ghiblog/issues' % user.get_user().login
 
-    for issue in issues:
-        contents.append(format_issue(issue))
+    summary_section = '''
+# GitHub Issues Blog :tada::tada::tada:
+    
+> :alarm_clock: 上次更新: %s
+    
+共 [%s](%s) 个标签, [%s](%s) 篇博文.
+    ''' % (cur_time, total_label_count, labels_html_url, total_issue_count, issues_html_url)
 
-    save_md_file(contents)
+    return summary_section
+
+
+def bundle_pinned_issues_section():
+    global user
+    global ghiblog
+
+    pinned_label = ghiblog.get_label(':+1:  置顶')
+    pinned_issues = ghiblog.get_issues(labels=(pinned_label,))
+
+    pinned_issues_section = '## 置顶 :thumbsup: \n'
+
+    for issue in pinned_issues:
+        pinned_issues_section += format_issue(issue)
+
+    return pinned_issues_section
+
+
+def execute():
+    global cur_time
+    # common
+    cur_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
+
+    # 1. login
+    login()
+
+    # 2. get ghiblog
+    get_ghiblog()
+
+    # 3. summary section
+    summary_section = bundle_summary_section()
+    print(summary_section)
+
+    # 4. pinned issues section
+    pinned_issues_section = bundle_pinned_issues_section()
+    print(pinned_issues_section)
+
+    # 4. get issues
+
+    pass
 
 
 if __name__ == '__main__':
-    test()
-    list_repos()
+    execute()
