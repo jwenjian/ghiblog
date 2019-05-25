@@ -3,6 +3,7 @@ from github.Issue import Issue
 from github.Repository import Repository
 import os
 import time
+import urllib.parse
 
 user: Github
 ghiblog: Repository
@@ -64,10 +65,9 @@ def bundle_summary_section():
 
 
 def bundle_pinned_issues_section():
-    global user
     global ghiblog
 
-    pinned_label = ghiblog.get_label(':+1:  置顶')
+    pinned_label = ghiblog.get_label(':+1:置顶')
     pinned_issues = ghiblog.get_issues(labels=(pinned_label,))
 
     pinned_issues_section = '## 置顶 :thumbsup: \n'
@@ -76,6 +76,34 @@ def bundle_pinned_issues_section():
         pinned_issues_section += format_issue(issue)
 
     return pinned_issues_section
+
+
+def format_issue_with_labels(issue: Issue):
+    global user
+
+    labels = issue.get_labels()
+    labels_str = ''
+    if labels:
+        labels_str = '\n :label: \t' + sub('|')
+
+    for label in labels:
+        labels_str += sub('[%s](https://github.com/%s/ghiblog/labels/%s)\t|\t' % (label.name, user.get_user().login, urllib.parse.quote(label.name)))
+
+    return '- [%s](%s) %s  \t\t\t :alarm_clock:%s %s\n\n' % (
+        issue.title, issue.html_url, sup('%s :speech_balloon:' % issue.comments), sub(issue.created_at), labels_str)
+
+
+def bundle_new_created_section():
+    global ghiblog
+
+    new_5_created_issues = ghiblog.get_issues()[:5]
+
+    new_created_section = '## 最新 :new: \n'
+
+    for issue in new_5_created_issues:
+        new_created_section += format_issue_with_labels(issue)
+
+    return new_created_section
 
 
 def execute():
@@ -96,6 +124,10 @@ def execute():
     # 4. pinned issues section
     pinned_issues_section = bundle_pinned_issues_section()
     print(pinned_issues_section)
+
+    # 5. new created section
+    new_created_section = bundle_new_created_section()
+    print(new_created_section)
 
     # 4. get issues
 
