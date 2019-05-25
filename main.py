@@ -27,13 +27,6 @@ def sub(text: str):
     return '<sub>%s</sub>' % text
 
 
-def save_md_file(contents):
-    read_me = open('README.md', 'w')
-    read_me.writelines(contents)
-    read_me.flush()
-    read_me.close()
-
-
 def update_readme_md_file(contents):
     with codecs.open('README.md', 'w', encoding='utf-8') as f:
         f.writelines(contents)
