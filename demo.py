@@ -87,7 +87,8 @@ def format_issue_with_labels(issue: Issue):
         labels_str = '\n :label: \t' + sub('|')
 
     for label in labels:
-        labels_str += sub('[%s](https://github.com/%s/ghiblog/labels/%s)\t|\t' % (label.name, user.get_user().login, urllib.parse.quote(label.name)))
+        labels_str += sub('[%s](https://github.com/%s/ghiblog/labels/%s)\t|\t' % (
+            label.name, user.get_user().login, urllib.parse.quote(label.name)))
 
     return '- [%s](%s) %s  \t\t\t :alarm_clock:%s %s\n\n' % (
         issue.title, issue.html_url, sup('%s :speech_balloon:' % issue.comments), sub(issue.created_at), labels_str)
@@ -136,6 +137,26 @@ def bundle_list_by_labels_section():
     return list_by_labels_section
 
 
+def bundle_about_me_section():
+    global user
+
+    about_me_section = '''
+## 关于:boy: 
+
+[<img alt="%s" src="%s" width="233"/>](%s)
+
+**%s**
+
+:round_pushpin: %s
+
+:black_flag: %s
+''' % (user.get_user().name, user.get_user().avatar_url, user.get_user().html_url, user.get_user().name,
+       user.get_user().location,
+       user.get_user().bio)
+
+    return about_me_section
+
+
 def execute():
     global cur_time
     # common
@@ -163,7 +184,9 @@ def execute():
     list_by_labels_section = bundle_list_by_labels_section()
     print(list_by_labels_section)
 
-    # 4. get issues
+    # 7. about me section
+    about_me_section = bundle_about_me_section()
+    print(about_me_section)
 
     pass
 
