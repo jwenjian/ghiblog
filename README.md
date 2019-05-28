@@ -1,13 +1,16 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2019-05-27 00:01:07
+> :alarm_clock: 上次更新: 2019-05-28 00:01:26
     
-共 [18](https://github.com/jwenjian/ghiblog/labels) 个标签, [21](https://github.com/jwenjian/ghiblog/issues) 篇博文.
+共 [18](https://github.com/jwenjian/ghiblog/labels) 个标签, [22](https://github.com/jwenjian/ghiblog/issues) 篇博文.
 
 ## 置顶 :thumbsup: 
 - [👍基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-04-30 11:23:45</sub> 
 ## 最新 :new: 
+- [转载-浅谈 Python 的 with 语句](https://github.com/jwenjian/ghiblog/issues/23) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-05-27 06:42:42</sub> 
+ :label: 	<sub>|</sub><sub>[:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)	|	</sub>
+
 - [书单](https://github.com/jwenjian/ghiblog/issues/22) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-05-26 13:45:03</sub> 
  :label: 	<sub>|</sub><sub>[:books:阅读](https://github.com/jwenjian/ghiblog/labels/%3Abooks%3A%E9%98%85%E8%AF%BB)	|	</sub><sub>[:video_game:生活](https://github.com/jwenjian/ghiblog/labels/%3Avideo_game%3A%E7%94%9F%E6%B4%BB)	|	</sub>
 
@@ -19,9 +22,6 @@
 
 - [Eclipse网络代理配置](https://github.com/jwenjian/ghiblog/issues/19) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-05-26 13:38:40</sub> 
  :label: 	<sub>|</sub><sub>[:hammer:软件](https://github.com/jwenjian/ghiblog/labels/%3Ahammer%3A%E8%BD%AF%E4%BB%B6)	|	</sub>
-
-- [调整Typora显示宽度](https://github.com/jwenjian/ghiblog/issues/18) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-05-26 13:33:39</sub> 
- :label: 	<sub>|</sub><sub>[:computer:Windows](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3AWindows)	|	</sub><sub>[:hammer:软件](https://github.com/jwenjian/ghiblog/labels/%3Ahammer%3A%E8%BD%AF%E4%BB%B6)	|	</sub><sub>[:man_technologist:Linux](https://github.com/jwenjian/ghiblog/labels/%3Aman_technologist%3ALinux)	|	</sub>
 
 ## 分类  :card_file_box: 
 
@@ -154,8 +154,9 @@
 </details>
 
 <details>
-<summary>:snake:Python	<sup>0:newspaper:</sup></summary>
+<summary>:snake:Python	<sup>1:newspaper:</sup></summary>
 
+- [转载-浅谈 Python 的 with 语句](https://github.com/jwenjian/ghiblog/issues/23)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-27 06:42:42</sub> 
 
 
 </details>
