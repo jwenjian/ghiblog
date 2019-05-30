@@ -1,13 +1,16 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2019-05-29 00:00:26
+> :alarm_clock: 上次更新: 2019-05-30 00:00:28
     
-共 [18](https://github.com/jwenjian/ghiblog/labels) 个标签, [22](https://github.com/jwenjian/ghiblog/issues) 篇博文.
+共 [19](https://github.com/jwenjian/ghiblog/labels) 个标签, [23](https://github.com/jwenjian/ghiblog/issues) 篇博文.
 
 ## 置顶 :thumbsup: 
 - [👍基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-04-30 11:23:45</sub> 
 ## 最新 :new: 
+- [How to add custom properties to manifest file with spring boot](https://github.com/jwenjian/ghiblog/issues/24) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-05-29 02:44:39</sub> 
+ :label: 	<sub>|</sub><sub>[:leaves:Spring](https://github.com/jwenjian/ghiblog/labels/%3Aleaves%3ASpring)	|	</sub><sub>[Maven](https://github.com/jwenjian/ghiblog/labels/Maven)	|	</sub>
+
 - [转载-浅谈 Python 的 with 语句](https://github.com/jwenjian/ghiblog/issues/23) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-05-27 06:42:42</sub> 
  :label: 	<sub>|</sub><sub>[:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)	|	</sub>
 
@@ -19,9 +22,6 @@
 
 - [中国色-收集中国传统颜色的网站](https://github.com/jwenjian/ghiblog/issues/20) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-05-26 13:42:12</sub> 
  :label: 	<sub>|</sub><sub>[:art:前端](https://github.com/jwenjian/ghiblog/labels/%3Aart%3A%E5%89%8D%E7%AB%AF)	|	</sub><sub>[:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F)	|	</sub>
-
-- [Eclipse网络代理配置](https://github.com/jwenjian/ghiblog/issues/19) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-05-26 13:38:40</sub> 
- :label: 	<sub>|</sub><sub>[:hammer:软件](https://github.com/jwenjian/ghiblog/labels/%3Ahammer%3A%E8%BD%AF%E4%BB%B6)	|	</sub>
 
 ## 分类  :card_file_box: 
 
@@ -113,8 +113,9 @@
 </details>
 
 <details>
-<summary>:leaves:Spring	<sup>1:newspaper:</sup></summary>
+<summary>:leaves:Spring	<sup>2:newspaper:</sup></summary>
 
+- [How to add custom properties to manifest file with spring boot](https://github.com/jwenjian/ghiblog/issues/24)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-29 02:44:39</sub> 
 - [配置SpringBoot定时任务线程池](https://github.com/jwenjian/ghiblog/issues/21)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-26 13:43:52</sub> 
 
 
@@ -177,6 +178,14 @@
 <details>
 <summary>JS	<sup>0:newspaper:</sup></summary>
 
+
+
+</details>
+
+<details>
+<summary>Maven	<sup>1:newspaper:</sup></summary>
+
+- [How to add custom properties to manifest file with spring boot](https://github.com/jwenjian/ghiblog/issues/24)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-29 02:44:39</sub> 
 
 
 </details>
