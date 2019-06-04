@@ -1,13 +1,16 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2019-06-03 00:01:08
+> :alarm_clock: 上次更新: 2019-06-04 00:00:26
     
-共 [19](https://github.com/jwenjian/ghiblog/labels) 个标签, [24](https://github.com/jwenjian/ghiblog/issues) 篇博文.
+共 [19](https://github.com/jwenjian/ghiblog/labels) 个标签, [25](https://github.com/jwenjian/ghiblog/issues) 篇博文.
 
 ## 置顶 :thumbsup: 
 - [👍基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-04-30 11:23:45</sub> 
 ## 最新 :new: 
+- [Eclipse.ini使用-vm参数指定JVM](https://github.com/jwenjian/ghiblog/issues/26) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-03 06:10:04</sub> 
+ :label: 	<sub>|</sub><sub>[:hammer:软件](https://github.com/jwenjian/ghiblog/labels/%3Ahammer%3A%E8%BD%AF%E4%BB%B6)	|	</sub>
+
 - [TKinter教程](https://github.com/jwenjian/ghiblog/issues/25) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-05-31 07:15:54</sub> 
  :label: 	<sub>|</sub><sub>[:art:前端](https://github.com/jwenjian/ghiblog/labels/%3Aart%3A%E5%89%8D%E7%AB%AF)	|	</sub><sub>[:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)	|	</sub>
 
@@ -19,9 +22,6 @@
 
 - [书单](https://github.com/jwenjian/ghiblog/issues/22) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-05-26 13:45:03</sub> 
  :label: 	<sub>|</sub><sub>[:books:阅读](https://github.com/jwenjian/ghiblog/labels/%3Abooks%3A%E9%98%85%E8%AF%BB)	|	</sub><sub>[:video_game:生活](https://github.com/jwenjian/ghiblog/labels/%3Avideo_game%3A%E7%94%9F%E6%B4%BB)	|	</sub>
-
-- [配置SpringBoot定时任务线程池](https://github.com/jwenjian/ghiblog/issues/21) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-05-26 13:43:52</sub> 
- :label: 	<sub>|</sub><sub>[:coffee:JAVA](https://github.com/jwenjian/ghiblog/labels/%3Acoffee%3AJAVA)	|	</sub><sub>[:leaves:Spring](https://github.com/jwenjian/ghiblog/labels/%3Aleaves%3ASpring)	|	</sub>
 
 ## 分类  :card_file_box: 
 
@@ -101,8 +101,9 @@
 </details>
 
 <details>
-<summary>:hammer:软件	<sup>6:newspaper:</sup></summary>
+<summary>:hammer:软件	<sup>7:newspaper:</sup></summary>
 
+- [Eclipse.ini使用-vm参数指定JVM](https://github.com/jwenjian/ghiblog/issues/26)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-03 06:10:04</sub> 
 - [Eclipse网络代理配置](https://github.com/jwenjian/ghiblog/issues/19)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-26 13:38:40</sub> 
 - [调整Typora显示宽度](https://github.com/jwenjian/ghiblog/issues/18)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-26 13:33:39</sub> 
 - [Windows截图工具-Snipaste](https://github.com/jwenjian/ghiblog/issues/13)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-25 23:58:30</sub> 
