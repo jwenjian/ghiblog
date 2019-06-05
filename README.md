@@ -1,13 +1,16 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2019-06-04 00:00:26
+> :alarm_clock: 上次更新: 2019-06-05 00:00:57
     
-共 [19](https://github.com/jwenjian/ghiblog/labels) 个标签, [25](https://github.com/jwenjian/ghiblog/issues) 篇博文.
+共 [19](https://github.com/jwenjian/ghiblog/labels) 个标签, [26](https://github.com/jwenjian/ghiblog/issues) 篇博文.
 
 ## 置顶 :thumbsup: 
 - [👍基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-04-30 11:23:45</sub> 
 ## 最新 :new: 
+- [C语言-位运算符](https://github.com/jwenjian/ghiblog/issues/27) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-04 06:32:53</sub> 
+ :label: 	<sub>|</sub><sub>[:computer:计算机](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3A%E8%AE%A1%E7%AE%97%E6%9C%BA)	|	</sub>
+
 - [Eclipse.ini使用-vm参数指定JVM](https://github.com/jwenjian/ghiblog/issues/26) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-03 06:10:04</sub> 
  :label: 	<sub>|</sub><sub>[:hammer:软件](https://github.com/jwenjian/ghiblog/labels/%3Ahammer%3A%E8%BD%AF%E4%BB%B6)	|	</sub>
 
@@ -19,9 +22,6 @@
 
 - [转载-浅谈 Python 的 with 语句](https://github.com/jwenjian/ghiblog/issues/23) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-05-27 06:42:42</sub> 
  :label: 	<sub>|</sub><sub>[:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)	|	</sub>
-
-- [书单](https://github.com/jwenjian/ghiblog/issues/22) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-05-26 13:45:03</sub> 
- :label: 	<sub>|</sub><sub>[:books:阅读](https://github.com/jwenjian/ghiblog/labels/%3Abooks%3A%E9%98%85%E8%AF%BB)	|	</sub><sub>[:video_game:生活](https://github.com/jwenjian/ghiblog/labels/%3Avideo_game%3A%E7%94%9F%E6%B4%BB)	|	</sub>
 
 ## 分类  :card_file_box: 
 
@@ -83,8 +83,9 @@
 </details>
 
 <details>
-<summary>:computer:计算机	<sup>1:newspaper:</sup></summary>
+<summary>:computer:计算机	<sup>2:newspaper:</sup></summary>
 
+- [C语言-位运算符](https://github.com/jwenjian/ghiblog/issues/27)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-04 06:32:53</sub> 
 - [HSTS](https://github.com/jwenjian/ghiblog/issues/14)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-26 13:13:34</sub> 
 
 
