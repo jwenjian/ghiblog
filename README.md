@@ -1,13 +1,16 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2019-06-05 00:00:57
+> :alarm_clock: 上次更新: 2019-06-06 00:00:53
     
-共 [19](https://github.com/jwenjian/ghiblog/labels) 个标签, [26](https://github.com/jwenjian/ghiblog/issues) 篇博文.
+共 [19](https://github.com/jwenjian/ghiblog/labels) 个标签, [27](https://github.com/jwenjian/ghiblog/issues) 篇博文.
 
 ## 置顶 :thumbsup: 
 - [👍基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-04-30 11:23:45</sub> 
 ## 最新 :new: 
+- [C++: jni.h: no such file or directory ](https://github.com/jwenjian/ghiblog/issues/28) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-05 06:12:20</sub> 
+ :label: 	<sub>|</sub>
+
 - [C语言-位运算符](https://github.com/jwenjian/ghiblog/issues/27) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-04 06:32:53</sub> 
  :label: 	<sub>|</sub><sub>[:computer:计算机](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3A%E8%AE%A1%E7%AE%97%E6%9C%BA)	|	</sub>
 
@@ -19,9 +22,6 @@
 
 - [How to add custom properties to manifest file with spring boot](https://github.com/jwenjian/ghiblog/issues/24) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-05-29 02:44:39</sub> 
  :label: 	<sub>|</sub><sub>[:leaves:Spring](https://github.com/jwenjian/ghiblog/labels/%3Aleaves%3ASpring)	|	</sub><sub>[Maven](https://github.com/jwenjian/ghiblog/labels/Maven)	|	</sub>
-
-- [转载-浅谈 Python 的 with 语句](https://github.com/jwenjian/ghiblog/issues/23) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-05-27 06:42:42</sub> 
- :label: 	<sub>|</sub><sub>[:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)	|	</sub>
 
 ## 分类  :card_file_box: 
 
