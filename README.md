@@ -1,27 +1,27 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2019-06-06 00:00:53
+> :alarm_clock: 上次更新: 2019-06-07 00:00:40
     
-共 [19](https://github.com/jwenjian/ghiblog/labels) 个标签, [27](https://github.com/jwenjian/ghiblog/issues) 篇博文.
+共 [21](https://github.com/jwenjian/ghiblog/labels) 个标签, [29](https://github.com/jwenjian/ghiblog/issues) 篇博文.
 
 ## 置顶 :thumbsup: 
 - [👍基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-04-30 11:23:45</sub> 
 ## 最新 :new: 
+- [C++: Ignore warnings C4996](https://github.com/jwenjian/ghiblog/issues/30) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-06 08:15:29</sub> 
+ :label: 	<sub>|</sub><sub>[:computer:计算机](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3A%E8%AE%A1%E7%AE%97%E6%9C%BA)	|	</sub><sub>[:hammer:软件](https://github.com/jwenjian/ghiblog/labels/%3Ahammer%3A%E8%BD%AF%E4%BB%B6)	|	</sub>
+
+- [C++: 引用和指针](https://github.com/jwenjian/ghiblog/issues/29) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-06 07:54:40</sub> 
+ :label: 	<sub>|</sub><sub>[:computer:计算机](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3A%E8%AE%A1%E7%AE%97%E6%9C%BA)	|	</sub>
+
 - [C++: jni.h: no such file or directory ](https://github.com/jwenjian/ghiblog/issues/28) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-05 06:12:20</sub> 
- :label: 	<sub>|</sub>
+ :label: 	<sub>|</sub><sub>[:beetle:Bug追踪](https://github.com/jwenjian/ghiblog/labels/%3Abeetle%3ABug%E8%BF%BD%E8%B8%AA)	|	</sub><sub>[:computer:计算机](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3A%E8%AE%A1%E7%AE%97%E6%9C%BA)	|	</sub>
 
 - [C语言-位运算符](https://github.com/jwenjian/ghiblog/issues/27) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-04 06:32:53</sub> 
  :label: 	<sub>|</sub><sub>[:computer:计算机](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3A%E8%AE%A1%E7%AE%97%E6%9C%BA)	|	</sub>
 
 - [Eclipse.ini使用-vm参数指定JVM](https://github.com/jwenjian/ghiblog/issues/26) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-03 06:10:04</sub> 
  :label: 	<sub>|</sub><sub>[:hammer:软件](https://github.com/jwenjian/ghiblog/labels/%3Ahammer%3A%E8%BD%AF%E4%BB%B6)	|	</sub>
-
-- [TKinter教程](https://github.com/jwenjian/ghiblog/issues/25) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-05-31 07:15:54</sub> 
- :label: 	<sub>|</sub><sub>[:art:前端](https://github.com/jwenjian/ghiblog/labels/%3Aart%3A%E5%89%8D%E7%AB%AF)	|	</sub><sub>[:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)	|	</sub>
-
-- [How to add custom properties to manifest file with spring boot](https://github.com/jwenjian/ghiblog/issues/24) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-05-29 02:44:39</sub> 
- :label: 	<sub>|</sub><sub>[:leaves:Spring](https://github.com/jwenjian/ghiblog/labels/%3Aleaves%3ASpring)	|	</sub><sub>[Maven](https://github.com/jwenjian/ghiblog/labels/Maven)	|	</sub>
 
 ## 分类  :card_file_box: 
 
@@ -39,6 +39,14 @@
 - [TKinter教程](https://github.com/jwenjian/ghiblog/issues/25)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-31 07:15:54</sub> 
 - [中国色-收集中国传统颜色的网站](https://github.com/jwenjian/ghiblog/issues/20)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-26 13:42:12</sub> 
 - [CSS隐藏元素滚动条](https://github.com/jwenjian/ghiblog/issues/15)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-26 13:15:46</sub> 
+
+
+</details>
+
+<details>
+<summary>:beetle:Bug追踪	<sup>1:newspaper:</sup></summary>
+
+- [C++: jni.h: no such file or directory ](https://github.com/jwenjian/ghiblog/issues/28)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-05 06:12:20</sub> 
 
 
 </details>
@@ -83,8 +91,11 @@
 </details>
 
 <details>
-<summary>:computer:计算机	<sup>2:newspaper:</sup></summary>
+<summary>:computer:计算机	<sup>5:newspaper:</sup></summary>
 
+- [C++: Ignore warnings C4996](https://github.com/jwenjian/ghiblog/issues/30)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-06 08:15:29</sub> 
+- [C++: 引用和指针](https://github.com/jwenjian/ghiblog/issues/29)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-06 07:54:40</sub> 
+- [C++: jni.h: no such file or directory ](https://github.com/jwenjian/ghiblog/issues/28)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-05 06:12:20</sub> 
 - [C语言-位运算符](https://github.com/jwenjian/ghiblog/issues/27)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-04 06:32:53</sub> 
 - [HSTS](https://github.com/jwenjian/ghiblog/issues/14)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-26 13:13:34</sub> 
 
@@ -102,8 +113,9 @@
 </details>
 
 <details>
-<summary>:hammer:软件	<sup>7:newspaper:</sup></summary>
+<summary>:hammer:软件	<sup>8:newspaper:</sup></summary>
 
+- [C++: Ignore warnings C4996](https://github.com/jwenjian/ghiblog/issues/30)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-06 08:15:29</sub> 
 - [Eclipse.ini使用-vm参数指定JVM](https://github.com/jwenjian/ghiblog/issues/26)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-03 06:10:04</sub> 
 - [Eclipse网络代理配置](https://github.com/jwenjian/ghiblog/issues/19)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-26 13:38:40</sub> 
 - [调整Typora显示宽度](https://github.com/jwenjian/ghiblog/issues/18)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-26 13:33:39</sub> 
@@ -198,6 +210,14 @@
 <summary>Nginx	<sup>1:newspaper:</sup></summary>
 
 - [Linux-编译安装nginx源码](https://github.com/jwenjian/ghiblog/issues/9)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-24 03:17:52</sub> 
+
+
+</details>
+
+<details>
+<summary>good first issue	<sup>1:newspaper:</sup></summary>
+
+- [👍基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-04-30 11:23:45</sub> 
 
 
 </details>
