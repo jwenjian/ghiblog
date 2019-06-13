@@ -1,13 +1,16 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2019-06-12 00:01:45
+> :alarm_clock: 上次更新: 2019-06-13 00:00:21
     
-共 [21](https://github.com/jwenjian/ghiblog/labels) 个标签, [31](https://github.com/jwenjian/ghiblog/issues) 篇博文.
+共 [21](https://github.com/jwenjian/ghiblog/labels) 个标签, [32](https://github.com/jwenjian/ghiblog/issues) 篇博文.
 
 ## 置顶 :thumbsup: 
 - [👍基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-04-30 11:23:45</sub> 
 ## 最新 :new: 
+- [Maven: mvn clean install --fail-at-end](https://github.com/jwenjian/ghiblog/issues/33) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-12 10:12:29</sub> 
+ :label: 	<sub>|</sub><sub>[Maven](https://github.com/jwenjian/ghiblog/labels/Maven)	|	</sub>
+
 - [使用淘宝镜像安装puppeteer](https://github.com/jwenjian/ghiblog/issues/32) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-08 16:12:01</sub> 
  :label: 	<sub>|</sub><sub>[:art:前端](https://github.com/jwenjian/ghiblog/labels/%3Aart%3A%E5%89%8D%E7%AB%AF)	|	</sub>
 
@@ -19,9 +22,6 @@
 
 - [C++: 引用和指针](https://github.com/jwenjian/ghiblog/issues/29) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-06 07:54:40</sub> 
  :label: 	<sub>|</sub><sub>[:computer:计算机](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3A%E8%AE%A1%E7%AE%97%E6%9C%BA)	|	</sub>
-
-- [C++: jni.h: no such file or directory ](https://github.com/jwenjian/ghiblog/issues/28) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-05 06:12:20</sub> 
- :label: 	<sub>|</sub><sub>[:beetle:Bug追踪](https://github.com/jwenjian/ghiblog/labels/%3Abeetle%3ABug%E8%BF%BD%E8%B8%AA)	|	</sub><sub>[:computer:计算机](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3A%E8%AE%A1%E7%AE%97%E6%9C%BA)	|	</sub>
 
 ## 分类  :card_file_box: 
 
@@ -201,8 +201,9 @@
 </details>
 
 <details>
-<summary>Maven	<sup>1:newspaper:</sup></summary>
+<summary>Maven	<sup>2:newspaper:</sup></summary>
 
+- [Maven: mvn clean install --fail-at-end](https://github.com/jwenjian/ghiblog/issues/33)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-12 10:12:29</sub> 
 - [How to add custom properties to manifest file with spring boot](https://github.com/jwenjian/ghiblog/issues/24)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-29 02:44:39</sub> 
 
 
