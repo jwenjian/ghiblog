@@ -1,13 +1,17 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2019-06-17 00:00:40
+> :alarm_clock: 上次更新: 2019-06-18 00:01:07
     
-共 [21](https://github.com/jwenjian/ghiblog/labels) 个标签, [32](https://github.com/jwenjian/ghiblog/issues) 篇博文.
+共 [21](https://github.com/jwenjian/ghiblog/labels) 个标签, [33](https://github.com/jwenjian/ghiblog/issues) 篇博文.
 
 ## 置顶 :thumbsup: 
+- [insshot: 自动截屏保存ins用户的最新post](https://github.com/jwenjian/ghiblog/issues/34)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-17 15:18:16</sub> 
 - [👍基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-04-30 11:23:45</sub> 
 ## 最新 :new: 
+- [insshot: 自动截屏保存ins用户的最新post](https://github.com/jwenjian/ghiblog/issues/34) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-17 15:18:16</sub> 
+ :label: 	<sub>|</sub><sub>[:+1:置顶](https://github.com/jwenjian/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)	|	</sub>
+
 - [Maven: mvn clean install --fail-at-end](https://github.com/jwenjian/ghiblog/issues/33) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-12 10:12:29</sub> 
  :label: 	<sub>|</sub><sub>[Maven](https://github.com/jwenjian/ghiblog/labels/Maven)	|	</sub>
 
@@ -20,14 +24,12 @@
 - [C++: Ignore warnings C4996](https://github.com/jwenjian/ghiblog/issues/30) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-06 08:15:29</sub> 
  :label: 	<sub>|</sub><sub>[:computer:计算机](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3A%E8%AE%A1%E7%AE%97%E6%9C%BA)	|	</sub><sub>[:hammer:软件](https://github.com/jwenjian/ghiblog/labels/%3Ahammer%3A%E8%BD%AF%E4%BB%B6)	|	</sub>
 
-- [C++: 引用和指针](https://github.com/jwenjian/ghiblog/issues/29) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-06 07:54:40</sub> 
- :label: 	<sub>|</sub><sub>[:computer:计算机](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3A%E8%AE%A1%E7%AE%97%E6%9C%BA)	|	</sub>
-
 ## 分类  :card_file_box: 
 
 <details>
-<summary>:+1:置顶	<sup>1:newspaper:</sup></summary>
+<summary>:+1:置顶	<sup>2:newspaper:</sup></summary>
 
+- [insshot: 自动截屏保存ins用户的最新post](https://github.com/jwenjian/ghiblog/issues/34)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-17 15:18:16</sub> 
 - [👍基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-04-30 11:23:45</sub> 
 
 
