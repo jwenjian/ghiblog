@@ -1,14 +1,17 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2019-06-19 00:00:56
+> :alarm_clock: 上次更新: 2019-06-20 00:01:23
     
-共 [21](https://github.com/jwenjian/ghiblog/labels) 个标签, [33](https://github.com/jwenjian/ghiblog/issues) 篇博文.
+共 [21](https://github.com/jwenjian/ghiblog/labels) 个标签, [34](https://github.com/jwenjian/ghiblog/issues) 篇博文.
 
 ## 置顶 :thumbsup: 
 - [insshot: 自动截屏保存ins用户的最新post](https://github.com/jwenjian/ghiblog/issues/34)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-17 15:18:16</sub> 
 - [👍基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-04-30 11:23:45</sub> 
 ## 最新 :new: 
+- [PAGE - Python Automatic GUI Generator](https://github.com/jwenjian/ghiblog/issues/35) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-19 05:42:13</sub> 
+ :label: 	<sub>|</sub><sub>[:computer:Windows](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3AWindows)	|	</sub><sub>[:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)	|	</sub>
+
 - [insshot: 自动截屏保存ins用户的最新post](https://github.com/jwenjian/ghiblog/issues/34) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-17 15:18:16</sub> 
  :label: 	<sub>|</sub><sub>[:+1:置顶](https://github.com/jwenjian/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)	|	</sub>
 
@@ -20,9 +23,6 @@
 
 - [端午节随拍](https://github.com/jwenjian/ghiblog/issues/31) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-08 15:54:39</sub> 
  :label: 	<sub>|</sub><sub>[:camera_flash::framed_picture:随拍](https://github.com/jwenjian/ghiblog/labels/%3Acamera_flash%3A%3Aframed_picture%3A%E9%9A%8F%E6%8B%8D)	|	</sub>
-
-- [C++: Ignore warnings C4996](https://github.com/jwenjian/ghiblog/issues/30) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-06 08:15:29</sub> 
- :label: 	<sub>|</sub><sub>[:computer:计算机](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3A%E8%AE%A1%E7%AE%97%E6%9C%BA)	|	</sub><sub>[:hammer:软件](https://github.com/jwenjian/ghiblog/labels/%3Ahammer%3A%E8%BD%AF%E4%BB%B6)	|	</sub>
 
 ## 分类  :card_file_box: 
 
@@ -82,8 +82,9 @@
 </details>
 
 <details>
-<summary>:computer:Windows	<sup>6:newspaper:</sup></summary>
+<summary>:computer:Windows	<sup>7:newspaper:</sup></summary>
 
+- [PAGE - Python Automatic GUI Generator](https://github.com/jwenjian/ghiblog/issues/35)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-19 05:42:13</sub> 
 - [调整Typora显示宽度](https://github.com/jwenjian/ghiblog/issues/18)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-26 13:33:39</sub> 
 - [Windows截图工具-Snipaste](https://github.com/jwenjian/ghiblog/issues/13)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-25 23:58:30</sub> 
 - [Windows工具-制作启动U盘](https://github.com/jwenjian/ghiblog/issues/11)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-25 04:55:17</sub> 
@@ -174,8 +175,9 @@
 </details>
 
 <details>
-<summary>:snake:Python	<sup>2:newspaper:</sup></summary>
+<summary>:snake:Python	<sup>3:newspaper:</sup></summary>
 
+- [PAGE - Python Automatic GUI Generator](https://github.com/jwenjian/ghiblog/issues/35)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-19 05:42:13</sub> 
 - [TKinter教程](https://github.com/jwenjian/ghiblog/issues/25)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-31 07:15:54</sub> 
 - [转载-浅谈 Python 的 with 语句](https://github.com/jwenjian/ghiblog/issues/23)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-27 06:42:42</sub> 
 
