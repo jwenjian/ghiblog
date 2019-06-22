@@ -1,16 +1,19 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2019-06-21 00:00:24
+> :alarm_clock: 上次更新: 2019-06-22 00:01:00
     
-共 [21](https://github.com/jwenjian/ghiblog/labels) 个标签, [35](https://github.com/jwenjian/ghiblog/issues) 篇博文.
+共 [20](https://github.com/jwenjian/ghiblog/labels) 个标签, [36](https://github.com/jwenjian/ghiblog/issues) 篇博文.
 
 ## 置顶 :thumbsup: 
-- [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-20 16:33:17</sub> 
+- [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-20 16:33:17</sub> 
 - [insshot: 自动截屏保存ins用户的最新post](https://github.com/jwenjian/ghiblog/issues/34)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-17 15:18:16</sub> 
-- [👍基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-04-30 11:23:45</sub> 
+- [👍基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>2 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-04-30 11:23:45</sub> 
 ## 最新 :new: 
-- [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-20 16:33:17</sub> 
+- [How to prevent XXE injection when convert xml to object in java](https://github.com/jwenjian/ghiblog/issues/37) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-21 07:05:42</sub> 
+ :label: 	<sub>|</sub><sub>[:coffee:JAVA](https://github.com/jwenjian/ghiblog/labels/%3Acoffee%3AJAVA)	|	</sub>
+
+- [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36) <sup>1 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-20 16:33:17</sub> 
  :label: 	<sub>|</sub><sub>[:+1:置顶](https://github.com/jwenjian/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)	|	</sub><sub>[:computer:Windows](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3AWindows)	|	</sub><sub>[:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)	|	</sub>
 
 - [PAGE - Python Automatic GUI Generator](https://github.com/jwenjian/ghiblog/issues/35) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-19 05:42:13</sub> 
@@ -22,17 +25,14 @@
 - [Maven: mvn clean install --fail-at-end](https://github.com/jwenjian/ghiblog/issues/33) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-12 10:12:29</sub> 
  :label: 	<sub>|</sub><sub>[Maven](https://github.com/jwenjian/ghiblog/labels/Maven)	|	</sub>
 
-- [使用淘宝镜像安装puppeteer](https://github.com/jwenjian/ghiblog/issues/32) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-08 16:12:01</sub> 
- :label: 	<sub>|</sub><sub>[:art:前端](https://github.com/jwenjian/ghiblog/labels/%3Aart%3A%E5%89%8D%E7%AB%AF)	|	</sub>
-
 ## 分类  :card_file_box: 
 
 <details>
 <summary>:+1:置顶	<sup>3:newspaper:</sup></summary>
 
-- [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-20 16:33:17</sub> 
+- [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-20 16:33:17</sub> 
 - [insshot: 自动截屏保存ins用户的最新post](https://github.com/jwenjian/ghiblog/issues/34)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-17 15:18:16</sub> 
-- [👍基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-04-30 11:23:45</sub> 
+- [👍基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>2 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-04-30 11:23:45</sub> 
 
 
 </details>
@@ -76,8 +76,9 @@
 </details>
 
 <details>
-<summary>:coffee:JAVA	<sup>1:newspaper:</sup></summary>
+<summary>:coffee:JAVA	<sup>2:newspaper:</sup></summary>
 
+- [How to prevent XXE injection when convert xml to object in java](https://github.com/jwenjian/ghiblog/issues/37)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-21 07:05:42</sub> 
 - [配置SpringBoot定时任务线程池](https://github.com/jwenjian/ghiblog/issues/21)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-26 13:43:52</sub> 
 
 
@@ -86,7 +87,7 @@
 <details>
 <summary>:computer:Windows	<sup>8:newspaper:</sup></summary>
 
-- [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-20 16:33:17</sub> 
+- [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-20 16:33:17</sub> 
 - [PAGE - Python Automatic GUI Generator](https://github.com/jwenjian/ghiblog/issues/35)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-19 05:42:13</sub> 
 - [调整Typora显示宽度](https://github.com/jwenjian/ghiblog/issues/18)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-26 13:33:39</sub> 
 - [Windows截图工具-Snipaste](https://github.com/jwenjian/ghiblog/issues/13)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-25 23:58:30</sub> 
@@ -171,16 +172,9 @@
 </details>
 
 <details>
-<summary>:ping_pong:	<sup>0:newspaper:</sup></summary>
-
-
-
-</details>
-
-<details>
 <summary>:snake:Python	<sup>4:newspaper:</sup></summary>
 
-- [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-20 16:33:17</sub> 
+- [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-20 16:33:17</sub> 
 - [PAGE - Python Automatic GUI Generator](https://github.com/jwenjian/ghiblog/issues/35)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-19 05:42:13</sub> 
 - [TKinter教程](https://github.com/jwenjian/ghiblog/issues/25)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-31 07:15:54</sub> 
 - [转载-浅谈 Python 的 with 语句](https://github.com/jwenjian/ghiblog/issues/23)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-27 06:42:42</sub> 
@@ -228,7 +222,7 @@
 <details>
 <summary>good first issue	<sup>1:newspaper:</sup></summary>
 
-- [👍基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-04-30 11:23:45</sub> 
+- [👍基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>2 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-04-30 11:23:45</sub> 
 
 
 </details>
