@@ -1,29 +1,29 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2019-06-24 00:00:54
+> :alarm_clock: 上次更新: 2019-06-25 00:00:25
     
-共 [20](https://github.com/jwenjian/ghiblog/labels) 个标签, [36](https://github.com/jwenjian/ghiblog/issues) 篇博文.
+共 [20](https://github.com/jwenjian/ghiblog/labels) 个标签, [39](https://github.com/jwenjian/ghiblog/issues) 篇博文.
 
 ## 置顶 :thumbsup: 
 - [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-20 16:33:17</sub> 
 - [insshot: 自动截屏保存ins用户的最新post](https://github.com/jwenjian/ghiblog/issues/34)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-17 15:18:16</sub> 
 - [👍基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-04-30 11:23:45</sub> 
 ## 最新 :new: 
+- [Python: 对数组进行插入排序](https://github.com/jwenjian/ghiblog/issues/40) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-24 10:23:42</sub> 
+ :label: 	<sub>|</sub><sub>[:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)	|	</sub>
+
+- [Maven: maven-dependency-plugin:get 通过命令行下载jar包到本地仓库 无需pom文件](https://github.com/jwenjian/ghiblog/issues/39) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-24 05:49:49</sub> 
+ :label: 	<sub>|</sub><sub>[Maven](https://github.com/jwenjian/ghiblog/labels/Maven)	|	</sub>
+
+- [Python操作剪贴板](https://github.com/jwenjian/ghiblog/issues/38) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-24 05:28:31</sub> 
+ :label: 	<sub>|</sub><sub>[:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)	|	</sub>
+
 - [How to prevent XXE injection when convert xml to object in java](https://github.com/jwenjian/ghiblog/issues/37) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-21 07:05:42</sub> 
  :label: 	<sub>|</sub><sub>[:coffee:JAVA](https://github.com/jwenjian/ghiblog/labels/%3Acoffee%3AJAVA)	|	</sub>
 
 - [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36) <sup>1 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-20 16:33:17</sub> 
  :label: 	<sub>|</sub><sub>[:+1:置顶](https://github.com/jwenjian/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)	|	</sub><sub>[:computer:Windows](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3AWindows)	|	</sub><sub>[:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)	|	</sub>
-
-- [PAGE - Python Automatic GUI Generator](https://github.com/jwenjian/ghiblog/issues/35) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-19 05:42:13</sub> 
- :label: 	<sub>|</sub><sub>[:computer:Windows](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3AWindows)	|	</sub><sub>[:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)	|	</sub>
-
-- [insshot: 自动截屏保存ins用户的最新post](https://github.com/jwenjian/ghiblog/issues/34) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-17 15:18:16</sub> 
- :label: 	<sub>|</sub><sub>[:+1:置顶](https://github.com/jwenjian/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)	|	</sub>
-
-- [Maven: mvn clean install --fail-at-end](https://github.com/jwenjian/ghiblog/issues/33) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-12 10:12:29</sub> 
- :label: 	<sub>|</sub><sub>[Maven](https://github.com/jwenjian/ghiblog/labels/Maven)	|	</sub>
 
 ## 分类  :card_file_box: 
 
@@ -172,8 +172,10 @@
 </details>
 
 <details>
-<summary>:snake:Python	<sup>4:newspaper:</sup></summary>
+<summary>:snake:Python	<sup>6:newspaper:</sup></summary>
 
+- [Python: 对数组进行插入排序](https://github.com/jwenjian/ghiblog/issues/40)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-24 10:23:42</sub> 
+- [Python操作剪贴板](https://github.com/jwenjian/ghiblog/issues/38)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-24 05:28:31</sub> 
 - [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-20 16:33:17</sub> 
 - [PAGE - Python Automatic GUI Generator](https://github.com/jwenjian/ghiblog/issues/35)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-19 05:42:13</sub> 
 - [TKinter教程](https://github.com/jwenjian/ghiblog/issues/25)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-31 07:15:54</sub> 
@@ -187,7 +189,7 @@
 
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-26 13:45:03</sub> 
 - [2019年的第一次旅行](https://github.com/jwenjian/ghiblog/issues/17)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-26 13:30:51</sub> 
-- [bye 2018](https://github.com/jwenjian/ghiblog/issues/16)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-26 13:18:57</sub> 
+- [bye 2018](https://github.com/jwenjian/ghiblog/issues/16)  <sup>3 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-26 13:18:57</sub> 
 - [本周生活随拍](https://github.com/jwenjian/ghiblog/issues/10)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-25 04:46:26</sub> 
 - [借光计划-798艺术区](https://github.com/jwenjian/ghiblog/issues/8)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-19 04:50:12</sub> 
 - [我们的生活多愉快~](https://github.com/jwenjian/ghiblog/issues/7)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-17 00:19:48</sub> 
@@ -203,8 +205,9 @@
 </details>
 
 <details>
-<summary>Maven	<sup>2:newspaper:</sup></summary>
+<summary>Maven	<sup>3:newspaper:</sup></summary>
 
+- [Maven: maven-dependency-plugin:get 通过命令行下载jar包到本地仓库 无需pom文件](https://github.com/jwenjian/ghiblog/issues/39)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-24 05:49:49</sub> 
 - [Maven: mvn clean install --fail-at-end](https://github.com/jwenjian/ghiblog/issues/33)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-12 10:12:29</sub> 
 - [How to add custom properties to manifest file with spring boot](https://github.com/jwenjian/ghiblog/issues/24)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-29 02:44:39</sub> 
 
