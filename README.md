@@ -1,15 +1,21 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2019-06-26 00:01:15
+> :alarm_clock: 上次更新: 2019-06-27 00:01:35
     
-共 [20](https://github.com/jwenjian/ghiblog/labels) 个标签, [39](https://github.com/jwenjian/ghiblog/issues) 篇博文.
+共 [20](https://github.com/jwenjian/ghiblog/labels) 个标签, [41](https://github.com/jwenjian/ghiblog/issues) 篇博文.
 
 ## 置顶 :thumbsup: 
 - [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-20 16:33:17</sub> 
 - [insshot: 自动截屏保存ins用户的最新post](https://github.com/jwenjian/ghiblog/issues/34)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-17 15:18:16</sub> 
 - [👍基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-04-30 11:23:45</sub> 
 ## 最新 :new: 
+- [关于浏览器自动填充](https://github.com/jwenjian/ghiblog/issues/42) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-26 10:43:30</sub> 
+ :label: 	<sub>|</sub><sub>[:art:前端](https://github.com/jwenjian/ghiblog/labels/%3Aart%3A%E5%89%8D%E7%AB%AF)	|	</sub><sub>[:computer:计算机](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3A%E8%AE%A1%E7%AE%97%E6%9C%BA)	|	</sub>
+
+- [Python: 对数组进行选择排序](https://github.com/jwenjian/ghiblog/issues/41) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-26 05:30:30</sub> 
+ :label: 	<sub>|</sub><sub>[:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)	|	</sub>
+
 - [Python: 对数组进行插入排序](https://github.com/jwenjian/ghiblog/issues/40) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-24 10:23:42</sub> 
  :label: 	<sub>|</sub><sub>[:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)	|	</sub>
 
@@ -18,12 +24,6 @@
 
 - [Python操作剪贴板](https://github.com/jwenjian/ghiblog/issues/38) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-24 05:28:31</sub> 
  :label: 	<sub>|</sub><sub>[:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)	|	</sub>
-
-- [How to prevent XXE injection when convert xml to object in java](https://github.com/jwenjian/ghiblog/issues/37) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-21 07:05:42</sub> 
- :label: 	<sub>|</sub><sub>[:coffee:JAVA](https://github.com/jwenjian/ghiblog/labels/%3Acoffee%3AJAVA)	|	</sub>
-
-- [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36) <sup>1 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-20 16:33:17</sub> 
- :label: 	<sub>|</sub><sub>[:+1:置顶](https://github.com/jwenjian/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)	|	</sub><sub>[:computer:Windows](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3AWindows)	|	</sub><sub>[:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)	|	</sub>
 
 ## 分类  :card_file_box: 
 
@@ -38,8 +38,9 @@
 </details>
 
 <details>
-<summary>:art:前端	<sup>4:newspaper:</sup></summary>
+<summary>:art:前端	<sup>5:newspaper:</sup></summary>
 
+- [关于浏览器自动填充](https://github.com/jwenjian/ghiblog/issues/42)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-26 10:43:30</sub> 
 - [使用淘宝镜像安装puppeteer](https://github.com/jwenjian/ghiblog/issues/32)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-08 16:12:01</sub> 
 - [TKinter教程](https://github.com/jwenjian/ghiblog/issues/25)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-31 07:15:54</sub> 
 - [中国色-收集中国传统颜色的网站](https://github.com/jwenjian/ghiblog/issues/20)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-26 13:42:12</sub> 
@@ -65,7 +66,7 @@
 </details>
 
 <details>
-<summary>:camera_flash::framed_picture:随拍	<sup>4:newspaper:</sup></summary>
+<summary>:camera_flash:随拍	<sup>4:newspaper:</sup></summary>
 
 - [端午节随拍](https://github.com/jwenjian/ghiblog/issues/31)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-08 15:54:39</sub> 
 - [2019年的第一次旅行](https://github.com/jwenjian/ghiblog/issues/17)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-26 13:30:51</sub> 
@@ -100,8 +101,9 @@
 </details>
 
 <details>
-<summary>:computer:计算机	<sup>5:newspaper:</sup></summary>
+<summary>:computer:计算机	<sup>6:newspaper:</sup></summary>
 
+- [关于浏览器自动填充](https://github.com/jwenjian/ghiblog/issues/42)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-26 10:43:30</sub> 
 - [C++: Ignore warnings C4996](https://github.com/jwenjian/ghiblog/issues/30)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-06 08:15:29</sub> 
 - [C++: 引用和指针](https://github.com/jwenjian/ghiblog/issues/29)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-06 07:54:40</sub> 
 - [C++: jni.h: no such file or directory ](https://github.com/jwenjian/ghiblog/issues/28)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-05 06:12:20</sub> 
@@ -172,8 +174,9 @@
 </details>
 
 <details>
-<summary>:snake:Python	<sup>6:newspaper:</sup></summary>
+<summary>:snake:Python	<sup>7:newspaper:</sup></summary>
 
+- [Python: 对数组进行选择排序](https://github.com/jwenjian/ghiblog/issues/41)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-26 05:30:30</sub> 
 - [Python: 对数组进行插入排序](https://github.com/jwenjian/ghiblog/issues/40)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-24 10:23:42</sub> 
 - [Python操作剪贴板](https://github.com/jwenjian/ghiblog/issues/38)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-24 05:28:31</sub> 
 - [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-20 16:33:17</sub> 
