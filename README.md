@@ -1,15 +1,21 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2019-06-30 00:04:30
+> :alarm_clock: 上次更新: 2019-07-01 00:00:55
     
-共 [20](https://github.com/jwenjian/ghiblog/labels) 个标签, [41](https://github.com/jwenjian/ghiblog/issues) 篇博文.
+共 [20](https://github.com/jwenjian/ghiblog/labels) 个标签, [43](https://github.com/jwenjian/ghiblog/issues) 篇博文.
 
 ## 置顶 :thumbsup: 
 - [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-20 16:33:17</sub> 
 - [insshot: 自动截屏保存ins用户的最新post](https://github.com/jwenjian/ghiblog/issues/34)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-17 15:18:16</sub> 
 - [👍基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-04-30 11:23:45</sub> 
 ## 最新 :new: 
+- [青岛之行随拍](https://github.com/jwenjian/ghiblog/issues/44) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-30 15:40:46</sub> 
+ :label: 	<sub>|</sub><sub>[:camera_flash:随拍](https://github.com/jwenjian/ghiblog/labels/%3Acamera_flash%3A%E9%9A%8F%E6%8B%8D)	|	</sub>
+
+- [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-30 15:21:41</sub> 
+ :label: 	<sub>|</sub><sub>[:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)	|	</sub>
+
 - [关于浏览器自动填充](https://github.com/jwenjian/ghiblog/issues/42) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-26 10:43:30</sub> 
  :label: 	<sub>|</sub><sub>[:art:前端](https://github.com/jwenjian/ghiblog/labels/%3Aart%3A%E5%89%8D%E7%AB%AF)	|	</sub><sub>[:computer:计算机](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3A%E8%AE%A1%E7%AE%97%E6%9C%BA)	|	</sub>
 
@@ -17,12 +23,6 @@
  :label: 	<sub>|</sub><sub>[:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)	|	</sub>
 
 - [Python: 对数组进行插入排序](https://github.com/jwenjian/ghiblog/issues/40) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-24 10:23:42</sub> 
- :label: 	<sub>|</sub><sub>[:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)	|	</sub>
-
-- [Maven: maven-dependency-plugin:get 通过命令行下载jar包到本地仓库 无需pom文件](https://github.com/jwenjian/ghiblog/issues/39) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-24 05:49:49</sub> 
- :label: 	<sub>|</sub><sub>[Maven](https://github.com/jwenjian/ghiblog/labels/Maven)	|	</sub>
-
-- [Python操作剪贴板](https://github.com/jwenjian/ghiblog/issues/38) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-24 05:28:31</sub> 
  :label: 	<sub>|</sub><sub>[:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)	|	</sub>
 
 ## 分类  :card_file_box: 
@@ -66,8 +66,9 @@
 </details>
 
 <details>
-<summary>:camera_flash:随拍	<sup>4:newspaper:</sup></summary>
+<summary>:camera_flash:随拍	<sup>5:newspaper:</sup></summary>
 
+- [青岛之行随拍](https://github.com/jwenjian/ghiblog/issues/44)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-30 15:40:46</sub> 
 - [端午节随拍](https://github.com/jwenjian/ghiblog/issues/31)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-08 15:54:39</sub> 
 - [2019年的第一次旅行](https://github.com/jwenjian/ghiblog/issues/17)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-26 13:30:51</sub> 
 - [本周生活随拍](https://github.com/jwenjian/ghiblog/issues/10)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-25 04:46:26</sub> 
@@ -174,8 +175,9 @@
 </details>
 
 <details>
-<summary>:snake:Python	<sup>7:newspaper:</sup></summary>
+<summary>:snake:Python	<sup>8:newspaper:</sup></summary>
 
+- [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-30 15:21:41</sub> 
 - [Python: 对数组进行选择排序](https://github.com/jwenjian/ghiblog/issues/41)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-26 05:30:30</sub> 
 - [Python: 对数组进行插入排序](https://github.com/jwenjian/ghiblog/issues/40)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-24 10:23:42</sub> 
 - [Python操作剪贴板](https://github.com/jwenjian/ghiblog/issues/38)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-24 05:28:31</sub> 
