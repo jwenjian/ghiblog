@@ -1,11 +1,12 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2019-07-01 00:00:55
+> :alarm_clock: 上次更新: 2019-07-02 00:01:11
     
 共 [20](https://github.com/jwenjian/ghiblog/labels) 个标签, [43](https://github.com/jwenjian/ghiblog/issues) 篇博文.
 
 ## 置顶 :thumbsup: 
+- [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-30 15:21:41</sub> 
 - [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-20 16:33:17</sub> 
 - [insshot: 自动截屏保存ins用户的最新post](https://github.com/jwenjian/ghiblog/issues/34)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-17 15:18:16</sub> 
 - [👍基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-04-30 11:23:45</sub> 
@@ -14,7 +15,7 @@
  :label: 	<sub>|</sub><sub>[:camera_flash:随拍](https://github.com/jwenjian/ghiblog/labels/%3Acamera_flash%3A%E9%9A%8F%E6%8B%8D)	|	</sub>
 
 - [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-30 15:21:41</sub> 
- :label: 	<sub>|</sub><sub>[:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)	|	</sub>
+ :label: 	<sub>|</sub><sub>[:+1:置顶](https://github.com/jwenjian/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)	|	</sub><sub>[:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)	|	</sub>
 
 - [关于浏览器自动填充](https://github.com/jwenjian/ghiblog/issues/42) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-26 10:43:30</sub> 
  :label: 	<sub>|</sub><sub>[:art:前端](https://github.com/jwenjian/ghiblog/labels/%3Aart%3A%E5%89%8D%E7%AB%AF)	|	</sub><sub>[:computer:计算机](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3A%E8%AE%A1%E7%AE%97%E6%9C%BA)	|	</sub>
@@ -28,8 +29,9 @@
 ## 分类  :card_file_box: 
 
 <details>
-<summary>:+1:置顶	<sup>3:newspaper:</sup></summary>
+<summary>:+1:置顶	<sup>4:newspaper:</sup></summary>
 
+- [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-30 15:21:41</sub> 
 - [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-20 16:33:17</sub> 
 - [insshot: 自动截屏保存ins用户的最新post](https://github.com/jwenjian/ghiblog/issues/34)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-17 15:18:16</sub> 
 - [👍基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-04-30 11:23:45</sub> 
