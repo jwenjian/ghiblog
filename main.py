@@ -62,6 +62,7 @@ def bundle_summary_section():
 > :alarm_clock: 上次更新: %s
     
 共 [%s](%s) 个标签, [%s](%s) 篇博文.
+访客信息: [![总访客数量](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=jwenjian.ghiblog)](https://github.com/jwenjian/visitor-count-badge)
 ''' % (cur_time, total_label_count, labels_html_url, total_issue_count, issues_html_url)
 
     return summary_section

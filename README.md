@@ -5,6 +5,8 @@
     
 共 [20](https://github.com/jwenjian/ghiblog/labels) 个标签, [43](https://github.com/jwenjian/ghiblog/issues) 篇博文.
 
+访客信息: [![总访客数量](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=jwenjian.ghiblog)](https://github.com/jwenjian/visitor-count-badge)
+
 ## 置顶 :thumbsup: 
 - [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-30 15:21:41</sub> 
 - [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-20 16:33:17</sub> 
