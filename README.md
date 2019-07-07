@@ -1,22 +1,24 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2019-07-06 00:00:54
+> :alarm_clock: 上次更新: 2019-07-07 00:00:47
     
-共 [20](https://github.com/jwenjian/ghiblog/labels) 个标签, [43](https://github.com/jwenjian/ghiblog/issues) 篇博文.
-
+共 [20](https://github.com/jwenjian/ghiblog/labels) 个标签, [44](https://github.com/jwenjian/ghiblog/issues) 篇博文.
 访客信息: [![总访客数量](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=jwenjian.ghiblog)](https://github.com/jwenjian/visitor-count-badge)
 
 ## 置顶 :thumbsup: 
-- [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-30 15:21:41</sub> 
+- [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-30 15:21:41</sub> 
 - [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-20 16:33:17</sub> 
 - [insshot: 自动截屏保存ins用户的最新post](https://github.com/jwenjian/ghiblog/issues/34)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-17 15:18:16</sub> 
 - [👍基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-04-30 11:23:45</sub> 
 ## 最新 :new: 
-- [青岛之行随拍](https://github.com/jwenjian/ghiblog/issues/44) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-30 15:40:46</sub> 
+- [HTTP CAT: 用猫的图片来形象的表示每一个http状态码](https://github.com/jwenjian/ghiblog/issues/45) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-07-06 03:58:50</sub> 
+ :label: 	<sub>|</sub><sub>[:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F)	|	</sub>
+
+- [青岛之行随拍](https://github.com/jwenjian/ghiblog/issues/44) <sup>2 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-30 15:40:46</sub> 
  :label: 	<sub>|</sub><sub>[:camera_flash:随拍](https://github.com/jwenjian/ghiblog/labels/%3Acamera_flash%3A%E9%9A%8F%E6%8B%8D)	|	</sub>
 
-- [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-30 15:21:41</sub> 
+- [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43) <sup>1 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-30 15:21:41</sub> 
  :label: 	<sub>|</sub><sub>[:+1:置顶](https://github.com/jwenjian/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)	|	</sub><sub>[:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)	|	</sub>
 
 - [关于浏览器自动填充](https://github.com/jwenjian/ghiblog/issues/42) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-26 10:43:30</sub> 
@@ -25,15 +27,12 @@
 - [Python: 对数组进行选择排序](https://github.com/jwenjian/ghiblog/issues/41) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-26 05:30:30</sub> 
  :label: 	<sub>|</sub><sub>[:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)	|	</sub>
 
-- [Python: 对数组进行插入排序](https://github.com/jwenjian/ghiblog/issues/40) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-24 10:23:42</sub> 
- :label: 	<sub>|</sub><sub>[:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)	|	</sub>
-
 ## 分类  :card_file_box: 
 
 <details>
 <summary>:+1:置顶	<sup>4:newspaper:</sup></summary>
 
-- [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-30 15:21:41</sub> 
+- [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-30 15:21:41</sub> 
 - [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-20 16:33:17</sub> 
 - [insshot: 自动截屏保存ins用户的最新post](https://github.com/jwenjian/ghiblog/issues/34)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-17 15:18:16</sub> 
 - [👍基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-04-30 11:23:45</sub> 
@@ -72,7 +71,7 @@
 <details>
 <summary>:camera_flash:随拍	<sup>5:newspaper:</sup></summary>
 
-- [青岛之行随拍](https://github.com/jwenjian/ghiblog/issues/44)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-30 15:40:46</sub> 
+- [青岛之行随拍](https://github.com/jwenjian/ghiblog/issues/44)  <sup>2 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-30 15:40:46</sub> 
 - [端午节随拍](https://github.com/jwenjian/ghiblog/issues/31)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-08 15:54:39</sub> 
 - [2019年的第一次旅行](https://github.com/jwenjian/ghiblog/issues/17)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-26 13:30:51</sub> 
 - [本周生活随拍](https://github.com/jwenjian/ghiblog/issues/10)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-25 04:46:26</sub> 
@@ -119,8 +118,9 @@
 </details>
 
 <details>
-<summary>:earth_africa:网站收藏	<sup>3:newspaper:</sup></summary>
+<summary>:earth_africa:网站收藏	<sup>4:newspaper:</sup></summary>
 
+- [HTTP CAT: 用猫的图片来形象的表示每一个http状态码](https://github.com/jwenjian/ghiblog/issues/45)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-07-06 03:58:50</sub> 
 - [中国色-收集中国传统颜色的网站](https://github.com/jwenjian/ghiblog/issues/20)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-26 13:42:12</sub> 
 - [Linux命令在线查询手册](https://github.com/jwenjian/ghiblog/issues/12)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-25 23:46:51</sub> 
 - [Windows工具-制作启动U盘](https://github.com/jwenjian/ghiblog/issues/11)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-25 04:55:17</sub> 
@@ -181,7 +181,7 @@
 <details>
 <summary>:snake:Python	<sup>8:newspaper:</sup></summary>
 
-- [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-30 15:21:41</sub> 
+- [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-30 15:21:41</sub> 
 - [Python: 对数组进行选择排序](https://github.com/jwenjian/ghiblog/issues/41)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-26 05:30:30</sub> 
 - [Python: 对数组进行插入排序](https://github.com/jwenjian/ghiblog/issues/40)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-24 10:23:42</sub> 
 - [Python操作剪贴板](https://github.com/jwenjian/ghiblog/issues/38)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-24 05:28:31</sub> 
