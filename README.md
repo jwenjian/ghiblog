@@ -1,9 +1,9 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2019-07-09 00:00:48
+> :alarm_clock: 上次更新: 2019-07-10 00:01:06
     
-共 [20](https://github.com/jwenjian/ghiblog/labels) 个标签, [44](https://github.com/jwenjian/ghiblog/issues) 篇博文.
+共 [21](https://github.com/jwenjian/ghiblog/labels) 个标签, [53](https://github.com/jwenjian/ghiblog/issues) 篇博文.
 访客信息: [![总访客数量](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=jwenjian.ghiblog)](https://github.com/jwenjian/visitor-count-badge)
 
 ## 置顶 :thumbsup: 
@@ -12,20 +12,20 @@
 - [insshot: 自动截屏保存ins用户的最新post](https://github.com/jwenjian/ghiblog/issues/34)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-17 15:18:16</sub> 
 - [👍基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-04-30 11:23:45</sub> 
 ## 最新 :new: 
-- [HTTP CAT: 用猫的图片来形象的表示每一个http状态码](https://github.com/jwenjian/ghiblog/issues/45) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-07-06 03:58:50</sub> 
- :label: 	<sub>|</sub><sub>[:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F)	|	</sub>
+- [[From Instapaper] : 前端必会四步带你吃透浏览器渲染基本原理](https://github.com/jwenjian/ghiblog/issues/55) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-07-09 11:50:30</sub> 
+ :label: 	<sub>|</sub>
 
-- [青岛之行随拍](https://github.com/jwenjian/ghiblog/issues/44) <sup>2 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-30 15:40:46</sub> 
- :label: 	<sub>|</sub><sub>[:camera_flash:随拍](https://github.com/jwenjian/ghiblog/labels/%3Acamera_flash%3A%E9%9A%8F%E6%8B%8D)	|	</sub>
+- [[From Instapaper] : 关注英媒中国理所应当鄙视英国](https://github.com/jwenjian/ghiblog/issues/54) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-07-09 11:37:29</sub> 
+ :label: 	<sub>|</sub>
 
-- [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43) <sup>1 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-30 15:21:41</sub> 
- :label: 	<sub>|</sub><sub>[:+1:置顶](https://github.com/jwenjian/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)	|	</sub><sub>[:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)	|	</sub>
+- [[From Instapaper] : 西尾維新オフィシャルサイト](https://github.com/jwenjian/ghiblog/issues/53) <sup>1 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-07-09 08:59:08</sub> 
+ :label: 	<sub>|</sub><sub>[:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F)	|	</sub><sub>[Instapaper](https://github.com/jwenjian/ghiblog/labels/Instapaper)	|	</sub><sub>[JS](https://github.com/jwenjian/ghiblog/labels/JS)	|	</sub>
 
-- [关于浏览器自动填充](https://github.com/jwenjian/ghiblog/issues/42) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-26 10:43:30</sub> 
- :label: 	<sub>|</sub><sub>[:art:前端](https://github.com/jwenjian/ghiblog/labels/%3Aart%3A%E5%89%8D%E7%AB%AF)	|	</sub><sub>[:computer:计算机](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3A%E8%AE%A1%E7%AE%97%E6%9C%BA)	|	</sub>
+- [[From Instapaper] : Tests and types - stitcher.io](https://github.com/jwenjian/ghiblog/issues/52) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-07-09 08:46:15</sub> 
+ :label: 	<sub>|</sub>
 
-- [Python: 对数组进行选择排序](https://github.com/jwenjian/ghiblog/issues/41) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-06-26 05:30:30</sub> 
- :label: 	<sub>|</sub><sub>[:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)	|	</sub>
+- [[From Instapaper] : Distinguished Names](https://github.com/jwenjian/ghiblog/issues/51) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-07-09 07:24:34</sub> 
+ :label: 	<sub>|</sub>
 
 ## 分类  :card_file_box: 
 
@@ -61,8 +61,9 @@
 </details>
 
 <details>
-<summary>:books:阅读	<sup>1:newspaper:</sup></summary>
+<summary>:books:阅读	<sup>2:newspaper:</sup></summary>
 
+- [[From Instapaper] : 中国为什么不搞多党竞争甚至一些党员干部都不知怎么回答](https://github.com/jwenjian/ghiblog/issues/47)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-07-09 07:19:35</sub> 
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-26 13:45:03</sub> 
 
 
@@ -118,8 +119,9 @@
 </details>
 
 <details>
-<summary>:earth_africa:网站收藏	<sup>4:newspaper:</sup></summary>
+<summary>:earth_africa:网站收藏	<sup>5:newspaper:</sup></summary>
 
+- [[From Instapaper] : 西尾維新オフィシャルサイト](https://github.com/jwenjian/ghiblog/issues/53)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-07-09 08:59:08</sub> 
 - [HTTP CAT: 用猫的图片来形象的表示每一个http状态码](https://github.com/jwenjian/ghiblog/issues/45)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-07-06 03:58:50</sub> 
 - [中国色-收集中国传统颜色的网站](https://github.com/jwenjian/ghiblog/issues/20)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-26 13:42:12</sub> 
 - [Linux命令在线查询手册](https://github.com/jwenjian/ghiblog/issues/12)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-25 23:46:51</sub> 
@@ -207,8 +209,18 @@
 </details>
 
 <details>
-<summary>JS	<sup>0:newspaper:</sup></summary>
+<summary>Instapaper	<sup>2:newspaper:</sup></summary>
 
+- [[From Instapaper] : 西尾維新オフィシャルサイト](https://github.com/jwenjian/ghiblog/issues/53)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-07-09 08:59:08</sub> 
+- [[From Instapaper] : 中国为什么不搞多党竞争甚至一些党员干部都不知怎么回答](https://github.com/jwenjian/ghiblog/issues/47)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-07-09 07:19:35</sub> 
+
+
+</details>
+
+<details>
+<summary>JS	<sup>1:newspaper:</sup></summary>
+
+- [[From Instapaper] : 西尾維新オフィシャルサイト](https://github.com/jwenjian/ghiblog/issues/53)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-07-09 08:59:08</sub> 
 
 
 </details>
