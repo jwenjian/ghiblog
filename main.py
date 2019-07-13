@@ -15,8 +15,8 @@ cur_time: str
 
 
 def format_issue(issue: Issue):
-    return '- [%s](%s)  %s  \t :alarm_clock:%s \n' % (
-        issue.title, issue.html_url, sup('%s :speech_balloon:' % issue.comments), sub(issue.created_at))
+    return '- [%s](%s)  %s  \t \n' % (
+        issue.title, issue.html_url, sup('%s :speech_balloon:' % issue.comments))
 
 
 def sup(text: str):
@@ -37,7 +37,7 @@ def update_readme_md_file(contents):
 def login():
     global user
     username = os.environ.get('GITHUB_LOGIN')
-    password = os.environ.get('GITHUB_PASSWORD')
+    password = os.environ.get('GITHUB_TOKEN')
     user = Github(username, password)
 
 
@@ -53,17 +53,29 @@ def bundle_summary_section():
 
     total_label_count = ghiblog.get_labels().totalCount
     total_issue_count = ghiblog.get_issues().totalCount
-    labels_html_url = 'https://github.com/%s/ghiblog/labels' % user.get_user().login
-    issues_html_url = 'https://github.com/%s/ghiblog/issues' % user.get_user().login
+
+    user_login = user.get_user().login
 
     summary_section = '''
 # GitHub Issues Blog :tada::tada::tada:
-    
-> :alarm_clock: 上次更新: %s
-    
-共 [%s](%s) 个标签, [%s](%s) 篇博文.
-访客信息: [![总访客数量](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=jwenjian.ghiblog)](https://github.com/jwenjian/visitor-count-badge)
-''' % (cur_time, total_label_count, labels_html_url, total_issue_count, issues_html_url)
+
+<p align='center'>
+    <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
+    <img src="https://badgen.net/badge/labels/%s"/>
+    <img src="https://badgen.net/badge/issues/%s"/>
+    <img src="https://badgen.net/github/last-commit/%s/ghiblog"/>
+    <img src="https://badgen.net/github/forks/%s/ghiblog"/>
+    <img src="https://badgen.net/github/watchers/%s/ghiblog"/>
+    <img src="https://badgen.net/github/release/%s/ghiblog"/>
+</p>
+
+<p align='center'>
+    <a href="https://github.com/jwenjian/visitor-count-badge">
+        <img src="https://visitor-count-badge.herokuapp.com/total.svg?repo_id=jwenjian.ghiblog"/>
+    </a>
+</p>
+
+''' % (total_label_count, total_issue_count, user_login, user_login, user_login, user_login)
 
     return summary_section
 
@@ -88,14 +100,14 @@ def format_issue_with_labels(issue: Issue):
     labels = issue.get_labels()
     labels_str = ''
     if labels:
-        labels_str = '\n :label: \t' + sub('|')
+        labels_str = '\n \t' + sub('|')
 
     for label in labels:
         labels_str += sub('[%s](https://github.com/%s/ghiblog/labels/%s)\t|\t' % (
             label.name, user.get_user().login, urllib.parse.quote(label.name)))
 
-    return '- [%s](%s) %s  \t\t\t :alarm_clock:%s %s\n\n' % (
-        issue.title, issue.html_url, sup('%s :speech_balloon:' % issue.comments), sub(issue.created_at), labels_str)
+    return '- [%s](%s) %s  \t\t\t %s %s\n\n' % (
+        issue.title, issue.html_url, sup('%s :speech_balloon:' % issue.comments), issue.created_at, labels_str)
 
 
 def bundle_new_created_section():
