@@ -106,7 +106,7 @@ def format_issue_with_labels(issue: Issue):
         labels_str += sub('[%s](https://github.com/%s/ghiblog/labels/%s)\t|\t' % (
             label.name, user.get_user().login, urllib.parse.quote(label.name)))
 
-    return '- [%s](%s) %s  \t\t\t %s %s\n\n' % (
+    return '- [%s](%s) %s  \t\t\t %s\n%s\n\n' % (
         issue.title, issue.html_url, sup('%s :speech_balloon:' % issue.comments), issue.created_at, labels_str)
 
 
