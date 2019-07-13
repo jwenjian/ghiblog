@@ -5,7 +5,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/21"/>
     <img src="https://badgen.net/badge/issues/56"/>
-    <img src="https://badgen.net/github/last-commit/jwenjian/ghiblog"/>
+    <img src="https://badgen.net/badge/last-commit/2019-07-13 21:36:58"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/release/jwenjian/ghiblog"/>
@@ -233,7 +233,7 @@
 </details>
 
 <details>
-<summary>Instapaper	<sup>8:newspaper:</sup></summary>
+<summary>Instapaper	<sup>9:newspaper:</sup></summary>
 
 - [[From Instapaper] : Task Scheduler - Windows applications | Windows上的定时任务管理器](https://github.com/jwenjian/ghiblog/issues/57)  <sup>1 :speech_balloon:</sup>  	 
 - [[From Instapaper] : Should Neil Armstrongs Bootprints Be on the Moon Forever](https://github.com/jwenjian/ghiblog/issues/56)  <sup>1 :speech_balloon:</sup>  	 
@@ -242,6 +242,7 @@
 - [[From Instapaper] : 西尾維新オフィシャルサイト](https://github.com/jwenjian/ghiblog/issues/53)  <sup>1 :speech_balloon:</sup>  	 
 - [[From Instapaper] : Distinguished Names](https://github.com/jwenjian/ghiblog/issues/51)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : Http response header - Age](https://github.com/jwenjian/ghiblog/issues/50)  <sup>0 :speech_balloon:</sup>  	 
+- [[From Instapaper] : maven getting "Not Authorized" when trying to access nexus private repository](https://github.com/jwenjian/ghiblog/issues/48)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : 中国为什么不搞多党竞争甚至一些党员干部都不知怎么回答](https://github.com/jwenjian/ghiblog/issues/47)  <sup>0 :speech_balloon:</sup>  	 
 
 
@@ -256,8 +257,9 @@
 </details>
 
 <details>
-<summary>Maven	<sup>3:newspaper:</sup></summary>
+<summary>Maven	<sup>4:newspaper:</sup></summary>
 
+- [[From Instapaper] : maven getting "Not Authorized" when trying to access nexus private repository](https://github.com/jwenjian/ghiblog/issues/48)  <sup>0 :speech_balloon:</sup>  	 
 - [Maven: maven-dependency-plugin:get 通过命令行下载jar包到本地仓库 无需pom文件](https://github.com/jwenjian/ghiblog/issues/39)  <sup>0 :speech_balloon:</sup>  	 
 - [Maven: mvn clean install --fail-at-end](https://github.com/jwenjian/ghiblog/issues/33)  <sup>0 :speech_balloon:</sup>  	 
 - [How to add custom properties to manifest file with spring boot](https://github.com/jwenjian/ghiblog/issues/24)  <sup>0 :speech_balloon:</sup>  	 

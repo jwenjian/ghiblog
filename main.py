@@ -63,7 +63,7 @@ def bundle_summary_section():
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/%s"/>
     <img src="https://badgen.net/badge/issues/%s"/>
-    <img src="https://badgen.net/github/last-commit/%s/ghiblog"/>
+    <img src="https://badgen.net/badge/last-commit/%s"/>
     <img src="https://badgen.net/github/forks/%s/ghiblog"/>
     <img src="https://badgen.net/github/watchers/%s/ghiblog"/>
     <img src="https://badgen.net/github/release/%s/ghiblog"/>
@@ -75,7 +75,7 @@ def bundle_summary_section():
     </a>
 </p>
 
-''' % (total_label_count, total_issue_count, user_login, user_login, user_login, user_login)
+''' % (total_label_count, total_issue_count, cur_time, user_login, user_login, user_login)
 
     return summary_section
 
