@@ -5,8 +5,9 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/21"/>
     <img src="https://badgen.net/badge/issues/56"/>
-    <img src="https://badgen.net/badge/last-commit/2019-07-13 21:36:58"/>
+    <img src="https://badgen.net/badge/last-commit/2019-07-13 21:44:34"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
+    <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/release/jwenjian/ghiblog"/>
 </p>
