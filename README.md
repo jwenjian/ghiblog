@@ -1,9 +1,9 @@
 
 # GitHub Issues Blog :tada::tada::tada:
     
-> :alarm_clock: 上次更新: 2019-07-12 00:01:23
+> :alarm_clock: 上次更新: 2019-07-13 00:00:40
     
-共 [21](https://github.com/jwenjian/ghiblog/labels) 个标签, [53](https://github.com/jwenjian/ghiblog/issues) 篇博文.
+共 [21](https://github.com/jwenjian/ghiblog/labels) 个标签, [55](https://github.com/jwenjian/ghiblog/issues) 篇博文.
 访客信息: [![总访客数量](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=jwenjian.ghiblog)](https://github.com/jwenjian/visitor-count-badge)
 
 ## 置顶 :thumbsup: 
@@ -12,6 +12,12 @@
 - [insshot: 自动截屏保存ins用户的最新post](https://github.com/jwenjian/ghiblog/issues/34)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-17 15:18:16</sub> 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-04-30 11:23:45</sub> 
 ## 最新 :new: 
+- [[From Instapaper] : Task Scheduler - Windows applications | Windows上的定时任务管理器](https://github.com/jwenjian/ghiblog/issues/57) <sup>1 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-07-12 14:46:17</sub> 
+ :label: 	<sub>|</sub><sub>[:computer:Windows](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3AWindows)	|	</sub><sub>[Instapaper](https://github.com/jwenjian/ghiblog/labels/Instapaper)	|	</sub>
+
+- [[From Instapaper] : Should Neil Armstrongs Bootprints Be on the Moon Forever](https://github.com/jwenjian/ghiblog/issues/56) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-07-12 07:45:20</sub> 
+ :label: 	<sub>|</sub>
+
 - [[From Instapaper] : 前端必会四步带你吃透浏览器渲染基本原理](https://github.com/jwenjian/ghiblog/issues/55) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-07-09 11:50:30</sub> 
  :label: 	<sub>|</sub><sub>[:art:前端](https://github.com/jwenjian/ghiblog/labels/%3Aart%3A%E5%89%8D%E7%AB%AF)	|	</sub><sub>[Instapaper](https://github.com/jwenjian/ghiblog/labels/Instapaper)	|	</sub>
 
@@ -20,12 +26,6 @@
 
 - [[From Instapaper] : 西尾維新オフィシャルサイト](https://github.com/jwenjian/ghiblog/issues/53) <sup>1 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-07-09 08:59:08</sub> 
  :label: 	<sub>|</sub><sub>[:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F)	|	</sub><sub>[Instapaper](https://github.com/jwenjian/ghiblog/labels/Instapaper)	|	</sub><sub>[JS](https://github.com/jwenjian/ghiblog/labels/JS)	|	</sub>
-
-- [[From Instapaper] : Tests and types - stitcher.io](https://github.com/jwenjian/ghiblog/issues/52) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-07-09 08:46:15</sub> 
- :label: 	<sub>|</sub>
-
-- [[From Instapaper] : Distinguished Names](https://github.com/jwenjian/ghiblog/issues/51) <sup>0 :speech_balloon:</sup>  			 :alarm_clock:<sub>2019-07-09 07:24:34</sub> 
- :label: 	<sub>|</sub><sub>[:computer:计算机](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3A%E8%AE%A1%E7%AE%97%E6%9C%BA)	|	</sub><sub>[Instapaper](https://github.com/jwenjian/ghiblog/labels/Instapaper)	|	</sub>
 
 ## 分类  :card_file_box: 
 
@@ -93,8 +93,9 @@
 </details>
 
 <details>
-<summary>:computer:Windows	<sup>8:newspaper:</sup></summary>
+<summary>:computer:Windows	<sup>9:newspaper:</sup></summary>
 
+- [[From Instapaper] : Task Scheduler - Windows applications | Windows上的定时任务管理器](https://github.com/jwenjian/ghiblog/issues/57)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-07-12 14:46:17</sub> 
 - [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-20 16:33:17</sub> 
 - [PAGE - Python Automatic GUI Generator](https://github.com/jwenjian/ghiblog/issues/35)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-06-19 05:42:13</sub> 
 - [调整Typora显示宽度](https://github.com/jwenjian/ghiblog/issues/18)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-05-26 13:33:39</sub> 
@@ -213,8 +214,9 @@
 </details>
 
 <details>
-<summary>Instapaper	<sup>6:newspaper:</sup></summary>
+<summary>Instapaper	<sup>7:newspaper:</sup></summary>
 
+- [[From Instapaper] : Task Scheduler - Windows applications | Windows上的定时任务管理器](https://github.com/jwenjian/ghiblog/issues/57)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-07-12 14:46:17</sub> 
 - [[From Instapaper] : 前端必会四步带你吃透浏览器渲染基本原理](https://github.com/jwenjian/ghiblog/issues/55)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-07-09 11:50:30</sub> 
 - [[From Instapaper] : 关注英媒中国理所应当鄙视英国](https://github.com/jwenjian/ghiblog/issues/54)  <sup>0 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-07-09 11:37:29</sub> 
 - [[From Instapaper] : 西尾維新オフィシャルサイト](https://github.com/jwenjian/ghiblog/issues/53)  <sup>1 :speech_balloon:</sup>  	 :alarm_clock:<sub>2019-07-09 08:59:08</sub> 
