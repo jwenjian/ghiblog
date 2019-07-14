@@ -5,7 +5,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/21"/>
     <img src="https://badgen.net/badge/issues/56"/>
-    <img src="https://badgen.net/badge/last-commit/2019-07-13 21:44:34"/>
+    <img src="https://badgen.net/badge/last-commit/2019-07-14 00:00:41"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -22,7 +22,6 @@
 ## 置顶 :thumbsup: 
 - [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43)  <sup>1 :speech_balloon:</sup>  	 
 - [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36)  <sup>1 :speech_balloon:</sup>  	 
-- [insshot: 自动截屏保存ins用户的最新post](https://github.com/jwenjian/ghiblog/issues/34)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 - [[From Instapaper] : 臆病な魔女](https://github.com/jwenjian/ghiblog/issues/58) <sup>1 :speech_balloon:</sup>  			 2019-07-13 00:27:25
@@ -48,22 +47,22 @@
 ## 分类  :card_file_box: 
 
 <details>
-<summary>:+1:置顶	<sup>4:newspaper:</sup></summary>
+<summary>:+1:置顶	<sup>3:newspaper:</sup></summary>
 
 - [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43)  <sup>1 :speech_balloon:</sup>  	 
 - [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36)  <sup>1 :speech_balloon:</sup>  	 
-- [insshot: 自动截屏保存ins用户的最新post](https://github.com/jwenjian/ghiblog/issues/34)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
 
 
 </details>
 
 <details>
-<summary>:art:前端	<sup>7:newspaper:</sup></summary>
+<summary>:art:前端	<sup>8:newspaper:</sup></summary>
 
 - [[From Instapaper] : 臆病な魔女](https://github.com/jwenjian/ghiblog/issues/58)  <sup>1 :speech_balloon:</sup>  	 
 - [[From Instapaper] : 前端必会四步带你吃透浏览器渲染基本原理](https://github.com/jwenjian/ghiblog/issues/55)  <sup>0 :speech_balloon:</sup>  	 
 - [关于浏览器自动填充](https://github.com/jwenjian/ghiblog/issues/42)  <sup>0 :speech_balloon:</sup>  	 
+- [insshot: 自动截屏保存ins用户的最新post](https://github.com/jwenjian/ghiblog/issues/34)  <sup>0 :speech_balloon:</sup>  	 
 - [使用淘宝镜像安装puppeteer](https://github.com/jwenjian/ghiblog/issues/32)  <sup>0 :speech_balloon:</sup>  	 
 - [TKinter教程](https://github.com/jwenjian/ghiblog/issues/25)  <sup>0 :speech_balloon:</sup>  	 
 - [中国色-收集中国传统颜色的网站](https://github.com/jwenjian/ghiblog/issues/20)  <sup>0 :speech_balloon:</sup>  	 
