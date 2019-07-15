@@ -4,8 +4,8 @@
 <p align='center'>
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/21"/>
-    <img src="https://badgen.net/badge/issues/56"/>
-    <img src="https://badgen.net/badge/last-commit/2019-07-14 00:00:41"/>
+    <img src="https://badgen.net/badge/issues/57"/>
+    <img src="https://badgen.net/badge/last-commit/2019-07-15 00:01:03"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -24,7 +24,11 @@
 - [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36)  <sup>1 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
 ## 最新 :new: 
-- [[From Instapaper] : 臆病な魔女](https://github.com/jwenjian/ghiblog/issues/58) <sup>1 :speech_balloon:</sup>  			 2019-07-13 00:27:25
+- [高铁/动车上插座都在什么位置](https://github.com/jwenjian/ghiblog/issues/59) <sup>0 :speech_balloon:</sup>  			 2019-07-14 15:40:03
+
+ 	<sub>|</sub><sub>[:video_game:生活](https://github.com/jwenjian/ghiblog/labels/%3Avideo_game%3A%E7%94%9F%E6%B4%BB)	|	</sub>
+
+- [[From Instapaper] : 臆病な魔女](https://github.com/jwenjian/ghiblog/issues/58) <sup>3 :speech_balloon:</sup>  			 2019-07-13 00:27:25
 
  	<sub>|</sub><sub>[:art:前端](https://github.com/jwenjian/ghiblog/labels/%3Aart%3A%E5%89%8D%E7%AB%AF)	|	</sub><sub>[:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F)	|	</sub>
 
@@ -39,10 +43,6 @@
 - [[From Instapaper] : 前端必会四步带你吃透浏览器渲染基本原理](https://github.com/jwenjian/ghiblog/issues/55) <sup>0 :speech_balloon:</sup>  			 2019-07-09 11:50:30
 
  	<sub>|</sub><sub>[:art:前端](https://github.com/jwenjian/ghiblog/labels/%3Aart%3A%E5%89%8D%E7%AB%AF)	|	</sub><sub>[Instapaper](https://github.com/jwenjian/ghiblog/labels/Instapaper)	|	</sub>
-
-- [[From Instapaper] : 关注英媒中国理所应当鄙视英国](https://github.com/jwenjian/ghiblog/issues/54) <sup>0 :speech_balloon:</sup>  			 2019-07-09 11:37:29
-
- 	<sub>|</sub><sub>[:books:阅读](https://github.com/jwenjian/ghiblog/labels/%3Abooks%3A%E9%98%85%E8%AF%BB)	|	</sub><sub>[Instapaper](https://github.com/jwenjian/ghiblog/labels/Instapaper)	|	</sub>
 
 ## 分类  :card_file_box: 
 
@@ -59,7 +59,7 @@
 <details>
 <summary>:art:前端	<sup>8:newspaper:</sup></summary>
 
-- [[From Instapaper] : 臆病な魔女](https://github.com/jwenjian/ghiblog/issues/58)  <sup>1 :speech_balloon:</sup>  	 
+- [[From Instapaper] : 臆病な魔女](https://github.com/jwenjian/ghiblog/issues/58)  <sup>3 :speech_balloon:</sup>  	 
 - [[From Instapaper] : 前端必会四步带你吃透浏览器渲染基本原理](https://github.com/jwenjian/ghiblog/issues/55)  <sup>0 :speech_balloon:</sup>  	 
 - [关于浏览器自动填充](https://github.com/jwenjian/ghiblog/issues/42)  <sup>0 :speech_balloon:</sup>  	 
 - [insshot: 自动截屏保存ins用户的最新post](https://github.com/jwenjian/ghiblog/issues/34)  <sup>0 :speech_balloon:</sup>  	 
@@ -144,7 +144,7 @@
 <details>
 <summary>:earth_africa:网站收藏	<sup>6:newspaper:</sup></summary>
 
-- [[From Instapaper] : 臆病な魔女](https://github.com/jwenjian/ghiblog/issues/58)  <sup>1 :speech_balloon:</sup>  	 
+- [[From Instapaper] : 臆病な魔女](https://github.com/jwenjian/ghiblog/issues/58)  <sup>3 :speech_balloon:</sup>  	 
 - [[From Instapaper] : 西尾維新オフィシャルサイト](https://github.com/jwenjian/ghiblog/issues/53)  <sup>1 :speech_balloon:</sup>  	 
 - [HTTP CAT: 用猫的图片来形象的表示每一个http状态码](https://github.com/jwenjian/ghiblog/issues/45)  <sup>0 :speech_balloon:</sup>  	 
 - [中国色-收集中国传统颜色的网站](https://github.com/jwenjian/ghiblog/issues/20)  <sup>0 :speech_balloon:</sup>  	 
@@ -220,8 +220,9 @@
 </details>
 
 <details>
-<summary>:video_game:生活	<sup>6:newspaper:</sup></summary>
+<summary>:video_game:生活	<sup>7:newspaper:</sup></summary>
 
+- [高铁/动车上插座都在什么位置](https://github.com/jwenjian/ghiblog/issues/59)  <sup>0 :speech_balloon:</sup>  	 
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [2019年的第一次旅行](https://github.com/jwenjian/ghiblog/issues/17)  <sup>0 :speech_balloon:</sup>  	 
 - [bye 2018](https://github.com/jwenjian/ghiblog/issues/16)  <sup>3 :speech_balloon:</sup>  	 
