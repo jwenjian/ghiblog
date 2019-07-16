@@ -5,7 +5,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/21"/>
     <img src="https://badgen.net/badge/issues/57"/>
-    <img src="https://badgen.net/badge/last-commit/2019-07-15 00:01:03"/>
+    <img src="https://badgen.net/badge/last-commit/2019-07-16 00:01:04"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -24,7 +24,7 @@
 - [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36)  <sup>1 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
 ## 最新 :new: 
-- [高铁/动车上插座都在什么位置](https://github.com/jwenjian/ghiblog/issues/59) <sup>0 :speech_balloon:</sup>  			 2019-07-14 15:40:03
+- [高铁/动车上插座都在什么位置](https://github.com/jwenjian/ghiblog/issues/59) <sup>2 :speech_balloon:</sup>  			 2019-07-14 15:40:03
 
  	<sub>|</sub><sub>[:video_game:生活](https://github.com/jwenjian/ghiblog/labels/%3Avideo_game%3A%E7%94%9F%E6%B4%BB)	|	</sub>
 
@@ -222,7 +222,7 @@
 <details>
 <summary>:video_game:生活	<sup>7:newspaper:</sup></summary>
 
-- [高铁/动车上插座都在什么位置](https://github.com/jwenjian/ghiblog/issues/59)  <sup>0 :speech_balloon:</sup>  	 
+- [高铁/动车上插座都在什么位置](https://github.com/jwenjian/ghiblog/issues/59)  <sup>2 :speech_balloon:</sup>  	 
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [2019年的第一次旅行](https://github.com/jwenjian/ghiblog/issues/17)  <sup>0 :speech_balloon:</sup>  	 
 - [bye 2018](https://github.com/jwenjian/ghiblog/issues/16)  <sup>3 :speech_balloon:</sup>  	 
