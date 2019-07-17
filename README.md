@@ -4,8 +4,8 @@
 <p align='center'>
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/21"/>
-    <img src="https://badgen.net/badge/issues/57"/>
-    <img src="https://badgen.net/badge/last-commit/2019-07-16 00:01:04"/>
+    <img src="https://badgen.net/badge/issues/62"/>
+    <img src="https://badgen.net/badge/last-commit/2019-07-17 00:00:55"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -24,25 +24,25 @@
 - [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36)  <sup>1 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
 ## 最新 :new: 
-- [高铁/动车上插座都在什么位置](https://github.com/jwenjian/ghiblog/issues/59) <sup>2 :speech_balloon:</sup>  			 2019-07-14 15:40:03
+- [[From Instapaper] : How to use Python virtualenv](https://github.com/jwenjian/ghiblog/issues/64) <sup>0 :speech_balloon:</sup>  			 2019-07-16 12:01:00
 
- 	<sub>|</sub><sub>[:video_game:生活](https://github.com/jwenjian/ghiblog/labels/%3Avideo_game%3A%E7%94%9F%E6%B4%BB)	|	</sub>
+ 	<sub>|</sub><sub>[:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)	|	</sub>
 
-- [[From Instapaper] : 臆病な魔女](https://github.com/jwenjian/ghiblog/issues/58) <sup>3 :speech_balloon:</sup>  			 2019-07-13 00:27:25
+- [[From Instapaper] : Explore the project on start.spring.io](https://github.com/jwenjian/ghiblog/issues/63) <sup>0 :speech_balloon:</sup>  			 2019-07-16 09:14:04
 
- 	<sub>|</sub><sub>[:art:前端](https://github.com/jwenjian/ghiblog/labels/%3Aart%3A%E5%89%8D%E7%AB%AF)	|	</sub><sub>[:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F)	|	</sub>
+ 	<sub>|</sub>
 
-- [[From Instapaper] : Task Scheduler - Windows applications | Windows上的定时任务管理器](https://github.com/jwenjian/ghiblog/issues/57) <sup>1 :speech_balloon:</sup>  			 2019-07-12 14:46:17
+- [[From Instapaper] : The Flask Mega-Tutorial Part I: Hello World! - miguelgrinberg.com](https://github.com/jwenjian/ghiblog/issues/62) <sup>1 :speech_balloon:</sup>  			 2019-07-16 09:13:57
 
- 	<sub>|</sub><sub>[:computer:Windows](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3AWindows)	|	</sub><sub>[Instapaper](https://github.com/jwenjian/ghiblog/labels/Instapaper)	|	</sub>
+ 	<sub>|</sub><sub>[:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)	|	</sub>
 
-- [[From Instapaper] : Should Neil Armstrongs Bootprints Be on the Moon Forever](https://github.com/jwenjian/ghiblog/issues/56) <sup>1 :speech_balloon:</sup>  			 2019-07-12 07:45:20
+- [[From Instapaper] : Configure proxy for APT?](https://github.com/jwenjian/ghiblog/issues/61) <sup>1 :speech_balloon:</sup>  			 2019-07-16 09:10:33
 
- 	<sub>|</sub><sub>[Instapaper](https://github.com/jwenjian/ghiblog/labels/Instapaper)	|	</sub>
+ 	<sub>|</sub><sub>[:man_technologist:Linux](https://github.com/jwenjian/ghiblog/labels/%3Aman_technologist%3ALinux)	|	</sub>
 
-- [[From Instapaper] : 前端必会四步带你吃透浏览器渲染基本原理](https://github.com/jwenjian/ghiblog/issues/55) <sup>0 :speech_balloon:</sup>  			 2019-07-09 11:50:30
+- [[From Instapaper] : Java.lang.Void 与 void 的比较及使用](https://github.com/jwenjian/ghiblog/issues/60) <sup>0 :speech_balloon:</sup>  			 2019-07-16 06:22:33
 
- 	<sub>|</sub><sub>[:art:前端](https://github.com/jwenjian/ghiblog/labels/%3Aart%3A%E5%89%8D%E7%AB%AF)	|	</sub><sub>[Instapaper](https://github.com/jwenjian/ghiblog/labels/Instapaper)	|	</sub>
+ 	<sub>|</sub><sub>[:coffee:JAVA](https://github.com/jwenjian/ghiblog/labels/%3Acoffee%3AJAVA)	|	</sub>
 
 ## 分类  :card_file_box: 
 
@@ -102,8 +102,9 @@
 </details>
 
 <details>
-<summary>:coffee:JAVA	<sup>2:newspaper:</sup></summary>
+<summary>:coffee:JAVA	<sup>3:newspaper:</sup></summary>
 
+- [[From Instapaper] : Java.lang.Void 与 void 的比较及使用](https://github.com/jwenjian/ghiblog/issues/60)  <sup>0 :speech_balloon:</sup>  	 
 - [How to prevent XXE injection when convert xml to object in java](https://github.com/jwenjian/ghiblog/issues/37)  <sup>0 :speech_balloon:</sup>  	 
 - [配置SpringBoot定时任务线程池](https://github.com/jwenjian/ghiblog/issues/21)  <sup>0 :speech_balloon:</sup>  	 
 
@@ -179,8 +180,9 @@
 </details>
 
 <details>
-<summary>:man_technologist:Linux	<sup>4:newspaper:</sup></summary>
+<summary>:man_technologist:Linux	<sup>5:newspaper:</sup></summary>
 
+- [[From Instapaper] : Configure proxy for APT?](https://github.com/jwenjian/ghiblog/issues/61)  <sup>1 :speech_balloon:</sup>  	 
 - [调整Typora显示宽度](https://github.com/jwenjian/ghiblog/issues/18)  <sup>0 :speech_balloon:</sup>  	 
 - [Linux命令在线查询手册](https://github.com/jwenjian/ghiblog/issues/12)  <sup>0 :speech_balloon:</sup>  	 
 - [Linux-编译安装nginx源码](https://github.com/jwenjian/ghiblog/issues/9)  <sup>0 :speech_balloon:</sup>  	 
@@ -205,8 +207,10 @@
 </details>
 
 <details>
-<summary>:snake:Python	<sup>8:newspaper:</sup></summary>
+<summary>:snake:Python	<sup>10:newspaper:</sup></summary>
 
+- [[From Instapaper] : How to use Python virtualenv](https://github.com/jwenjian/ghiblog/issues/64)  <sup>0 :speech_balloon:</sup>  	 
+- [[From Instapaper] : The Flask Mega-Tutorial Part I: Hello World! - miguelgrinberg.com](https://github.com/jwenjian/ghiblog/issues/62)  <sup>1 :speech_balloon:</sup>  	 
 - [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43)  <sup>1 :speech_balloon:</sup>  	 
 - [Python: 对数组进行选择排序](https://github.com/jwenjian/ghiblog/issues/41)  <sup>0 :speech_balloon:</sup>  	 
 - [Python: 对数组进行插入排序](https://github.com/jwenjian/ghiblog/issues/40)  <sup>0 :speech_balloon:</sup>  	 
