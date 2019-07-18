@@ -4,8 +4,8 @@
 <p align='center'>
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/21"/>
-    <img src="https://badgen.net/badge/issues/62"/>
-    <img src="https://badgen.net/badge/last-commit/2019-07-17 00:00:55"/>
+    <img src="https://badgen.net/badge/issues/64"/>
+    <img src="https://badgen.net/badge/last-commit/2019-07-18 00:00:46"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -24,25 +24,25 @@
 - [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36)  <sup>1 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
 ## 最新 :new: 
-- [[From Instapaper] : How to use Python virtualenv](https://github.com/jwenjian/ghiblog/issues/64) <sup>0 :speech_balloon:</sup>  			 2019-07-16 12:01:00
+- [Internet troubleshooting: website (www.microsoft.com) is online but isn't responding to connection attempts](https://github.com/jwenjian/ghiblog/issues/66) <sup>0 :speech_balloon:</sup>  			 2019-07-17 08:56:52
+
+ 	<sub>|</sub><sub>[:beetle:Bug追踪](https://github.com/jwenjian/ghiblog/labels/%3Abeetle%3ABug%E8%BF%BD%E8%B8%AA)	|	</sub><sub>[:computer:Windows](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3AWindows)	|	</sub>
+
+- [在Ubuntu上安装nodejs、npm](https://github.com/jwenjian/ghiblog/issues/65) <sup>0 :speech_balloon:</sup>  			 2019-07-17 05:50:42
+
+ 	<sub>|</sub><sub>[:man_technologist:Linux](https://github.com/jwenjian/ghiblog/labels/%3Aman_technologist%3ALinux)	|	</sub>
+
+- [[From Instapaper] : How to use Python virtualenv](https://github.com/jwenjian/ghiblog/issues/64) <sup>1 :speech_balloon:</sup>  			 2019-07-16 12:01:00
 
  	<sub>|</sub><sub>[:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)	|	</sub>
 
-- [[From Instapaper] : Explore the project on start.spring.io](https://github.com/jwenjian/ghiblog/issues/63) <sup>0 :speech_balloon:</sup>  			 2019-07-16 09:14:04
+- [[From Instapaper] : Explore the project on start.spring.io](https://github.com/jwenjian/ghiblog/issues/63) <sup>1 :speech_balloon:</sup>  			 2019-07-16 09:14:04
 
- 	<sub>|</sub>
+ 	<sub>|</sub><sub>[:coffee:JAVA](https://github.com/jwenjian/ghiblog/labels/%3Acoffee%3AJAVA)	|	</sub><sub>[:leaves:Spring](https://github.com/jwenjian/ghiblog/labels/%3Aleaves%3ASpring)	|	</sub>
 
 - [[From Instapaper] : The Flask Mega-Tutorial Part I: Hello World! - miguelgrinberg.com](https://github.com/jwenjian/ghiblog/issues/62) <sup>1 :speech_balloon:</sup>  			 2019-07-16 09:13:57
 
  	<sub>|</sub><sub>[:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)	|	</sub>
-
-- [[From Instapaper] : Configure proxy for APT?](https://github.com/jwenjian/ghiblog/issues/61) <sup>1 :speech_balloon:</sup>  			 2019-07-16 09:10:33
-
- 	<sub>|</sub><sub>[:man_technologist:Linux](https://github.com/jwenjian/ghiblog/labels/%3Aman_technologist%3ALinux)	|	</sub>
-
-- [[From Instapaper] : Java.lang.Void 与 void 的比较及使用](https://github.com/jwenjian/ghiblog/issues/60) <sup>0 :speech_balloon:</sup>  			 2019-07-16 06:22:33
-
- 	<sub>|</sub><sub>[:coffee:JAVA](https://github.com/jwenjian/ghiblog/labels/%3Acoffee%3AJAVA)	|	</sub>
 
 ## 分类  :card_file_box: 
 
@@ -72,8 +72,9 @@
 </details>
 
 <details>
-<summary>:beetle:Bug追踪	<sup>1:newspaper:</sup></summary>
+<summary>:beetle:Bug追踪	<sup>2:newspaper:</sup></summary>
 
+- [Internet troubleshooting: website (www.microsoft.com) is online but isn't responding to connection attempts](https://github.com/jwenjian/ghiblog/issues/66)  <sup>0 :speech_balloon:</sup>  	 
 - [C++: jni.h: no such file or directory ](https://github.com/jwenjian/ghiblog/issues/28)  <sup>0 :speech_balloon:</sup>  	 
 
 
@@ -102,8 +103,9 @@
 </details>
 
 <details>
-<summary>:coffee:JAVA	<sup>3:newspaper:</sup></summary>
+<summary>:coffee:JAVA	<sup>4:newspaper:</sup></summary>
 
+- [[From Instapaper] : Explore the project on start.spring.io](https://github.com/jwenjian/ghiblog/issues/63)  <sup>1 :speech_balloon:</sup>  	 
 - [[From Instapaper] : Java.lang.Void 与 void 的比较及使用](https://github.com/jwenjian/ghiblog/issues/60)  <sup>0 :speech_balloon:</sup>  	 
 - [How to prevent XXE injection when convert xml to object in java](https://github.com/jwenjian/ghiblog/issues/37)  <sup>0 :speech_balloon:</sup>  	 
 - [配置SpringBoot定时任务线程池](https://github.com/jwenjian/ghiblog/issues/21)  <sup>0 :speech_balloon:</sup>  	 
@@ -112,8 +114,9 @@
 </details>
 
 <details>
-<summary>:computer:Windows	<sup>9:newspaper:</sup></summary>
+<summary>:computer:Windows	<sup>10:newspaper:</sup></summary>
 
+- [Internet troubleshooting: website (www.microsoft.com) is online but isn't responding to connection attempts](https://github.com/jwenjian/ghiblog/issues/66)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : Task Scheduler - Windows applications | Windows上的定时任务管理器](https://github.com/jwenjian/ghiblog/issues/57)  <sup>1 :speech_balloon:</sup>  	 
 - [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36)  <sup>1 :speech_balloon:</sup>  	 
 - [PAGE - Python Automatic GUI Generator](https://github.com/jwenjian/ghiblog/issues/35)  <sup>0 :speech_balloon:</sup>  	 
@@ -171,8 +174,9 @@
 </details>
 
 <details>
-<summary>:leaves:Spring	<sup>2:newspaper:</sup></summary>
+<summary>:leaves:Spring	<sup>3:newspaper:</sup></summary>
 
+- [[From Instapaper] : Explore the project on start.spring.io](https://github.com/jwenjian/ghiblog/issues/63)  <sup>1 :speech_balloon:</sup>  	 
 - [How to add custom properties to manifest file with spring boot](https://github.com/jwenjian/ghiblog/issues/24)  <sup>0 :speech_balloon:</sup>  	 
 - [配置SpringBoot定时任务线程池](https://github.com/jwenjian/ghiblog/issues/21)  <sup>0 :speech_balloon:</sup>  	 
 
@@ -180,8 +184,9 @@
 </details>
 
 <details>
-<summary>:man_technologist:Linux	<sup>5:newspaper:</sup></summary>
+<summary>:man_technologist:Linux	<sup>6:newspaper:</sup></summary>
 
+- [在Ubuntu上安装nodejs、npm](https://github.com/jwenjian/ghiblog/issues/65)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : Configure proxy for APT?](https://github.com/jwenjian/ghiblog/issues/61)  <sup>1 :speech_balloon:</sup>  	 
 - [调整Typora显示宽度](https://github.com/jwenjian/ghiblog/issues/18)  <sup>0 :speech_balloon:</sup>  	 
 - [Linux命令在线查询手册](https://github.com/jwenjian/ghiblog/issues/12)  <sup>0 :speech_balloon:</sup>  	 
@@ -209,7 +214,7 @@
 <details>
 <summary>:snake:Python	<sup>10:newspaper:</sup></summary>
 
-- [[From Instapaper] : How to use Python virtualenv](https://github.com/jwenjian/ghiblog/issues/64)  <sup>0 :speech_balloon:</sup>  	 
+- [[From Instapaper] : How to use Python virtualenv](https://github.com/jwenjian/ghiblog/issues/64)  <sup>1 :speech_balloon:</sup>  	 
 - [[From Instapaper] : The Flask Mega-Tutorial Part I: Hello World! - miguelgrinberg.com](https://github.com/jwenjian/ghiblog/issues/62)  <sup>1 :speech_balloon:</sup>  	 
 - [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43)  <sup>1 :speech_balloon:</sup>  	 
 - [Python: 对数组进行选择排序](https://github.com/jwenjian/ghiblog/issues/41)  <sup>0 :speech_balloon:</sup>  	 
