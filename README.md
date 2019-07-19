@@ -4,8 +4,8 @@
 <p align='center'>
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/21"/>
-    <img src="https://badgen.net/badge/issues/64"/>
-    <img src="https://badgen.net/badge/last-commit/2019-07-18 00:00:46"/>
+    <img src="https://badgen.net/badge/issues/65"/>
+    <img src="https://badgen.net/badge/last-commit/2019-07-19 00:01:31"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -20,10 +20,16 @@
 
 
 ## 置顶 :thumbsup: 
+- [我喜欢的音乐](https://github.com/jwenjian/ghiblog/issues/67)  <sup>0 :speech_balloon:</sup>  	 
 - [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43)  <sup>1 :speech_balloon:</sup>  	 
 - [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36)  <sup>1 :speech_balloon:</sup>  	 
+- [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+- [我喜欢的音乐](https://github.com/jwenjian/ghiblog/issues/67) <sup>0 :speech_balloon:</sup>  			 2019-07-18 13:53:01
+
+ 	<sub>|</sub><sub>[:+1:置顶](https://github.com/jwenjian/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)	|	</sub><sub>[:musical_keyboard:音乐](https://github.com/jwenjian/ghiblog/labels/%3Amusical_keyboard%3A%E9%9F%B3%E4%B9%90)	|	</sub>
+
 - [Internet troubleshooting: website (www.microsoft.com) is online but isn't responding to connection attempts](https://github.com/jwenjian/ghiblog/issues/66) <sup>0 :speech_balloon:</sup>  			 2019-07-17 08:56:52
 
  	<sub>|</sub><sub>[:beetle:Bug追踪](https://github.com/jwenjian/ghiblog/labels/%3Abeetle%3ABug%E8%BF%BD%E8%B8%AA)	|	</sub><sub>[:computer:Windows](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3AWindows)	|	</sub>
@@ -40,17 +46,15 @@
 
  	<sub>|</sub><sub>[:coffee:JAVA](https://github.com/jwenjian/ghiblog/labels/%3Acoffee%3AJAVA)	|	</sub><sub>[:leaves:Spring](https://github.com/jwenjian/ghiblog/labels/%3Aleaves%3ASpring)	|	</sub>
 
-- [[From Instapaper] : The Flask Mega-Tutorial Part I: Hello World! - miguelgrinberg.com](https://github.com/jwenjian/ghiblog/issues/62) <sup>1 :speech_balloon:</sup>  			 2019-07-16 09:13:57
-
- 	<sub>|</sub><sub>[:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)	|	</sub>
-
 ## 分类  :card_file_box: 
 
 <details>
-<summary>:+1:置顶	<sup>3:newspaper:</sup></summary>
+<summary>:+1:置顶	<sup>5:newspaper:</sup></summary>
 
+- [我喜欢的音乐](https://github.com/jwenjian/ghiblog/issues/67)  <sup>0 :speech_balloon:</sup>  	 
 - [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43)  <sup>1 :speech_balloon:</sup>  	 
 - [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36)  <sup>1 :speech_balloon:</sup>  	 
+- [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
 
 
@@ -205,8 +209,9 @@
 </details>
 
 <details>
-<summary>:musical_keyboard:音乐	<sup>0:newspaper:</sup></summary>
+<summary>:musical_keyboard:音乐	<sup>1:newspaper:</sup></summary>
 
+- [我喜欢的音乐](https://github.com/jwenjian/ghiblog/issues/67)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
