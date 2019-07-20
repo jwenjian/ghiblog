@@ -4,8 +4,8 @@
 <p align='center'>
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/21"/>
-    <img src="https://badgen.net/badge/issues/65"/>
-    <img src="https://badgen.net/badge/last-commit/2019-07-19 00:01:31"/>
+    <img src="https://badgen.net/badge/issues/67"/>
+    <img src="https://badgen.net/badge/last-commit/2019-07-20 00:01:36"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -20,12 +20,21 @@
 
 
 ## 置顶 :thumbsup: 
+- [如果风险投资者问你“如果大公司进入市场与你竞争，怎么办？”，你应该如何回答？](https://github.com/jwenjian/ghiblog/issues/70)  <sup>1 :speech_balloon:</sup>  	 
 - [我喜欢的音乐](https://github.com/jwenjian/ghiblog/issues/67)  <sup>0 :speech_balloon:</sup>  	 
 - [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43)  <sup>1 :speech_balloon:</sup>  	 
 - [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36)  <sup>1 :speech_balloon:</sup>  	 
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+- [如果风险投资者问你“如果大公司进入市场与你竞争，怎么办？”，你应该如何回答？](https://github.com/jwenjian/ghiblog/issues/70) <sup>1 :speech_balloon:</sup>  			 2019-07-19 05:27:22
+
+ 	<sub>|</sub><sub>[:+1:置顶](https://github.com/jwenjian/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)	|	</sub><sub>[:books:阅读](https://github.com/jwenjian/ghiblog/labels/%3Abooks%3A%E9%98%85%E8%AF%BB)	|	</sub><sub>[good first issue](https://github.com/jwenjian/ghiblog/labels/good%20first%20issue)	|	</sub>
+
+- [[From Instapaper] : 每家门上都挂个西瓜邻居拍照发上网你有素质的样子太美](https://github.com/jwenjian/ghiblog/issues/68) <sup>0 :speech_balloon:</sup>  			 2019-07-19 04:29:23
+
+ 	<sub>|</sub><sub>[:books:阅读](https://github.com/jwenjian/ghiblog/labels/%3Abooks%3A%E9%98%85%E8%AF%BB)	|	</sub>
+
 - [我喜欢的音乐](https://github.com/jwenjian/ghiblog/issues/67) <sup>0 :speech_balloon:</sup>  			 2019-07-18 13:53:01
 
  	<sub>|</sub><sub>[:+1:置顶](https://github.com/jwenjian/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)	|	</sub><sub>[:musical_keyboard:音乐](https://github.com/jwenjian/ghiblog/labels/%3Amusical_keyboard%3A%E9%9F%B3%E4%B9%90)	|	</sub>
@@ -34,23 +43,16 @@
 
  	<sub>|</sub><sub>[:beetle:Bug追踪](https://github.com/jwenjian/ghiblog/labels/%3Abeetle%3ABug%E8%BF%BD%E8%B8%AA)	|	</sub><sub>[:computer:Windows](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3AWindows)	|	</sub>
 
-- [在Ubuntu上安装nodejs、npm](https://github.com/jwenjian/ghiblog/issues/65) <sup>0 :speech_balloon:</sup>  			 2019-07-17 05:50:42
+- [在Ubuntu上安装nodejs、npm](https://github.com/jwenjian/ghiblog/issues/65) <sup>1 :speech_balloon:</sup>  			 2019-07-17 05:50:42
 
  	<sub>|</sub><sub>[:man_technologist:Linux](https://github.com/jwenjian/ghiblog/labels/%3Aman_technologist%3ALinux)	|	</sub>
-
-- [[From Instapaper] : How to use Python virtualenv](https://github.com/jwenjian/ghiblog/issues/64) <sup>1 :speech_balloon:</sup>  			 2019-07-16 12:01:00
-
- 	<sub>|</sub><sub>[:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)	|	</sub>
-
-- [[From Instapaper] : Explore the project on start.spring.io](https://github.com/jwenjian/ghiblog/issues/63) <sup>1 :speech_balloon:</sup>  			 2019-07-16 09:14:04
-
- 	<sub>|</sub><sub>[:coffee:JAVA](https://github.com/jwenjian/ghiblog/labels/%3Acoffee%3AJAVA)	|	</sub><sub>[:leaves:Spring](https://github.com/jwenjian/ghiblog/labels/%3Aleaves%3ASpring)	|	</sub>
 
 ## 分类  :card_file_box: 
 
 <details>
-<summary>:+1:置顶	<sup>5:newspaper:</sup></summary>
+<summary>:+1:置顶	<sup>6:newspaper:</sup></summary>
 
+- [如果风险投资者问你“如果大公司进入市场与你竞争，怎么办？”，你应该如何回答？](https://github.com/jwenjian/ghiblog/issues/70)  <sup>1 :speech_balloon:</sup>  	 
 - [我喜欢的音乐](https://github.com/jwenjian/ghiblog/issues/67)  <sup>0 :speech_balloon:</sup>  	 
 - [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43)  <sup>1 :speech_balloon:</sup>  	 
 - [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36)  <sup>1 :speech_balloon:</sup>  	 
@@ -85,8 +87,10 @@
 </details>
 
 <details>
-<summary>:books:阅读	<sup>3:newspaper:</sup></summary>
+<summary>:books:阅读	<sup>5:newspaper:</sup></summary>
 
+- [如果风险投资者问你“如果大公司进入市场与你竞争，怎么办？”，你应该如何回答？](https://github.com/jwenjian/ghiblog/issues/70)  <sup>1 :speech_balloon:</sup>  	 
+- [[From Instapaper] : 每家门上都挂个西瓜邻居拍照发上网你有素质的样子太美](https://github.com/jwenjian/ghiblog/issues/68)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : 关注英媒中国理所应当鄙视英国](https://github.com/jwenjian/ghiblog/issues/54)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : 中国为什么不搞多党竞争甚至一些党员干部都不知怎么回答](https://github.com/jwenjian/ghiblog/issues/47)  <sup>0 :speech_balloon:</sup>  	 
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
@@ -190,7 +194,7 @@
 <details>
 <summary>:man_technologist:Linux	<sup>6:newspaper:</sup></summary>
 
-- [在Ubuntu上安装nodejs、npm](https://github.com/jwenjian/ghiblog/issues/65)  <sup>0 :speech_balloon:</sup>  	 
+- [在Ubuntu上安装nodejs、npm](https://github.com/jwenjian/ghiblog/issues/65)  <sup>1 :speech_balloon:</sup>  	 
 - [[From Instapaper] : Configure proxy for APT?](https://github.com/jwenjian/ghiblog/issues/61)  <sup>1 :speech_balloon:</sup>  	 
 - [调整Typora显示宽度](https://github.com/jwenjian/ghiblog/issues/18)  <sup>0 :speech_balloon:</sup>  	 
 - [Linux命令在线查询手册](https://github.com/jwenjian/ghiblog/issues/12)  <sup>0 :speech_balloon:</sup>  	 
@@ -291,8 +295,9 @@
 </details>
 
 <details>
-<summary>good first issue	<sup>1:newspaper:</sup></summary>
+<summary>good first issue	<sup>2:newspaper:</sup></summary>
 
+- [如果风险投资者问你“如果大公司进入市场与你竞争，怎么办？”，你应该如何回答？](https://github.com/jwenjian/ghiblog/issues/70)  <sup>1 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
 
 
