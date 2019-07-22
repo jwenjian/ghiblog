@@ -5,7 +5,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/21"/>
     <img src="https://badgen.net/badge/issues/68"/>
-    <img src="https://badgen.net/badge/last-commit/2019-07-22 00:01:48"/>
+    <img src="https://badgen.net/badge/last-commit/2019-07-22 22:09:53"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -16,18 +16,32 @@
     <a href="https://github.com/jwenjian/visitor-count-badge">
         <img src="https://visitor-count-badge.herokuapp.com/total.svg?repo_id=jwenjian.ghiblog"/>
     </a>
+    <a href="https://github.com/jwenjian/visitor-count-badge">
+        <img src="https://visitor-count-badge.herokuapp.com/today.svg?repo_id=jwenjian.ghiblog"/>
+    </a>
 </p>
+
+## :artificial_satellite:今日图片
+
+**HDR: Earth's Circular Shadow on the Moon**
+
+> What could create such a large circular shadow on the Moon? The Earth. Last week's full Moon -- the Buck Moon -- was so full that it fell almost exactly in a line with the Sun and the Earth.  When that happens the Earth casts its shadow onto the Moon. The circularity of the Earth's shadow on the Moon was commented on by Aristotle and so has been noticed since at least the 4th century BC.  What's new is humanity's ability to record this shadow with such high dynamic range (HDR).  The featured HDR composite of last week's partial lunar eclipse combines 15 images and include an exposure as short as 1/400th of a second -- so as not to overexpose the brightest part -- and an exposure that lasted five seconds -- to bring up the dimmest part. This dimmest part -- inside Earth's umbra -- is not completely dark because some light is refracted through the Earth's atmosphere onto the Moon.  A total lunar eclipse will occur next in 2021 May.   Partial Lunar Eclipse in 2019 July: Some memorable images submitted to APOD
+
+<center>
+    <img src="https://apod.nasa.gov/apod/image/1907/PartialLunarEclipse_Fattinnanzi_1080.jpg" title="HDR: Earth's Circular Shadow on the Moon" alt="What could create such a large circular shadow on the Moon? The Earth. Last week's full Moon -- the Buck Moon -- was so full that it fell almost exactly in a line with the Sun and the Earth.  When that happens the Earth casts its shadow onto the Moon. The circularity of the Earth's shadow on the Moon was commented on by Aristotle and so has been noticed since at least the 4th century BC.  What's new is humanity's ability to record this shadow with such high dynamic range (HDR).  The featured HDR composite of last week's partial lunar eclipse combines 15 images and include an exposure as short as 1/400th of a second -- so as not to overexpose the brightest part -- and an exposure that lasted five seconds -- to bring up the dimmest part. This dimmest part -- inside Earth's umbra -- is not completely dark because some light is refracted through the Earth's atmosphere onto the Moon.  A total lunar eclipse will occur next in 2021 May.   Partial Lunar Eclipse in 2019 July: Some memorable images submitted to APOD"/>
+</center>
+
 
 
 ## 置顶 :thumbsup: 
-- [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>1 :speech_balloon:</sup>  	 
+- [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>2 :speech_balloon:</sup>  	 
 - [如果风险投资者问你“如果大公司进入市场与你竞争，怎么办？”，你应该如何回答？](https://github.com/jwenjian/ghiblog/issues/70)  <sup>1 :speech_balloon:</sup>  	 
 - [我喜欢的音乐](https://github.com/jwenjian/ghiblog/issues/67)  <sup>0 :speech_balloon:</sup>  	 
 - [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43)  <sup>1 :speech_balloon:</sup>  	 
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
 ## 最新 :new: 
-- [影视节目单](https://github.com/jwenjian/ghiblog/issues/71) <sup>1 :speech_balloon:</sup>  			 2019-07-20 04:50:32
+- [影视节目单](https://github.com/jwenjian/ghiblog/issues/71) <sup>2 :speech_balloon:</sup>  			 2019-07-20 04:50:32
 
  	<sub>|</sub><sub>[:+1:置顶](https://github.com/jwenjian/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)	|	</sub><sub>[:video_game:生活](https://github.com/jwenjian/ghiblog/labels/%3Avideo_game%3A%E7%94%9F%E6%B4%BB)	|	</sub>
 
@@ -52,7 +66,7 @@
 <details>
 <summary>:+1:置顶	<sup>6:newspaper:</sup></summary>
 
-- [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>1 :speech_balloon:</sup>  	 
+- [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>2 :speech_balloon:</sup>  	 
 - [如果风险投资者问你“如果大公司进入市场与你竞争，怎么办？”，你应该如何回答？](https://github.com/jwenjian/ghiblog/issues/70)  <sup>1 :speech_balloon:</sup>  	 
 - [我喜欢的音乐](https://github.com/jwenjian/ghiblog/issues/67)  <sup>0 :speech_balloon:</sup>  	 
 - [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43)  <sup>1 :speech_balloon:</sup>  	 
@@ -224,7 +238,7 @@
 <summary>:snake:Python	<sup>10:newspaper:</sup></summary>
 
 - [[From Instapaper] : How to use Python virtualenv](https://github.com/jwenjian/ghiblog/issues/64)  <sup>1 :speech_balloon:</sup>  	 
-- [[From Instapaper] : The Flask Mega-Tutorial Part I: Hello World! - miguelgrinberg.com](https://github.com/jwenjian/ghiblog/issues/62)  <sup>1 :speech_balloon:</sup>  	 
+- [[From Instapaper] : The Flask Mega-Tutorial Part I: Hello World! - miguelgrinberg.com](https://github.com/jwenjian/ghiblog/issues/62)  <sup>2 :speech_balloon:</sup>  	 
 - [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43)  <sup>1 :speech_balloon:</sup>  	 
 - [Python: 对数组进行选择排序](https://github.com/jwenjian/ghiblog/issues/41)  <sup>0 :speech_balloon:</sup>  	 
 - [Python: 对数组进行插入排序](https://github.com/jwenjian/ghiblog/issues/40)  <sup>0 :speech_balloon:</sup>  	 
@@ -240,7 +254,7 @@
 <details>
 <summary>:video_game:生活	<sup>8:newspaper:</sup></summary>
 
-- [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>1 :speech_balloon:</sup>  	 
+- [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>2 :speech_balloon:</sup>  	 
 - [高铁/动车上插座都在什么位置](https://github.com/jwenjian/ghiblog/issues/59)  <sup>2 :speech_balloon:</sup>  	 
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [2019年的第一次旅行](https://github.com/jwenjian/ghiblog/issues/17)  <sup>0 :speech_balloon:</sup>  	 

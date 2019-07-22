@@ -8,6 +8,7 @@ import os
 import time
 import urllib.parse
 import codecs
+from nasa_client import NasaClient
 
 user: Github
 ghiblog: Repository
@@ -55,6 +56,7 @@ def bundle_summary_section():
     total_issue_count = ghiblog.get_issues().totalCount
 
     user_login = user.get_user().login
+    pic_of_the_day = NasaClient().get_picture_of_the_day()
 
     summary_section = '''
 # GitHub Issues Blog :tada::tada::tada:
@@ -74,9 +76,25 @@ def bundle_summary_section():
     <a href="https://github.com/jwenjian/visitor-count-badge">
         <img src="https://visitor-count-badge.herokuapp.com/total.svg?repo_id=jwenjian.ghiblog"/>
     </a>
+    <a href="https://github.com/jwenjian/visitor-count-badge">
+        <img src="https://visitor-count-badge.herokuapp.com/today.svg?repo_id=jwenjian.ghiblog"/>
+    </a>
 </p>
 
-''' % (total_label_count, total_issue_count, cur_time, user_login, user_login, user_login, user_login)
+## :artificial_satellite:今日图片
+
+**%s**
+
+> %s
+
+<center>
+    <img src="%s" title="%s" alt="%s"/>
+</center>
+
+''' % (
+        total_label_count, total_issue_count, cur_time, user_login, user_login, user_login, user_login,
+        pic_of_the_day.title, pic_of_the_day.explanation, pic_of_the_day.url,
+        pic_of_the_day.title, pic_of_the_day.explanation)
 
     return summary_section
 
