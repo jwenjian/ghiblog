@@ -5,7 +5,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/21"/>
     <img src="https://badgen.net/badge/issues/68"/>
-    <img src="https://badgen.net/badge/last-commit/2019-07-23 23:26:51"/>
+    <img src="https://badgen.net/badge/last-commit/2019-07-23 23:47:17"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -61,11 +61,12 @@
  	<sub>|</sub><sub>[:beetle:Bug追踪](https://github.com/jwenjian/ghiblog/labels/%3Abeetle%3ABug%E8%BF%BD%E8%B8%AA)	|	</sub><sub>[:computer:Windows](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3AWindows)	|	</sub>
 
 
+## 分类  :card_file_box: 
+
 <details>
     <summary>
-        <h2>分类  :card_file_box: </h2>
-        <img src="assets/wordcloud.png" title="词云" alt="词云">
-        <p align="center">词云</p>
+        <img src="assets/wordcloud.png" title="词云, 点击展开详细分类" alt="词云， 点击展开详细分类">
+        <p align="center">:cloud: 词云 :cloud: <sub>点击词云展开详细分类:point_down: </sub></p>
     </summary>
 
 
