@@ -151,11 +151,12 @@ def bundle_list_by_labels_section():
     wordcloud_image_url = WordCloudGenerator(ghiblog).generate()
 
     list_by_labels_section = """
+## 分类  :card_file_box: 
+
 <details>
     <summary>
-        <h2>分类  :card_file_box: </h2>
-        <img src="%s" title="词云" alt="词云">
-        <p align="center">词云</p>
+        <img src="%s" title="词云, 点击展开详细分类" alt="词云， 点击展开详细分类">
+        <p align="center">:cloud: 词云 :cloud: <sub>点击词云展开详细分类:point_down: </sub></p>
     </summary>
 
 """ % (wordcloud_image_url,)
