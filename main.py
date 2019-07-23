@@ -9,6 +9,7 @@ import time
 import urllib.parse
 import codecs
 from nasa_client import NasaClient
+from word_cloud import WordCloudGenerator
 
 user: Github
 ghiblog: Repository
@@ -146,7 +147,18 @@ def bundle_list_by_labels_section():
     global ghiblog
     global user
 
-    list_by_labels_section = '## 分类  :card_file_box: \n'
+    # word cloud
+    wordcloud_image_url = WordCloudGenerator(ghiblog).generate()
+
+    list_by_labels_section = """
+<details>
+    <summary>
+        <h2>分类  :card_file_box: </h2>
+        <img src="%s" title="词云" alt="词云">
+        <p align="center">词云</p>
+    </summary>
+
+""" % (wordcloud_image_url,)
 
     all_labels = ghiblog.get_labels()
 
@@ -169,6 +181,10 @@ def bundle_list_by_labels_section():
 </details>
 ''' % (label.name, count, temp)
 
+    list_by_labels_section += """
+
+</details>    
+"""
     return list_by_labels_section
 
 

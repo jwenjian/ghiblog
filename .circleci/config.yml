@@ -9,6 +9,7 @@ jobs:
       - checkout
       # Run python script
       - run: pip install PyGithub --user
+      - run: pip install wordcloud
       - run: python3 main.py
       - run: git version
       - run: git status
