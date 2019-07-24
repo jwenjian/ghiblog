@@ -7,9 +7,9 @@ class NasaPictureOfTheDay(object):
     Data object representing result of NASA apod API
     """
 
-    def __init__(self, copyright=None, explanation=None, hd_url=None, media_type=None, service_version=None, title=None,
+    def __init__(self, copy_right=None, explanation=None, hd_url=None, media_type=None, service_version=None, title=None,
                  url=None):
-        self.copyright = copyright
+        self.copy_right = copy_right
         self.explanation = explanation
         self.hd_url = hd_url
         self.media_type = media_type
@@ -18,8 +18,8 @@ class NasaPictureOfTheDay(object):
         self.url = url
 
     def __str__(self):
-        return 'copyright = %s, explanation = %s, hd_url = %s, media_type = %s, service_version = %s, title = %s, url = %s' % (
-            self.copyright, self.explanation, self.hd_url, self.media_type, self.service_version, self.title, self.url)
+        return 'copy_right = %s, explanation = %s, hd_url = %s, media_type = %s, service_version = %s, title = %s, url = %s' % (
+            self.copy_right, self.explanation, self.hd_url, self.media_type, self.service_version, self.title, self.url)
 
 
 class NasaClient(object):
@@ -33,7 +33,7 @@ class NasaClient(object):
         try:
             with request.urlopen(req, timeout=10) as resp:
                 result = resp.read()
-                return json.loads(result, object_hook=lambda j: NasaPictureOfTheDay(copyright=j['copyright'],
+                return json.loads(result, object_hook=lambda j: NasaPictureOfTheDay(copy_right=j['copyright'],
                                                                                     explanation=j['explanation'],
                                                                                     hd_url=j['hdurl'],
                                                                                     media_type=j['media_type'],
