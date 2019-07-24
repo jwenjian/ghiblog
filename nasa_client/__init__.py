@@ -33,6 +33,7 @@ class NasaClient(object):
         try:
             with request.urlopen(req, timeout=10) as resp:
                 result = resp.read()
+                print(result)
                 return json.loads(result, object_hook=lambda j: NasaPictureOfTheDay(copy_right=j['copyright'],
                                                                                     explanation=j['explanation'],
                                                                                     hd_url=j['hdurl'],
@@ -42,6 +43,7 @@ class NasaClient(object):
                                                                                     title=j['title'],
                                                                                     url=j['url']))
         except Exception as e:
+            print('error when get pic from NASA api')
             print(e)
             """
             If cannot get picture of the day from NASA api, then use the 404.jpg from http.cat
