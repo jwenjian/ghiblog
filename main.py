@@ -84,17 +84,15 @@ def bundle_summary_section():
 
 ## :artificial_satellite:今日图片
 
-**%s**
+<p align="center"><b>%s</b></p>
 
-> %s
-
-<center>
-    <img src="%s" title="%s" alt="%s"/>
-</center>
+<p align="center">
+    <img src="%s" title="%s" alt="%s" width="50%"/>
+</p>
 
 ''' % (
         total_label_count, total_issue_count, cur_time, user_login, user_login, user_login, user_login,
-        pic_of_the_day.title, pic_of_the_day.explanation, pic_of_the_day.url,
+        pic_of_the_day.title, pic_of_the_day.url,
         pic_of_the_day.title, pic_of_the_day.explanation)
 
     return summary_section
