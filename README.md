@@ -4,8 +4,8 @@
 <p align='center'>
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/21"/>
-    <img src="https://badgen.net/badge/issues/68"/>
-    <img src="https://badgen.net/badge/last-commit/2019-07-25 00:00:32"/>
+    <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
+    <img src="https://badgen.net/badge/last-commit/2019-07-26 02:26:21"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -23,10 +23,10 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>Zodiacal Road</b></p>
+<p align="center"><b>Cygnus Skyscape</b></p>
 
 <p align="center">
-    <img src="https://apod.nasa.gov/apod/image/1907/ZodiacalRoad_Merzlyakov_960.jpg" title="Zodiacal Road" alt="What's that strange light down the road? Dust orbiting the Sun. At certain times of the year, a band of sun-reflecting dust from the inner Solar System appears prominently just after sunset -- or just before sunrise -- and is called zodiacal light.  Although the origin of this dust is still being researched, a leading hypothesis holds that zodiacal dust originates mostly from faint Jupiter-family comets and slowly spirals into the Sun. Recent analysis of dust emitted by Comet 67P, visited by ESA's robotic Rosetta spacecraft, bolster this hypothesis.  Pictured when climbing a road up to Teide National Park in the Canary Islands of Spain, a bright triangle of zodiacal light appeared in the distance soon after sunset. Captured on June 21, the scene includes bright Regulus, alpha star of Leo, standing above center toward the left. The Beehive Star Cluster (M44) can be spotted below center, closer to the horizon and also immersed in the zodiacal glow." width="50%"/>
+    <img src="https://apod.nasa.gov/apod/image/1907/CygnusMosaic07192000Symon_1024.jpg" alt="Cygnus Skyscape" title="In brush strokes of interstellar dust and glowing hydrogen gas, this beautiful skyscape is painted across the plane of our Milky Way Galaxy near the northern end of the Great Rift and the constellation Cygnus the Swan. Composed with three different telescopes and about 90 hours of image data the widefield mosaic spans an impressive 24 degrees across the sky. Alpha star of Cygnus, bright, hot, supergiant Deneb lies near top center. Crowded with stars and luminous gas clouds Cygnus is also home to the dark, obscuring Northern Coal Sack Nebula, extending from Deneb toward the center of the view. The reddish glow of star forming regions NGC 7000, the North America Nebula and IC 5070, the Pelican Nebula, are just left of Deneb. The Veil Nebula is a standout below and left of center. A supernova remnant, the Veil is some 1,400 light years away, but many other nebulae and star clusters are identifiable throughout the cosmic scene. Of course, Deneb itself is also known to northern hemisphere skygazers for its place in two asterisms -- marking the top of the Northern Cross and a vertex of the Summer Triangle." width="50%"/>
 </p>
 
 
