@@ -63,37 +63,34 @@ def bundle_summary_section():
 # GitHub Issues Blog :tada::tada::tada:
 
 <p align='center'>
-    <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/labels/%s"/>
-    <img src="https://badgen.net/badge/issues/%s"/>
-    <img src="https://badgen.net/badge/last-commit/%s"/>
-    <img src="https://badgen.net/github/forks/%s/ghiblog"/>
-    <img src="https://badgen.net/github/stars/%s/ghiblog"/>
-    <img src="https://badgen.net/github/watchers/%s/ghiblog"/>
-    <img src="https://badgen.net/github/release/%s/ghiblog"/>
+    <img src="https://badgen.net/circleci/github/{0}/ghiblog"/>
+    <img src="https://badgen.net/badge/labels/{1}"/>
+    <img src="https://badgen.net/github/issues/{0}/ghiblog"/>
+    <img src="https://badgen.net/badge/last-commit/{2}"/>
+    <img src="https://badgen.net/github/forks/{0}/ghiblog"/>
+    <img src="https://badgen.net/github/stars/{0}/ghiblog"/>
+    <img src="https://badgen.net/github/watchers/{0}/ghiblog"/>
+    <img src="https://badgen.net/github/release/{0}/ghiblog"/>
 </p>
 
 <p align='center'>
     <a href="https://github.com/jwenjian/visitor-count-badge">
-        <img src="https://visitor-count-badge.herokuapp.com/total.svg?repo_id=jwenjian.ghiblog"/>
+        <img src="https://visitor-count-badge.herokuapp.com/total.svg?repo_id={0}.ghiblog"/>
     </a>
     <a href="https://github.com/jwenjian/visitor-count-badge">
-        <img src="https://visitor-count-badge.herokuapp.com/today.svg?repo_id=jwenjian.ghiblog"/>
+        <img src="https://visitor-count-badge.herokuapp.com/today.svg?repo_id={0}.ghiblog"/>
     </a>
 </p>
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>%s</b></p>
+<p align="center"><b>{3}</b></p>
 
 <p align="center">
-    <img src="%s" title="%s" alt="%s" width="50%"/>
+    <img src="{4}" alt="{3}" title="{5}" width="50%"/>
 </p>
 
-''' % (
-        total_label_count, total_issue_count, cur_time, user_login, user_login, user_login, user_login,
-        pic_of_the_day.title, pic_of_the_day.url,
-        pic_of_the_day.title, pic_of_the_day.explanation)
+'''.format(user_login, total_label_count, cur_time, pic_of_the_day.title, pic_of_the_day.url, pic_of_the_day.explanation)
 
     return summary_section
 
