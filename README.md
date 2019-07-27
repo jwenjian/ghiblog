@@ -5,7 +5,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/21"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-07-26 02:27:34"/>
+    <img src="https://badgen.net/badge/last-commit/2019-07-27 00:01:50"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -23,10 +23,10 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>Cygnus Skyscape</b></p>
+<p align="center"><b>The Veins of Heaven</b></p>
 
 <p align="center">
-    <img src="https://apod.nasa.gov/apod/image/1907/CygnusMosaic07192000Symon_1024.jpg" alt="Cygnus Skyscape" title="In brush strokes of interstellar dust and glowing hydrogen gas, this beautiful skyscape is painted across the plane of our Milky Way Galaxy near the northern end of the Great Rift and the constellation Cygnus the Swan. Composed with three different telescopes and about 90 hours of image data the widefield mosaic spans an impressive 24 degrees across the sky. Alpha star of Cygnus, bright, hot, supergiant Deneb lies near top center. Crowded with stars and luminous gas clouds Cygnus is also home to the dark, obscuring Northern Coal Sack Nebula, extending from Deneb toward the center of the view. The reddish glow of star forming regions NGC 7000, the North America Nebula and IC 5070, the Pelican Nebula, are just left of Deneb. The Veil Nebula is a standout below and left of center. A supernova remnant, the Veil is some 1,400 light years away, but many other nebulae and star clusters are identifiable throughout the cosmic scene. Of course, Deneb itself is also known to northern hemisphere skygazers for its place in two asterisms -- marking the top of the Northern Cross and a vertex of the Summer Triangle." width="50%"/>
+    <img src="https://apod.nasa.gov/apod/image/1907/NLCReflectionsAPODheden.jpg" alt="The Veins of Heaven" title="Transfusing sunlight through a still dark sky, this exceptional display of noctilucent clouds was captured earlier this month, reflected in the calm waters of Vallentuna Lake near Stockholm, Sweden. From the edge of space, about 80 kilometers above Earth's surface, the icy clouds themselves still reflect sunlight even though the Sun is below the horizon as seen from the ground. Usually spotted at high latitudes in summer months the night shining clouds have made a strong showing so far during the short northern summer nights. Also known as polar mesopheric clouds they are understood to form as water vapor driven into the cold upper atmosphere condenses on the fine dust particles supplied by disintegrating meteors or volcanic ash. NASA's AIM mission provides daily projections of noctilucent clouds as seen from space." width="50%"/>
 </p>
 
 
