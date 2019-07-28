@@ -5,7 +5,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/21"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-07-27 00:01:50"/>
+    <img src="https://badgen.net/badge/last-commit/2019-07-28 00:11:33"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -23,10 +23,10 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>The Veins of Heaven</b></p>
+<p align="center"><b>Chandrayaan 2 Launch</b></p>
 
 <p align="center">
-    <img src="https://apod.nasa.gov/apod/image/1907/NLCReflectionsAPODheden.jpg" alt="The Veins of Heaven" title="Transfusing sunlight through a still dark sky, this exceptional display of noctilucent clouds was captured earlier this month, reflected in the calm waters of Vallentuna Lake near Stockholm, Sweden. From the edge of space, about 80 kilometers above Earth's surface, the icy clouds themselves still reflect sunlight even though the Sun is below the horizon as seen from the ground. Usually spotted at high latitudes in summer months the night shining clouds have made a strong showing so far during the short northern summer nights. Also known as polar mesopheric clouds they are understood to form as water vapor driven into the cold upper atmosphere condenses on the fine dust particles supplied by disintegrating meteors or volcanic ash. NASA's AIM mission provides daily projections of noctilucent clouds as seen from space." width="50%"/>
+    <img src="https://apod.nasa.gov/apod/image/1907/Chandrayaan2Launch1024c.jpg" alt="Chandrayaan 2 Launch" title="On July 22nd this GSLV (Geosynchronous Satellite Launch Vehicle) MkIII rocket vanished from sight into a cloud bank an instant after this dramatic snapshot was taken. Launched from India's Satish Dhawan Space Centre it carried the Chandrayaan 2 mission spacecraft into Earth orbit. The spacecraft's orbiter, lander, and rover are destined for the Moon, though. In the coming weeks it will perform a series of orbit raising maneuvers, eventually transferring to lunar orbit in early September. Carrying the solar-powered rover, the lander is scheduled to separate and attempt its autonomous soft landing at high latitudes near the lunar south pole. It should arrive on the lunar nearside near local sunrise and the start of a two Earth-week long lunar day on September 7." width="50%"/>
 </p>
 
 
