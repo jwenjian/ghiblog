@@ -5,7 +5,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/21"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-07-28 00:11:33"/>
+    <img src="https://badgen.net/badge/last-commit/2019-07-29 00:01:13"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -23,10 +23,10 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>Chandrayaan 2 Launch</b></p>
+<p align="center"><b>The North America Nebula in Infrared</b></p>
 
 <p align="center">
-    <img src="https://apod.nasa.gov/apod/image/1907/Chandrayaan2Launch1024c.jpg" alt="Chandrayaan 2 Launch" title="On July 22nd this GSLV (Geosynchronous Satellite Launch Vehicle) MkIII rocket vanished from sight into a cloud bank an instant after this dramatic snapshot was taken. Launched from India's Satish Dhawan Space Centre it carried the Chandrayaan 2 mission spacecraft into Earth orbit. The spacecraft's orbiter, lander, and rover are destined for the Moon, though. In the coming weeks it will perform a series of orbit raising maneuvers, eventually transferring to lunar orbit in early September. Carrying the solar-powered rover, the lander is scheduled to separate and attempt its autonomous soft landing at high latitudes near the lunar south pole. It should arrive on the lunar nearside near local sunrise and the start of a two Earth-week long lunar day on September 7." width="50%"/>
+    <img src="https://apod.nasa.gov/apod/image/1907/northamerica_ir_960.jpg" alt="The North America Nebula in Infrared" title="The North America Nebula can do what most North Americans cannot -- form stars.  Precisely where in the nebula these stars are forming has been mostly obscured by some of the nebula's thick dust that is opaque to visible light. However, a view of the North America Nebula in infrared light by the orbiting Spitzer Space Telescope has peered through much of the dust and uncovered thousands of newly formed stars. Rolling your cursor over the above scientifically-colored infrared image will bring up a corresponding optical image of the same region for comparison.  The infrared image neatly captures young stars in many stages of formation, from being imbedded in dense knots of gas and dust, to being surrounded by disks and emitted jets, to being clear of their birth cocoons. The North America Nebula (NGC 7000) spans about 50 light years and lies about 1,500 light years away toward the constellation of the Swan (Cygnus). Still, of all the stars known in the North America Nebula, which massive stars emit the energetic light that gives the ionized  red glow is still debated." width="50%"/>
 </p>
 
 
