@@ -5,7 +5,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/21"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-08-01 00:02:37"/>
+    <img src="https://badgen.net/badge/last-commit/2019-08-02 00:02:01"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -23,22 +23,26 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>IC 1795: The Fishhead Nebula</b></p>
+<p align="center"><b>You can't see me, Meow~~!</b></p>
 
 <p align="center">
-    <img src="https://apod.nasa.gov/apod/image/1907/FishheadNebula_Pham_960.jpg" alt="IC 1795: The Fishhead Nebula" title="To some, this nebula looks like the head of a fish. However, this colorful cosmic portrait really features glowing gas and obscuring dust clouds in IC 1795, a star forming region in the northern constellation Cassiopeia. The nebula's colors were created by adopting the Hubble color palette for mapping narrow emission from oxygen, hydrogen, and sulfur atoms to blue, green and red colors, and further blending the data with images of the region recorded through broadband filters. Not far on the sky from the famous Double Star Cluster in Perseus, IC 1795 is itself located next to IC 1805, the Heart Nebula, as part of a complex of star forming regions that lie at the edge of a large molecular cloud. Located just over 6,000 light-years away, the larger star forming complex sprawls along the Perseus spiral arm of our Milky Way Galaxy. At that distance, this picture would span about 70 light-years across IC 1795.   Astrophysicists: Browse 2,000+ codes in the Astrophysics Source Code Library" width="50%"/>
+    <img src="https://http.cat/404.jpg" alt="You can't see me, Meow~~!" title="Failed to get picture of the day from NASA api, so here is a little cute cat for you, see you tomorrow!" width="50%"/>
 </p>
 
 
 ## 置顶 :thumbsup: 
-- [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>2 :speech_balloon:</sup>  	 
+- [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>3 :speech_balloon:</sup>  	 
 - [如果风险投资者问你“如果大公司进入市场与你竞争，怎么办？”，你应该如何回答？](https://github.com/jwenjian/ghiblog/issues/70)  <sup>1 :speech_balloon:</sup>  	 
 - [我喜欢的音乐](https://github.com/jwenjian/ghiblog/issues/67)  <sup>0 :speech_balloon:</sup>  	 
 - [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43)  <sup>1 :speech_balloon:</sup>  	 
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
 ## 最新 :new: 
-- [影视节目单](https://github.com/jwenjian/ghiblog/issues/71) <sup>2 :speech_balloon:</sup>  			 2019-07-20 04:50:32
+- [[From Instapaper] : 如何优雅关闭 Spring Boot 应用 - 掘金](https://github.com/jwenjian/ghiblog/issues/72) <sup>0 :speech_balloon:</sup>  			 2019-08-01 11:12:16
+
+ 	<sub>|</sub>
+
+- [影视节目单](https://github.com/jwenjian/ghiblog/issues/71) <sup>3 :speech_balloon:</sup>  			 2019-07-20 04:50:32
 
  	<sub>|</sub><sub>[:+1:置顶](https://github.com/jwenjian/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)	|	</sub><sub>[:video_game:生活](https://github.com/jwenjian/ghiblog/labels/%3Avideo_game%3A%E7%94%9F%E6%B4%BB)	|	</sub>
 
@@ -54,10 +58,6 @@
 
  	<sub>|</sub><sub>[:+1:置顶](https://github.com/jwenjian/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)	|	</sub><sub>[:musical_keyboard:音乐](https://github.com/jwenjian/ghiblog/labels/%3Amusical_keyboard%3A%E9%9F%B3%E4%B9%90)	|	</sub>
 
-- [Internet troubleshooting: website (www.microsoft.com) is online but isn't responding to connection attempts](https://github.com/jwenjian/ghiblog/issues/66) <sup>0 :speech_balloon:</sup>  			 2019-07-17 08:56:52
-
- 	<sub>|</sub><sub>[:beetle:Bug追踪](https://github.com/jwenjian/ghiblog/labels/%3Abeetle%3ABug%E8%BF%BD%E8%B8%AA)	|	</sub><sub>[:computer:Windows](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3AWindows)	|	</sub>
-
 
 ## 分类  :card_file_box: 
 
@@ -71,7 +71,7 @@
 <details>
 <summary>:+1:置顶	<sup>6:newspaper:</sup></summary>
 
-- [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>2 :speech_balloon:</sup>  	 
+- [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>3 :speech_balloon:</sup>  	 
 - [如果风险投资者问你“如果大公司进入市场与你竞争，怎么办？”，你应该如何回答？](https://github.com/jwenjian/ghiblog/issues/70)  <sup>1 :speech_balloon:</sup>  	 
 - [我喜欢的音乐](https://github.com/jwenjian/ghiblog/issues/67)  <sup>0 :speech_balloon:</sup>  	 
 - [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43)  <sup>1 :speech_balloon:</sup>  	 
@@ -259,7 +259,7 @@
 <details>
 <summary>:video_game:生活	<sup>8:newspaper:</sup></summary>
 
-- [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>2 :speech_balloon:</sup>  	 
+- [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>3 :speech_balloon:</sup>  	 
 - [高铁/动车上插座都在什么位置](https://github.com/jwenjian/ghiblog/issues/59)  <sup>2 :speech_balloon:</sup>  	 
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [2019年的第一次旅行](https://github.com/jwenjian/ghiblog/issues/17)  <sup>0 :speech_balloon:</sup>  	 
