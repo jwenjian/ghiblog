@@ -5,7 +5,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/21"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-08-02 00:02:01"/>
+    <img src="https://badgen.net/badge/last-commit/2019-08-03 00:01:14"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -23,10 +23,10 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>You can't see me, Meow~~!</b></p>
+<p align="center"><b>Chamaeleon II Dark Cloud</b></p>
 
 <p align="center">
-    <img src="https://http.cat/404.jpg" alt="You can't see me, Meow~~!" title="Failed to get picture of the day from NASA api, so here is a little cute cat for you, see you tomorrow!" width="50%"/>
+    <img src="https://apod.nasa.gov/apod/image/1908/Cha-II-Cloud-WebAstroDon1024.jpg" alt="Chamaeleon II Dark Cloud" title="A small constellation hiding near the south celestial pole, The Chamaeleon boasts no bright stars. Stars are forming within its constellation boundaries though, in a complex of dark, dusty molecular clouds. Some 500 light-years distant, the Chamaeleon II dark nebula inhabits this view where the cosmic dust clouds standout mostly in silhouette against the starry southern sky. The telescopic frame is about the angular size of a Full Moon and so spans about 5 light-years at the dark cloud's estimated distance. Scattered near center a telltale reddish glow from identified Herbig-Haro objects is seen in the sharp image, jets of shocked glowing gas emanating from recently formed stars." width="50%"/>
 </p>
 
 
@@ -38,9 +38,9 @@
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
 ## 最新 :new: 
-- [[From Instapaper] : 如何优雅关闭 Spring Boot 应用 - 掘金](https://github.com/jwenjian/ghiblog/issues/72) <sup>0 :speech_balloon:</sup>  			 2019-08-01 11:12:16
+- [如何优雅关闭 Spring Boot 应用](https://github.com/jwenjian/ghiblog/issues/72) <sup>0 :speech_balloon:</sup>  			 2019-08-01 11:12:16
 
- 	<sub>|</sub>
+ 	<sub>|</sub><sub>[:coffee:JAVA](https://github.com/jwenjian/ghiblog/labels/%3Acoffee%3AJAVA)	|	</sub><sub>[:leaves:Spring](https://github.com/jwenjian/ghiblog/labels/%3Aleaves%3ASpring)	|	</sub>
 
 - [影视节目单](https://github.com/jwenjian/ghiblog/issues/71) <sup>3 :speech_balloon:</sup>  			 2019-07-20 04:50:32
 
@@ -130,8 +130,9 @@
 </details>
 
 <details>
-<summary>:coffee:JAVA	<sup>4:newspaper:</sup></summary>
+<summary>:coffee:JAVA	<sup>5:newspaper:</sup></summary>
 
+- [如何优雅关闭 Spring Boot 应用](https://github.com/jwenjian/ghiblog/issues/72)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : Explore the project on start.spring.io](https://github.com/jwenjian/ghiblog/issues/63)  <sup>1 :speech_balloon:</sup>  	 
 - [[From Instapaper] : Java.lang.Void 与 void 的比较及使用](https://github.com/jwenjian/ghiblog/issues/60)  <sup>0 :speech_balloon:</sup>  	 
 - [How to prevent XXE injection when convert xml to object in java](https://github.com/jwenjian/ghiblog/issues/37)  <sup>0 :speech_balloon:</sup>  	 
@@ -201,8 +202,9 @@
 </details>
 
 <details>
-<summary>:leaves:Spring	<sup>3:newspaper:</sup></summary>
+<summary>:leaves:Spring	<sup>4:newspaper:</sup></summary>
 
+- [如何优雅关闭 Spring Boot 应用](https://github.com/jwenjian/ghiblog/issues/72)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : Explore the project on start.spring.io](https://github.com/jwenjian/ghiblog/issues/63)  <sup>1 :speech_balloon:</sup>  	 
 - [How to add custom properties to manifest file with spring boot](https://github.com/jwenjian/ghiblog/issues/24)  <sup>0 :speech_balloon:</sup>  	 
 - [配置SpringBoot定时任务线程池](https://github.com/jwenjian/ghiblog/issues/21)  <sup>0 :speech_balloon:</sup>  	 
