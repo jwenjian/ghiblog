@@ -5,7 +5,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/21"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-08-03 00:01:14"/>
+    <img src="https://badgen.net/badge/last-commit/2019-08-04 00:05:30"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -23,10 +23,10 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>Chamaeleon II Dark Cloud</b></p>
+<p align="center"><b>You can't see me, Meow~~!</b></p>
 
 <p align="center">
-    <img src="https://apod.nasa.gov/apod/image/1908/Cha-II-Cloud-WebAstroDon1024.jpg" alt="Chamaeleon II Dark Cloud" title="A small constellation hiding near the south celestial pole, The Chamaeleon boasts no bright stars. Stars are forming within its constellation boundaries though, in a complex of dark, dusty molecular clouds. Some 500 light-years distant, the Chamaeleon II dark nebula inhabits this view where the cosmic dust clouds standout mostly in silhouette against the starry southern sky. The telescopic frame is about the angular size of a Full Moon and so spans about 5 light-years at the dark cloud's estimated distance. Scattered near center a telltale reddish glow from identified Herbig-Haro objects is seen in the sharp image, jets of shocked glowing gas emanating from recently formed stars." width="50%"/>
+    <img src="https://http.cat/404.jpg" alt="You can't see me, Meow~~!" title="Failed to get picture of the day from NASA api, so here is a little cute cat for you, see you tomorrow!" width="50%"/>
 </p>
 
 
@@ -38,6 +38,14 @@
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+- [[From Instapaper] : CPUID](https://github.com/jwenjian/ghiblog/issues/74) <sup>0 :speech_balloon:</sup>  			 2019-08-03 15:32:52
+
+ 	<sub>|</sub><sub>[:computer:Windows](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3AWindows)	|	</sub><sub>[:hammer:软件](https://github.com/jwenjian/ghiblog/labels/%3Ahammer%3A%E8%BD%AF%E4%BB%B6)	|	</sub>
+
+- [[From Instapaper] : 在 Chromium 版 Edge 浏览器上安装 Google Chrome 应用商店的扩展[Edge]](https://github.com/jwenjian/ghiblog/issues/73) <sup>0 :speech_balloon:</sup>  			 2019-08-03 15:32:45
+
+ 	<sub>|</sub><sub>[:computer:Windows](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3AWindows)	|	</sub><sub>[:hammer:软件](https://github.com/jwenjian/ghiblog/labels/%3Ahammer%3A%E8%BD%AF%E4%BB%B6)	|	</sub>
+
 - [如何优雅关闭 Spring Boot 应用](https://github.com/jwenjian/ghiblog/issues/72) <sup>0 :speech_balloon:</sup>  			 2019-08-01 11:12:16
 
  	<sub>|</sub><sub>[:coffee:JAVA](https://github.com/jwenjian/ghiblog/labels/%3Acoffee%3AJAVA)	|	</sub><sub>[:leaves:Spring](https://github.com/jwenjian/ghiblog/labels/%3Aleaves%3ASpring)	|	</sub>
@@ -49,14 +57,6 @@
 - [如果风险投资者问你“如果大公司进入市场与你竞争，怎么办？”，你应该如何回答？](https://github.com/jwenjian/ghiblog/issues/70) <sup>1 :speech_balloon:</sup>  			 2019-07-19 05:27:22
 
  	<sub>|</sub><sub>[:+1:置顶](https://github.com/jwenjian/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)	|	</sub><sub>[:books:阅读](https://github.com/jwenjian/ghiblog/labels/%3Abooks%3A%E9%98%85%E8%AF%BB)	|	</sub><sub>[good first issue](https://github.com/jwenjian/ghiblog/labels/good%20first%20issue)	|	</sub>
-
-- [[From Instapaper] : 每家门上都挂个西瓜邻居拍照发上网你有素质的样子太美](https://github.com/jwenjian/ghiblog/issues/68) <sup>0 :speech_balloon:</sup>  			 2019-07-19 04:29:23
-
- 	<sub>|</sub><sub>[:books:阅读](https://github.com/jwenjian/ghiblog/labels/%3Abooks%3A%E9%98%85%E8%AF%BB)	|	</sub>
-
-- [我喜欢的音乐](https://github.com/jwenjian/ghiblog/issues/67) <sup>0 :speech_balloon:</sup>  			 2019-07-18 13:53:01
-
- 	<sub>|</sub><sub>[:+1:置顶](https://github.com/jwenjian/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)	|	</sub><sub>[:musical_keyboard:音乐](https://github.com/jwenjian/ghiblog/labels/%3Amusical_keyboard%3A%E9%9F%B3%E4%B9%90)	|	</sub>
 
 
 ## 分类  :card_file_box: 
@@ -142,8 +142,10 @@
 </details>
 
 <details>
-<summary>:computer:Windows	<sup>10:newspaper:</sup></summary>
+<summary>:computer:Windows	<sup>12:newspaper:</sup></summary>
 
+- [[From Instapaper] : CPUID](https://github.com/jwenjian/ghiblog/issues/74)  <sup>0 :speech_balloon:</sup>  	 
+- [[From Instapaper] : 在 Chromium 版 Edge 浏览器上安装 Google Chrome 应用商店的扩展[Edge]](https://github.com/jwenjian/ghiblog/issues/73)  <sup>0 :speech_balloon:</sup>  	 
 - [Internet troubleshooting: website (www.microsoft.com) is online but isn't responding to connection attempts](https://github.com/jwenjian/ghiblog/issues/66)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : Task Scheduler - Windows applications | Windows上的定时任务管理器](https://github.com/jwenjian/ghiblog/issues/57)  <sup>1 :speech_balloon:</sup>  	 
 - [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36)  <sup>1 :speech_balloon:</sup>  	 
@@ -187,8 +189,10 @@
 </details>
 
 <details>
-<summary>:hammer:软件	<sup>8:newspaper:</sup></summary>
+<summary>:hammer:软件	<sup>10:newspaper:</sup></summary>
 
+- [[From Instapaper] : CPUID](https://github.com/jwenjian/ghiblog/issues/74)  <sup>0 :speech_balloon:</sup>  	 
+- [[From Instapaper] : 在 Chromium 版 Edge 浏览器上安装 Google Chrome 应用商店的扩展[Edge]](https://github.com/jwenjian/ghiblog/issues/73)  <sup>0 :speech_balloon:</sup>  	 
 - [C++: Ignore warnings C4996](https://github.com/jwenjian/ghiblog/issues/30)  <sup>0 :speech_balloon:</sup>  	 
 - [Eclipse.ini使用-vm参数指定JVM](https://github.com/jwenjian/ghiblog/issues/26)  <sup>0 :speech_balloon:</sup>  	 
 - [Eclipse网络代理配置](https://github.com/jwenjian/ghiblog/issues/19)  <sup>0 :speech_balloon:</sup>  	 
