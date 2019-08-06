@@ -5,7 +5,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/21"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-08-05 00:00:59"/>
+    <img src="https://badgen.net/badge/last-commit/2019-08-06 00:01:25"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -23,10 +23,10 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>You can't see me, Meow~~!</b></p>
+<p align="center"><b>A Total Solar Eclipse Reflected</b></p>
 
 <p align="center">
-    <img src="https://http.cat/404.jpg" alt="You can't see me, Meow~~!" title="Failed to get picture of the day from NASA api, so here is a little cute cat for you, see you tomorrow!" width="50%"/>
+    <img src="https://apod.nasa.gov/apod/image/1908/DoubleEclipse_Legault_1080.jpg" alt="A Total Solar Eclipse Reflected" title="If you saw a total solar eclipse, would you do a double-take? One astrophotographer did just that -- but it took a lake and a bit of planning. Realizing that the eclipse would be low on the horizon, he looked for a suitable place along the thin swath of South America that would see, for a few minutes, the Moon completely block the Sun, both directly and in reflection.  The day before totality, he visited an Argentine lake called La Cuesta Del Viento (The Slope of the Wind) and, despite its name, found so little wind that the lake looked like a mirror.  Perfect.  Returning the day of the eclipse, though, there was a strong breeze  churning up the water -- enough to ruin the eclipse reflection shot.  Despair. But wait!  Strangely, about an hour before totality, the wind died down.  This calmness may have been related to the eclipse itself, because eclipsed ground heats the air less and reduces the amount rising warm air -- which can dampen and even change the wind direction.  The eclipse came, his tripod and camera were ready, and so was the lake. The featured image of this double-eclipse came from a single exposure lasting just one fifteenth of a second. Soon after totality, the winds returned and the water again became choppy. No matter -- this double-image of the 2019 July total solar eclipse had been captured forever." width="50%"/>
 </p>
 
 
@@ -38,25 +38,25 @@
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+- [Codeimg.io 代码 -> 图片 -> 分享](https://github.com/jwenjian/ghiblog/issues/78) <sup>0 :speech_balloon:</sup>  			 2019-08-05 06:20:10
+
+ 	<sub>|</sub><sub>[:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F)	|	</sub>
+
+- [[From Instapaper] : LinkedIn的即时消息在一台机器上支持几十万条长连接 - InfoQ](https://github.com/jwenjian/ghiblog/issues/77) <sup>0 :speech_balloon:</sup>  			 2019-08-05 06:20:09
+
+ 	<sub>|</sub>
+
+- [[From Instapaper] : C/C 静态链接库(.a) 与 动态链接库(.so) - 52php - 博客园](https://github.com/jwenjian/ghiblog/issues/76) <sup>0 :speech_balloon:</sup>  			 2019-08-05 05:56:04
+
+ 	<sub>|</sub>
+
+- [舒尔特训练法](https://github.com/jwenjian/ghiblog/issues/75) <sup>0 :speech_balloon:</sup>  			 2019-08-05 05:09:30
+
+ 	<sub>|</sub><sub>[:video_game:生活](https://github.com/jwenjian/ghiblog/labels/%3Avideo_game%3A%E7%94%9F%E6%B4%BB)	|	</sub>
+
 - [[From Instapaper] : CPUID](https://github.com/jwenjian/ghiblog/issues/74) <sup>0 :speech_balloon:</sup>  			 2019-08-03 15:32:52
 
  	<sub>|</sub><sub>[:computer:Windows](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3AWindows)	|	</sub><sub>[:hammer:软件](https://github.com/jwenjian/ghiblog/labels/%3Ahammer%3A%E8%BD%AF%E4%BB%B6)	|	</sub>
-
-- [[From Instapaper] : 在 Chromium 版 Edge 浏览器上安装 Google Chrome 应用商店的扩展[Edge]](https://github.com/jwenjian/ghiblog/issues/73) <sup>0 :speech_balloon:</sup>  			 2019-08-03 15:32:45
-
- 	<sub>|</sub><sub>[:computer:Windows](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3AWindows)	|	</sub><sub>[:hammer:软件](https://github.com/jwenjian/ghiblog/labels/%3Ahammer%3A%E8%BD%AF%E4%BB%B6)	|	</sub>
-
-- [如何优雅关闭 Spring Boot 应用](https://github.com/jwenjian/ghiblog/issues/72) <sup>0 :speech_balloon:</sup>  			 2019-08-01 11:12:16
-
- 	<sub>|</sub><sub>[:coffee:JAVA](https://github.com/jwenjian/ghiblog/labels/%3Acoffee%3AJAVA)	|	</sub><sub>[:leaves:Spring](https://github.com/jwenjian/ghiblog/labels/%3Aleaves%3ASpring)	|	</sub>
-
-- [影视节目单](https://github.com/jwenjian/ghiblog/issues/71) <sup>3 :speech_balloon:</sup>  			 2019-07-20 04:50:32
-
- 	<sub>|</sub><sub>[:+1:置顶](https://github.com/jwenjian/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)	|	</sub><sub>[:video_game:生活](https://github.com/jwenjian/ghiblog/labels/%3Avideo_game%3A%E7%94%9F%E6%B4%BB)	|	</sub>
-
-- [如果风险投资者问你“如果大公司进入市场与你竞争，怎么办？”，你应该如何回答？](https://github.com/jwenjian/ghiblog/issues/70) <sup>1 :speech_balloon:</sup>  			 2019-07-19 05:27:22
-
- 	<sub>|</sub><sub>[:+1:置顶](https://github.com/jwenjian/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)	|	</sub><sub>[:books:阅读](https://github.com/jwenjian/ghiblog/labels/%3Abooks%3A%E9%98%85%E8%AF%BB)	|	</sub><sub>[good first issue](https://github.com/jwenjian/ghiblog/labels/good%20first%20issue)	|	</sub>
 
 
 ## 分类  :card_file_box: 
@@ -176,8 +176,9 @@
 </details>
 
 <details>
-<summary>:earth_africa:网站收藏	<sup>6:newspaper:</sup></summary>
+<summary>:earth_africa:网站收藏	<sup>7:newspaper:</sup></summary>
 
+- [Codeimg.io 代码 -> 图片 -> 分享](https://github.com/jwenjian/ghiblog/issues/78)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : 臆病な魔女](https://github.com/jwenjian/ghiblog/issues/58)  <sup>3 :speech_balloon:</sup>  	 
 - [[From Instapaper] : 西尾維新オフィシャルサイト](https://github.com/jwenjian/ghiblog/issues/53)  <sup>1 :speech_balloon:</sup>  	 
 - [HTTP CAT: 用猫的图片来形象的表示每一个http状态码](https://github.com/jwenjian/ghiblog/issues/45)  <sup>0 :speech_balloon:</sup>  	 
@@ -263,8 +264,9 @@
 </details>
 
 <details>
-<summary>:video_game:生活	<sup>8:newspaper:</sup></summary>
+<summary>:video_game:生活	<sup>9:newspaper:</sup></summary>
 
+- [舒尔特训练法](https://github.com/jwenjian/ghiblog/issues/75)  <sup>0 :speech_balloon:</sup>  	 
 - [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>3 :speech_balloon:</sup>  	 
 - [高铁/动车上插座都在什么位置](https://github.com/jwenjian/ghiblog/issues/59)  <sup>2 :speech_balloon:</sup>  	 
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
