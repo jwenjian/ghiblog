@@ -1,5 +1,6 @@
-
-# GitHub Issues Blog :tada::tada::tada:
+<p align='center'>
+    <a href="#"><img src="assets/ghiblog.png" width="50%"/></a>
+</p>
 
 <p align='center'>
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
