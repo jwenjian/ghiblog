@@ -60,7 +60,9 @@ def bundle_summary_section():
     pic_of_the_day = NasaClient().get_picture_of_the_day()
 
     summary_section = '''
-# GitHub Issues Blog :tada::tada::tada:
+<p align='center'>
+    <a href="#"><img src="assets/ghiblog.png" width="50%"/></a>
+</p>
 
 <p align='center'>
     <img src="https://badgen.net/circleci/github/{0}/ghiblog"/>
