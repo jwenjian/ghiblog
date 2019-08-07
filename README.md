@@ -1,12 +1,13 @@
+
 <p align='center'>
     <a href="#"><img src="assets/ghiblog.png" width="50%"/></a>
 </p>
 
 <p align='center'>
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/labels/21"/>
+    <img src="https://badgen.net/badge/labels/22"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-08-06 00:01:25"/>
+    <img src="https://badgen.net/badge/last-commit/2019-08-07 00:00:38"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -24,10 +25,10 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>A Total Solar Eclipse Reflected</b></p>
+<p align="center"><b>You can't see me, Meow~~!</b></p>
 
 <p align="center">
-    <img src="https://apod.nasa.gov/apod/image/1908/DoubleEclipse_Legault_1080.jpg" alt="A Total Solar Eclipse Reflected" title="If you saw a total solar eclipse, would you do a double-take? One astrophotographer did just that -- but it took a lake and a bit of planning. Realizing that the eclipse would be low on the horizon, he looked for a suitable place along the thin swath of South America that would see, for a few minutes, the Moon completely block the Sun, both directly and in reflection.  The day before totality, he visited an Argentine lake called La Cuesta Del Viento (The Slope of the Wind) and, despite its name, found so little wind that the lake looked like a mirror.  Perfect.  Returning the day of the eclipse, though, there was a strong breeze  churning up the water -- enough to ruin the eclipse reflection shot.  Despair. But wait!  Strangely, about an hour before totality, the wind died down.  This calmness may have been related to the eclipse itself, because eclipsed ground heats the air less and reduces the amount rising warm air -- which can dampen and even change the wind direction.  The eclipse came, his tripod and camera were ready, and so was the lake. The featured image of this double-eclipse came from a single exposure lasting just one fifteenth of a second. Soon after totality, the winds returned and the water again became choppy. No matter -- this double-image of the 2019 July total solar eclipse had been captured forever." width="50%"/>
+    <img src="https://http.cat/404.jpg" alt="You can't see me, Meow~~!" title="Failed to get picture of the day from NASA api, so here is a little cute cat for you, see you tomorrow!" width="50%"/>
 </p>
 
 
@@ -39,25 +40,25 @@
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+- [Brandmark Logo Maker - 基于人工智能的LOGO生成工具](https://github.com/jwenjian/ghiblog/issues/79) <sup>0 :speech_balloon:</sup>  			 2019-08-06 05:16:39
+
+ 	<sub>|</sub><sub>[:art:前端](https://github.com/jwenjian/ghiblog/labels/%3Aart%3A%E5%89%8D%E7%AB%AF)	|	</sub><sub>[:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F)	|	</sub>
+
 - [Codeimg.io 代码 -> 图片 -> 分享](https://github.com/jwenjian/ghiblog/issues/78) <sup>0 :speech_balloon:</sup>  			 2019-08-05 06:20:10
 
  	<sub>|</sub><sub>[:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F)	|	</sub>
 
-- [[From Instapaper] : LinkedIn的即时消息在一台机器上支持几十万条长连接 - InfoQ](https://github.com/jwenjian/ghiblog/issues/77) <sup>0 :speech_balloon:</sup>  			 2019-08-05 06:20:09
+- [LinkedIn如何在一台机器上支持几十万条长连接？](https://github.com/jwenjian/ghiblog/issues/77) <sup>0 :speech_balloon:</sup>  			 2019-08-05 06:20:09
 
- 	<sub>|</sub>
+ 	<sub>|</sub><sub>[Instapaper](https://github.com/jwenjian/ghiblog/labels/Instapaper)	|	</sub><sub>[架构](https://github.com/jwenjian/ghiblog/labels/%E6%9E%B6%E6%9E%84)	|	</sub>
 
 - [[From Instapaper] : C/C 静态链接库(.a) 与 动态链接库(.so) - 52php - 博客园](https://github.com/jwenjian/ghiblog/issues/76) <sup>0 :speech_balloon:</sup>  			 2019-08-05 05:56:04
 
- 	<sub>|</sub>
+ 	<sub>|</sub><sub>[Instapaper](https://github.com/jwenjian/ghiblog/labels/Instapaper)	|	</sub>
 
 - [舒尔特训练法](https://github.com/jwenjian/ghiblog/issues/75) <sup>0 :speech_balloon:</sup>  			 2019-08-05 05:09:30
 
  	<sub>|</sub><sub>[:video_game:生活](https://github.com/jwenjian/ghiblog/labels/%3Avideo_game%3A%E7%94%9F%E6%B4%BB)	|	</sub>
-
-- [[From Instapaper] : CPUID](https://github.com/jwenjian/ghiblog/issues/74) <sup>0 :speech_balloon:</sup>  			 2019-08-03 15:32:52
-
- 	<sub>|</sub><sub>[:computer:Windows](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3AWindows)	|	</sub><sub>[:hammer:软件](https://github.com/jwenjian/ghiblog/labels/%3Ahammer%3A%E8%BD%AF%E4%BB%B6)	|	</sub>
 
 
 ## 分类  :card_file_box: 
@@ -83,8 +84,9 @@
 </details>
 
 <details>
-<summary>:art:前端	<sup>8:newspaper:</sup></summary>
+<summary>:art:前端	<sup>9:newspaper:</sup></summary>
 
+- [Brandmark Logo Maker - 基于人工智能的LOGO生成工具](https://github.com/jwenjian/ghiblog/issues/79)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : 臆病な魔女](https://github.com/jwenjian/ghiblog/issues/58)  <sup>3 :speech_balloon:</sup>  	 
 - [[From Instapaper] : 前端必会四步带你吃透浏览器渲染基本原理](https://github.com/jwenjian/ghiblog/issues/55)  <sup>0 :speech_balloon:</sup>  	 
 - [关于浏览器自动填充](https://github.com/jwenjian/ghiblog/issues/42)  <sup>0 :speech_balloon:</sup>  	 
@@ -134,7 +136,7 @@
 <summary>:coffee:JAVA	<sup>5:newspaper:</sup></summary>
 
 - [如何优雅关闭 Spring Boot 应用](https://github.com/jwenjian/ghiblog/issues/72)  <sup>0 :speech_balloon:</sup>  	 
-- [[From Instapaper] : Explore the project on start.spring.io](https://github.com/jwenjian/ghiblog/issues/63)  <sup>1 :speech_balloon:</sup>  	 
+- [start.spring.io支持在线预览生成的文件内容](https://github.com/jwenjian/ghiblog/issues/63)  <sup>1 :speech_balloon:</sup>  	 
 - [[From Instapaper] : Java.lang.Void 与 void 的比较及使用](https://github.com/jwenjian/ghiblog/issues/60)  <sup>0 :speech_balloon:</sup>  	 
 - [How to prevent XXE injection when convert xml to object in java](https://github.com/jwenjian/ghiblog/issues/37)  <sup>0 :speech_balloon:</sup>  	 
 - [配置SpringBoot定时任务线程池](https://github.com/jwenjian/ghiblog/issues/21)  <sup>0 :speech_balloon:</sup>  	 
@@ -177,8 +179,9 @@
 </details>
 
 <details>
-<summary>:earth_africa:网站收藏	<sup>7:newspaper:</sup></summary>
+<summary>:earth_africa:网站收藏	<sup>8:newspaper:</sup></summary>
 
+- [Brandmark Logo Maker - 基于人工智能的LOGO生成工具](https://github.com/jwenjian/ghiblog/issues/79)  <sup>0 :speech_balloon:</sup>  	 
 - [Codeimg.io 代码 -> 图片 -> 分享](https://github.com/jwenjian/ghiblog/issues/78)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : 臆病な魔女](https://github.com/jwenjian/ghiblog/issues/58)  <sup>3 :speech_balloon:</sup>  	 
 - [[From Instapaper] : 西尾維新オフィシャルサイト](https://github.com/jwenjian/ghiblog/issues/53)  <sup>1 :speech_balloon:</sup>  	 
@@ -211,7 +214,7 @@
 <summary>:leaves:Spring	<sup>4:newspaper:</sup></summary>
 
 - [如何优雅关闭 Spring Boot 应用](https://github.com/jwenjian/ghiblog/issues/72)  <sup>0 :speech_balloon:</sup>  	 
-- [[From Instapaper] : Explore the project on start.spring.io](https://github.com/jwenjian/ghiblog/issues/63)  <sup>1 :speech_balloon:</sup>  	 
+- [start.spring.io支持在线预览生成的文件内容](https://github.com/jwenjian/ghiblog/issues/63)  <sup>1 :speech_balloon:</sup>  	 
 - [How to add custom properties to manifest file with spring boot](https://github.com/jwenjian/ghiblog/issues/24)  <sup>0 :speech_balloon:</sup>  	 
 - [配置SpringBoot定时任务线程池](https://github.com/jwenjian/ghiblog/issues/21)  <sup>0 :speech_balloon:</sup>  	 
 
@@ -222,7 +225,7 @@
 <summary>:man_technologist:Linux	<sup>6:newspaper:</sup></summary>
 
 - [在Ubuntu上安装nodejs、npm](https://github.com/jwenjian/ghiblog/issues/65)  <sup>1 :speech_balloon:</sup>  	 
-- [[From Instapaper] : Configure proxy for APT?](https://github.com/jwenjian/ghiblog/issues/61)  <sup>1 :speech_balloon:</sup>  	 
+- [为Ubuntu系统包管理工具apt配置代理](https://github.com/jwenjian/ghiblog/issues/61)  <sup>0 :speech_balloon:</sup>  	 
 - [调整Typora显示宽度](https://github.com/jwenjian/ghiblog/issues/18)  <sup>0 :speech_balloon:</sup>  	 
 - [Linux命令在线查询手册](https://github.com/jwenjian/ghiblog/issues/12)  <sup>0 :speech_balloon:</sup>  	 
 - [Linux-编译安装nginx源码](https://github.com/jwenjian/ghiblog/issues/9)  <sup>0 :speech_balloon:</sup>  	 
@@ -281,8 +284,10 @@
 </details>
 
 <details>
-<summary>Instapaper	<sup>9:newspaper:</sup></summary>
+<summary>Instapaper	<sup>11:newspaper:</sup></summary>
 
+- [LinkedIn如何在一台机器上支持几十万条长连接？](https://github.com/jwenjian/ghiblog/issues/77)  <sup>0 :speech_balloon:</sup>  	 
+- [[From Instapaper] : C/C 静态链接库(.a) 与 动态链接库(.so) - 52php - 博客园](https://github.com/jwenjian/ghiblog/issues/76)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : Task Scheduler - Windows applications | Windows上的定时任务管理器](https://github.com/jwenjian/ghiblog/issues/57)  <sup>1 :speech_balloon:</sup>  	 
 - [[From Instapaper] : Should Neil Armstrongs Bootprints Be on the Moon Forever](https://github.com/jwenjian/ghiblog/issues/56)  <sup>1 :speech_balloon:</sup>  	 
 - [[From Instapaper] : 前端必会四步带你吃透浏览器渲染基本原理](https://github.com/jwenjian/ghiblog/issues/55)  <sup>0 :speech_balloon:</sup>  	 
@@ -328,6 +333,14 @@
 
 - [如果风险投资者问你“如果大公司进入市场与你竞争，怎么办？”，你应该如何回答？](https://github.com/jwenjian/ghiblog/issues/70)  <sup>1 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>架构	<sup>1:newspaper:</sup></summary>
+
+- [LinkedIn如何在一台机器上支持几十万条长连接？](https://github.com/jwenjian/ghiblog/issues/77)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
