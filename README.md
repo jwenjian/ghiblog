@@ -7,7 +7,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/22"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-08-07 00:00:38"/>
+    <img src="https://badgen.net/badge/last-commit/2019-08-08 00:01:05"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -25,10 +25,10 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>You can't see me, Meow~~!</b></p>
+<p align="center"><b>Jupiter Engulfed and the Milky Way</b></p>
 
 <p align="center">
-    <img src="https://http.cat/404.jpg" alt="You can't see me, Meow~~!" title="Failed to get picture of the day from NASA api, so here is a little cute cat for you, see you tomorrow!" width="50%"/>
+    <img src="https://apod.nasa.gov/apod/image/1908/JawsJupiter_Hayati_960.jpg" alt="Jupiter Engulfed and the Milky Way" title="This is a good month to see Jupiter. To find our Solar System's largest planet in your sky, look toward the southeast just after sunset -- Jupiter should be the brightest object in that part of the sky.  If you have a binoculars or a small telescope, you should be able to see Jupiter's four brightest moons right nearby, and possibly some cloud bands. The featured image was taken about a month ago from the Persian Gulf. The image shows Jupiter just to the right of the nearly vertical band of the central disk of our Milky Way Galaxy.  The unnamed rock formations appear in projection like the jaws of a giant monster ready to engulf the Jovian giant.  When you see Jupiter, it may be interesting to know that NASA's robotic Juno spacecraft is simultaneously visiting and studying the giant planet.  Saturn is also visible this month, and although it is nearby to Jupiter, it is not as bright." width="50%"/>
 </p>
 
 
@@ -40,25 +40,25 @@
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
 ## 最新 :new: 
-- [Brandmark Logo Maker - 基于人工智能的LOGO生成工具](https://github.com/jwenjian/ghiblog/issues/79) <sup>0 :speech_balloon:</sup>  			 2019-08-06 05:16:39
+- [[From Instapaper] : 如何在优雅地Spring 中实现消息的发送和消费](https://github.com/jwenjian/ghiblog/issues/85) <sup>0 :speech_balloon:</sup>  			 2019-08-07 15:14:42
 
- 	<sub>|</sub><sub>[:art:前端](https://github.com/jwenjian/ghiblog/labels/%3Aart%3A%E5%89%8D%E7%AB%AF)	|	</sub><sub>[:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F)	|	</sub>
+ 	<sub>|</sub>
 
-- [Codeimg.io 代码 -> 图片 -> 分享](https://github.com/jwenjian/ghiblog/issues/78) <sup>0 :speech_balloon:</sup>  			 2019-08-05 06:20:10
+- [[From Instapaper] : 再见Excel我开源了一款与Python深度集成的神器级IDE - InfoQ](https://github.com/jwenjian/ghiblog/issues/84) <sup>0 :speech_balloon:</sup>  			 2019-08-07 14:13:06
 
- 	<sub>|</sub><sub>[:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F)	|	</sub>
+ 	<sub>|</sub>
 
-- [LinkedIn如何在一台机器上支持几十万条长连接？](https://github.com/jwenjian/ghiblog/issues/77) <sup>0 :speech_balloon:</sup>  			 2019-08-05 06:20:09
+- [[From Instapaper] : RocketMQ与kafka对比18项差异](https://github.com/jwenjian/ghiblog/issues/83) <sup>0 :speech_balloon:</sup>  			 2019-08-07 14:13:01
 
- 	<sub>|</sub><sub>[Instapaper](https://github.com/jwenjian/ghiblog/labels/Instapaper)	|	</sub><sub>[架构](https://github.com/jwenjian/ghiblog/labels/%E6%9E%B6%E6%9E%84)	|	</sub>
+ 	<sub>|</sub>
 
-- [[From Instapaper] : C/C 静态链接库(.a) 与 动态链接库(.so) - 52php - 博客园](https://github.com/jwenjian/ghiblog/issues/76) <sup>0 :speech_balloon:</sup>  			 2019-08-05 05:56:04
+- [Install parent POM without building Child modules](https://github.com/jwenjian/ghiblog/issues/82) <sup>0 :speech_balloon:</sup>  			 2019-08-07 10:06:24
 
- 	<sub>|</sub><sub>[Instapaper](https://github.com/jwenjian/ghiblog/labels/Instapaper)	|	</sub>
+ 	<sub>|</sub><sub>[Maven](https://github.com/jwenjian/ghiblog/labels/Maven)	|	</sub>
 
-- [舒尔特训练法](https://github.com/jwenjian/ghiblog/issues/75) <sup>0 :speech_balloon:</sup>  			 2019-08-05 05:09:30
+- [白话中台战略 - InfoQ](https://github.com/jwenjian/ghiblog/issues/81) <sup>0 :speech_balloon:</sup>  			 2019-08-07 10:06:20
 
- 	<sub>|</sub><sub>[:video_game:生活](https://github.com/jwenjian/ghiblog/labels/%3Avideo_game%3A%E7%94%9F%E6%B4%BB)	|	</sub>
+ 	<sub>|</sub><sub>[架构](https://github.com/jwenjian/ghiblog/labels/%E6%9E%B6%E6%9E%84)	|	</sub>
 
 
 ## 分类  :card_file_box: 
@@ -84,8 +84,9 @@
 </details>
 
 <details>
-<summary>:art:前端	<sup>9:newspaper:</sup></summary>
+<summary>:art:前端	<sup>10:newspaper:</sup></summary>
 
+- [使用渐变一个div画Chrome浏览器logo](https://github.com/jwenjian/ghiblog/issues/80)  <sup>0 :speech_balloon:</sup>  	 
 - [Brandmark Logo Maker - 基于人工智能的LOGO生成工具](https://github.com/jwenjian/ghiblog/issues/79)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : 臆病な魔女](https://github.com/jwenjian/ghiblog/issues/58)  <sup>3 :speech_balloon:</sup>  	 
 - [[From Instapaper] : 前端必会四步带你吃透浏览器渲染基本原理](https://github.com/jwenjian/ghiblog/issues/55)  <sup>0 :speech_balloon:</sup>  	 
@@ -310,8 +311,9 @@
 </details>
 
 <details>
-<summary>Maven	<sup>4:newspaper:</sup></summary>
+<summary>Maven	<sup>5:newspaper:</sup></summary>
 
+- [Install parent POM without building Child modules](https://github.com/jwenjian/ghiblog/issues/82)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : maven getting "Not Authorized" when trying to access nexus private repository](https://github.com/jwenjian/ghiblog/issues/48)  <sup>0 :speech_balloon:</sup>  	 
 - [Maven: maven-dependency-plugin:get 通过命令行下载jar包到本地仓库 无需pom文件](https://github.com/jwenjian/ghiblog/issues/39)  <sup>0 :speech_balloon:</sup>  	 
 - [Maven: mvn clean install --fail-at-end](https://github.com/jwenjian/ghiblog/issues/33)  <sup>0 :speech_balloon:</sup>  	 
@@ -338,8 +340,9 @@
 </details>
 
 <details>
-<summary>架构	<sup>1:newspaper:</sup></summary>
+<summary>架构	<sup>2:newspaper:</sup></summary>
 
+- [白话中台战略 - InfoQ](https://github.com/jwenjian/ghiblog/issues/81)  <sup>0 :speech_balloon:</sup>  	 
 - [LinkedIn如何在一台机器上支持几十万条长连接？](https://github.com/jwenjian/ghiblog/issues/77)  <sup>0 :speech_balloon:</sup>  	 
 
 
