@@ -7,7 +7,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/22"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-08-08 00:01:05"/>
+    <img src="https://badgen.net/badge/last-commit/2019-08-09 00:01:56"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -25,10 +25,10 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>Jupiter Engulfed and the Milky Way</b></p>
+<p align="center"><b>You can't see me, Meow~~!</b></p>
 
 <p align="center">
-    <img src="https://apod.nasa.gov/apod/image/1908/JawsJupiter_Hayati_960.jpg" alt="Jupiter Engulfed and the Milky Way" title="This is a good month to see Jupiter. To find our Solar System's largest planet in your sky, look toward the southeast just after sunset -- Jupiter should be the brightest object in that part of the sky.  If you have a binoculars or a small telescope, you should be able to see Jupiter's four brightest moons right nearby, and possibly some cloud bands. The featured image was taken about a month ago from the Persian Gulf. The image shows Jupiter just to the right of the nearly vertical band of the central disk of our Milky Way Galaxy.  The unnamed rock formations appear in projection like the jaws of a giant monster ready to engulf the Jovian giant.  When you see Jupiter, it may be interesting to know that NASA's robotic Juno spacecraft is simultaneously visiting and studying the giant planet.  Saturn is also visible this month, and although it is nearby to Jupiter, it is not as bright." width="50%"/>
+    <img src="https://http.cat/404.jpg" alt="You can't see me, Meow~~!" title="Failed to get picture of the day from NASA api, so here is a little cute cat for you, see you tomorrow!" width="50%"/>
 </p>
 
 
@@ -48,9 +48,9 @@
 
  	<sub>|</sub>
 
-- [[From Instapaper] : RocketMQ与kafka对比18项差异](https://github.com/jwenjian/ghiblog/issues/83) <sup>0 :speech_balloon:</sup>  			 2019-08-07 14:13:01
+- [RocketMQ与kafka对比18项差异](https://github.com/jwenjian/ghiblog/issues/83) <sup>0 :speech_balloon:</sup>  			 2019-08-07 14:13:01
 
- 	<sub>|</sub>
+ 	<sub>|</sub><sub>[架构](https://github.com/jwenjian/ghiblog/labels/%E6%9E%B6%E6%9E%84)	|	</sub>
 
 - [Install parent POM without building Child modules](https://github.com/jwenjian/ghiblog/issues/82) <sup>0 :speech_balloon:</sup>  			 2019-08-07 10:06:24
 
@@ -340,8 +340,9 @@
 </details>
 
 <details>
-<summary>架构	<sup>2:newspaper:</sup></summary>
+<summary>架构	<sup>3:newspaper:</sup></summary>
 
+- [RocketMQ与kafka对比18项差异](https://github.com/jwenjian/ghiblog/issues/83)  <sup>0 :speech_balloon:</sup>  	 
 - [白话中台战略 - InfoQ](https://github.com/jwenjian/ghiblog/issues/81)  <sup>0 :speech_balloon:</sup>  	 
 - [LinkedIn如何在一台机器上支持几十万条长连接？](https://github.com/jwenjian/ghiblog/issues/77)  <sup>0 :speech_balloon:</sup>  	 
 
