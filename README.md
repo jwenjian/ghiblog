@@ -7,7 +7,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/22"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-08-09 00:01:56"/>
+    <img src="https://badgen.net/badge/last-commit/2019-08-10 00:01:24"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -25,10 +25,10 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>You can't see me, Meow~~!</b></p>
+<p align="center"><b>Atlas at Dawn</b></p>
 
 <p align="center">
-    <img src="https://http.cat/404.jpg" alt="You can't see me, Meow~~!" title="Failed to get picture of the day from NASA api, so here is a little cute cat for you, see you tomorrow!" width="50%"/>
+    <img src="https://apod.nasa.gov/apod/image/1908/5D4_5485seeley_1067.jpg" alt="Atlas at Dawn" title="This single, 251-second long exposure follows the early flight of an Atlas V rocket on August 8, streaking eastward toward the dawn from Cape Canaveral Air Force Station, planet Earth. The launch of the United Launch Alliance rocket was at 6:13am local time. Sunrise was not until 6:48am, but the rocket's downrange plume at altitude is brightly lit by the Sun still just below the eastern horizon. Waters of the Indian River Lagoon in Palm Shores, Forida reflect subtle colors and warming glow of the otherwise calm, predawn sky. The mighty Atlas rocket carried a military communications satellite into Earth orbit. Of course, this weekend the streaks you see in clear skies before the dawn could be Perseid Meteors.   Watch: Perseid Meteor Shower" width="50%"/>
 </p>
 
 
@@ -149,7 +149,7 @@
 <summary>:computer:Windows	<sup>12:newspaper:</sup></summary>
 
 - [[From Instapaper] : CPUID](https://github.com/jwenjian/ghiblog/issues/74)  <sup>0 :speech_balloon:</sup>  	 
-- [[From Instapaper] : 在 Chromium 版 Edge 浏览器上安装 Google Chrome 应用商店的扩展[Edge]](https://github.com/jwenjian/ghiblog/issues/73)  <sup>0 :speech_balloon:</sup>  	 
+- [如何在 Chromium 版 Edge 浏览器上安装 Google Chrome 应用商店的扩展](https://github.com/jwenjian/ghiblog/issues/73)  <sup>0 :speech_balloon:</sup>  	 
 - [Internet troubleshooting: website (www.microsoft.com) is online but isn't responding to connection attempts](https://github.com/jwenjian/ghiblog/issues/66)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : Task Scheduler - Windows applications | Windows上的定时任务管理器](https://github.com/jwenjian/ghiblog/issues/57)  <sup>1 :speech_balloon:</sup>  	 
 - [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36)  <sup>1 :speech_balloon:</sup>  	 
@@ -198,7 +198,7 @@
 <summary>:hammer:软件	<sup>10:newspaper:</sup></summary>
 
 - [[From Instapaper] : CPUID](https://github.com/jwenjian/ghiblog/issues/74)  <sup>0 :speech_balloon:</sup>  	 
-- [[From Instapaper] : 在 Chromium 版 Edge 浏览器上安装 Google Chrome 应用商店的扩展[Edge]](https://github.com/jwenjian/ghiblog/issues/73)  <sup>0 :speech_balloon:</sup>  	 
+- [如何在 Chromium 版 Edge 浏览器上安装 Google Chrome 应用商店的扩展](https://github.com/jwenjian/ghiblog/issues/73)  <sup>0 :speech_balloon:</sup>  	 
 - [C++: Ignore warnings C4996](https://github.com/jwenjian/ghiblog/issues/30)  <sup>0 :speech_balloon:</sup>  	 
 - [Eclipse.ini使用-vm参数指定JVM](https://github.com/jwenjian/ghiblog/issues/26)  <sup>0 :speech_balloon:</sup>  	 
 - [Eclipse网络代理配置](https://github.com/jwenjian/ghiblog/issues/19)  <sup>0 :speech_balloon:</sup>  	 
