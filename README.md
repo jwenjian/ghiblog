@@ -7,7 +7,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/22"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-08-12 00:01:24"/>
+    <img src="https://badgen.net/badge/last-commit/2019-08-13 00:01:09"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -25,10 +25,10 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>You can't see me, Meow~~!</b></p>
+<p align="center"><b>Perseid Meteors over Slovakia</b></p>
 
 <p align="center">
-    <img src="https://http.cat/404.jpg" alt="You can't see me, Meow~~!" title="Failed to get picture of the day from NASA api, so here is a little cute cat for you, see you tomorrow!" width="50%"/>
+    <img src="https://apod.nasa.gov/apod/image/1908/PerseidsSlovakia_Horalek_960.jpg" alt="Perseid Meteors over Slovakia" title="Tonight is a good night to see meteors.  Comet dust will rain down on planet Earth, streaking through dark skies during the peak of the annual Perseid Meteor Shower.  The featured composite image was taken during last year's Perseids from the Poloniny Dark Sky Park in Slovakia.  The unusual building in the foreground is a planetarium on the grounds of Kolonica Observatory. Although the comet dust particles travel parallel to each other, the resulting shower meteors clearly seem to radiate from a single point on the sky in the eponymous constellation Perseus.  The radiant effect is due to perspective, as the parallel tracks appear to converge at a distance, like train tracks.  The Perseid Meteor Shower is expected to peak after midnight tonight, although unfortunately this year the sky will be brightened by a near full Moon." width="50%"/>
 </p>
 
 
@@ -40,25 +40,25 @@
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+- [近期生活随拍](https://github.com/jwenjian/ghiblog/issues/89) <sup>0 :speech_balloon:</sup>  			 2019-08-12 11:56:39
+
+ 	<sub>|</sub><sub>[:camera_flash:随拍](https://github.com/jwenjian/ghiblog/labels/%3Acamera_flash%3A%E9%9A%8F%E6%8B%8D)	|	</sub><sub>[:video_game:生活](https://github.com/jwenjian/ghiblog/labels/%3Avideo_game%3A%E7%94%9F%E6%B4%BB)	|	</sub>
+
+- [Docker配置HTTP/HTTPS代理](https://github.com/jwenjian/ghiblog/issues/88) <sup>0 :speech_balloon:</sup>  			 2019-08-12 08:03:22
+
+ 	<sub>|</sub><sub>[:man_technologist:Linux](https://github.com/jwenjian/ghiblog/labels/%3Aman_technologist%3ALinux)	|	</sub>
+
+- [[From Instapaper] : vbox ubuntu虚拟机扩容方案 虚拟分配空间转换为实际分配空间 - acdefghb的专栏 - CSDN博客](https://github.com/jwenjian/ghiblog/issues/87) <sup>0 :speech_balloon:</sup>  			 2019-08-12 08:03:16
+
+ 	<sub>|</sub>
+
+- [[From Instapaper] : Markdown native diagrams with PlantUML](https://github.com/jwenjian/ghiblog/issues/86) <sup>0 :speech_balloon:</sup>  			 2019-08-12 08:03:12
+
+ 	<sub>|</sub>
+
 - [[From Instapaper] : 如何在优雅地Spring 中实现消息的发送和消费](https://github.com/jwenjian/ghiblog/issues/85) <sup>0 :speech_balloon:</sup>  			 2019-08-07 15:14:42
 
  	<sub>|</sub>
-
-- [[From Instapaper] : 再见Excel我开源了一款与Python深度集成的神器级IDE - InfoQ](https://github.com/jwenjian/ghiblog/issues/84) <sup>0 :speech_balloon:</sup>  			 2019-08-07 14:13:06
-
- 	<sub>|</sub>
-
-- [RocketMQ与kafka对比18项差异](https://github.com/jwenjian/ghiblog/issues/83) <sup>0 :speech_balloon:</sup>  			 2019-08-07 14:13:01
-
- 	<sub>|</sub><sub>[架构](https://github.com/jwenjian/ghiblog/labels/%E6%9E%B6%E6%9E%84)	|	</sub>
-
-- [Install parent POM without building Child modules](https://github.com/jwenjian/ghiblog/issues/82) <sup>0 :speech_balloon:</sup>  			 2019-08-07 10:06:24
-
- 	<sub>|</sub><sub>[Maven](https://github.com/jwenjian/ghiblog/labels/Maven)	|	</sub>
-
-- [白话中台战略 - InfoQ](https://github.com/jwenjian/ghiblog/issues/81) <sup>0 :speech_balloon:</sup>  			 2019-08-07 10:06:20
-
- 	<sub>|</sub><sub>[架构](https://github.com/jwenjian/ghiblog/labels/%E6%9E%B6%E6%9E%84)	|	</sub>
 
 
 ## 分类  :card_file_box: 
@@ -122,8 +122,9 @@
 </details>
 
 <details>
-<summary>:camera_flash:随拍	<sup>5:newspaper:</sup></summary>
+<summary>:camera_flash:随拍	<sup>6:newspaper:</sup></summary>
 
+- [近期生活随拍](https://github.com/jwenjian/ghiblog/issues/89)  <sup>0 :speech_balloon:</sup>  	 
 - [青岛之行随拍](https://github.com/jwenjian/ghiblog/issues/44)  <sup>2 :speech_balloon:</sup>  	 
 - [端午节随拍](https://github.com/jwenjian/ghiblog/issues/31)  <sup>0 :speech_balloon:</sup>  	 
 - [2019年的第一次旅行](https://github.com/jwenjian/ghiblog/issues/17)  <sup>0 :speech_balloon:</sup>  	 
@@ -223,8 +224,9 @@
 </details>
 
 <details>
-<summary>:man_technologist:Linux	<sup>6:newspaper:</sup></summary>
+<summary>:man_technologist:Linux	<sup>7:newspaper:</sup></summary>
 
+- [Docker配置HTTP/HTTPS代理](https://github.com/jwenjian/ghiblog/issues/88)  <sup>0 :speech_balloon:</sup>  	 
 - [在Ubuntu上安装nodejs、npm](https://github.com/jwenjian/ghiblog/issues/65)  <sup>1 :speech_balloon:</sup>  	 
 - [为Ubuntu系统包管理工具apt配置代理](https://github.com/jwenjian/ghiblog/issues/61)  <sup>0 :speech_balloon:</sup>  	 
 - [调整Typora显示宽度](https://github.com/jwenjian/ghiblog/issues/18)  <sup>0 :speech_balloon:</sup>  	 
@@ -269,8 +271,9 @@
 </details>
 
 <details>
-<summary>:video_game:生活	<sup>9:newspaper:</sup></summary>
+<summary>:video_game:生活	<sup>10:newspaper:</sup></summary>
 
+- [近期生活随拍](https://github.com/jwenjian/ghiblog/issues/89)  <sup>0 :speech_balloon:</sup>  	 
 - [舒尔特训练法](https://github.com/jwenjian/ghiblog/issues/75)  <sup>0 :speech_balloon:</sup>  	 
 - [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>3 :speech_balloon:</sup>  	 
 - [高铁/动车上插座都在什么位置](https://github.com/jwenjian/ghiblog/issues/59)  <sup>2 :speech_balloon:</sup>  	 
