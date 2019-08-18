@@ -150,7 +150,7 @@ def bundle_list_by_labels_section():
     list_by_labels_section = """
 ## 分类  :card_file_box: 
 
-<details>
+<details open="open">
     <summary>
         <img src="%s" title="词云, 点击展开详细分类" alt="词云， 点击展开详细分类">
         <p align="center">:cloud: 词云 :cloud: <sub>点击词云展开详细分类:point_down: </sub></p>
