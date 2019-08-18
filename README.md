@@ -7,7 +7,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/23"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-08-17 00:00:43"/>
+    <img src="https://badgen.net/badge/last-commit/2019-08-18 00:01:10"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -25,10 +25,10 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>The Elephant's Trunk Nebula in Cepheus</b></p>
+<p align="center"><b>You can't see me, Meow~~!</b></p>
 
 <p align="center">
-    <img src="https://apod.nasa.gov/apod/image/1908/ElephantTrunk_Ayoub1024.jpg" alt="The Elephant's Trunk Nebula in Cepheus" title="Like an illustration in a galactic Just So Story, the Elephant's Trunk Nebula winds through the emission nebula and young star cluster complex IC 1396, in the high and far off constellation of Cepheus. Also known as vdB 142, the cosmic elephant's trunk is over 20 light-years long. This colorful close-up view was recorded through narrow band filters that transmit the light from ionized hydrogen, sulfur, and oxygen atoms in the region.  The resulting composite highlights the bright swept-back ridges that outline pockets of cool interstellar dust and gas. Such embedded, dark, tendril-shaped clouds contain the raw material for star formation and hide protostars within. Nearly 3,000 light-years distant, the relatively faint IC 1396 complex covers a large region on the sky, spanning over 5 degrees. The dramatic scene spans a 1 degree wide field, about the size of 2 Full Moons." width="50%"/>
+    <img src="https://http.cat/404.jpg" alt="You can't see me, Meow~~!" title="Failed to get picture of the day from NASA api, so here is a little cute cat for you, see you tomorrow!" width="50%"/>
 </p>
 
 
@@ -40,6 +40,10 @@
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+- [Permission denied when running npm install](https://github.com/jwenjian/ghiblog/issues/90) <sup>0 :speech_balloon:</sup>  			 2019-08-17 15:47:18
+
+ 	<sub>|</sub><sub>[:art:前端](https://github.com/jwenjian/ghiblog/labels/%3Aart%3A%E5%89%8D%E7%AB%AF)	|	</sub><sub>[:beetle:Bug追踪](https://github.com/jwenjian/ghiblog/labels/%3Abeetle%3ABug%E8%BF%BD%E8%B8%AA)	|	</sub><sub>[JS](https://github.com/jwenjian/ghiblog/labels/JS)	|	</sub>
+
 - [近期生活随拍](https://github.com/jwenjian/ghiblog/issues/89) <sup>0 :speech_balloon:</sup>  			 2019-08-12 11:56:39
 
  	<sub>|</sub><sub>[:camera_flash:随拍](https://github.com/jwenjian/ghiblog/labels/%3Acamera_flash%3A%E9%9A%8F%E6%8B%8D)	|	</sub><sub>[:video_game:生活](https://github.com/jwenjian/ghiblog/labels/%3Avideo_game%3A%E7%94%9F%E6%B4%BB)	|	</sub>
@@ -55,10 +59,6 @@
 - [[From Instapaper] : Markdown native diagrams with PlantUML](https://github.com/jwenjian/ghiblog/issues/86) <sup>0 :speech_balloon:</sup>  			 2019-08-12 08:03:12
 
  	<sub>|</sub>
-
-- [如何在优雅地Spring 中实现消息的发送和消费](https://github.com/jwenjian/ghiblog/issues/85) <sup>0 :speech_balloon:</sup>  			 2019-08-07 15:14:42
-
- 	<sub>|</sub><sub>[:coffee:JAVA](https://github.com/jwenjian/ghiblog/labels/%3Acoffee%3AJAVA)	|	</sub><sub>[:leaves:Spring](https://github.com/jwenjian/ghiblog/labels/%3Aleaves%3ASpring)	|	</sub>
 
 
 ## 分类  :card_file_box: 
@@ -84,8 +84,9 @@
 </details>
 
 <details>
-<summary>:art:前端	<sup>10:newspaper:</sup></summary>
+<summary>:art:前端	<sup>11:newspaper:</sup></summary>
 
+- [Permission denied when running npm install](https://github.com/jwenjian/ghiblog/issues/90)  <sup>0 :speech_balloon:</sup>  	 
 - [使用渐变一个div画Chrome浏览器logo](https://github.com/jwenjian/ghiblog/issues/80)  <sup>0 :speech_balloon:</sup>  	 
 - [Brandmark Logo Maker - 基于人工智能的LOGO生成工具](https://github.com/jwenjian/ghiblog/issues/79)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : 臆病な魔女](https://github.com/jwenjian/ghiblog/issues/58)  <sup>3 :speech_balloon:</sup>  	 
@@ -101,8 +102,9 @@
 </details>
 
 <details>
-<summary>:beetle:Bug追踪	<sup>2:newspaper:</sup></summary>
+<summary>:beetle:Bug追踪	<sup>3:newspaper:</sup></summary>
 
+- [Permission denied when running npm install](https://github.com/jwenjian/ghiblog/issues/90)  <sup>0 :speech_balloon:</sup>  	 
 - [Internet troubleshooting: website (www.microsoft.com) is online but isn't responding to connection attempts](https://github.com/jwenjian/ghiblog/issues/66)  <sup>0 :speech_balloon:</sup>  	 
 - [C++: jni.h: no such file or directory ](https://github.com/jwenjian/ghiblog/issues/28)  <sup>0 :speech_balloon:</sup>  	 
 
@@ -309,8 +311,9 @@
 </details>
 
 <details>
-<summary>JS	<sup>1:newspaper:</sup></summary>
+<summary>JS	<sup>2:newspaper:</sup></summary>
 
+- [Permission denied when running npm install](https://github.com/jwenjian/ghiblog/issues/90)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : 西尾維新オフィシャルサイト](https://github.com/jwenjian/ghiblog/issues/53)  <sup>1 :speech_balloon:</sup>  	 
 
 
