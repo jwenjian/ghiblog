@@ -7,7 +7,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/23"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-08-18 00:01:10"/>
+    <img src="https://badgen.net/badge/last-commit/2019-08-19 00:02:16"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -25,10 +25,10 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>You can't see me, Meow~~!</b></p>
+<p align="center"><b>Human as Spaceship</b></p>
 
 <p align="center">
-    <img src="https://http.cat/404.jpg" alt="You can't see me, Meow~~!" title="Failed to get picture of the day from NASA api, so here is a little cute cat for you, see you tomorrow!" width="50%"/>
+    <img src="https://apod.nasa.gov/apod/image/1908/HumanSpaceship2_TsevisHubbleRJN_960.jpg" alt="Human as Spaceship" title="You are a spaceship soaring through the universe. So is your dog. We all carry with us trillions of microorganisms as we go through life. These multitudes of bacteria, fungi, and archaea have different DNA than you. Collectively called your microbiome, your shipmates outnumber your own cells. Your crew members form communities, help digest food, engage in battles against intruders, and sometimes commute on a liquid superhighway from one end of your body to the other.  Much of what your microbiome does, however, remains unknown. You are the captain, but being nice to your crew may allow you to explore more of your local cosmos." width="50%"/>
 </p>
 
 
@@ -40,6 +40,10 @@
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+- [[From Instapaper] : Python_uuid 学习总结 - 会心一击 - 博客园](https://github.com/jwenjian/ghiblog/issues/91) <sup>0 :speech_balloon:</sup>  			 2019-08-18 14:29:45
+
+ 	<sub>|</sub>
+
 - [Permission denied when running npm install](https://github.com/jwenjian/ghiblog/issues/90) <sup>0 :speech_balloon:</sup>  			 2019-08-17 15:47:18
 
  	<sub>|</sub><sub>[:art:前端](https://github.com/jwenjian/ghiblog/labels/%3Aart%3A%E5%89%8D%E7%AB%AF)	|	</sub><sub>[:beetle:Bug追踪](https://github.com/jwenjian/ghiblog/labels/%3Abeetle%3ABug%E8%BF%BD%E8%B8%AA)	|	</sub><sub>[JS](https://github.com/jwenjian/ghiblog/labels/JS)	|	</sub>
@@ -56,14 +60,10 @@
 
  	<sub>|</sub><sub>[:man_technologist:Linux](https://github.com/jwenjian/ghiblog/labels/%3Aman_technologist%3ALinux)	|	</sub>
 
-- [[From Instapaper] : Markdown native diagrams with PlantUML](https://github.com/jwenjian/ghiblog/issues/86) <sup>0 :speech_balloon:</sup>  			 2019-08-12 08:03:12
-
- 	<sub>|</sub>
-
 
 ## 分类  :card_file_box: 
 
-<details>
+<details open="open">
     <summary>
         <img src="assets/wordcloud.png" title="词云, 点击展开详细分类" alt="词云， 点击展开详细分类">
         <p align="center">:cloud: 词云 :cloud: <sub>点击词云展开详细分类:point_down: </sub></p>
