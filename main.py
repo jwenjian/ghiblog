@@ -92,7 +92,8 @@ def bundle_summary_section():
     <img src="{4}" alt="{3}" title="{5}" width="50%"/>
 </p>
 
-'''.format(user_login, total_label_count, cur_time, pic_of_the_day.title, pic_of_the_day.url, pic_of_the_day.explanation)
+'''.format(user_login, total_label_count, cur_time, pic_of_the_day.title, pic_of_the_day.url,
+           pic_of_the_day.explanation)
 
     return summary_section
 
@@ -116,15 +117,29 @@ def format_issue_with_labels(issue: Issue):
 
     labels = issue.get_labels()
     labels_str = ''
-    if labels:
-        labels_str = '\n \t' + sub('|')
 
     for label in labels:
-        labels_str += sub('[%s](https://github.com/%s/ghiblog/labels/%s)\t|\t' % (
-            label.name, user.get_user().login, urllib.parse.quote(label.name)))
+        labels_str += '[%s](https://github.com/%s/ghiblog/labels/%s), ' % (
+            label.name, user.get_user().login, urllib.parse.quote(label.name))
 
-    return '- [%s](%s) %s  \t\t\t %s\n%s\n\n' % (
-        issue.title, issue.html_url, sup('%s :speech_balloon:' % issue.comments), issue.created_at, labels_str)
+    if '---' in issue.body:
+        body_summary = issue.body[:issue.body.index('---')]
+    else:
+        body_summary = issue.body[:150]
+
+    return '''
+#### [{0}]({1}) {2} \t {3}
+
+:label: : {4}
+
+{5}
+
+[更多>>>]({1})
+
+---
+
+'''.format(issue.title, issue.html_url, sup('%s :speech_balloon:' % issue.comments), issue.created_at, labels_str[:-2],
+           body_summary)
 
 
 def bundle_new_created_section():

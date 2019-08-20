@@ -7,7 +7,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/24"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-08-20 00:01:27"/>
+    <img src="https://badgen.net/badge/last-commit/2019-08-20 22:18:27"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -25,10 +25,10 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>Lenticular Clouds over Mount Etna</b></p>
+<p align="center"><b>You can't see me, Meow~~!</b></p>
 
 <p align="center">
-    <img src="https://apod.nasa.gov/apod/image/1908/EtnaCloudsMoon_Giannobile_960.jpg" alt="Lenticular Clouds over Mount Etna" title="What's happening above that volcano? Although Mount Etna is seen erupting, the clouds are not related to the eruption. They are lenticular clouds formed when moist air is forced upwards near a mountain or volcano.  The surreal scene was captured by chance late last month when the astrophotographer went to Mount Etna, a UNESCO World Heritage Site in Sicily, Italy, to photograph the conjunction between the Moon and the star Aldebaran. The Moon appears in a bright crescent phase, illuminating an edge of the lower lenticular cloud.  Red hot lava flows on the right.  Besides some breathtaking stills, a companion time-lapse video of the scene shows the lenticular clouds forming and wavering as stars trail far in the distance.    Follow APOD in English on: Instagram, Facebook,  Reddit, or Twitter" width="50%"/>
+    <img src="https://http.cat/404.jpg" alt="You can't see me, Meow~~!" title="Failed to get picture of the day from NASA api, so here is a little cute cat for you, see you tomorrow!" width="50%"/>
 </p>
 
 
@@ -40,25 +40,89 @@
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
 ## 最新 :new: 
-- [ColouriseSG: 利用AI给黑白照片上色](https://github.com/jwenjian/ghiblog/issues/96) <sup>0 :speech_balloon:</sup>  			 2019-08-19 10:22:24
 
- 	<sub>|</sub><sub>[:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F)	|	</sub><sub>[:robot: AI](https://github.com/jwenjian/ghiblog/labels/%3Arobot%3A%20AI)	|	</sub>
+#### [ColouriseSG: 利用AI给黑白照片上色](https://github.com/jwenjian/ghiblog/issues/96) <sup>0 :speech_balloon:</sup> 	 2019-08-19 10:22:24
 
-- [日本邮政官网 - 印章生成器](https://github.com/jwenjian/ghiblog/issues/95) <sup>0 :speech_balloon:</sup>  			 2019-08-19 03:55:03
+:label: : [:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F), [:robot: AI](https://github.com/jwenjian/ghiblog/labels/%3Arobot%3A%20AI)
 
- 	<sub>|</sub><sub>[:art:前端](https://github.com/jwenjian/ghiblog/labels/%3Aart%3A%E5%89%8D%E7%AB%AF)	|	</sub><sub>[:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F)	|	</sub>
+ColouriseSG<br>
+ColouriseSG A deep learning colouriser prototype specifically for old Singaporean photos. Try it yourself Learn more Chinese Girls School, Singapore, between&hellip;<br>
+<br>
 
-- [PowerPoint Countdown Timer](https://github.com/jwenjian/ghiblog/issues/94) <sup>0 :speech_balloon:</sup>  			 2019-08-19 03:54:57
+一个利用AI给 黑白照片上色的 网站，试了一下， 效果挺不错的。
+如下面这张黑白照片：
 
- 	<sub>|</sub><sub>[:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F)	|	</sub><sub>[:hammer:软件](https://github.com/jwenjian/ghiblog/labels/%3Ahammer%3A%E8%BD%AF%E4%BB%B6)	|	</sub>
 
-- [HTTP Content-type 对照表](https://github.com/jwenjian/ghiblog/issues/93) <sup>0 :speech_balloon:</sup>  			 2019-08-19 03:54:57
 
- 	<sub>|</sub><sub>[:art:前端](https://github.com/jwenjian/ghiblog/labels/%3Aart%3A%E5%89%8D%E7%AB%AF)	|	</sub><sub>[:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F)	|	</sub>
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/96)
 
-- [remove.bg - Remove Background from Image  ](https://github.com/jwenjian/ghiblog/issues/92) <sup>0 :speech_balloon:</sup>  			 2019-08-19 03:54:52
+---
 
- 	<sub>|</sub><sub>[:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F)	|	</sub><sub>[:robot: AI](https://github.com/jwenjian/ghiblog/labels/%3Arobot%3A%20AI)	|	</sub>
+
+#### [日本邮政官网 - 印章生成器](https://github.com/jwenjian/ghiblog/issues/95) <sup>0 :speech_balloon:</sup> 	 2019-08-19 03:55:03
+
+:label: : [:art:前端](https://github.com/jwenjian/ghiblog/labels/%3Aart%3A%E5%89%8D%E7%AB%AF), [:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F)
+
+日本邮政官网的印章生成器，可以上传图片生成有趣的印章图片<br>
+
+效果见下图：
+
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/95)
+
+---
+
+
+#### [PowerPoint Countdown Timer](https://github.com/jwenjian/ghiblog/issues/94) <sup>0 :speech_balloon:</sup> 	 2019-08-19 03:54:57
+
+:label: : [:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F), [:hammer:软件](https://github.com/jwenjian/ghiblog/labels/%3Ahammer%3A%E8%BD%AF%E4%BB%B6)
+
+Create or Download a PowerPoint Countdown Timer<br>
+
+网站提供了几个 PPT 倒计时模板：
+- 蓝色背景， 5， 10， 15分钟
+- 蓝色背景， 5， 10， 15分钟
+
+效果如下图：
+
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/94)
+
+---
+
+
+#### [HTTP Content-type 对照表](https://github.com/jwenjian/ghiblog/issues/93) <sup>0 :speech_balloon:</sup> 	 2019-08-19 03:54:57
+
+:label: : [:art:前端](https://github.com/jwenjian/ghiblog/labels/%3Aart%3A%E5%89%8D%E7%AB%AF), [:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F)
+
+HTTP Content-type 对照表<br>
+
+提供了文件后缀名对应的HTTP Media type的对照表：
+
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/93)
+
+---
+
+
+#### [remove.bg - Remove Background from Image  ](https://github.com/jwenjian/ghiblog/issues/92) <sup>0 :speech_balloon:</sup> 	 2019-08-19 03:54:52
+
+:label: : [:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F), [:robot: AI](https://github.com/jwenjian/ghiblog/labels/%3Arobot%3A%20AI)
+
+Remove Background from Image &ndash; remove.bg<br>
+
+利用人工智能移除图片背景（抠图），尤其对于人像的抠图，效果很好。
+
+官网示例如下：
+
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/92)
+
+---
 
 
 ## 分类  :card_file_box: 
