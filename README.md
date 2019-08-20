@@ -5,9 +5,9 @@
 
 <p align='center'>
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/labels/23"/>
+    <img src="https://badgen.net/badge/labels/24"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-08-19 00:02:16"/>
+    <img src="https://badgen.net/badge/last-commit/2019-08-20 00:01:27"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -25,10 +25,10 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>Human as Spaceship</b></p>
+<p align="center"><b>Lenticular Clouds over Mount Etna</b></p>
 
 <p align="center">
-    <img src="https://apod.nasa.gov/apod/image/1908/HumanSpaceship2_TsevisHubbleRJN_960.jpg" alt="Human as Spaceship" title="You are a spaceship soaring through the universe. So is your dog. We all carry with us trillions of microorganisms as we go through life. These multitudes of bacteria, fungi, and archaea have different DNA than you. Collectively called your microbiome, your shipmates outnumber your own cells. Your crew members form communities, help digest food, engage in battles against intruders, and sometimes commute on a liquid superhighway from one end of your body to the other.  Much of what your microbiome does, however, remains unknown. You are the captain, but being nice to your crew may allow you to explore more of your local cosmos." width="50%"/>
+    <img src="https://apod.nasa.gov/apod/image/1908/EtnaCloudsMoon_Giannobile_960.jpg" alt="Lenticular Clouds over Mount Etna" title="What's happening above that volcano? Although Mount Etna is seen erupting, the clouds are not related to the eruption. They are lenticular clouds formed when moist air is forced upwards near a mountain or volcano.  The surreal scene was captured by chance late last month when the astrophotographer went to Mount Etna, a UNESCO World Heritage Site in Sicily, Italy, to photograph the conjunction between the Moon and the star Aldebaran. The Moon appears in a bright crescent phase, illuminating an edge of the lower lenticular cloud.  Red hot lava flows on the right.  Besides some breathtaking stills, a companion time-lapse video of the scene shows the lenticular clouds forming and wavering as stars trail far in the distance.    Follow APOD in English on: Instagram, Facebook,  Reddit, or Twitter" width="50%"/>
 </p>
 
 
@@ -40,25 +40,25 @@
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
 ## 最新 :new: 
-- [[From Instapaper] : Python_uuid 学习总结 - 会心一击 - 博客园](https://github.com/jwenjian/ghiblog/issues/91) <sup>0 :speech_balloon:</sup>  			 2019-08-18 14:29:45
+- [ColouriseSG: 利用AI给黑白照片上色](https://github.com/jwenjian/ghiblog/issues/96) <sup>0 :speech_balloon:</sup>  			 2019-08-19 10:22:24
 
- 	<sub>|</sub>
+ 	<sub>|</sub><sub>[:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F)	|	</sub><sub>[:robot: AI](https://github.com/jwenjian/ghiblog/labels/%3Arobot%3A%20AI)	|	</sub>
 
-- [Permission denied when running npm install](https://github.com/jwenjian/ghiblog/issues/90) <sup>0 :speech_balloon:</sup>  			 2019-08-17 15:47:18
+- [日本邮政官网 - 印章生成器](https://github.com/jwenjian/ghiblog/issues/95) <sup>0 :speech_balloon:</sup>  			 2019-08-19 03:55:03
 
- 	<sub>|</sub><sub>[:art:前端](https://github.com/jwenjian/ghiblog/labels/%3Aart%3A%E5%89%8D%E7%AB%AF)	|	</sub><sub>[:beetle:Bug追踪](https://github.com/jwenjian/ghiblog/labels/%3Abeetle%3ABug%E8%BF%BD%E8%B8%AA)	|	</sub><sub>[JS](https://github.com/jwenjian/ghiblog/labels/JS)	|	</sub>
+ 	<sub>|</sub><sub>[:art:前端](https://github.com/jwenjian/ghiblog/labels/%3Aart%3A%E5%89%8D%E7%AB%AF)	|	</sub><sub>[:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F)	|	</sub>
 
-- [近期生活随拍](https://github.com/jwenjian/ghiblog/issues/89) <sup>0 :speech_balloon:</sup>  			 2019-08-12 11:56:39
+- [PowerPoint Countdown Timer](https://github.com/jwenjian/ghiblog/issues/94) <sup>0 :speech_balloon:</sup>  			 2019-08-19 03:54:57
 
- 	<sub>|</sub><sub>[:camera_flash:随拍](https://github.com/jwenjian/ghiblog/labels/%3Acamera_flash%3A%E9%9A%8F%E6%8B%8D)	|	</sub><sub>[:video_game:生活](https://github.com/jwenjian/ghiblog/labels/%3Avideo_game%3A%E7%94%9F%E6%B4%BB)	|	</sub>
+ 	<sub>|</sub><sub>[:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F)	|	</sub><sub>[:hammer:软件](https://github.com/jwenjian/ghiblog/labels/%3Ahammer%3A%E8%BD%AF%E4%BB%B6)	|	</sub>
 
-- [Docker配置HTTP/HTTPS代理](https://github.com/jwenjian/ghiblog/issues/88) <sup>0 :speech_balloon:</sup>  			 2019-08-12 08:03:22
+- [HTTP Content-type 对照表](https://github.com/jwenjian/ghiblog/issues/93) <sup>0 :speech_balloon:</sup>  			 2019-08-19 03:54:57
 
- 	<sub>|</sub><sub>[:man_technologist:Linux](https://github.com/jwenjian/ghiblog/labels/%3Aman_technologist%3ALinux)	|	</sub>
+ 	<sub>|</sub><sub>[:art:前端](https://github.com/jwenjian/ghiblog/labels/%3Aart%3A%E5%89%8D%E7%AB%AF)	|	</sub><sub>[:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F)	|	</sub>
 
-- [vbox ubuntu虚拟机扩容方案 虚拟分配空间转换为实际分配空间](https://github.com/jwenjian/ghiblog/issues/87) <sup>0 :speech_balloon:</sup>  			 2019-08-12 08:03:16
+- [remove.bg - Remove Background from Image  ](https://github.com/jwenjian/ghiblog/issues/92) <sup>0 :speech_balloon:</sup>  			 2019-08-19 03:54:52
 
- 	<sub>|</sub><sub>[:man_technologist:Linux](https://github.com/jwenjian/ghiblog/labels/%3Aman_technologist%3ALinux)	|	</sub>
+ 	<sub>|</sub><sub>[:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F)	|	</sub><sub>[:robot: AI](https://github.com/jwenjian/ghiblog/labels/%3Arobot%3A%20AI)	|	</sub>
 
 
 ## 分类  :card_file_box: 
@@ -84,8 +84,10 @@
 </details>
 
 <details>
-<summary>:art:前端	<sup>11:newspaper:</sup></summary>
+<summary>:art:前端	<sup>13:newspaper:</sup></summary>
 
+- [日本邮政官网 - 印章生成器](https://github.com/jwenjian/ghiblog/issues/95)  <sup>0 :speech_balloon:</sup>  	 
+- [HTTP Content-type 对照表](https://github.com/jwenjian/ghiblog/issues/93)  <sup>0 :speech_balloon:</sup>  	 
 - [Permission denied when running npm install](https://github.com/jwenjian/ghiblog/issues/90)  <sup>0 :speech_balloon:</sup>  	 
 - [使用渐变一个div画Chrome浏览器logo](https://github.com/jwenjian/ghiblog/issues/80)  <sup>0 :speech_balloon:</sup>  	 
 - [Brandmark Logo Maker - 基于人工智能的LOGO生成工具](https://github.com/jwenjian/ghiblog/issues/79)  <sup>0 :speech_balloon:</sup>  	 
@@ -184,8 +186,13 @@
 </details>
 
 <details>
-<summary>:earth_africa:网站收藏	<sup>8:newspaper:</sup></summary>
+<summary>:earth_africa:网站收藏	<sup>13:newspaper:</sup></summary>
 
+- [ColouriseSG: 利用AI给黑白照片上色](https://github.com/jwenjian/ghiblog/issues/96)  <sup>0 :speech_balloon:</sup>  	 
+- [日本邮政官网 - 印章生成器](https://github.com/jwenjian/ghiblog/issues/95)  <sup>0 :speech_balloon:</sup>  	 
+- [PowerPoint Countdown Timer](https://github.com/jwenjian/ghiblog/issues/94)  <sup>0 :speech_balloon:</sup>  	 
+- [HTTP Content-type 对照表](https://github.com/jwenjian/ghiblog/issues/93)  <sup>0 :speech_balloon:</sup>  	 
+- [remove.bg - Remove Background from Image  ](https://github.com/jwenjian/ghiblog/issues/92)  <sup>0 :speech_balloon:</sup>  	 
 - [Brandmark Logo Maker - 基于人工智能的LOGO生成工具](https://github.com/jwenjian/ghiblog/issues/79)  <sup>0 :speech_balloon:</sup>  	 
 - [Codeimg.io 代码 -> 图片 -> 分享](https://github.com/jwenjian/ghiblog/issues/78)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : 臆病な魔女](https://github.com/jwenjian/ghiblog/issues/58)  <sup>3 :speech_balloon:</sup>  	 
@@ -199,8 +206,9 @@
 </details>
 
 <details>
-<summary>:hammer:软件	<sup>10:newspaper:</sup></summary>
+<summary>:hammer:软件	<sup>11:newspaper:</sup></summary>
 
+- [PowerPoint Countdown Timer](https://github.com/jwenjian/ghiblog/issues/94)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : CPUID](https://github.com/jwenjian/ghiblog/issues/74)  <sup>0 :speech_balloon:</sup>  	 
 - [如何在 Chromium 版 Edge 浏览器上安装 Google Chrome 应用商店的扩展](https://github.com/jwenjian/ghiblog/issues/73)  <sup>0 :speech_balloon:</sup>  	 
 - [C++: Ignore warnings C4996](https://github.com/jwenjian/ghiblog/issues/30)  <sup>0 :speech_balloon:</sup>  	 
@@ -259,8 +267,18 @@
 </details>
 
 <details>
-<summary>:snake:Python	<sup>10:newspaper:</sup></summary>
+<summary>:robot: AI	<sup>2:newspaper:</sup></summary>
 
+- [ColouriseSG: 利用AI给黑白照片上色](https://github.com/jwenjian/ghiblog/issues/96)  <sup>0 :speech_balloon:</sup>  	 
+- [remove.bg - Remove Background from Image  ](https://github.com/jwenjian/ghiblog/issues/92)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>:snake:Python	<sup>11:newspaper:</sup></summary>
+
+- [Python_uuid 学习总结](https://github.com/jwenjian/ghiblog/issues/91)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : How to use Python virtualenv](https://github.com/jwenjian/ghiblog/issues/64)  <sup>1 :speech_balloon:</sup>  	 
 - [[From Instapaper] : The Flask Mega-Tutorial Part I: Hello World! - miguelgrinberg.com](https://github.com/jwenjian/ghiblog/issues/62)  <sup>2 :speech_balloon:</sup>  	 
 - [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43)  <sup>1 :speech_balloon:</sup>  	 
