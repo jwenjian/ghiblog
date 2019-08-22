@@ -7,7 +7,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/24"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-08-21 00:01:21"/>
+    <img src="https://badgen.net/badge/last-commit/2019-08-22 00:01:40"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -25,10 +25,10 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>You can't see me, Meow~~!</b></p>
+<p align="center"><b>The Orion You Can Almost See</b></p>
 
 <p align="center">
-    <img src="https://http.cat/404.jpg" alt="You can't see me, Meow~~!" title="Failed to get picture of the day from NASA api, so here is a little cute cat for you, see you tomorrow!" width="50%"/>
+    <img src="https://apod.nasa.gov/apod/image/1908/OrionDeep_GleasonAndreo_1080.jpg" alt="The Orion You Can Almost See" title="Do you recognize this constellation?  Although it is one of the most recognizable star groupings on the sky, this is a more full Orion than you can see -- an Orion only revealed with long exposure digital camera imaging and post-processing.  Here the cool red giant Betelgeuse takes on a strong orange tint as the brightest star at the lower left.  Orion's hot blue stars are numerous, with supergiant Rigel balancing Betelgeuse on the upper right, and Bellatrix at the upper left. Lined up in Orion's belt are three stars all about 1,500 light-years away, born from the constellation's well-studied interstellar clouds. To the right of Orion's belt is a bright but fuzzy patch that might also look familiar -- the stellar nursery known as Orion's Nebula.  Finally, just barely visible to the unaided eye but quite striking here is Barnard's Loop -- a huge gaseous emission nebula surrounding Orion's Belt and Nebula discovered over 100 years ago by the pioneering Orion photographer E. E. Barnard.   APOD Podcasts: Available on iTunes and YouTube." width="50%"/>
 </p>
 
 
@@ -41,13 +41,27 @@
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [[From Instapaper] : 头条文章](https://github.com/jwenjian/ghiblog/issues/97) <sup>0 :speech_balloon:</sup> 	 2019-08-20 23:49:14
+#### [使用Alt-svc自举  HTTP/3 explained](https://github.com/jwenjian/ghiblog/issues/98) <sup>0 :speech_balloon:</sup> 	 2019-08-21 01:49:03
 
-:label: : 
+:label: : [:computer:计算机](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3A%E8%AE%A1%E7%AE%97%E6%9C%BA)
 
-&#22836;&#26465;&#25991;&#31456;<br>
+&#20351;&#29992;Alt-svc&#33258;&#20030; &middot; HTTP/3 explained<br>
+Alt-svc &#26367;&#20195;&#26381;&#21153;&#65288;alternative service, Alt-svc:&#65289;&#22836;&#37096;&#21644;&#23427;&#30456;&#23545;&#24212;&#30340; ALT-SVC HTTP/2&#24103;&#24182;&#19981;&#26159;&#29305;&#21035;&#20026;QUIC&#21644;HTTP/3&#35774;&#35745;&#30340;&#12290;&#23427;&#26159;&#20026;&#20102;&#35753;&#26381;&#21153;&#22120;&#21487;&#20197;&#21578;&#35785;&#23458;&#25143;&#31471; &ldquo;&#30475;&#65292;&#25105;&#22312;&#36825;&#20010;&#20027;&#26426;&#30340;&#36825;&#20010;&#31471;&#21475;&#29992;&#36825;&#20010;&#21327;&#35758;&#25552;&#20379;&#30456;&#21516;&#30340;&#26381;&#21153;&rdquo; &#32780;&#35774;&#35745;&#30340;&#12290;&#35814;&#35265; RFC 7838 &#12290;&hellip;<br>
 <br>
-<br>
+
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/98)
+
+---
+
+
+#### [微博-刘大可先生：关于“植物身上的黄金分割”的叫你恍然大悟的文章](https://github.com/jwenjian/ghiblog/issues/97) <sup>0 :speech_balloon:</sup> 	 2019-08-20 23:49:14
+
+:label: : [:books:阅读](https://github.com/jwenjian/ghiblog/labels/%3Abooks%3A%E9%98%85%E8%AF%BB)
+
+那么多科普文都在说植物上的黄金分割，尤其比如向日葵的花盘什么的，但这究竟是啥意思呢？我恐怕你看腻了这些例子，都只觉得神秘兮兮的，不知所谓——这篇文章能让你彻底弄明白这个问题。
+
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/97)
@@ -107,21 +121,6 @@ Create or Download a PowerPoint Countdown Timer<br>
 ---
 
 
-#### [HTTP Content-type 对照表](https://github.com/jwenjian/ghiblog/issues/93) <sup>0 :speech_balloon:</sup> 	 2019-08-19 03:54:57
-
-:label: : [:art:前端](https://github.com/jwenjian/ghiblog/labels/%3Aart%3A%E5%89%8D%E7%AB%AF), [:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F)
-
-HTTP Content-type 对照表<br>
-
-提供了文件后缀名对应的HTTP Media type的对照表：
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/93)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -175,8 +174,9 @@ HTTP Content-type 对照表<br>
 </details>
 
 <details>
-<summary>:books:阅读	<sup>5:newspaper:</sup></summary>
+<summary>:books:阅读	<sup>6:newspaper:</sup></summary>
 
+- [微博-刘大可先生：关于“植物身上的黄金分割”的叫你恍然大悟的文章](https://github.com/jwenjian/ghiblog/issues/97)  <sup>0 :speech_balloon:</sup>  	 
 - [如果风险投资者问你“如果大公司进入市场与你竞争，怎么办？”，你应该如何回答？](https://github.com/jwenjian/ghiblog/issues/70)  <sup>1 :speech_balloon:</sup>  	 
 - [[From Instapaper] : 每家门上都挂个西瓜邻居拍照发上网你有素质的样子太美](https://github.com/jwenjian/ghiblog/issues/68)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : 关注英媒中国理所应当鄙视英国](https://github.com/jwenjian/ghiblog/issues/54)  <sup>0 :speech_balloon:</sup>  	 
@@ -232,8 +232,9 @@ HTTP Content-type 对照表<br>
 </details>
 
 <details>
-<summary>:computer:计算机	<sup>8:newspaper:</sup></summary>
+<summary>:computer:计算机	<sup>9:newspaper:</sup></summary>
 
+- [使用Alt-svc自举  HTTP/3 explained](https://github.com/jwenjian/ghiblog/issues/98)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : Distinguished Names](https://github.com/jwenjian/ghiblog/issues/51)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : Http response header - Age](https://github.com/jwenjian/ghiblog/issues/50)  <sup>0 :speech_balloon:</sup>  	 
 - [关于浏览器自动填充](https://github.com/jwenjian/ghiblog/issues/42)  <sup>0 :speech_balloon:</sup>  	 
