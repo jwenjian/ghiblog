@@ -7,7 +7,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/24"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-08-22 00:09:33"/>
+    <img src="https://badgen.net/badge/last-commit/2019-08-23 05:28:32"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -25,10 +25,10 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>The Orion You Can Almost See</b></p>
+<p align="center"><b>NGC 1499: The California Nebula</b></p>
 
 <p align="center">
-    <img src="https://apod.nasa.gov/apod/image/1908/OrionDeep_GleasonAndreo_1080.jpg" alt="The Orion You Can Almost See" title="Do you recognize this constellation?  Although it is one of the most recognizable star groupings on the sky, this is a more full Orion than you can see -- an Orion only revealed with long exposure digital camera imaging and post-processing.  Here the cool red giant Betelgeuse takes on a strong orange tint as the brightest star at the lower left.  Orion's hot blue stars are numerous, with supergiant Rigel balancing Betelgeuse on the upper right, and Bellatrix at the upper left. Lined up in Orion's belt are three stars all about 1,500 light-years away, born from the constellation's well-studied interstellar clouds. To the right of Orion's belt is a bright but fuzzy patch that might also look familiar -- the stellar nursery known as Orion's Nebula.  Finally, just barely visible to the unaided eye but quite striking here is Barnard's Loop -- a huge gaseous emission nebula surrounding Orion's Belt and Nebula discovered over 100 years ago by the pioneering Orion photographer E. E. Barnard.   APOD Podcasts: Available on iTunes and YouTube." width="50%"/>
+    <img src="https://apod.nasa.gov/apod/image/1908/NGC1499_mosaic1024.jpg" alt="NGC 1499: The California Nebula" title="Drifting through the Orion Arm of the spiral Milky Way Galaxy, this cosmic cloud by chance echoes the outline of California on the west coast of the United States. Our own Sun also lies within the Milky Way's Orion Arm, only about 1,500 light-years from the California Nebula. Also known as NGC 1499, the classic emission nebula is around 100 light-years long. The California Nebula shines with the telltale reddish glow characteristic of hydrogen atoms recombining with long lost electrons. The electrons have been stripped away, ionized by energetic starlight. Most likely providing the energetic starlight that ionizes much of the nebular gas is the bright, hot, bluish star Xi Persei just to the right of the nebula.  A popular target for astrophotographers, this deep California Nebula image is a 6 panel telecopic mosaic and covers a wide field of view. The nebula lies toward the constellation Perseus, not far from the Pleiades." width="50%"/>
 </p>
 
 
@@ -40,6 +40,22 @@
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [An FBI Behaviour Expert Explains How to Quickly Build Trust With Anyone](https://github.com/jwenjian/ghiblog/issues/99) <sup>0 :speech_balloon:</sup> 	 2019-08-23 05:19:58
+
+:label: : [:books:阅读](https://github.com/jwenjian/ghiblog/labels/%3Abooks%3A%E9%98%85%E8%AF%BB)
+
+An FBI Behaviour Expert Explains How to Quickly Build Trust With Anyone<br>
+It&rsquo;s not always about you! Thomas Oppong Aug 16 &middot; 4 min read Trust is one of the most valuable currencies among humans. Without it you can&rsquo;t build better&hellip;<br>
+<br>
+<br>
+
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/99)
+
+---
+
 
 #### [使用Alt-svc自举  HTTP/3 explained](https://github.com/jwenjian/ghiblog/issues/98) <sup>0 :speech_balloon:</sup> 	 2019-08-21 01:49:03
 
@@ -102,25 +118,6 @@ ColouriseSG A deep learning colouriser prototype specifically for old Singaporea
 ---
 
 
-#### [PowerPoint Countdown Timer](https://github.com/jwenjian/ghiblog/issues/94) <sup>0 :speech_balloon:</sup> 	 2019-08-19 03:54:57
-
-:label: : [:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F), [:hammer:软件](https://github.com/jwenjian/ghiblog/labels/%3Ahammer%3A%E8%BD%AF%E4%BB%B6)
-
-Create or Download a PowerPoint Countdown Timer<br>
-
-网站提供了几个 PPT 倒计时模板：
-- 蓝色背景， 5， 10， 15分钟
-- 蓝色背景， 5， 10， 15分钟
-
-效果如下图：
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/94)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -174,8 +171,9 @@ Create or Download a PowerPoint Countdown Timer<br>
 </details>
 
 <details>
-<summary>:books:阅读	<sup>6:newspaper:</sup></summary>
+<summary>:books:阅读	<sup>7:newspaper:</sup></summary>
 
+- [An FBI Behaviour Expert Explains How to Quickly Build Trust With Anyone](https://github.com/jwenjian/ghiblog/issues/99)  <sup>0 :speech_balloon:</sup>  	 
 - [微博-刘大可先生：关于“植物身上的黄金分割”的叫你恍然大悟的文章](https://github.com/jwenjian/ghiblog/issues/97)  <sup>0 :speech_balloon:</sup>  	 
 - [如果风险投资者问你“如果大公司进入市场与你竞争，怎么办？”，你应该如何回答？](https://github.com/jwenjian/ghiblog/issues/70)  <sup>1 :speech_balloon:</sup>  	 
 - [[From Instapaper] : 每家门上都挂个西瓜邻居拍照发上网你有素质的样子太美](https://github.com/jwenjian/ghiblog/issues/68)  <sup>0 :speech_balloon:</sup>  	 
