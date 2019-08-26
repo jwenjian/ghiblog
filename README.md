@@ -7,7 +7,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/24"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-08-25 00:10:09"/>
+    <img src="https://badgen.net/badge/last-commit/2019-08-26 00:09:36"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -25,21 +25,51 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>Millions of Stars in Omega Centauri</b></p>
+<p align="center"><b>You can't see me, Meow~~!</b></p>
 
 <p align="center">
-    <img src="https://apod.nasa.gov/apod/image/1908/OmegaCentauriMillerWalker1024.jpg" alt="Millions of Stars in Omega Centauri" title="Globular star cluster Omega Centauri, also known as NGC 5139, is some 15,000 light-years away. The cluster is packed with about 10 million stars much older than the Sun within a volume about 150 light-years in diameter. It's the largest and brightest of 200 or so known globular clusters that roam the halo of our Milky Way galaxy. Though most star clusters consist of stars with the same age and composition, the enigmatic Omega Cen exhibits the presence of different stellar populations with a spread of ages and chemical abundances. In fact, Omega Cen may be the remnant core of a small galaxy merging with the Milky Way." width="50%"/>
+    <img src="https://http.cat/404.jpg" alt="You can't see me, Meow~~!" title="Failed to get picture of the day from NASA api, so here is a little cute cat for you, see you tomorrow!" width="50%"/>
 </p>
 
 
 ## 置顶 :thumbsup: 
-- [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>3 :speech_balloon:</sup>  	 
+- [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>4 :speech_balloon:</sup>  	 
 - [如果风险投资者问你“如果大公司进入市场与你竞争，怎么办？”，你应该如何回答？](https://github.com/jwenjian/ghiblog/issues/70)  <sup>1 :speech_balloon:</sup>  	 
 - [我喜欢的音乐](https://github.com/jwenjian/ghiblog/issues/67)  <sup>0 :speech_balloon:</sup>  	 
 - [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43)  <sup>1 :speech_balloon:</sup>  	 
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Mixkit 发布免费可商用的艺术画与插图平台 - 小众软件](https://github.com/jwenjian/ghiblog/issues/101) <sup>0 :speech_balloon:</sup> 	 2019-08-25 01:39:09
+
+:label: : [:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F)
+
+[Mixkit](https://mixkit.co/art/) 发布免费可商用的艺术画与插图平台 - 小众软件
+
+Mixkit 是 envato 旗下的一个提供免费可商用的高质量视频片段与动画的网站，你可以随意取用里面的内容给你自己的视频节目、vlog。最近又再接再厉发布了同样免费可商用的艺术画与插图分类。@appinn 所谓艺术画与插图的风格，就是上面截图这个样子的。 目前的艺术画与插图分类包括： 关系 情绪 活动 房子和家…
+
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/101)
+
+---
+
+
+#### [比拼 Kafka 大数据分析新秀Pulsar到底好在哪-InfoQ](https://github.com/jwenjian/ghiblog/issues/100) <sup>0 :speech_balloon:</sup> 	 2019-08-25 01:36:47
+
+:label: : [开源](https://github.com/jwenjian/ghiblog/labels/%E5%BC%80%E6%BA%90), [架构](https://github.com/jwenjian/ghiblog/labels/%E6%9E%B6%E6%9E%84)
+
+比拼 Kafka, 大数据分析新秀Pulsar到底好在哪-InfoQ
+
+AI 前线导读 ：一年一度由世界知名科技媒体 InfoWorld 评选的 Bossie Awards 于 9 月 26 日公布，本次 Bossie Awards 评选出了最佳数据库与数据分析平台奖、最佳软件开发工具奖、最佳机器学习项目奖等多个奖项。在 最佳开源数据库与数据分析平台奖 中，之前曾连续两年入选的 Kafka…
+
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/100)
+
+---
+
 
 #### [An FBI Behaviour Expert Explains How to Quickly Build Trust With Anyone](https://github.com/jwenjian/ghiblog/issues/99) <sup>0 :speech_balloon:</sup> 	 2019-08-23 05:19:58
 
@@ -85,39 +115,6 @@ Alt-svc &#26367;&#20195;&#26381;&#21153;&#65288;alternative service, Alt-svc:&#6
 ---
 
 
-#### [ColouriseSG: 利用AI给黑白照片上色](https://github.com/jwenjian/ghiblog/issues/96) <sup>0 :speech_balloon:</sup> 	 2019-08-19 10:22:24
-
-:label: : [:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F), [:robot: AI](https://github.com/jwenjian/ghiblog/labels/%3Arobot%3A%20AI)
-
-ColouriseSG<br>
-ColouriseSG A deep learning colouriser prototype specifically for old Singaporean photos. Try it yourself Learn more Chinese Girls School, Singapore, between&hellip;<br>
-<br>
-
-一个利用AI给 黑白照片上色的 网站，试了一下， 效果挺不错的。
-如下面这张黑白照片：
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/96)
-
----
-
-
-#### [日本邮政官网 - 印章生成器](https://github.com/jwenjian/ghiblog/issues/95) <sup>0 :speech_balloon:</sup> 	 2019-08-19 03:55:03
-
-:label: : [:art:前端](https://github.com/jwenjian/ghiblog/labels/%3Aart%3A%E5%89%8D%E7%AB%AF), [:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F)
-
-日本邮政官网的印章生成器，可以上传图片生成有趣的印章图片<br>
-
-效果见下图：
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/95)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -130,7 +127,7 @@ ColouriseSG A deep learning colouriser prototype specifically for old Singaporea
 <details>
 <summary>:+1:置顶	<sup>6:newspaper:</sup></summary>
 
-- [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>3 :speech_balloon:</sup>  	 
+- [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>4 :speech_balloon:</sup>  	 
 - [如果风险投资者问你“如果大公司进入市场与你竞争，怎么办？”，你应该如何回答？](https://github.com/jwenjian/ghiblog/issues/70)  <sup>1 :speech_balloon:</sup>  	 
 - [我喜欢的音乐](https://github.com/jwenjian/ghiblog/issues/67)  <sup>0 :speech_balloon:</sup>  	 
 - [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43)  <sup>1 :speech_balloon:</sup>  	 
@@ -246,8 +243,9 @@ ColouriseSG A deep learning colouriser prototype specifically for old Singaporea
 </details>
 
 <details>
-<summary>:earth_africa:网站收藏	<sup>13:newspaper:</sup></summary>
+<summary>:earth_africa:网站收藏	<sup>14:newspaper:</sup></summary>
 
+- [Mixkit 发布免费可商用的艺术画与插图平台 - 小众软件](https://github.com/jwenjian/ghiblog/issues/101)  <sup>0 :speech_balloon:</sup>  	 
 - [ColouriseSG: 利用AI给黑白照片上色](https://github.com/jwenjian/ghiblog/issues/96)  <sup>0 :speech_balloon:</sup>  	 
 - [日本邮政官网 - 印章生成器](https://github.com/jwenjian/ghiblog/issues/95)  <sup>0 :speech_balloon:</sup>  	 
 - [PowerPoint Countdown Timer](https://github.com/jwenjian/ghiblog/issues/94)  <sup>0 :speech_balloon:</sup>  	 
@@ -358,7 +356,7 @@ ColouriseSG A deep learning colouriser prototype specifically for old Singaporea
 
 - [近期生活随拍](https://github.com/jwenjian/ghiblog/issues/89)  <sup>0 :speech_balloon:</sup>  	 
 - [舒尔特训练法](https://github.com/jwenjian/ghiblog/issues/75)  <sup>0 :speech_balloon:</sup>  	 
-- [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>3 :speech_balloon:</sup>  	 
+- [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>4 :speech_balloon:</sup>  	 
 - [高铁/动车上插座都在什么位置](https://github.com/jwenjian/ghiblog/issues/59)  <sup>2 :speech_balloon:</sup>  	 
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [2019年的第一次旅行](https://github.com/jwenjian/ghiblog/issues/17)  <sup>0 :speech_balloon:</sup>  	 
@@ -427,16 +425,18 @@ ColouriseSG A deep learning colouriser prototype specifically for old Singaporea
 </details>
 
 <details>
-<summary>开源	<sup>1:newspaper:</sup></summary>
+<summary>开源	<sup>2:newspaper:</sup></summary>
 
+- [比拼 Kafka 大数据分析新秀Pulsar到底好在哪-InfoQ](https://github.com/jwenjian/ghiblog/issues/100)  <sup>0 :speech_balloon:</sup>  	 
 - [一款与 Python 深度集成的 Excel IDE](https://github.com/jwenjian/ghiblog/issues/84)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
 
 <details>
-<summary>架构	<sup>3:newspaper:</sup></summary>
+<summary>架构	<sup>4:newspaper:</sup></summary>
 
+- [比拼 Kafka 大数据分析新秀Pulsar到底好在哪-InfoQ](https://github.com/jwenjian/ghiblog/issues/100)  <sup>0 :speech_balloon:</sup>  	 
 - [RocketMQ与kafka对比18项差异](https://github.com/jwenjian/ghiblog/issues/83)  <sup>0 :speech_balloon:</sup>  	 
 - [白话中台战略 - InfoQ](https://github.com/jwenjian/ghiblog/issues/81)  <sup>0 :speech_balloon:</sup>  	 
 - [LinkedIn如何在一台机器上支持几十万条长连接？](https://github.com/jwenjian/ghiblog/issues/77)  <sup>0 :speech_balloon:</sup>  	 
