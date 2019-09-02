@@ -7,7 +7,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/24"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-09-01 00:09:32"/>
+    <img src="https://badgen.net/badge/last-commit/2019-09-02 00:09:29"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -25,10 +25,10 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>You can't see me, Meow~~!</b></p>
+<p align="center"><b>M45: The Pleiades Star Cluster</b></p>
 
 <p align="center">
-    <img src="https://http.cat/404.jpg" alt="You can't see me, Meow~~!" title="Failed to get picture of the day from NASA api, so here is a little cute cat for you, see you tomorrow!" width="50%"/>
+    <img src="https://apod.nasa.gov/apod/image/1909/m45_lorenzi_960.jpg" alt="M45: The Pleiades Star Cluster" title="Have you ever seen the Pleiades star cluster? Even if you have, you probably have never seen it as dusty as this. Perhaps the most famous star cluster on the sky, the bright stars of the Pleiades can be seen without binoculars from even the depths of a light-polluted city.  With a long exposure from a dark location, though, the dust cloud surrounding the Pleiades star cluster becomes very evident. The featured exposure took over 12 hours and covers a sky area several times the size of the full moon.  Also known as the Seven Sisters and M45, the Pleiades lies about 400 light years away toward the constellation of the Bull (Taurus).  A common legend with a modern twist is that one of the brighter stars faded since the cluster was named, leaving only six stars visible to the unaided eye. The actual number of Pleiades stars visible, however, may be more or less than seven, depending on the darkness of the surrounding sky and the clarity of the observer's eyesight." width="50%"/>
 </p>
 
 
