@@ -7,7 +7,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/24"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-09-06 00:09:37"/>
+    <img src="https://badgen.net/badge/last-commit/2019-09-07 00:09:37"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -25,10 +25,10 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>The Large Cloud of Magellan</b></p>
+<p align="center"><b>You can't see me, Meow~~!</b></p>
 
 <p align="center">
-    <img src="https://apod.nasa.gov/apod/image/1909/Magellano22detail22_1980enan11curves11_s1024.jpg" alt="The Large Cloud of Magellan" title="The 16th century Portuguese navigator Ferdinand Magellan and his crew had plenty of time to study the southern sky during the first circumnavigation of planet Earth. As a result, two fuzzy cloud-like objects easily visible to southern hemisphere skygazers are known as the Clouds of Magellan, now understood to be satellite galaxies of our much larger, spiral Milky Way galaxy. About 160,000 light-years distant in the constellation Dorado, the Large Magellanic Cloud (LMC) is seen here in a remarkably deep, colorful, image. Spanning about 15,000 light-years or so, it is the most massive of the Milky Way's satellite galaxies and is the home of the closest supernova in modern times, SN 1987A.  The prominent patch below center is 30 Doradus, also known as the magnificent Tarantula Nebula, a giant star-forming region about 1,000 light-years across." width="50%"/>
+    <img src="https://http.cat/404.jpg" alt="You can't see me, Meow~~!" title="Failed to get picture of the day from NASA api, so here is a little cute cat for you, see you tomorrow!" width="50%"/>
 </p>
 
 
@@ -41,14 +41,20 @@
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [[From Instapaper] : 负载均衡](https://github.com/jwenjian/ghiblog/issues/104) <sup>0 :speech_balloon:</sup> 	 2019-09-05 16:20:13
+#### [负载均衡](https://github.com/jwenjian/ghiblog/issues/104) <sup>0 :speech_balloon:</sup> 	 2019-09-05 16:20:13
 
-:label: : 
+:label: : [:coffee:JAVA](https://github.com/jwenjian/ghiblog/labels/%3Acoffee%3AJAVA), [架构](https://github.com/jwenjian/ghiblog/labels/%E6%9E%B6%E6%9E%84)
 
-&#36127;&#36733;&#22343;&#34913;<br>
-LoadBalance&hellip;<br>
-<br>
-<br>
+> 摘自 [apache dubbo](http://dubbo.apache.org/zh-cn/docs/source_code_guide/loadbalance.html)
+
+当一个接口有多个服务提供者时, dubbo支持以下几种策略在服务提供者之间进行负载均衡的转发:
+1. 加权随机
+2. 最小活跃
+3. 一致性hash
+4. 加权轮询
+
+对于每个策略都有对应的代码及讲解, 可以作为负载均衡相关知识的学习材料
+
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/104)
@@ -56,14 +62,14 @@ LoadBalance&hellip;<br>
 ---
 
 
-#### [[From Instapaper] : Predictably Random](https://github.com/jwenjian/ghiblog/issues/103) <sup>0 :speech_balloon:</sup> 	 2019-09-05 16:20:00
+#### [Predictably Random](https://github.com/jwenjian/ghiblog/issues/103) <sup>0 :speech_balloon:</sup> 	 2019-09-05 16:20:00
 
-:label: : 
+:label: : [:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)
 
 Predictably Random<br>
 The concept of random is pretty interesting when you think about it from a computer's point of view, because without some external input, random is impossible.&hellip;<br>
 <br>
-<br>
+
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/103)
@@ -196,8 +202,9 @@ AI 前线导读 ：一年一度由世界知名科技媒体 InfoWorld 评选的 B
 </details>
 
 <details>
-<summary>:coffee:JAVA	<sup>6:newspaper:</sup></summary>
+<summary>:coffee:JAVA	<sup>7:newspaper:</sup></summary>
 
+- [负载均衡](https://github.com/jwenjian/ghiblog/issues/104)  <sup>0 :speech_balloon:</sup>  	 
 - [如何在优雅地Spring 中实现消息的发送和消费](https://github.com/jwenjian/ghiblog/issues/85)  <sup>0 :speech_balloon:</sup>  	 
 - [如何优雅关闭 Spring Boot 应用](https://github.com/jwenjian/ghiblog/issues/72)  <sup>0 :speech_balloon:</sup>  	 
 - [start.spring.io支持在线预览生成的文件内容](https://github.com/jwenjian/ghiblog/issues/63)  <sup>1 :speech_balloon:</sup>  	 
@@ -335,8 +342,9 @@ AI 前线导读 ：一年一度由世界知名科技媒体 InfoWorld 评选的 B
 </details>
 
 <details>
-<summary>:snake:Python	<sup>11:newspaper:</sup></summary>
+<summary>:snake:Python	<sup>12:newspaper:</sup></summary>
 
+- [Predictably Random](https://github.com/jwenjian/ghiblog/issues/103)  <sup>0 :speech_balloon:</sup>  	 
 - [Python_uuid 学习总结](https://github.com/jwenjian/ghiblog/issues/91)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : How to use Python virtualenv](https://github.com/jwenjian/ghiblog/issues/64)  <sup>1 :speech_balloon:</sup>  	 
 - [[From Instapaper] : The Flask Mega-Tutorial Part I: Hello World! - miguelgrinberg.com](https://github.com/jwenjian/ghiblog/issues/62)  <sup>2 :speech_balloon:</sup>  	 
@@ -435,8 +443,9 @@ AI 前线导读 ：一年一度由世界知名科技媒体 InfoWorld 评选的 B
 </details>
 
 <details>
-<summary>架构	<sup>4:newspaper:</sup></summary>
+<summary>架构	<sup>5:newspaper:</sup></summary>
 
+- [负载均衡](https://github.com/jwenjian/ghiblog/issues/104)  <sup>0 :speech_balloon:</sup>  	 
 - [比拼 Kafka 大数据分析新秀Pulsar到底好在哪-InfoQ](https://github.com/jwenjian/ghiblog/issues/100)  <sup>0 :speech_balloon:</sup>  	 
 - [RocketMQ与kafka对比18项差异](https://github.com/jwenjian/ghiblog/issues/83)  <sup>0 :speech_balloon:</sup>  	 
 - [白话中台战略 - InfoQ](https://github.com/jwenjian/ghiblog/issues/81)  <sup>0 :speech_balloon:</sup>  	 
