@@ -7,7 +7,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/24"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-09-08 00:09:49"/>
+    <img src="https://badgen.net/badge/last-commit/2019-09-09 00:09:43"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -25,10 +25,10 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>In Wolf's Cave</b></p>
+<p align="center"><b>You can't see me, Meow~~!</b></p>
 
 <p align="center">
-    <img src="https://apod.nasa.gov/apod/image/1909/WolfsCaveCBMDMW1024.jpg" alt="In Wolf's Cave" title="The mysterious blue reflection nebula found in catalogs as VdB 152 or Ced 201 really is very faint. It lies at the tip of the long dark nebula Barnard 175 in a dusty complex that has also been called Wolf's Cave. At the center of this deep and widefield telescopic view, the cosmic apparitions are nearly 1,400 light-years away along the northern Milky Way in the royal constellation Cepheus. Near the edge of a large molecular cloud, pockets of interstellar dust in the region block light from background stars or scatter light from the embedded bright star giving the the nebula its characteristic blue color. Ultraviolet light from the star is also thought to cause a dim reddish luminescence in the nebular dust. Though stars do form in molecular clouds, this star seems to have only accidentally wandered into the area, as its measured velocity through space is very different from the cloud's velocity. Another dense, obscuring dark nebula, LDN 1221, is easy to spot at the upper right in the frame, while the more colorful planetary nebula Dengel-Hartl 5 is just below center. Faint reddish emission from an ancient supernova remnant can also be traced (lower right to upper left) against the dust-rich complex in Cepheus." width="50%"/>
+    <img src="https://http.cat/404.jpg" alt="You can't see me, Meow~~!" title="Failed to get picture of the day from NASA api, so here is a little cute cat for you, see you tomorrow!" width="50%"/>
 </p>
 
 
