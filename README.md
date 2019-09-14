@@ -7,7 +7,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/24"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-09-13 00:09:52"/>
+    <img src="https://badgen.net/badge/last-commit/2019-09-14 00:09:35"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -25,10 +25,10 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>The Iris Nebula in a Field of Dust</b></p>
+<p align="center"><b>A Harvest Moon</b></p>
 
 <p align="center">
-    <img src="https://apod.nasa.gov/apod/image/1909/IRISNebulaSurroundingsNGC7023_1100.jpg" alt="The Iris Nebula in a Field of Dust" title="These cosmic dust clouds drift some 1,300 light-years away along the fertile starfields of the constellation Cepheus. The beautiful Iris Nebula, also known as NGC 7023, blossoms at the upper left. Not the only nebula in the sky to evoke the imagery of flowers, its pretty, symmetric form spans about 6 light-years. This nebula's dominant blue color is characteristic of the pervasive dust grains reflecting light from a nearby hot, bluish star. But darker, obscuring dust clouds cover most of the nearly 4 degree wide field of view. At the right is the LDN 1147/1158 complex of Lynds Dark Nebulae. Stars are forming there, still hidden within the dark cloud cores. A search through the sharp image can identify Herbig-Haro objects though, jets of shocked glowing gas emanating from recently formed stars." width="50%"/>
+    <img src="https://apod.nasa.gov/apod/image/1909/HarvestmoonGraffand.jpg" alt="A Harvest Moon" title="Famed in festival, story, and song the best known full moon is the Harvest Moon. For northern hemisphere dwellers that's a traditional name of the farthest full moon to the September equinox. In most North America time zones this year's Harvest Moon will officially rise on Friday, September 13. In fact the same Harvest Moon will rise on September 14 for much of the planet though. Of course the Moon will look almost full in the surrounding days. Regardless of your time zone the Harvest Moon, like any other full moon, will rise just opposite the setting Sun. Near the horizon, the Moon Illusion might make it appear bigger and brighter to you but this Harvest Moon will be near lunar apogee. That's the farthest point in its orbit, making it the most distant, and so the smallest, full moon of the year. On August 15 a wheat field harvested in south central France made this a harvest moon scene too, the full moon shining on with beautiful iridescent clouds at sunset." width="50%"/>
 </p>
 
 
@@ -40,6 +40,44 @@
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [AirPano.com: 360° 全景图片 + 视频展示世界各地美景](https://github.com/jwenjian/ghiblog/issues/106) <sup>0 :speech_balloon:</sup> 	 2019-09-13 13:35:48
+
+:label: : [:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F)
+
+[AirPano.com](https://www.airpano.com)
+
+360°全景图片/视频, 在线欣赏世界各地美景.
+
+截图:
+
+> [Lesser Antilles, Caribbean Sea](https://www.airpano.com/360photo/caribbean/)
+
+![image](https://user-images.githubusercontent.com/25657798/64866972-0da2d580-d66f-11e9-90d8-a95cf5d8d30c.png)
+
+> [北京](https://www.airpano.com/360photo/Beijing-China/)
+
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/106)
+
+---
+
+
+#### [springboot + mybatis 打印SQL日志到控制台](https://github.com/jwenjian/ghiblog/issues/105) <sup>0 :speech_balloon:</sup> 	 2019-09-13 13:34:42
+
+:label: : [:coffee:JAVA](https://github.com/jwenjian/ghiblog/labels/%3Acoffee%3AJAVA), [:leaves:Spring](https://github.com/jwenjian/ghiblog/labels/%3Aleaves%3ASpring)
+
+配置 mybatis-springboot-starter, 在控制台上打印出 mybatis 生成的 SQL 语句, 用于调试.
+
+> ⚠️  不适用于生产环境.
+
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/105)
+
+---
+
 
 #### [负载均衡](https://github.com/jwenjian/ghiblog/issues/104) <sup>0 :speech_balloon:</sup> 	 2019-09-05 16:20:13
 
@@ -88,36 +126,6 @@ Tomcat &#26159; Java Servlet&#12289;JSP&#12289;Java &#34920;&#36798;&#24335;&#35
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/102)
-
----
-
-
-#### [Mixkit 发布免费可商用的艺术画与插图平台 - 小众软件](https://github.com/jwenjian/ghiblog/issues/101) <sup>0 :speech_balloon:</sup> 	 2019-08-25 01:39:09
-
-:label: : [:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F)
-
-[Mixkit](https://mixkit.co/art/) 发布免费可商用的艺术画与插图平台 - 小众软件
-
-Mixkit 是 envato 旗下的一个提供免费可商用的高质量视频片段与动画的网站，你可以随意取用里面的内容给你自己的视频节目、vlog。最近又再接再厉发布了同样免费可商用的艺术画与插图分类。@appinn 所谓艺术画与插图的风格，就是上面截图这个样子的。 目前的艺术画与插图分类包括： 关系 情绪 活动 房子和家…
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/101)
-
----
-
-
-#### [比拼 Kafka 大数据分析新秀Pulsar到底好在哪-InfoQ](https://github.com/jwenjian/ghiblog/issues/100) <sup>0 :speech_balloon:</sup> 	 2019-08-25 01:36:47
-
-:label: : [开源](https://github.com/jwenjian/ghiblog/labels/%E5%BC%80%E6%BA%90), [架构](https://github.com/jwenjian/ghiblog/labels/%E6%9E%B6%E6%9E%84)
-
-比拼 Kafka, 大数据分析新秀Pulsar到底好在哪-InfoQ
-
-AI 前线导读 ：一年一度由世界知名科技媒体 InfoWorld 评选的 Bossie Awards 于 9 月 26 日公布，本次 Bossie Awards 评选出了最佳数据库与数据分析平台奖、最佳软件开发工具奖、最佳机器学习项目奖等多个奖项。在 最佳开源数据库与数据分析平台奖 中，之前曾连续两年入选的 Kafka…
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/100)
 
 ---
 
@@ -202,8 +210,9 @@ AI 前线导读 ：一年一度由世界知名科技媒体 InfoWorld 评选的 B
 </details>
 
 <details>
-<summary>:coffee:JAVA	<sup>7:newspaper:</sup></summary>
+<summary>:coffee:JAVA	<sup>8:newspaper:</sup></summary>
 
+- [springboot + mybatis 打印SQL日志到控制台](https://github.com/jwenjian/ghiblog/issues/105)  <sup>0 :speech_balloon:</sup>  	 
 - [负载均衡](https://github.com/jwenjian/ghiblog/issues/104)  <sup>0 :speech_balloon:</sup>  	 
 - [如何在优雅地Spring 中实现消息的发送和消费](https://github.com/jwenjian/ghiblog/issues/85)  <sup>0 :speech_balloon:</sup>  	 
 - [如何优雅关闭 Spring Boot 应用](https://github.com/jwenjian/ghiblog/issues/72)  <sup>0 :speech_balloon:</sup>  	 
@@ -251,8 +260,9 @@ AI 前线导读 ：一年一度由世界知名科技媒体 InfoWorld 评选的 B
 </details>
 
 <details>
-<summary>:earth_africa:网站收藏	<sup>14:newspaper:</sup></summary>
+<summary>:earth_africa:网站收藏	<sup>15:newspaper:</sup></summary>
 
+- [AirPano.com: 360° 全景图片 + 视频展示世界各地美景](https://github.com/jwenjian/ghiblog/issues/106)  <sup>0 :speech_balloon:</sup>  	 
 - [Mixkit 发布免费可商用的艺术画与插图平台 - 小众软件](https://github.com/jwenjian/ghiblog/issues/101)  <sup>0 :speech_balloon:</sup>  	 
 - [ColouriseSG: 利用AI给黑白照片上色](https://github.com/jwenjian/ghiblog/issues/96)  <sup>0 :speech_balloon:</sup>  	 
 - [日本邮政官网 - 印章生成器](https://github.com/jwenjian/ghiblog/issues/95)  <sup>0 :speech_balloon:</sup>  	 
@@ -290,8 +300,9 @@ AI 前线导读 ：一年一度由世界知名科技媒体 InfoWorld 评选的 B
 </details>
 
 <details>
-<summary>:leaves:Spring	<sup>5:newspaper:</sup></summary>
+<summary>:leaves:Spring	<sup>6:newspaper:</sup></summary>
 
+- [springboot + mybatis 打印SQL日志到控制台](https://github.com/jwenjian/ghiblog/issues/105)  <sup>0 :speech_balloon:</sup>  	 
 - [如何在优雅地Spring 中实现消息的发送和消费](https://github.com/jwenjian/ghiblog/issues/85)  <sup>0 :speech_balloon:</sup>  	 
 - [如何优雅关闭 Spring Boot 应用](https://github.com/jwenjian/ghiblog/issues/72)  <sup>0 :speech_balloon:</sup>  	 
 - [start.spring.io支持在线预览生成的文件内容](https://github.com/jwenjian/ghiblog/issues/63)  <sup>1 :speech_balloon:</sup>  	 
