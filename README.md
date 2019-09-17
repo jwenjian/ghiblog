@@ -7,7 +7,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/24"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-09-16 00:09:34"/>
+    <img src="https://badgen.net/badge/last-commit/2019-09-17 00:09:30"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -25,10 +25,10 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>You can't see me, Meow~~!</b></p>
+<p align="center"><b>A Lunar Corona over Turin</b></p>
 
 <p align="center">
-    <img src="https://http.cat/404.jpg" alt="You can't see me, Meow~~!" title="Failed to get picture of the day from NASA api, so here is a little cute cat for you, see you tomorrow!" width="50%"/>
+    <img src="https://apod.nasa.gov/apod/image/1909/LunarCorona_Hofer_960.jpg" alt="A Lunar Corona over Turin" title="What are those colorful rings around the Moon? A corona. Rings like this will sometimes appear when the Moon is seen through thin clouds. The effect is created by the quantum mechanical diffraction of light around individual, similarly-sized water droplets in an intervening but mostly-transparent cloud. Since light of different colors has different wavelengths, each color diffracts differently. Lunar Coronae are one of the few  quantum mechanical color effects that can be easily seen with the unaided eye.  The featured lunar corona was captured around full Moon above Turin, Italy in 2014.  Similar coronae that form around the Sun are usually harder to see because of the Sun's great brightness." width="50%"/>
 </p>
 
 
