@@ -7,7 +7,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/24"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-09-18 00:09:29"/>
+    <img src="https://badgen.net/badge/last-commit/2019-09-19 00:09:29"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -25,10 +25,10 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>You can't see me, Meow~~!</b></p>
+<p align="center"><b>Gigantic Jet Lightning over India</b></p>
 
 <p align="center">
-    <img src="https://http.cat/404.jpg" alt="You can't see me, Meow~~!" title="Failed to get picture of the day from NASA api, so here is a little cute cat for you, see you tomorrow!" width="50%"/>
+    <img src="https://apod.nasa.gov/apod/image/1909/GiganticJet_Chang_960.jpg" alt="Gigantic Jet Lightning over India" title="Yes, but can your lightning bolt do this? While flying from Munich to Singapore earlier this month, an industrious passenger took images of a passing lightning storm and caught something unexpected: gigantic jet lightning.  The jet was captured on a single 3.2-second exposure above Bhadrak, India. Although the gigantic jet appears connected to the airplane's wing, it likely started in a more distant  thundercloud, and can be seen extending upwards towards Earth's ionosphere.  The nature of gigantic jets and their possible association with other types of Transient Luminous Events (TLEs) such as blue jets and red sprites remains an active topic of research." width="50%"/>
 </p>
 
 
@@ -40,6 +40,21 @@
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [[From Instapaper] : 电子邮件怎样暴露你的信息-InfoQ](https://github.com/jwenjian/ghiblog/issues/108) <sup>0 :speech_balloon:</sup> 	 2019-09-18 06:51:23
+
+:label: : 
+
+&#30005;&#23376;&#37038;&#20214;&#24590;&#26679;&#26292;&#38706;&#20320;&#30340;&#20449;&#24687;&#65311;-InfoQ<br>
+&#20182;&#20204;&#22312;&#30417;&#35270;&#20320;&#65292;&#20320;&#21487;&#20197;&#20174;&#20687;&#32032;&#26469;&#21028;&#26029;&#12290; &#20320;&#30340;&#25910;&#20214;&#31665;&#27491;&#22312;&#27880;&#35270;&#30528;&#20320;&#12290;&#26159;&#30340;&#65292;&#25105;&#20204;&#22823;&#22810;&#25968;&#20154;&#37117;&#30693;&#36947;&#25105;&#20204;&#30340;&#32447;&#19978;&#27963;&#21160;&#21487;&#20197;&#34987;&#36861;&#36394;&#65292;&#20294;&#26159;&#20320;&#21487;&#33021;&#23545;&#25910;&#21040;&#36825;&#26679;&#30340;&#37038;&#20214;&#25968;&#37327;&#24863;&#21040;&#21507;&#24778;&#65292;&#36825;&#20123;&#37038;&#20214;&#21487;&#20197;&#21578;&#35785;&#20182;&#20204;&#20309;&#26102;&#20309;&#22320;&#25171;&#24320;&#36807;&#65292;&#20197;&#21450;&#25171;&#24320;&#30340;&#39057;&#29575;&#12290;&hellip;<br>
+<br>
+<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/108)
+
+---
+
 
 #### [AirPano.com: 360° 全景图片 + 视频展示世界各地美景](https://github.com/jwenjian/ghiblog/issues/106) <sup>0 :speech_balloon:</sup> 	 2019-09-13 13:35:48
 
@@ -111,21 +126,6 @@ The concept of random is pretty interesting when you think about it from a compu
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/103)
-
----
-
-
-#### [[From Instapaper] : Linux系统安全九Tomcat 安全-InfoQ](https://github.com/jwenjian/ghiblog/issues/102) <sup>0 :speech_balloon:</sup> 	 2019-08-27 23:28:03
-
-:label: : 
-
-Linux&#31995;&#32479;&#23433;&#20840;&#65288;&#20061;&#65289;&#65306;Tomcat &#23433;&#20840;-InfoQ<br>
-Tomcat &#26159; Java Servlet&#12289;JSP&#12289;Java &#34920;&#36798;&#24335;&#35821;&#35328;&#21644; Java WebSocket &#25216;&#26415;&#30340;&#24320;&#28304;&#23454;&#29616;&#65292;&#34987;&#24191;&#27867;&#20351;&#29992;&#22312; Java &#35821;&#35328;&#24320;&#21457;&#30340;&#22823;&#22411;&#32593;&#31449;&#31995;&#32479;&#20013;&#12290;&#25105;&#20204;&#21487;&#20197;&#20174;&#20197;&#19979;&#20960;&#20010;&#26041;&#38754;&#26469;&#20445;&#38556; Tomcat &#30340;&#23433;&#20840;&#12290; &#20445;&#25345;&#29256;&#26412;&#26356;&#26032; &#24314;&#35758;&#22312;&#37096;&#32626;&#26102;&#37319;&#29992;&#26368;&#26032;&#31283;&#23450;&#29256;&#30340;&hellip;<br>
-<br>
-<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/102)
 
 ---
 
