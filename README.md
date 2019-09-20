@@ -7,7 +7,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/24"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-09-19 00:09:29"/>
+    <img src="https://badgen.net/badge/last-commit/2019-09-20 00:09:33"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -25,10 +25,10 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>Gigantic Jet Lightning over India</b></p>
+<p align="center"><b>Along the Western Veil</b></p>
 
 <p align="center">
-    <img src="https://apod.nasa.gov/apod/image/1909/GiganticJet_Chang_960.jpg" alt="Gigantic Jet Lightning over India" title="Yes, but can your lightning bolt do this? While flying from Munich to Singapore earlier this month, an industrious passenger took images of a passing lightning storm and caught something unexpected: gigantic jet lightning.  The jet was captured on a single 3.2-second exposure above Bhadrak, India. Although the gigantic jet appears connected to the airplane's wing, it likely started in a more distant  thundercloud, and can be seen extending upwards towards Earth's ionosphere.  The nature of gigantic jets and their possible association with other types of Transient Luminous Events (TLEs) such as blue jets and red sprites remains an active topic of research." width="50%"/>
+    <img src="https://apod.nasa.gov/apod/image/1909/veilXie1100.jpg" alt="Along the Western Veil" title="Delicate in appearance, these filaments of shocked, glowing gas, are draped across planet Earth's sky toward the constellation of Cygnus." width="50%"/>
 </p>
 
 
