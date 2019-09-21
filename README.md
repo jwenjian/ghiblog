@@ -7,7 +7,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/24"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-09-20 00:09:33"/>
+    <img src="https://badgen.net/badge/last-commit/2019-09-21 00:09:40"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -25,10 +25,10 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>Along the Western Veil</b></p>
+<p align="center"><b>You can't see me, Meow~~!</b></p>
 
 <p align="center">
-    <img src="https://apod.nasa.gov/apod/image/1909/veilXie1100.jpg" alt="Along the Western Veil" title="Delicate in appearance, these filaments of shocked, glowing gas, are draped across planet Earth's sky toward the constellation of Cygnus." width="50%"/>
+    <img src="https://http.cat/404.jpg" alt="You can't see me, Meow~~!" title="Failed to get picture of the day from NASA api, so here is a little cute cat for you, see you tomorrow!" width="50%"/>
 </p>
 
 
@@ -40,6 +40,21 @@
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [[From Instapaper] : 消灭 Java 代码的坏味道-InfoQ](https://github.com/jwenjian/ghiblog/issues/109) <sup>0 :speech_balloon:</sup> 	 2019-09-20 03:53:58
+
+:label: : 
+
+&#28040;&#28781; Java &#20195;&#30721;&#30340;&ldquo;&#22351;&#21619;&#36947;&rdquo;-InfoQ<br>
+&#23548;&#35835; &#26126;&#20195;&#29579;&#38451;&#26126;&#20808;&#29983;&#22312;&#12298;&#20256;&#20064;&#24405;&#12299;&#35848;&#20026;&#23398;&#20043;&#36947;&#26102;&#35828;&#65306; &#31169;&#27442;&#26085;&#29983;&#65292;&#22914;&#22320;&#19978;&#23576;&#65292;&#19968;&#26085;&#19981;&#25195;&#65292;&#20415;&#21448;&#26377;&#19968;&#23618;&#12290;&#30528;&#23454;&#29992;&#21151;&#65292;&#20415;&#35265;&#36947;&#26080;&#32456;&#31351;&#65292;&#24840;&#25506;&#24840;&#28145;&#65292;&#24517;&#20351;&#31934;&#30333;&#26080;&#19968;&#27627;&#19981;&#24443;&#26041;&#21487;&#12290; &#20195;&#30721;&#20013;&#30340; " &#22351;&#21619;&#36947; "&#65292;&#22914; " &#31169;&#27442; " &#22914; " &#28784;&#23576; "&#65292;&#27599;&#22825;&#37117;&#22312;&#22686;&#21152;&#65292;&#19968;&#26085;&#19981;&#21435;&#28165;&#38500;&#65292;&#20415;&#20250;&#36234;&#32047;&#36234;&#22810;&#12290;&#22914;&#26524;&#29992;&#21151;&#21435;&#28165;&#38500;&#36825;&#20123; " &#22351;&#21619;&#36947;&hellip;<br>
+<br>
+<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/109)
+
+---
+
 
 #### [[From Instapaper] : 电子邮件怎样暴露你的信息-InfoQ](https://github.com/jwenjian/ghiblog/issues/108) <sup>0 :speech_balloon:</sup> 	 2019-09-18 06:51:23
 
@@ -111,21 +126,6 @@
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/104)
-
----
-
-
-#### [Predictably Random](https://github.com/jwenjian/ghiblog/issues/103) <sup>0 :speech_balloon:</sup> 	 2019-09-05 16:20:00
-
-:label: : [:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)
-
-Predictably Random<br>
-The concept of random is pretty interesting when you think about it from a computer's point of view, because without some external input, random is impossible.&hellip;<br>
-<br>
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/103)
 
 ---
 
