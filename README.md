@@ -7,7 +7,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/24"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-09-24 00:09:35"/>
+    <img src="https://badgen.net/badge/last-commit/2019-09-25 00:09:42"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -25,10 +25,10 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>Equinox: The Sun from Solstice to Solstice</b></p>
+<p align="center"><b>You can't see me, Meow~~!</b></p>
 
 <p align="center">
-    <img src="https://apod.nasa.gov/apod/image/1909/seasons_tezel_1080.jpg" alt="Equinox: The Sun from Solstice to Solstice" title="Today is an equinox, a date when day and night are equal.  Tomorrow, and every day until the next equinox, the night will be longer than the day in Earth's northern hemisphere, and the day will be longer than the night in Earth's southern hemisphere. An equinox occurs midway between the two solstices, when the days and nights are the least equal. The featured picture is a composite of hourly images taken of the Sun above Bursa, Turkey on key days from solstice to equinox to solstice. The bottom Sun band was taken during the north's winter solstice in 2007 December, when the Sun could not rise very high in the sky nor stay above the horizon very long.   This lack of Sun caused winter. The top Sun band was taken during the northern summer solstice in 2008 June, when the Sun rose highest in the sky and stayed above the horizon for more than 12 hours.  This abundance of Sun caused summer. The middle band was taken during an equinox in 2008 March, but it is the same sun band that Earthlings see today, the day of the most recent  equinox.   Browser-Enhanced APOD: Google Chrome extensions (free, user created and maintained)" width="50%"/>
+    <img src="https://http.cat/404.jpg" alt="You can't see me, Meow~~!" title="Failed to get picture of the day from NASA api, so here is a little cute cat for you, see you tomorrow!" width="50%"/>
 </p>
 
 
