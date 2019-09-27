@@ -7,7 +7,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/24"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-09-26 00:09:37"/>
+    <img src="https://badgen.net/badge/last-commit/2019-09-27 00:09:44"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -25,10 +25,10 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>The Pelican Nebula in Gas, Dust, and Stars</b></p>
+<p align="center"><b>Da Vinci Rise</b></p>
 
 <p align="center">
-    <img src="https://apod.nasa.gov/apod/image/1909/Pelican_Akar_960.jpg" alt="The Pelican Nebula in Gas, Dust, and Stars" title="The Pelican Nebula is slowly being transformed.  IC 5070, the official designation, is divided from the larger North America Nebula by a molecular cloud filled with dark dust.  The Pelican, however, receives much study because it is a particularly active mix of star formation and evolving gas clouds.  The featured picture was produced in three specific colors -- light emitted by sulfur, hydrogen, and oxygen --  that can help us to better understand these interactions.  The light from young energetic stars is slowly transforming the cold gas to hot gas, with the advancing boundary between the two, known as an ionization front, visible in bright orange on the right. Particularly dense tentacles of cold gas remain.  Millions of years from now this nebula might no longer be known as the Pelican, as the balance and placement of stars and gas will surely leave something that appears completely different." width="50%"/>
+    <img src="https://apod.nasa.gov/apod/image/1909/DaVinciRisingLikaiLin_1024.jpg" alt="Da Vinci Rise" title="An old Moon rose this morning, its waning sunlit crescent shining just above the eastern horizon before sunrise. But earthshine, light reflected from a bright planet Earth, lit the shadowed portion of the lunar disk and revealed most of a familiar lunar near side to early morning risers. In fact, a description of earthshine in terms of sunlight reflected by Earth's oceans illuminating the Moon's dark surface was written over 500 years ago by Leonardo da Vinci. One lunation ago this old Moon also rose above the eastern horizon. Its sunlit crescent and da Vinci glow were captured in stacked exposures from the Badain Jilin Desert of Inner Mongolia, China on August 29, 2019. This year marks the 500th anniversary of Leondardo da Vinci's death." width="50%"/>
 </p>
 
 
@@ -40,6 +40,36 @@
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [[From Instapaper] : Fix problems that block programs from being installed or removed](https://github.com/jwenjian/ghiblog/issues/111) <sup>0 :speech_balloon:</sup> 	 2019-09-26 15:24:10
+
+:label: : 
+
+Fix problems that block programs from being installed or removed<br>
+Note Use these steps for Windows programs. If you're having problems with an app you got from Microsoft Store , go to Fix problems with apps from Microsoft&hellip;<br>
+<br>
+<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/111)
+
+---
+
+
+#### [[From Instapaper] : Solved: Autodesk Genuine Service does not uninstall - Autodesk Community- 3ds Max](https://github.com/jwenjian/ghiblog/issues/110) <sup>0 :speech_balloon:</sup> 	 2019-09-26 15:24:09
+
+:label: : 
+
+Solved: Autodesk Genuine Service does not uninstall - Autodesk Community- 3ds Max<br>
+Message 2 of 14 Swordslayer in reply to: adamculp &lrm;05-11-2019 11:50 AM Mark as New Bookmark Subscribe Subscribe to RSS Feed Permalink Print Report &lrm;05-11-2019&hellip;<br>
+<br>
+<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/110)
+
+---
+
 
 #### [[From Instapaper] : 消灭 Java 代码的坏味道-InfoQ](https://github.com/jwenjian/ghiblog/issues/109) <sup>0 :speech_balloon:</sup> 	 2019-09-20 03:53:58
 
@@ -90,42 +120,6 @@
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/106)
-
----
-
-
-#### [springboot + mybatis 打印SQL日志到控制台](https://github.com/jwenjian/ghiblog/issues/105) <sup>0 :speech_balloon:</sup> 	 2019-09-13 13:34:42
-
-:label: : [:coffee:JAVA](https://github.com/jwenjian/ghiblog/labels/%3Acoffee%3AJAVA), [:leaves:Spring](https://github.com/jwenjian/ghiblog/labels/%3Aleaves%3ASpring)
-
-配置 mybatis-springboot-starter, 在控制台上打印出 mybatis 生成的 SQL 语句, 用于调试.
-
-> ⚠️  不适用于生产环境.
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/105)
-
----
-
-
-#### [负载均衡](https://github.com/jwenjian/ghiblog/issues/104) <sup>0 :speech_balloon:</sup> 	 2019-09-05 16:20:13
-
-:label: : [:coffee:JAVA](https://github.com/jwenjian/ghiblog/labels/%3Acoffee%3AJAVA), [架构](https://github.com/jwenjian/ghiblog/labels/%E6%9E%B6%E6%9E%84)
-
-> 摘自 [apache dubbo](http://dubbo.apache.org/zh-cn/docs/source_code_guide/loadbalance.html)
-
-当一个接口有多个服务提供者时, dubbo支持以下几种策略在服务提供者之间进行负载均衡的转发:
-1. 加权随机
-2. 最小活跃
-3. 一致性hash
-4. 加权轮询
-
-对于每个策略都有对应的代码及讲解, 可以作为负载均衡相关知识的学习材料
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/104)
 
 ---
 
