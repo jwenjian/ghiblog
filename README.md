@@ -5,9 +5,9 @@
 
 <p align='center'>
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/labels/24"/>
+    <img src="https://badgen.net/badge/labels/25"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-09-27 00:09:44"/>
+    <img src="https://badgen.net/badge/last-commit/2019-09-28 00:09:49"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -25,10 +25,10 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>Da Vinci Rise</b></p>
+<p align="center"><b>The Annotated Galactic Center</b></p>
 
 <p align="center">
-    <img src="https://apod.nasa.gov/apod/image/1909/DaVinciRisingLikaiLin_1024.jpg" alt="Da Vinci Rise" title="An old Moon rose this morning, its waning sunlit crescent shining just above the eastern horizon before sunrise. But earthshine, light reflected from a bright planet Earth, lit the shadowed portion of the lunar disk and revealed most of a familiar lunar near side to early morning risers. In fact, a description of earthshine in terms of sunlight reflected by Earth's oceans illuminating the Moon's dark surface was written over 500 years ago by Leonardo da Vinci. One lunation ago this old Moon also rose above the eastern horizon. Its sunlit crescent and da Vinci glow were captured in stacked exposures from the Badain Jilin Desert of Inner Mongolia, China on August 29, 2019. This year marks the 500th anniversary of Leondardo da Vinci's death." width="50%"/>
+    <img src="https://apod.nasa.gov/apod/image/1909/MilkyWay-CorePanorama_8738-Cr-Anno1080.jpg" alt="The Annotated Galactic Center" title="The center of our Milky Way galaxy can be found some 26,000 light-years away toward the constellation Sagittarius. Even on a dark night, you can't really see it though. Gaze in that direction, and your sight-line is quickly obscured by intervening interstellar dust. In fact, dark dust clouds, glowing nebulae, and crowded starfieds are packed along the fertile galactic plane and central regions of our galaxy. This annotated view, a mosaic of dark sky images, highlights some favorites, particularly for small telescope or binocular equipped skygazers. The cropped version puts the direction to the galactic center on the far right. It identifies well-known Messier objects like the Lagoon nebula (M8), the Trifid (M20), star cloud M24, and some of E.E. Barnard's dark markings on the sky. A full version extends the view to the right toward the constellation Scorpius, in all covering over 20 degrees across the center of the Milky Way." width="50%"/>
 </p>
 
 
@@ -41,14 +41,14 @@
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [[From Instapaper] : Fix problems that block programs from being installed or removed](https://github.com/jwenjian/ghiblog/issues/111) <sup>0 :speech_balloon:</sup> 	 2019-09-26 15:24:10
+#### [解决windows系统某些软件无法卸载或者安装](https://github.com/jwenjian/ghiblog/issues/111) <sup>0 :speech_balloon:</sup> 	 2019-09-26 15:24:10
 
-:label: : 
+:label: : [:computer:Windows](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3AWindows)
 
-Fix problems that block programs from being installed or removed<br>
-Note Use these steps for Windows programs. If you're having problems with an app you got from Microsoft Store , go to Fix problems with apps from Microsoft&hellip;<br>
-<br>
-<br>
+Microsoft 出品的修复工具， 专门解决 windows 系统上通过控制面板无法正常卸载或者安装某些软件的问题。
+
+罪犯之一就是 `Autodesk Genuine Service`
+
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/111)
@@ -56,29 +56,15 @@ Note Use these steps for Windows programs. If you're having problems with an app
 ---
 
 
-#### [[From Instapaper] : Solved: Autodesk Genuine Service does not uninstall - Autodesk Community- 3ds Max](https://github.com/jwenjian/ghiblog/issues/110) <sup>0 :speech_balloon:</sup> 	 2019-09-26 15:24:09
+#### [消灭 Java 代码的坏味道-InfoQ](https://github.com/jwenjian/ghiblog/issues/109) <sup>0 :speech_balloon:</sup> 	 2019-09-20 03:53:58
 
-:label: : 
+:label: : [:coffee:JAVA](https://github.com/jwenjian/ghiblog/labels/%3Acoffee%3AJAVA)
 
-Solved: Autodesk Genuine Service does not uninstall - Autodesk Community- 3ds Max<br>
-Message 2 of 14 Swordslayer in reply to: adamculp &lrm;05-11-2019 11:50 AM Mark as New Bookmark Subscribe Subscribe to RSS Feed Permalink Print Report &lrm;05-11-2019&hellip;<br>
-<br>
-<br>
+消灭 Java 代码的坏味道-InfoQ
 
+- 需要 Map 的主键和取值时，应该迭代 entrySet()
+- 应该使用 Collection.isEmpty() 检测空
 
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/110)
-
----
-
-
-#### [[From Instapaper] : 消灭 Java 代码的坏味道-InfoQ](https://github.com/jwenjian/ghiblog/issues/109) <sup>0 :speech_balloon:</sup> 	 2019-09-20 03:53:58
-
-:label: : 
-
-&#28040;&#28781; Java &#20195;&#30721;&#30340;&ldquo;&#22351;&#21619;&#36947;&rdquo;-InfoQ<br>
-&#23548;&#35835; &#26126;&#20195;&#29579;&#38451;&#26126;&#20808;&#29983;&#22312;&#12298;&#20256;&#20064;&#24405;&#12299;&#35848;&#20026;&#23398;&#20043;&#36947;&#26102;&#35828;&#65306; &#31169;&#27442;&#26085;&#29983;&#65292;&#22914;&#22320;&#19978;&#23576;&#65292;&#19968;&#26085;&#19981;&#25195;&#65292;&#20415;&#21448;&#26377;&#19968;&#23618;&#12290;&#30528;&#23454;&#29992;&#21151;&#65292;&#20415;&#35265;&#36947;&#26080;&#32456;&#31351;&#65292;&#24840;&#25506;&#24840;&#28145;&#65292;&#24517;&#20351;&#31934;&#30333;&#26080;&#19968;&#27627;&#19981;&#24443;&#26041;&#21487;&#12290; &#20195;&#30721;&#20013;&#30340; " &#22351;&#21619;&#36947; "&#65292;&#22914; " &#31169;&#27442; " &#22914; " &#28784;&#23576; "&#65292;&#27599;&#22825;&#37117;&#22312;&#22686;&#21152;&#65292;&#19968;&#26085;&#19981;&#21435;&#28165;&#38500;&#65292;&#20415;&#20250;&#36234;&#32047;&#36234;&#22810;&#12290;&#22914;&#26524;&#29992;&#21151;&#21435;&#28165;&#38500;&#36825;&#20123; " &#22351;&#21619;&#36947;&hellip;<br>
-<br>
-<br>
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/109)
@@ -86,14 +72,14 @@ Message 2 of 14 Swordslayer in reply to: adamculp &lrm;05-11-2019 11:50 AM Mark 
 ---
 
 
-#### [[From Instapaper] : 电子邮件怎样暴露你的信息-InfoQ](https://github.com/jwenjian/ghiblog/issues/108) <sup>0 :speech_balloon:</sup> 	 2019-09-18 06:51:23
+#### [电子邮件怎样暴露你的信息-InfoQ](https://github.com/jwenjian/ghiblog/issues/108) <sup>0 :speech_balloon:</sup> 	 2019-09-18 06:51:23
 
-:label: : 
+:label: : [:shield:安全](https://github.com/jwenjian/ghiblog/labels/%3Ashield%3A%E5%AE%89%E5%85%A8)
 
-&#30005;&#23376;&#37038;&#20214;&#24590;&#26679;&#26292;&#38706;&#20320;&#30340;&#20449;&#24687;&#65311;-InfoQ<br>
-&#20182;&#20204;&#22312;&#30417;&#35270;&#20320;&#65292;&#20320;&#21487;&#20197;&#20174;&#20687;&#32032;&#26469;&#21028;&#26029;&#12290; &#20320;&#30340;&#25910;&#20214;&#31665;&#27491;&#22312;&#27880;&#35270;&#30528;&#20320;&#12290;&#26159;&#30340;&#65292;&#25105;&#20204;&#22823;&#22810;&#25968;&#20154;&#37117;&#30693;&#36947;&#25105;&#20204;&#30340;&#32447;&#19978;&#27963;&#21160;&#21487;&#20197;&#34987;&#36861;&#36394;&#65292;&#20294;&#26159;&#20320;&#21487;&#33021;&#23545;&#25910;&#21040;&#36825;&#26679;&#30340;&#37038;&#20214;&#25968;&#37327;&#24863;&#21040;&#21507;&#24778;&#65292;&#36825;&#20123;&#37038;&#20214;&#21487;&#20197;&#21578;&#35785;&#20182;&#20204;&#20309;&#26102;&#20309;&#22320;&#25171;&#24320;&#36807;&#65292;&#20197;&#21450;&#25171;&#24320;&#30340;&#39057;&#29575;&#12290;&hellip;<br>
-<br>
-<br>
+**电子邮件怎样暴露你的信息-InfoQ**
+
+你的收件箱正在注视着你。是的，我们大多数人都知道我们的线上活动可以被追踪，但是你可能对收到这样的邮件数量感到吃惊，这些邮件可以告诉他们何时何地打开过，以及打开的频率。
+
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/108)
@@ -120,6 +106,21 @@ Message 2 of 14 Swordslayer in reply to: adamculp &lrm;05-11-2019 11:50 AM Mark 
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/106)
+
+---
+
+
+#### [springboot + mybatis 打印SQL日志到控制台](https://github.com/jwenjian/ghiblog/issues/105) <sup>0 :speech_balloon:</sup> 	 2019-09-13 13:34:42
+
+:label: : [:coffee:JAVA](https://github.com/jwenjian/ghiblog/labels/%3Acoffee%3AJAVA), [:leaves:Spring](https://github.com/jwenjian/ghiblog/labels/%3Aleaves%3ASpring)
+
+配置 mybatis-springboot-starter, 在控制台上打印出 mybatis 生成的 SQL 语句, 用于调试.
+
+> ⚠️  不适用于生产环境.
+
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/105)
 
 ---
 
@@ -204,8 +205,9 @@ Message 2 of 14 Swordslayer in reply to: adamculp &lrm;05-11-2019 11:50 AM Mark 
 </details>
 
 <details>
-<summary>:coffee:JAVA	<sup>8:newspaper:</sup></summary>
+<summary>:coffee:JAVA	<sup>9:newspaper:</sup></summary>
 
+- [消灭 Java 代码的坏味道-InfoQ](https://github.com/jwenjian/ghiblog/issues/109)  <sup>0 :speech_balloon:</sup>  	 
 - [springboot + mybatis 打印SQL日志到控制台](https://github.com/jwenjian/ghiblog/issues/105)  <sup>0 :speech_balloon:</sup>  	 
 - [负载均衡](https://github.com/jwenjian/ghiblog/issues/104)  <sup>0 :speech_balloon:</sup>  	 
 - [如何在优雅地Spring 中实现消息的发送和消费](https://github.com/jwenjian/ghiblog/issues/85)  <sup>0 :speech_balloon:</sup>  	 
@@ -219,8 +221,9 @@ Message 2 of 14 Swordslayer in reply to: adamculp &lrm;05-11-2019 11:50 AM Mark 
 </details>
 
 <details>
-<summary>:computer:Windows	<sup>12:newspaper:</sup></summary>
+<summary>:computer:Windows	<sup>13:newspaper:</sup></summary>
 
+- [解决windows系统某些软件无法卸载或者安装](https://github.com/jwenjian/ghiblog/issues/111)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : CPUID](https://github.com/jwenjian/ghiblog/issues/74)  <sup>0 :speech_balloon:</sup>  	 
 - [如何在 Chromium 版 Edge 浏览器上安装 Google Chrome 应用商店的扩展](https://github.com/jwenjian/ghiblog/issues/73)  <sup>0 :speech_balloon:</sup>  	 
 - [Internet troubleshooting: website (www.microsoft.com) is online but isn't responding to connection attempts](https://github.com/jwenjian/ghiblog/issues/66)  <sup>0 :speech_balloon:</sup>  	 
@@ -342,6 +345,14 @@ Message 2 of 14 Swordslayer in reply to: adamculp &lrm;05-11-2019 11:50 AM Mark 
 
 - [ColouriseSG: 利用AI给黑白照片上色](https://github.com/jwenjian/ghiblog/issues/96)  <sup>0 :speech_balloon:</sup>  	 
 - [remove.bg - Remove Background from Image  ](https://github.com/jwenjian/ghiblog/issues/92)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>:shield:安全	<sup>1:newspaper:</sup></summary>
+
+- [电子邮件怎样暴露你的信息-InfoQ](https://github.com/jwenjian/ghiblog/issues/108)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
