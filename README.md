@@ -7,7 +7,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/25"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-09-28 00:09:49"/>
+    <img src="https://badgen.net/badge/last-commit/2019-09-29 00:09:32"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -25,10 +25,10 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>The Annotated Galactic Center</b></p>
+<p align="center"><b>An Analemma of the Sun</b></p>
 
 <p align="center">
-    <img src="https://apod.nasa.gov/apod/image/1909/MilkyWay-CorePanorama_8738-Cr-Anno1080.jpg" alt="The Annotated Galactic Center" title="The center of our Milky Way galaxy can be found some 26,000 light-years away toward the constellation Sagittarius. Even on a dark night, you can't really see it though. Gaze in that direction, and your sight-line is quickly obscured by intervening interstellar dust. In fact, dark dust clouds, glowing nebulae, and crowded starfieds are packed along the fertile galactic plane and central regions of our galaxy. This annotated view, a mosaic of dark sky images, highlights some favorites, particularly for small telescope or binocular equipped skygazers. The cropped version puts the direction to the galactic center on the far right. It identifies well-known Messier objects like the Lagoon nebula (M8), the Trifid (M20), star cloud M24, and some of E.E. Barnard's dark markings on the sky. A full version extends the view to the right toward the constellation Scorpius, in all covering over 20 degrees across the center of the Milky Way." width="50%"/>
+    <img src="https://apod.nasa.gov/apod/image/1909/AnalemmaoftheSunGSoponyai.jpg" alt="An Analemma of the Sun" title="This week the equinox found the Sun near the middle, but not at the crossing point, of an analemma in its annual trek through planet Earth's skies. In this scenic view, that graceful, figure-8-shaped curve was intentionally posed above the iconic Danube River and the capital city of Hungary. Looking south from Budapest's Margaret Bridge it combines digital frames taken at exactly the same time of day (11:44 CET) on dates between 2018 September 24 and 2019 September 15. That puts the metropolitan Pest on the left, regal Buda on the right, and the positions of the Sun on the solstice dates at the top and bottom of the analemma curve. December's near solstice Sun is just hidden behind a dramatic cloud bank." width="50%"/>
 </p>
 
 
@@ -40,6 +40,21 @@
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [为何国内师范大学的英文名是XX Normal University](https://github.com/jwenjian/ghiblog/issues/112) <sup>0 :speech_balloon:</sup> 	 2019-09-28 13:56:14
+
+:label: : 
+
+如：
+- 陕西师范大学 -> Shaanxi Normal University
+- 河南师范大学 -> Beijing Normal University
+
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/112)
+
+---
+
 
 #### [解决windows系统某些软件无法卸载或者安装](https://github.com/jwenjian/ghiblog/issues/111) <sup>0 :speech_balloon:</sup> 	 2019-09-26 15:24:10
 
@@ -106,21 +121,6 @@ Microsoft 出品的修复工具， 专门解决 windows 系统上通过控制面
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/106)
-
----
-
-
-#### [springboot + mybatis 打印SQL日志到控制台](https://github.com/jwenjian/ghiblog/issues/105) <sup>0 :speech_balloon:</sup> 	 2019-09-13 13:34:42
-
-:label: : [:coffee:JAVA](https://github.com/jwenjian/ghiblog/labels/%3Acoffee%3AJAVA), [:leaves:Spring](https://github.com/jwenjian/ghiblog/labels/%3Aleaves%3ASpring)
-
-配置 mybatis-springboot-starter, 在控制台上打印出 mybatis 生成的 SQL 语句, 用于调试.
-
-> ⚠️  不适用于生产环境.
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/105)
 
 ---
 
