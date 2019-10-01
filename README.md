@@ -7,7 +7,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/25"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-09-30 00:09:36"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-01 00:09:28"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -25,10 +25,10 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>You can't see me, Meow~~!</b></p>
+<p align="center"><b>Orion Rising over Brazil</b></p>
 
 <p align="center">
-    <img src="https://http.cat/404.jpg" alt="You can't see me, Meow~~!" title="Failed to get picture of the day from NASA api, so here is a little cute cat for you, see you tomorrow!" width="50%"/>
+    <img src="https://apod.nasa.gov/apod/image/1909/OrionTree_Fairbairn_960.jpg" alt="Orion Rising over Brazil" title="Have you seen Orion lately? The next few months will be the best for seeing this familiar constellation as it rises continually earlier in the night.  However, Orion's stars and nebulas won't look quite as colorful to the eye as they do in this fantastic camera image. In the featured image, Orion was captured by camera showing its full colors last month over a Brazilian copal tree from Brazil's Central-West Region. Here the cool red giant Betelgeuse takes on a strong orange hue as the brightest star on the far left. Otherwise, Orion's hot blue stars are numerous, with supergiant Rigel balancing Betelgeuse at the upper right, Bellatrix at the upper left, and Saiph at the lower right. Lined up in Orion's belt (bottom to top) are Alnitak, Alnilam, and Mintaka all about 1,500 light-years away, born of the constellation's well studied interstellar clouds. And if a "star" toward the upper right  Orion's sword looks reddish and fuzzy to you, it should. It's the stellar nursery known as the Great Nebula of Orion." width="50%"/>
 </p>
 
 
@@ -41,13 +41,28 @@
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>4 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
+#### [[From Instapaper] : D盘无法格式化提示Windows无法格式该驱动器怎么办-太平洋IT百科](https://github.com/jwenjian/ghiblog/issues/113) <sup>0 :speech_balloon:</sup> 	 2019-09-30 07:59:59
+
+:label: : 
+
+D&#30424;&#26080;&#27861;&#26684;&#24335;&#21270;&#25552;&#31034;Windows&#26080;&#27861;&#26684;&#24335;&#35813;&#39537;&#21160;&#22120;&#24590;&#20040;&#21150;-&#22826;&#24179;&#27915;IT&#30334;&#31185;<br>
+D&#30424;&#26080;&#27861;&#26684;&#24335;&#21270;&#25552;&#31034;Windows&#26080;&#27861;&#26684;&#24335;&#35813;&#39537;&#21160;&#22120;&#24590;&#20040;&#21150;&#65311;&#30005;&#33041;&#23433;&#35013;&#30340;&#26159;Windows10&#30340;&#31995;&#32479;&#65292;&#20170;&#22825;&#24819;&#26684;&#24335;&#21270;D&#30424;&#20877;&#23433;&#35013;&#19968;&#20010;Windows7&#30340;&#31995;&#32479;&#65292;&#20294;&#36827;&#20837;&#36164;&#28304;&#31649;&#29702;&#22120;&#65292;&#26684;&#24335;&#21270;D&#30424;&#26102;&#65292;&#20986;&#29616;&hellip;<br>
+<br>
+<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/113)
+
+---
+
+
 #### [为何国内师范大学的英文名是XX Normal University](https://github.com/jwenjian/ghiblog/issues/112) <sup>0 :speech_balloon:</sup> 	 2019-09-28 13:56:14
 
 :label: : 
 
 如：
 - 陕西师范大学 -> Shaanxi Normal University
-- 河南师范大学 -> Beijing Normal University
+- 北京师范大学 -> Beijing Normal University
 
 
 
@@ -98,29 +113,6 @@ Microsoft 出品的修复工具， 专门解决 windows 系统上通过控制面
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/108)
-
----
-
-
-#### [AirPano.com: 360° 全景图片 + 视频展示世界各地美景](https://github.com/jwenjian/ghiblog/issues/106) <sup>0 :speech_balloon:</sup> 	 2019-09-13 13:35:48
-
-:label: : [:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F)
-
-[AirPano.com](https://www.airpano.com)
-
-360°全景图片/视频, 在线欣赏世界各地美景.
-
-截图:
-
-> [Lesser Antilles, Caribbean Sea](https://www.airpano.com/360photo/caribbean/)
-
-![image](https://user-images.githubusercontent.com/25657798/64866972-0da2d580-d66f-11e9-90d8-a95cf5d8d30c.png)
-
-> [北京](https://www.airpano.com/360photo/Beijing-China/)
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/106)
 
 ---
 
