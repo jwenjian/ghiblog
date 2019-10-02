@@ -7,7 +7,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/25"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-01 00:09:28"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-02 00:09:27"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -25,10 +25,10 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>Orion Rising over Brazil</b></p>
+<p align="center"><b>You can't see me, Meow~~!</b></p>
 
 <p align="center">
-    <img src="https://apod.nasa.gov/apod/image/1909/OrionTree_Fairbairn_960.jpg" alt="Orion Rising over Brazil" title="Have you seen Orion lately? The next few months will be the best for seeing this familiar constellation as it rises continually earlier in the night.  However, Orion's stars and nebulas won't look quite as colorful to the eye as they do in this fantastic camera image. In the featured image, Orion was captured by camera showing its full colors last month over a Brazilian copal tree from Brazil's Central-West Region. Here the cool red giant Betelgeuse takes on a strong orange hue as the brightest star on the far left. Otherwise, Orion's hot blue stars are numerous, with supergiant Rigel balancing Betelgeuse at the upper right, Bellatrix at the upper left, and Saiph at the lower right. Lined up in Orion's belt (bottom to top) are Alnitak, Alnilam, and Mintaka all about 1,500 light-years away, born of the constellation's well studied interstellar clouds. And if a "star" toward the upper right  Orion's sword looks reddish and fuzzy to you, it should. It's the stellar nursery known as the Great Nebula of Orion." width="50%"/>
+    <img src="https://http.cat/404.jpg" alt="You can't see me, Meow~~!" title="Failed to get picture of the day from NASA api, so here is a little cute cat for you, see you tomorrow!" width="50%"/>
 </p>
 
 
