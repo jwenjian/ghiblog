@@ -7,7 +7,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/25"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-04 00:09:29"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-05 00:09:33"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -40,6 +40,24 @@
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>5 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [用python爬虫保存美国农业部网站上的水果【证件照】](https://github.com/jwenjian/ghiblog/issues/114) <sup>0 :speech_balloon:</sup> 	 2019-10-04 03:37:48
+
+:label: : [:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)
+
+# 导语
+美国农业部为全世界已知水果制作了 7500 幅水彩「证件照」并提供高清下载，链接在[这里](http://t.cn/Rg5CpSS)
+
+![草莓](https://user-gold-cdn.xitu.io/2019/10/4/16d94c068589f695?w=440&h=675&f=jpeg&s=104636)
+
+这次的爬虫的目的是保存这些证件照到本地磁盘。
+
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/114)
+
+---
+
 
 #### [[From Instapaper] : D盘无法格式化提示Windows无法格式该驱动器怎么办-太平洋IT百科](https://github.com/jwenjian/ghiblog/issues/113) <sup>0 :speech_balloon:</sup> 	 2019-09-30 07:59:59
 
@@ -98,21 +116,6 @@ Microsoft 出品的修复工具， 专门解决 windows 系统上通过控制面
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/109)
-
----
-
-
-#### [电子邮件怎样暴露你的信息-InfoQ](https://github.com/jwenjian/ghiblog/issues/108) <sup>0 :speech_balloon:</sup> 	 2019-09-18 06:51:23
-
-:label: : [:shield:安全](https://github.com/jwenjian/ghiblog/labels/%3Ashield%3A%E5%AE%89%E5%85%A8)
-
-**电子邮件怎样暴露你的信息-InfoQ**
-
-你的收件箱正在注视着你。是的，我们大多数人都知道我们的线上活动可以被追踪，但是你可能对收到这样的邮件数量感到吃惊，这些邮件可以告诉他们何时何地打开过，以及打开的频率。
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/108)
 
 ---
 
@@ -350,8 +353,9 @@ Microsoft 出品的修复工具， 专门解决 windows 系统上通过控制面
 </details>
 
 <details>
-<summary>:snake:Python	<sup>12:newspaper:</sup></summary>
+<summary>:snake:Python	<sup>13:newspaper:</sup></summary>
 
+- [用python爬虫保存美国农业部网站上的水果【证件照】](https://github.com/jwenjian/ghiblog/issues/114)  <sup>0 :speech_balloon:</sup>  	 
 - [Predictably Random](https://github.com/jwenjian/ghiblog/issues/103)  <sup>0 :speech_balloon:</sup>  	 
 - [Python_uuid 学习总结](https://github.com/jwenjian/ghiblog/issues/91)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : How to use Python virtualenv](https://github.com/jwenjian/ghiblog/issues/64)  <sup>1 :speech_balloon:</sup>  	 
