@@ -45,7 +45,7 @@ def login():
 
 def get_ghiblog():
     global ghiblog
-    ghiblog = user.get_repo('%s/ghiblog' % user.get_user().login)
+    ghiblog = user.get_repo(os.environ.get('GITHUB_REPOSITORY'))
 
 
 def bundle_summary_section():
@@ -56,13 +56,10 @@ def bundle_summary_section():
     total_label_count = ghiblog.get_labels().totalCount
     total_issue_count = ghiblog.get_issues().totalCount
 
-    user_login = user.get_user().login
+    user_login = os.environ.get('GITHUB_LOGIN')
     pic_of_the_day = NasaClient().get_picture_of_the_day()
 
     summary_section = '''
-<p align='center'>
-    <a href="#"><img src="assets/ghiblog.png" width="50%"/></a>
-</p>
 
 <p align='center'>
     <img src="https://badgen.net/circleci/github/{0}/ghiblog"/>
@@ -120,7 +117,7 @@ def format_issue_with_labels(issue: Issue):
 
     for label in labels:
         labels_str += '[%s](https://github.com/%s/ghiblog/labels/%s), ' % (
-            label.name, user.get_user().login, urllib.parse.quote(label.name))
+            label.name, os.environ.get('GITHUB_LOGIN'), urllib.parse.quote(label.name))
 
     if '---' in issue.body:
         body_summary = issue.body[:issue.body.index('---')]
@@ -201,26 +198,6 @@ def bundle_list_by_labels_section():
     return list_by_labels_section
 
 
-def bundle_about_me_section():
-    global user
-
-    about_me_section = '''
-## 关于:boy: 
-
-[<img alt="%s" src="%s" width="233"/>](%s)
-
-**%s**
-
-:round_pushpin: %s
-
-:black_flag: %s
-''' % (user.get_user().name, user.get_user().avatar_url, user.get_user().html_url, user.get_user().name,
-       user.get_user().location,
-       user.get_user().bio)
-
-    return about_me_section
-
-
 def execute():
     global cur_time
     # common
@@ -248,11 +225,7 @@ def execute():
     list_by_labels_section = bundle_list_by_labels_section()
     print(list_by_labels_section)
 
-    # 7. about me section
-    about_me_section = bundle_about_me_section()
-    print(about_me_section)
-
-    contents = [summary_section, pinned_issues_section, new_created_section, list_by_labels_section, about_me_section]
+    contents = [summary_section, pinned_issues_section, new_created_section, list_by_labels_section]
     update_readme_md_file(contents)
 
     print('README.md updated successfully!!!')
