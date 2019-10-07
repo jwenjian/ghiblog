@@ -1,13 +1,10 @@
 
-<p align='center'>
-    <a href="#"><img src="assets/ghiblog.png" width="50%"/></a>
-</p>
 
 <p align='center'>
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/25"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-07 00:09:28"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-07 14:13:30"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -25,14 +22,15 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>The Horsehead Nebula</b></p>
+<p align="center"><b>You can't see me, Meow~~!</b></p>
 
 <p align="center">
-    <img src="https://apod.nasa.gov/apod/image/1910/HorseFlame_Priego_960.jpg" alt="The Horsehead Nebula" title="The Horsehead Nebula is one of the most famous nebulae on the sky.  It is visible as the dark indentation to the red emission nebula in the center of the above photograph.  The horse-head feature is dark because it is really an opaque dust cloud that lies in front of the bright red emission nebula. Like clouds in Earth's atmosphere, this cosmic cloud has assumed a recognizable shape by chance.  After many thousands of years, the internal motions of the cloud will surely alter its appearance.  The emission nebula's red color is caused by electrons recombining with protons to form hydrogen atoms.  On the image left is the Flame Nebula, an orange-tinged nebula that also contains filaments of dark dust. Just to the lower left of the Horsehead nebula featured picture is a blueish reflection nebulae that preferentially reflects the blue light from nearby stars." width="50%"/>
+    <img src="https://http.cat/404.jpg" alt="You can't see me, Meow~~!" title="Failed to get picture of the day from NASA api, so here is a little cute cat for you, see you tomorrow!" width="50%"/>
 </p>
 
 
 ## 置顶 :thumbsup: 
+- [到此一游 - 天津](https://github.com/jwenjian/ghiblog/issues/115)  <sup>0 :speech_balloon:</sup>  	 
 - [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>4 :speech_balloon:</sup>  	 
 - [如果风险投资者问你“如果大公司进入市场与你竞争，怎么办？”，你应该如何回答？](https://github.com/jwenjian/ghiblog/issues/70)  <sup>1 :speech_balloon:</sup>  	 
 - [我喜欢的音乐](https://github.com/jwenjian/ghiblog/issues/67)  <sup>0 :speech_balloon:</sup>  	 
@@ -40,6 +38,23 @@
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>5 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [到此一游 - 天津](https://github.com/jwenjian/ghiblog/issues/115) <sup>0 :speech_balloon:</sup> 	 2019-10-07 02:06:38
+
+:label: : [:+1:置顶](https://github.com/jwenjian/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6), [:camera_flash:随拍](https://github.com/jwenjian/ghiblog/labels/%3Acamera_flash%3A%E9%9A%8F%E6%8B%8D)
+
+📅  20191005 -> 20191006
+
+📸  iPhone8拍摄
+
+![IMG_4087](https://user-images.githubusercontent.com/25657798/66280517-936e1580-e8e9-11e9-89e1-f2d9ee6bea17.JPEG)
+
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/115)
+
+---
+
 
 #### [用python爬虫保存美国农业部网站上的水果【证件照】](https://github.com/jwenjian/ghiblog/issues/114) <sup>0 :speech_balloon:</sup> 	 2019-10-04 03:37:48
 
@@ -61,7 +76,7 @@
 
 #### [[From Instapaper] : D盘无法格式化提示Windows无法格式该驱动器怎么办-太平洋IT百科](https://github.com/jwenjian/ghiblog/issues/113) <sup>0 :speech_balloon:</sup> 	 2019-09-30 07:59:59
 
-:label: : 
+:label: : [:computer:Windows](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3AWindows)
 
 D&#30424;&#26080;&#27861;&#26684;&#24335;&#21270;&#25552;&#31034;Windows&#26080;&#27861;&#26684;&#24335;&#35813;&#39537;&#21160;&#22120;&#24590;&#20040;&#21150;-&#22826;&#24179;&#27915;IT&#30334;&#31185;<br>
 D&#30424;&#26080;&#27861;&#26684;&#24335;&#21270;&#25552;&#31034;Windows&#26080;&#27861;&#26684;&#24335;&#35813;&#39537;&#21160;&#22120;&#24590;&#20040;&#21150;&#65311;&#30005;&#33041;&#23433;&#35013;&#30340;&#26159;Windows10&#30340;&#31995;&#32479;&#65292;&#20170;&#22825;&#24819;&#26684;&#24335;&#21270;D&#30424;&#20877;&#23433;&#35013;&#19968;&#20010;Windows7&#30340;&#31995;&#32479;&#65292;&#20294;&#36827;&#20837;&#36164;&#28304;&#31649;&#29702;&#22120;&#65292;&#26684;&#24335;&#21270;D&#30424;&#26102;&#65292;&#20986;&#29616;&hellip;<br>
@@ -76,7 +91,7 @@ D&#30424;&#26080;&#27861;&#26684;&#24335;&#21270;&#25552;&#31034;Windows&#26080;
 
 #### [为何国内师范大学的英文名是XX Normal University](https://github.com/jwenjian/ghiblog/issues/112) <sup>0 :speech_balloon:</sup> 	 2019-09-28 13:56:14
 
-:label: : 
+:label: : [:books:阅读](https://github.com/jwenjian/ghiblog/labels/%3Abooks%3A%E9%98%85%E8%AF%BB)
 
 如：
 - 陕西师范大学 -> Shaanxi Normal University
@@ -104,22 +119,6 @@ Microsoft 出品的修复工具， 专门解决 windows 系统上通过控制面
 ---
 
 
-#### [消灭 Java 代码的坏味道-InfoQ](https://github.com/jwenjian/ghiblog/issues/109) <sup>0 :speech_balloon:</sup> 	 2019-09-20 03:53:58
-
-:label: : [:coffee:JAVA](https://github.com/jwenjian/ghiblog/labels/%3Acoffee%3AJAVA)
-
-消灭 Java 代码的坏味道-InfoQ
-
-- 需要 Map 的主键和取值时，应该迭代 entrySet()
-- 应该使用 Collection.isEmpty() 检测空
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/109)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -130,8 +129,9 @@ Microsoft 出品的修复工具， 专门解决 windows 系统上通过控制面
 
 
 <details>
-<summary>:+1:置顶	<sup>6:newspaper:</sup></summary>
+<summary>:+1:置顶	<sup>7:newspaper:</sup></summary>
 
+- [到此一游 - 天津](https://github.com/jwenjian/ghiblog/issues/115)  <sup>0 :speech_balloon:</sup>  	 
 - [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>4 :speech_balloon:</sup>  	 
 - [如果风险投资者问你“如果大公司进入市场与你竞争，怎么办？”，你应该如何回答？](https://github.com/jwenjian/ghiblog/issues/70)  <sup>1 :speech_balloon:</sup>  	 
 - [我喜欢的音乐](https://github.com/jwenjian/ghiblog/issues/67)  <sup>0 :speech_balloon:</sup>  	 
@@ -173,8 +173,9 @@ Microsoft 出品的修复工具， 专门解决 windows 系统上通过控制面
 </details>
 
 <details>
-<summary>:books:阅读	<sup>7:newspaper:</sup></summary>
+<summary>:books:阅读	<sup>8:newspaper:</sup></summary>
 
+- [为何国内师范大学的英文名是XX Normal University](https://github.com/jwenjian/ghiblog/issues/112)  <sup>0 :speech_balloon:</sup>  	 
 - [An FBI Behaviour Expert Explains How to Quickly Build Trust With Anyone](https://github.com/jwenjian/ghiblog/issues/99)  <sup>0 :speech_balloon:</sup>  	 
 - [微博-刘大可先生：关于“植物身上的黄金分割”的叫你恍然大悟的文章](https://github.com/jwenjian/ghiblog/issues/97)  <sup>0 :speech_balloon:</sup>  	 
 - [如果风险投资者问你“如果大公司进入市场与你竞争，怎么办？”，你应该如何回答？](https://github.com/jwenjian/ghiblog/issues/70)  <sup>1 :speech_balloon:</sup>  	 
@@ -187,8 +188,9 @@ Microsoft 出品的修复工具， 专门解决 windows 系统上通过控制面
 </details>
 
 <details>
-<summary>:camera_flash:随拍	<sup>6:newspaper:</sup></summary>
+<summary>:camera_flash:随拍	<sup>7:newspaper:</sup></summary>
 
+- [到此一游 - 天津](https://github.com/jwenjian/ghiblog/issues/115)  <sup>0 :speech_balloon:</sup>  	 
 - [近期生活随拍](https://github.com/jwenjian/ghiblog/issues/89)  <sup>0 :speech_balloon:</sup>  	 
 - [青岛之行随拍](https://github.com/jwenjian/ghiblog/issues/44)  <sup>2 :speech_balloon:</sup>  	 
 - [端午节随拍](https://github.com/jwenjian/ghiblog/issues/31)  <sup>0 :speech_balloon:</sup>  	 
@@ -216,8 +218,9 @@ Microsoft 出品的修复工具， 专门解决 windows 系统上通过控制面
 </details>
 
 <details>
-<summary>:computer:Windows	<sup>13:newspaper:</sup></summary>
+<summary>:computer:Windows	<sup>14:newspaper:</sup></summary>
 
+- [[From Instapaper] : D盘无法格式化提示Windows无法格式该驱动器怎么办-太平洋IT百科](https://github.com/jwenjian/ghiblog/issues/113)  <sup>0 :speech_balloon:</sup>  	 
 - [解决windows系统某些软件无法卸载或者安装](https://github.com/jwenjian/ghiblog/issues/111)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : CPUID](https://github.com/jwenjian/ghiblog/issues/74)  <sup>0 :speech_balloon:</sup>  	 
 - [如何在 Chromium 版 Edge 浏览器上安装 Google Chrome 应用商店的扩展](https://github.com/jwenjian/ghiblog/issues/73)  <sup>0 :speech_balloon:</sup>  	 
@@ -468,13 +471,3 @@ Microsoft 出品的修复工具， 专门解决 windows 系统上通过控制面
 
 
 </details>    
-
-## 关于:boy: 
-
-[<img alt="Jiang Wenjian" src="https://avatars3.githubusercontent.com/u/25657798?v=4" width="233"/>](https://github.com/jwenjian)
-
-**Jiang Wenjian**
-
-:round_pushpin: Beijing, China
-
-:black_flag: A good code is like a story, not a puzzle.
