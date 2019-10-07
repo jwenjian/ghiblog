@@ -4,7 +4,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/25"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-07 14:16:59"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-07 14:56:49"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -30,7 +30,7 @@
 
 
 ## 置顶 :thumbsup: 
-- [到此一游 - 天津](https://github.com/jwenjian/ghiblog/issues/115)  <sup>0 :speech_balloon:</sup>  	 
+- [到此一游 - 天津](https://github.com/jwenjian/ghiblog/issues/115)  <sup>2 :speech_balloon:</sup>  	 
 - [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>4 :speech_balloon:</sup>  	 
 - [如果风险投资者问你“如果大公司进入市场与你竞争，怎么办？”，你应该如何回答？](https://github.com/jwenjian/ghiblog/issues/70)  <sup>1 :speech_balloon:</sup>  	 
 - [我喜欢的音乐](https://github.com/jwenjian/ghiblog/issues/67)  <sup>0 :speech_balloon:</sup>  	 
@@ -39,7 +39,7 @@
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>5 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [到此一游 - 天津](https://github.com/jwenjian/ghiblog/issues/115) <sup>0 :speech_balloon:</sup> 	 2019-10-07 02:06:38
+#### [到此一游 - 天津](https://github.com/jwenjian/ghiblog/issues/115) <sup>2 :speech_balloon:</sup> 	 2019-10-07 02:06:38
 
 :label: : [:+1:置顶](https://github.com/jwenjian/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6), [:camera_flash:随拍](https://github.com/jwenjian/ghiblog/labels/%3Acamera_flash%3A%E9%9A%8F%E6%8B%8D)
 
@@ -131,7 +131,7 @@ Microsoft 出品的修复工具， 专门解决 windows 系统上通过控制面
 <details>
 <summary>:+1:置顶	<sup>7:newspaper:</sup></summary>
 
-- [到此一游 - 天津](https://github.com/jwenjian/ghiblog/issues/115)  <sup>0 :speech_balloon:</sup>  	 
+- [到此一游 - 天津](https://github.com/jwenjian/ghiblog/issues/115)  <sup>2 :speech_balloon:</sup>  	 
 - [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>4 :speech_balloon:</sup>  	 
 - [如果风险投资者问你“如果大公司进入市场与你竞争，怎么办？”，你应该如何回答？](https://github.com/jwenjian/ghiblog/issues/70)  <sup>1 :speech_balloon:</sup>  	 
 - [我喜欢的音乐](https://github.com/jwenjian/ghiblog/issues/67)  <sup>0 :speech_balloon:</sup>  	 
@@ -190,7 +190,7 @@ Microsoft 出品的修复工具， 专门解决 windows 系统上通过控制面
 <details>
 <summary>:camera_flash:随拍	<sup>7:newspaper:</sup></summary>
 
-- [到此一游 - 天津](https://github.com/jwenjian/ghiblog/issues/115)  <sup>0 :speech_balloon:</sup>  	 
+- [到此一游 - 天津](https://github.com/jwenjian/ghiblog/issues/115)  <sup>2 :speech_balloon:</sup>  	 
 - [近期生活随拍](https://github.com/jwenjian/ghiblog/issues/89)  <sup>0 :speech_balloon:</sup>  	 
 - [青岛之行随拍](https://github.com/jwenjian/ghiblog/issues/44)  <sup>2 :speech_balloon:</sup>  	 
 - [端午节随拍](https://github.com/jwenjian/ghiblog/issues/31)  <sup>0 :speech_balloon:</sup>  	 
