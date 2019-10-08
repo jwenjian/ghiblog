@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/26"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-08 15:22:56"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-08 15:31:23"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -20,11 +20,9 @@
 </p>
 
 
-<p align='center'>
+
 ![image](https://user-images.githubusercontent.com/25657798/66408930-62ddc700-ea22-11e9-8ee9-0c19428e6826.png)
 
-🆒
-</p>
 
     
 ## 置顶 :thumbsup: 
