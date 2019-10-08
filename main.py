@@ -218,7 +218,7 @@ def bundle_cover_image_section() -> str:
 </a>
 </p>
 <p align='center'>
-{2}
+<span>{2}</span>
 </p>
 
     '''.format(c.html_url, img_url, img_desc)
