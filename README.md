@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/26"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-08 15:57:59"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-08 16:01:55"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -24,12 +24,12 @@
 <p align='center'>
 <a href='https://github.com/jwenjian/ghiblog/issues/116#issuecomment-539565315'>
 <img src='https://user-images.githubusercontent.com/25657798/66408930-62ddc700-ea22-11e9-8ee9-0c19428e6826.png' width='50%' alt='
-歼20. ✈️.'>
+✈️. 歼20. ✈️.'>
 </a>
 </p>
 <p align='center'>
-
-歼20. ✈️.
+<span>
+✈️. 歼20. ✈️.</span>
 </p>
 
     
