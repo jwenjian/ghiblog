@@ -81,16 +81,7 @@ def bundle_summary_section():
     </a>
 </p>
 
-## :artificial_satellite:今日图片
-
-<p align="center"><b>{3}</b></p>
-
-<p align="center">
-    <img src="{4}" alt="{3}" title="{5}" width="50%"/>
-</p>
-
-'''.format(user_login, total_label_count, cur_time, pic_of_the_day.title, pic_of_the_day.url,
-           pic_of_the_day.explanation)
+'''.format(user_login, total_label_count, cur_time)
 
     return summary_section
 
@@ -197,6 +188,20 @@ def bundle_list_by_labels_section():
 """
     return list_by_labels_section
 
+def bundle_cover_image_section() -> str:
+    global ghiblog
+    cover_label = ghiblog.get_label(':framed_picture:封面')
+    if cover_label is None:
+        return ''
+    cover_issues = ghiblog.get_issues(labels = (cover_label, ))
+    if cover_issues is None or len(cover_issues) == 0:
+        return ''
+    the_cover_issue = cover_issues[0]
+    return '''
+
+{0}
+
+    '''.format(the_cover_issue.body)
 
 def execute():
     global cur_time
@@ -225,7 +230,11 @@ def execute():
     list_by_labels_section = bundle_list_by_labels_section()
     print(list_by_labels_section)
 
-    contents = [summary_section, pinned_issues_section, new_created_section, list_by_labels_section]
+    # 7. cover image section
+    cover_image_section = bundle_cover_image_section()
+    print(cover_image_section)
+
+    contents = [summary_section, cover_image_section, pinned_issues_section, new_created_section, list_by_labels_section]
     update_readme_md_file(contents)
 
     print('README.md updated successfully!!!')
