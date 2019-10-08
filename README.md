@@ -4,7 +4,7 @@
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/25"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-07 15:34:00"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-08 00:57:19"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -59,7 +59,6 @@
 
 :label: : [:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)
 
-# 导语
 美国农业部为全世界已知水果制作了 7500 幅水彩「证件照」并提供高清下载，链接在[这里](http://t.cn/Rg5CpSS)
 
 ![草莓](https://user-gold-cdn.xitu.io/2019/10/4/16d94c068589f695?w=440&h=675&f=jpeg&s=104636)
