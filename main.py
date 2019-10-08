@@ -208,7 +208,7 @@ def bundle_cover_image_section() -> str:
         img_md = c.body
     if img_md is None:
         return ''
-    img_url = img_md[img_md.index('(') + 1, img_md.index(')')]
+    img_url = img_md[(img_md.index('(') + 1):img_md.index(')')]
     print(img_url)
     return '''
 
