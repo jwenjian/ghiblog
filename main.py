@@ -62,7 +62,6 @@ def bundle_summary_section():
     summary_section = '''
 
 <p align='center'>
-    <img src="https://badgen.net/circleci/github/{0}/ghiblog"/>
     <img src="https://badgen.net/badge/labels/{1}"/>
     <img src="https://badgen.net/github/issues/{0}/ghiblog"/>
     <img src="https://badgen.net/badge/last-commit/{2}"/>
