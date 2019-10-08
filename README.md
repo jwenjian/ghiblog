@@ -2,9 +2,9 @@
 
 <p align='center'>
     <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/labels/25"/>
+    <img src="https://badgen.net/badge/labels/26"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-08 00:57:19"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-08 15:00:16"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -22,10 +22,10 @@
 
 ## :artificial_satellite:今日图片
 
-<p align="center"><b>You can't see me, Meow~~!</b></p>
+<p align="center"><b>Sprite Lightning in HD</b></p>
 
 <p align="center">
-    <img src="https://http.cat/404.jpg" alt="You can't see me, Meow~~!" title="Failed to get picture of the day from NASA api, so here is a little cute cat for you, see you tomorrow!" width="50%"/>
+    <img src="https://apod.nasa.gov/apod/image/1910/SpritesHD_Vetter_1000.jpg" alt="Sprite Lightning in HD" title="This phenomenon occurs in the sky over our heads, not the sea.  It is a type of lightning known as red sprite, and rarely has it ever been photographed in this detail.  Even though sprites have been recorded for over 30 years, their root cause remains unknown.  Some thunderstorms have them, but most don't. These mysterious bursts of light in the upper atmosphere momentarily resemble gigantic jellyfish. A few years ago high speed videos were taken detailing how red sprites actually develop.  The featured image was captured last month in high definition from Italy.  One unusual feature of sprites is that they are relatively cold -- they operate more like long fluorescent light tubes than hot compact light bulbs.  In general, red sprites take only a fraction of a second to occur and are best seen when powerful thunderstorms are visible from the side." width="50%"/>
 </p>
 
 
@@ -269,6 +269,13 @@ Microsoft 出品的修复工具， 专门解决 windows 系统上通过控制面
 - [中国色-收集中国传统颜色的网站](https://github.com/jwenjian/ghiblog/issues/20)  <sup>0 :speech_balloon:</sup>  	 
 - [Linux命令在线查询手册](https://github.com/jwenjian/ghiblog/issues/12)  <sup>0 :speech_balloon:</sup>  	 
 - [Windows工具-制作启动U盘](https://github.com/jwenjian/ghiblog/issues/11)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>:framed_picture:封面	<sup>0:newspaper:</sup></summary>
+
 
 
 </details>
