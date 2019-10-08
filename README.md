@@ -1,10 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/circleci/github/jwenjian/ghiblog"/>
     <img src="https://badgen.net/badge/labels/26"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-08 15:00:16"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-08 15:22:56"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -20,15 +19,13 @@
     </a>
 </p>
 
-## :artificial_satellite:今日图片
-
-<p align="center"><b>Sprite Lightning in HD</b></p>
-
-<p align="center">
-    <img src="https://apod.nasa.gov/apod/image/1910/SpritesHD_Vetter_1000.jpg" alt="Sprite Lightning in HD" title="This phenomenon occurs in the sky over our heads, not the sea.  It is a type of lightning known as red sprite, and rarely has it ever been photographed in this detail.  Even though sprites have been recorded for over 30 years, their root cause remains unknown.  Some thunderstorms have them, but most don't. These mysterious bursts of light in the upper atmosphere momentarily resemble gigantic jellyfish. A few years ago high speed videos were taken detailing how red sprites actually develop.  The featured image was captured last month in high definition from Italy.  One unusual feature of sprites is that they are relatively cold -- they operate more like long fluorescent light tubes than hot compact light bulbs.  In general, red sprites take only a fraction of a second to occur and are best seen when powerful thunderstorms are visible from the side." width="50%"/>
-</p>
 
 
+![image](https://user-images.githubusercontent.com/25657798/66408930-62ddc700-ea22-11e9-8ee9-0c19428e6826.png)
+
+🆒
+
+    
 ## 置顶 :thumbsup: 
 - [到此一游 - 天津](https://github.com/jwenjian/ghiblog/issues/115)  <sup>2 :speech_balloon:</sup>  	 
 - [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>4 :speech_balloon:</sup>  	 
@@ -37,6 +34,18 @@
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>5 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [封面](https://github.com/jwenjian/ghiblog/issues/116) <sup>1 :speech_balloon:</sup> 	 2019-10-08 15:10:42
+
+:label: : [:framed_picture:封面](https://github.com/jwenjian/ghiblog/labels/%3Aframed_picture%3A%E5%B0%81%E9%9D%A2)
+
+![image](https://user-images.githubusercontent.com/25657798/66408043-cb2ba900-ea20-11e9-8bbd-5ebb64373f81.png)
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/116)
+
+---
+
 
 #### [到此一游 - 天津](https://github.com/jwenjian/ghiblog/issues/115) <sup>2 :speech_balloon:</sup> 	 2019-10-07 02:06:38
 
@@ -98,21 +107,6 @@ D&#30424;&#26080;&#27861;&#26684;&#24335;&#21270;&#25552;&#31034;Windows&#26080;
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/112)
-
----
-
-
-#### [解决windows系统某些软件无法卸载或者安装](https://github.com/jwenjian/ghiblog/issues/111) <sup>0 :speech_balloon:</sup> 	 2019-09-26 15:24:10
-
-:label: : [:computer:Windows](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3AWindows)
-
-Microsoft 出品的修复工具， 专门解决 windows 系统上通过控制面板无法正常卸载或者安装某些软件的问题。
-
-罪犯之一就是 `Autodesk Genuine Service`
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/111)
 
 ---
 
@@ -274,8 +268,9 @@ Microsoft 出品的修复工具， 专门解决 windows 系统上通过控制面
 </details>
 
 <details>
-<summary>:framed_picture:封面	<sup>0:newspaper:</sup></summary>
+<summary>:framed_picture:封面	<sup>1:newspaper:</sup></summary>
 
+- [封面](https://github.com/jwenjian/ghiblog/issues/116)  <sup>1 :speech_balloon:</sup>  	 
 
 
 </details>
