@@ -193,14 +193,17 @@ def bundle_cover_image_section() -> str:
     if cover_label is None:
         return ''
     cover_issues = ghiblog.get_issues(labels = (cover_label, ))
-    if cover_issues is None or len(cover_issues) == 0:
+    if cover_issues is None or cover_issues.length == 0:
         return ''
-    the_cover_issue = cover_issues[0]
+    comments = cover_issues[0].get_comments()
+    if not comments:
+        return ''
+    
     return '''
 
 {0}
 
-    '''.format(the_cover_issue.body)
+    '''.format(comments[0].body)
 
 def execute():
     global cur_time
