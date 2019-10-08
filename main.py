@@ -214,7 +214,7 @@ def bundle_cover_image_section() -> str:
 
 <p align='center'>
 <a href='{0}'>
-<img src='{0}' width='50%' alt='{2}'>
+<img src='{1}' width='50%' alt='{2}'>
 </a>
 </p>
 <p align='center'>
