@@ -198,12 +198,27 @@ def bundle_cover_image_section() -> str:
     comments = cover_issues[0].get_comments()
     if not comments:
         return ''
-    
+    c = comments[0]
+    img_md = None
+    img_desc = ''
+    if '---' in c.body:
+        img_md = c.body.split('---')[0]
+        img_desc = c.body.split('---')[1]
+    else:
+        img_md = c.body
+    if img_md is None:
+        return ''
+    img_url = img_md.substr(img_md.indexof('('), img_md.indexof(')'))
+    print(img_url)
     return '''
 
-{0}
+<p align='center'>
+<a href='{0}'>
+<img src='{0}' width='50%' alt='{2}'>
+</a>
+</p>
 
-    '''.format(comments[0].body)
+    '''.format(c.html_url, img_url, img_desc)
 
 def execute():
     global cur_time
