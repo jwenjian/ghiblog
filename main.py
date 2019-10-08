@@ -193,7 +193,7 @@ def bundle_cover_image_section() -> str:
     if cover_label is None:
         return ''
     cover_issues = ghiblog.get_issues(labels = (cover_label, ))
-    if cover_issues is None or cover_issues.length == 0:
+    if cover_issues is None or cover_issues.totalCount == 0:
         return ''
     comments = cover_issues[0].get_comments()
     if not comments:
