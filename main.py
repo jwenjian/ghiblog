@@ -196,7 +196,7 @@ def bundle_cover_image_section() -> str:
     if cover_issues is None or cover_issues.totalCount == 0:
         return ''
     comments = cover_issues[0].get_comments()
-    if not comments:
+    if comments is None or comments.totalCount == 0:
         return ''
     c = comments[-1]
     img_md = None
