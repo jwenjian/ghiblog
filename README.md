@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/26"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-08 16:01:55"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-09 12:33:28"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -42,7 +42,7 @@
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>5 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [封面](https://github.com/jwenjian/ghiblog/issues/116) <sup>1 :speech_balloon:</sup> 	 2019-10-08 15:10:42
+#### [封面](https://github.com/jwenjian/ghiblog/issues/116) <sup>2 :speech_balloon:</sup> 	 2019-10-08 15:10:42
 
 :label: : [:framed_picture:封面](https://github.com/jwenjian/ghiblog/labels/%3Aframed_picture%3A%E5%B0%81%E9%9D%A2)
 
@@ -277,7 +277,7 @@ D&#30424;&#26080;&#27861;&#26684;&#24335;&#21270;&#25552;&#31034;Windows&#26080;
 <details>
 <summary>:framed_picture:封面	<sup>1:newspaper:</sup></summary>
 
-- [封面](https://github.com/jwenjian/ghiblog/issues/116)  <sup>1 :speech_balloon:</sup>  	 
+- [封面](https://github.com/jwenjian/ghiblog/issues/116)  <sup>2 :speech_balloon:</sup>  	 
 
 
 </details>
