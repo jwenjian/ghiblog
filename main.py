@@ -198,7 +198,7 @@ def bundle_cover_image_section() -> str:
     comments = cover_issues[0].get_comments()
     if not comments:
         return ''
-    c = comments[0]
+    c = comments[:-1]
     img_md = None
     img_desc = ''
     if '---' in c.body:
