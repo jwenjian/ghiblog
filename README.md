@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/26"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-09 21:40:17"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-09 13:51:09"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -24,12 +24,12 @@
 <p align='center'>
 <a href='https://github.com/jwenjian/ghiblog/issues/116#issuecomment-539979908'>
 <img src='https://user-images.githubusercontent.com/25657798/66481609-d8ee3680-ead3-11e9-9fb0-a184f29091ed.png' width='50%' alt='
-文明出行 不做远光狗 🐕.'>
+🐕 文明出行 不做远光狗 🐕'>
 </a>
 </p>
 <p align='center'>
 <span>
-文明出行 不做远光狗 🐕.</span>
+🐕 文明出行 不做远光狗 🐕</span>
 </p>
 
     
