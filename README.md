@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/26"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-10 02:59:06"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-10 05:34:25"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -42,14 +42,12 @@
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>5 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [[From Instapaper] : top命令  实时显示进程动态  Linux命令大全(手册)](https://github.com/jwenjian/ghiblog/issues/119) <sup>0 :speech_balloon:</sup> 	 2019-10-10 02:58:35
+#### [top命令  实时显示进程动态  Linux命令大全(手册)](https://github.com/jwenjian/ghiblog/issues/119) <sup>0 :speech_balloon:</sup> 	 2019-10-10 02:58:35
 
-:label: : 
+:label: : [:man_technologist:Linux](https://github.com/jwenjian/ghiblog/labels/%3Aman_technologist%3ALinux)
 
-top&#21629;&#20196; &ndash; &#23454;&#26102;&#26174;&#31034;&#36827;&#31243;&#21160;&#24577; &ndash; Linux&#21629;&#20196;&#22823;&#20840;(&#25163;&#20876;)<br>
-top&#21629;&#20196;&#26159;Linux&#19979;&#24120;&#29992;&#30340;&#24615;&#33021;&#20998;&#26512;&#24037;&#20855;&#65292;&#33021;&#22815;&#23454;&#26102;&#26174;&#31034;&#31995;&#32479;&#20013;&#21508;&#20010;&#36827;&#31243;&#30340;&#36164;&#28304;&#21344;&#29992;&#29366;&#20917;&#65292;&#24120;&#29992;&#20110;&#26381;&#21153;&#31471;&#24615;&#33021;&#20998;&#26512;&#12290; &#22312;top&#21629;&#20196;&#20013;&#25353;f&#25353;&#21487;&#20197;&#26597;&#30475;&#26174;&#31034;&#30340;&#21015;&#20449;&#24687;&#65292;&#25353;&#23545;&#24212;&#23383;&#27597;&#26469;&#24320;&#21551;/&#20851;&#38381;&#21015;&#65292;&#22823;&#20889;&#23383;&#27597;&#34920;&#31034;&#24320;&#21551;&#65292;&#23567;&#20889;&#23383;&#27597;&#34920;&#31034;&#20851;&#38381;&#12290;&#24102;*&#21495;&#30340;&#26159;&#40664;&#35748;&#21015;&#12290; &#35821;&#27861;&#26684;&#24335;&#65306; top [&#21442;&#25968;] &#24120;&#29992;&#21442;&#25968;&#65306; -d&hellip;<br>
-<br>
-<br>
+top命令是Linux下常用的性能分析工具，能够实时显示系统中各个进程的资源占用状况，常用于服务端性能分析。 在top命令中按f按可以查看显示的列信息，按对应字母来开启/关闭列，大写字母表示开启，小写字母表示关闭。
+
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/119)
@@ -312,8 +310,9 @@ Web wordpress rotation broken link cloud expand expand window download upload op
 </details>
 
 <details>
-<summary>:man_technologist:Linux	<sup>8:newspaper:</sup></summary>
+<summary>:man_technologist:Linux	<sup>9:newspaper:</sup></summary>
 
+- [top命令  实时显示进程动态  Linux命令大全(手册)](https://github.com/jwenjian/ghiblog/issues/119)  <sup>0 :speech_balloon:</sup>  	 
 - [Docker配置HTTP/HTTPS代理](https://github.com/jwenjian/ghiblog/issues/88)  <sup>0 :speech_balloon:</sup>  	 
 - [vbox ubuntu虚拟机扩容方案 虚拟分配空间转换为实际分配空间](https://github.com/jwenjian/ghiblog/issues/87)  <sup>0 :speech_balloon:</sup>  	 
 - [在Ubuntu上安装nodejs、npm](https://github.com/jwenjian/ghiblog/issues/65)  <sup>1 :speech_balloon:</sup>  	 
