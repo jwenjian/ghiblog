@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/26"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-09 13:51:09"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-10 02:59:06"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -42,6 +42,51 @@
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>5 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
+#### [[From Instapaper] : top命令  实时显示进程动态  Linux命令大全(手册)](https://github.com/jwenjian/ghiblog/issues/119) <sup>0 :speech_balloon:</sup> 	 2019-10-10 02:58:35
+
+:label: : 
+
+top&#21629;&#20196; &ndash; &#23454;&#26102;&#26174;&#31034;&#36827;&#31243;&#21160;&#24577; &ndash; Linux&#21629;&#20196;&#22823;&#20840;(&#25163;&#20876;)<br>
+top&#21629;&#20196;&#26159;Linux&#19979;&#24120;&#29992;&#30340;&#24615;&#33021;&#20998;&#26512;&#24037;&#20855;&#65292;&#33021;&#22815;&#23454;&#26102;&#26174;&#31034;&#31995;&#32479;&#20013;&#21508;&#20010;&#36827;&#31243;&#30340;&#36164;&#28304;&#21344;&#29992;&#29366;&#20917;&#65292;&#24120;&#29992;&#20110;&#26381;&#21153;&#31471;&#24615;&#33021;&#20998;&#26512;&#12290; &#22312;top&#21629;&#20196;&#20013;&#25353;f&#25353;&#21487;&#20197;&#26597;&#30475;&#26174;&#31034;&#30340;&#21015;&#20449;&#24687;&#65292;&#25353;&#23545;&#24212;&#23383;&#27597;&#26469;&#24320;&#21551;/&#20851;&#38381;&#21015;&#65292;&#22823;&#20889;&#23383;&#27597;&#34920;&#31034;&#24320;&#21551;&#65292;&#23567;&#20889;&#23383;&#27597;&#34920;&#31034;&#20851;&#38381;&#12290;&#24102;*&#21495;&#30340;&#26159;&#40664;&#35748;&#21015;&#12290; &#35821;&#27861;&#26684;&#24335;&#65306; top [&#21442;&#25968;] &#24120;&#29992;&#21442;&#25968;&#65306; -d&hellip;<br>
+<br>
+<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/119)
+
+---
+
+
+#### [[From Instapaper] : ubuntu系统插入优盘read-only file system - Jessica&jie - 博客园](https://github.com/jwenjian/ghiblog/issues/118) <sup>0 :speech_balloon:</sup> 	 2019-10-10 02:58:26
+
+:label: : 
+
+ubuntu&#31995;&#32479;&#65306;&#25554;&#20837;&#20248;&#30424;read-only file system - Jessica&amp;jie - &#21338;&#23458;&#22253;<br>
+https://ift.tt/1DRCCu1 To fix USB pen drive read only in Ubuntu,follow the given below steps Step 1:&hellip;<br>
+<br>
+<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/118)
+
+---
+
+
+#### [[From Instapaper] : Animated Icons - 200 Free Icons](https://github.com/jwenjian/ghiblog/issues/117) <sup>0 :speech_balloon:</sup> 	 2019-10-10 02:58:15
+
+:label: : 
+
+Animated Icons - 200 Free Icons<br>
+Web wordpress rotation broken link cloud expand expand window download upload open letter subscribe 1 subscribe 2 subscribe 3 mailbox Media play button circled&hellip;<br>
+<br>
+<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/117)
+
+---
+
+
 #### [封面](https://github.com/jwenjian/ghiblog/issues/116) <sup>2 :speech_balloon:</sup> 	 2019-10-08 15:10:42
 
 :label: : [:framed_picture:封面](https://github.com/jwenjian/ghiblog/labels/%3Aframed_picture%3A%E5%B0%81%E9%9D%A2)
@@ -67,53 +112,6 @@
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/115)
-
----
-
-
-#### [用python爬虫保存美国农业部网站上的水果【证件照】](https://github.com/jwenjian/ghiblog/issues/114) <sup>0 :speech_balloon:</sup> 	 2019-10-04 03:37:48
-
-:label: : [:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)
-
-美国农业部为全世界已知水果制作了 7500 幅水彩「证件照」并提供高清下载，链接在[这里](http://t.cn/Rg5CpSS)
-
-![草莓](https://user-gold-cdn.xitu.io/2019/10/4/16d94c068589f695?w=440&h=675&f=jpeg&s=104636)
-
-这次的爬虫的目的是保存这些证件照到本地磁盘。
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/114)
-
----
-
-
-#### [D盘无法格式化提示Windows无法格式该驱动器怎么办-太平洋IT百科](https://github.com/jwenjian/ghiblog/issues/113) <sup>0 :speech_balloon:</sup> 	 2019-09-30 07:59:59
-
-:label: : [:computer:Windows](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3AWindows)
-
-D&#30424;&#26080;&#27861;&#26684;&#24335;&#21270;&#25552;&#31034;Windows&#26080;&#27861;&#26684;&#24335;&#35813;&#39537;&#21160;&#22120;&#24590;&#20040;&#21150;-&#22826;&#24179;&#27915;IT&#30334;&#31185;<br>
-D&#30424;&#26080;&#27861;&#26684;&#24335;&#21270;&#25552;&#31034;Windows&#26080;&#27861;&#26684;&#24335;&#35813;&#39537;&#21160;&#22120;&#24590;&#20040;&#21150;&#65311;&#30005;&#33041;&#23433;&#35013;&#30340;&#26159;Windows10&#30340;&#31995;&#32479;&#65292;&#20170;&#22825;&#24819;&#26684;&#24335;&#21270;D&#30424;&#20877;&#23433;&#35013;&#19968;&#20010;Windows7&#30340;&#31995;&#32479;&#65292;&#20294;&#36827;&#20837;&#36164;&#28304;&#31649;&#29702;&#22120;&#65292;&#26684;&#24335;&#21270;D&#30424;&#26102;&#65292;&#20986;&#29616;&hellip;<br>
-<br>
-<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/113)
-
----
-
-
-#### [为何国内师范大学的英文名是XX Normal University](https://github.com/jwenjian/ghiblog/issues/112) <sup>0 :speech_balloon:</sup> 	 2019-09-28 13:56:14
-
-:label: : [:books:阅读](https://github.com/jwenjian/ghiblog/labels/%3Abooks%3A%E9%98%85%E8%AF%BB)
-
-如：
-- 陕西师范大学 -> Shaanxi Normal University
-- 北京师范大学 -> Beijing Normal University
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/112)
 
 ---
 
