@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/26"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-12 08:39:56"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-12 08:45:36"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -24,18 +24,12 @@
 <p align='center'>
 <a href='https://github.com/jwenjian/ghiblog/issues/116#issuecomment-541302126'>
 <img src='https://user-images.githubusercontent.com/25657798/66698204-7af96300-ed0e-11e9-990b-f3cb085867d6.jpeg' width='50%' alt='
-
-日本: 台风 [海贝思] 来临前的天空
-
-'>
+日本: 台风 [海贝思] 来临前的天空'>
 </a>
 </p>
 <p align='center'>
 <span>
-
-日本: 台风 [海贝思] 来临前的天空
-
-</span>
+日本: 台风 [海贝思] 来临前的天空</span>
 </p>
 
     
