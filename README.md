@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/26"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-10 05:34:25"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-12 08:39:56"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -22,14 +22,20 @@
 
 
 <p align='center'>
-<a href='https://github.com/jwenjian/ghiblog/issues/116#issuecomment-539979908'>
-<img src='https://user-images.githubusercontent.com/25657798/66481609-d8ee3680-ead3-11e9-9fb0-a184f29091ed.png' width='50%' alt='
-🐕 文明出行 不做远光狗 🐕'>
+<a href='https://github.com/jwenjian/ghiblog/issues/116#issuecomment-541302126'>
+<img src='https://user-images.githubusercontent.com/25657798/66698204-7af96300-ed0e-11e9-990b-f3cb085867d6.jpeg' width='50%' alt='
+
+日本: 台风 [海贝思] 来临前的天空
+
+'>
 </a>
 </p>
 <p align='center'>
 <span>
-🐕 文明出行 不做远光狗 🐕</span>
+
+日本: 台风 [海贝思] 来临前的天空
+
+</span>
 </p>
 
     
@@ -85,7 +91,7 @@ Web wordpress rotation broken link cloud expand expand window download upload op
 ---
 
 
-#### [封面](https://github.com/jwenjian/ghiblog/issues/116) <sup>2 :speech_balloon:</sup> 	 2019-10-08 15:10:42
+#### [封面](https://github.com/jwenjian/ghiblog/issues/116) <sup>3 :speech_balloon:</sup> 	 2019-10-08 15:10:42
 
 :label: : [:framed_picture:封面](https://github.com/jwenjian/ghiblog/labels/%3Aframed_picture%3A%E5%B0%81%E9%9D%A2)
 
@@ -273,7 +279,7 @@ Web wordpress rotation broken link cloud expand expand window download upload op
 <details>
 <summary>:framed_picture:封面	<sup>1:newspaper:</sup></summary>
 
-- [封面](https://github.com/jwenjian/ghiblog/issues/116)  <sup>2 :speech_balloon:</sup>  	 
+- [封面](https://github.com/jwenjian/ghiblog/issues/116)  <sup>3 :speech_balloon:</sup>  	 
 
 
 </details>
