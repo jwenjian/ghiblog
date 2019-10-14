@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/27"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-14 10:09:12"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-14 12:25:59"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -46,10 +46,11 @@
 
 :label: : [:art:前端](https://github.com/jwenjian/ghiblog/labels/%3Aart%3A%E5%89%8D%E7%AB%AF), [Vue](https://github.com/jwenjian/ghiblog/labels/Vue)
 
-15 Must-Have Vue Directives That Will Significantly Maximize Your Productivity<br>
-Inspired by AngularJS, Vue comes with built-in directives (like v-html or v-once ) that you will find useful, as each has its own use case. You can find the&hellip;<br>
-<br>
-<br>
+
+![image](https://user-images.githubusercontent.com/25657798/66750240-8db29a00-eebe-11e9-97c4-72d30ffc7035.png)
+
+15个必知的Vue指令:
+
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/120)
