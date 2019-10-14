@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/26"/>
+    <img src="https://badgen.net/badge/labels/27"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-14 10:07:46"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-14 10:09:12"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -44,7 +44,7 @@
 
 #### [15个必知的Vue指令](https://github.com/jwenjian/ghiblog/issues/120) <sup>0 :speech_balloon:</sup> 	 2019-10-14 05:24:34
 
-:label: : 
+:label: : [:art:前端](https://github.com/jwenjian/ghiblog/labels/%3Aart%3A%E5%89%8D%E7%AB%AF), [Vue](https://github.com/jwenjian/ghiblog/labels/Vue)
 
 15 Must-Have Vue Directives That Will Significantly Maximize Your Productivity<br>
 Inspired by AngularJS, Vue comes with built-in directives (like v-html or v-once ) that you will find useful, as each has its own use case. You can find the&hellip;<br>
@@ -135,8 +135,9 @@ Web wordpress rotation broken link cloud expand expand window download upload op
 </details>
 
 <details>
-<summary>:art:前端	<sup>13:newspaper:</sup></summary>
+<summary>:art:前端	<sup>14:newspaper:</sup></summary>
 
+- [15个必知的Vue指令](https://github.com/jwenjian/ghiblog/issues/120)  <sup>0 :speech_balloon:</sup>  	 
 - [日本邮政官网 - 印章生成器](https://github.com/jwenjian/ghiblog/issues/95)  <sup>0 :speech_balloon:</sup>  	 
 - [HTTP Content-type 对照表](https://github.com/jwenjian/ghiblog/issues/93)  <sup>0 :speech_balloon:</sup>  	 
 - [Permission denied when running npm install](https://github.com/jwenjian/ghiblog/issues/90)  <sup>0 :speech_balloon:</sup>  	 
@@ -436,6 +437,14 @@ Web wordpress rotation broken link cloud expand expand window download upload op
 <summary>Nginx	<sup>1:newspaper:</sup></summary>
 
 - [Linux-编译安装nginx源码](https://github.com/jwenjian/ghiblog/issues/9)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>Vue	<sup>1:newspaper:</sup></summary>
+
+- [15个必知的Vue指令](https://github.com/jwenjian/ghiblog/issues/120)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
