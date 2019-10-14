@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/26"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-12 08:45:36"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-14 05:25:23"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -41,6 +41,21 @@
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>5 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [[From Instapaper] : 15 Must-Have Vue Directives That Will Significantly Maximize Your Productivity](https://github.com/jwenjian/ghiblog/issues/120) <sup>0 :speech_balloon:</sup> 	 2019-10-14 05:24:34
+
+:label: : 
+
+15 Must-Have Vue Directives That Will Significantly Maximize Your Productivity<br>
+Inspired by AngularJS, Vue comes with built-in directives (like v-html or v-once ) that you will find useful, as each has its own use case. You can find the&hellip;<br>
+<br>
+<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/120)
+
+---
+
 
 #### [top命令  实时显示进程动态  Linux命令大全(手册)](https://github.com/jwenjian/ghiblog/issues/119) <sup>0 :speech_balloon:</sup> 	 2019-10-10 02:58:35
 
@@ -93,23 +108,6 @@ Web wordpress rotation broken link cloud expand expand window download upload op
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/116)
-
----
-
-
-#### [到此一游 - 天津](https://github.com/jwenjian/ghiblog/issues/115) <sup>2 :speech_balloon:</sup> 	 2019-10-07 02:06:38
-
-:label: : [:+1:置顶](https://github.com/jwenjian/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6), [:camera_flash:随拍](https://github.com/jwenjian/ghiblog/labels/%3Acamera_flash%3A%E9%9A%8F%E6%8B%8D)
-
-📅  20191005 -> 20191006
-
-📸  iPhone8拍摄
-
-![IMG_4087](https://user-images.githubusercontent.com/25657798/66280517-936e1580-e8e9-11e9-89e1-f2d9ee6bea17.JPEG)
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/115)
 
 ---
 
