@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/26"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-14 05:25:23"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-14 10:07:46"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -42,7 +42,7 @@
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>5 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [[From Instapaper] : 15 Must-Have Vue Directives That Will Significantly Maximize Your Productivity](https://github.com/jwenjian/ghiblog/issues/120) <sup>0 :speech_balloon:</sup> 	 2019-10-14 05:24:34
+#### [15个必知的Vue指令](https://github.com/jwenjian/ghiblog/issues/120) <sup>0 :speech_balloon:</sup> 	 2019-10-14 05:24:34
 
 :label: : 
 
