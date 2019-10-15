@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/27"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-14 12:25:59"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-15 02:51:13"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -41,6 +41,23 @@
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>5 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Set yum proxy in CentOS](https://github.com/jwenjian/ghiblog/issues/121) <sup>0 :speech_balloon:</sup> 	 2019-10-15 02:50:27
+
+:label: : [:man_technologist:Linux](https://github.com/jwenjian/ghiblog/labels/%3Aman_technologist%3ALinux)
+
+```bash
+sudo vim /etc/yum.conf
+```
+
+Add new line in `[main]` section:
+
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/121)
+
+---
+
 
 #### [15个必知的Vue指令](https://github.com/jwenjian/ghiblog/issues/120) <sup>0 :speech_balloon:</sup> 	 2019-10-14 05:24:34
 
@@ -97,18 +114,6 @@ Web wordpress rotation broken link cloud expand expand window download upload op
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/117)
-
----
-
-
-#### [封面](https://github.com/jwenjian/ghiblog/issues/116) <sup>3 :speech_balloon:</sup> 	 2019-10-08 15:10:42
-
-:label: : [:framed_picture:封面](https://github.com/jwenjian/ghiblog/labels/%3Aframed_picture%3A%E5%B0%81%E9%9D%A2)
-
-![image](https://user-images.githubusercontent.com/25657798/66408043-cb2ba900-ea20-11e9-8bbd-5ebb64373f81.png)
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/116)
 
 ---
 
@@ -310,8 +315,9 @@ Web wordpress rotation broken link cloud expand expand window download upload op
 </details>
 
 <details>
-<summary>:man_technologist:Linux	<sup>9:newspaper:</sup></summary>
+<summary>:man_technologist:Linux	<sup>10:newspaper:</sup></summary>
 
+- [Set yum proxy in CentOS](https://github.com/jwenjian/ghiblog/issues/121)  <sup>0 :speech_balloon:</sup>  	 
 - [top命令  实时显示进程动态  Linux命令大全(手册)](https://github.com/jwenjian/ghiblog/issues/119)  <sup>0 :speech_balloon:</sup>  	 
 - [Docker配置HTTP/HTTPS代理](https://github.com/jwenjian/ghiblog/issues/88)  <sup>0 :speech_balloon:</sup>  	 
 - [vbox ubuntu虚拟机扩容方案 虚拟分配空间转换为实际分配空间](https://github.com/jwenjian/ghiblog/issues/87)  <sup>0 :speech_balloon:</sup>  	 
