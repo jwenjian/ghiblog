@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/27"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-15 12:15:49"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-15 12:23:02"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -22,14 +22,18 @@
 
 
 <p align='center'>
-<a href='https://github.com/jwenjian/ghiblog/issues/116#issuecomment-541302126'>
-<img src='https://user-images.githubusercontent.com/25657798/66698204-7af96300-ed0e-11e9-990b-f3cb085867d6.jpeg' width='50%' alt='
-日本: 台风 [海贝思] 来临前的天空'>
+<a href='https://github.com/jwenjian/ghiblog/issues/116#issuecomment-542184493'>
+<img src='https://user-images.githubusercontent.com/25657798/66830971-46451000-ef89-11e9-84d1-69ea36f09b54.png' width='50%' alt='
+武汉：目前已建成的 10 座长江大桥
+
+'>
 </a>
 </p>
 <p align='center'>
 <span>
-日本: 台风 [海贝思] 来临前的天空</span>
+武汉：目前已建成的 10 座长江大桥
+
+</span>
 </p>
 
     
@@ -278,7 +282,7 @@ Web wordpress rotation broken link cloud expand expand window download upload op
 <details>
 <summary>:framed_picture:封面	<sup>1:newspaper:</sup></summary>
 
-- [封面](https://github.com/jwenjian/ghiblog/issues/116)  <sup>3 :speech_balloon:</sup>  	 
+- [封面](https://github.com/jwenjian/ghiblog/issues/116)  <sup>4 :speech_balloon:</sup>  	 
 
 
 </details>
