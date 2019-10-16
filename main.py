@@ -238,8 +238,8 @@ def bundle_projects_section() -> str:
     content = ''
     for (idx, i) in enumerate(issues):
         content += '''
-| [{1}](https://github.com/{0}/{1}) | {2} | ![](https://badgen.net/github/stars/{0}/{1}) ![](https://badgen.net/github/forks/{0}/{1}) ![](https://badgen.net/github/watchers/{0}/{1}) |
-'''.format(username, i.title, i.body)
+| [{1}](https://github.com/{0}/{1}) | {2} | ![](https://badgen.net/github/stars/{0}/{1}) ![](https://badgen.net/github/forks/{0}/{1}) ![](https://badgen.net/github/watchers/{0}/{1}) |'''.format(
+            username, i.title, i.body)
         if idx == 0:
             content += '| --- | --- | --- |'
     return '''
