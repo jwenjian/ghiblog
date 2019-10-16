@@ -3,11 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/27"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-<<<<<<< HEAD
-    <img src="https://badgen.net/badge/last-commit/2019-10-16 22:16:14"/>
-=======
-    <img src="https://badgen.net/badge/last-commit/2019-10-16 14:13:15"/>
->>>>>>> 091d73955e64a7d78d81a72d8727d145ae16e576
+    <img src="https://badgen.net/badge/last-commit/2019-10-16 14:27:31"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -49,6 +45,17 @@
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>5 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [usda-fruit-img-spider](https://github.com/jwenjian/ghiblog/issues/124) <sup>0 :speech_balloon:</sup> 	 2019-10-16 14:26:40
+
+:label: : [开源](https://github.com/jwenjian/ghiblog/labels/%E5%BC%80%E6%BA%90)
+
+Python爬虫保存美国农业部网站上7000+张高清水果油画【证件照】
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/124)
+
+---
+
 
 #### [visitor-count-badge](https://github.com/jwenjian/ghiblog/issues/123) <sup>0 :speech_balloon:</sup> 	 2019-10-16 14:12:20
 
@@ -101,19 +108,6 @@ Add new line in `[main]` section:
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/120)
-
----
-
-
-#### [top命令  实时显示进程动态  Linux命令大全(手册)](https://github.com/jwenjian/ghiblog/issues/119) <sup>0 :speech_balloon:</sup> 	 2019-10-10 02:58:35
-
-:label: : [:man_technologist:Linux](https://github.com/jwenjian/ghiblog/labels/%3Aman_technologist%3ALinux)
-
-top命令是Linux下常用的性能分析工具，能够实时显示系统中各个进程的资源占用状况，常用于服务端性能分析。 在top命令中按f按可以查看显示的列信息，按对应字母来开启/关闭列，大写字母表示开启，小写字母表示关闭。
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/119)
 
 ---
 
@@ -466,8 +460,9 @@ top命令是Linux下常用的性能分析工具，能够实时显示系统中各
 </details>
 
 <details>
-<summary>开源	<sup>2:newspaper:</sup></summary>
+<summary>开源	<sup>3:newspaper:</sup></summary>
 
+- [usda-fruit-img-spider](https://github.com/jwenjian/ghiblog/issues/124)  <sup>0 :speech_balloon:</sup>  	 
 - [visitor-count-badge](https://github.com/jwenjian/ghiblog/issues/123)  <sup>0 :speech_balloon:</sup>  	 
 - [gradex](https://github.com/jwenjian/ghiblog/issues/122)  <sup>0 :speech_balloon:</sup>  	 
 
@@ -492,8 +487,10 @@ top命令是Linux下常用的性能分析工具，能够实时显示系统中各
 # 开源项目
 
 
-| [visitor-count-badge](https://github.com/jwenjian/visitor-count-badge) | 可以统计Github的README文件的访客数量的badge，支持统计总访客数量和当天的访客数量。 | ![](https://badgen.net/github/stars/jwenjian/visitor-count-badge) ![](https://badgen.net/github/forks/jwenjian/visitor-count-badge) ![](https://badgen.net/github/watchers/jwenjian/visitor-count-badge) |
+| [usda-fruit-img-spider](https://github.com/jwenjian/usda-fruit-img-spider) | Python爬虫保存美国农业部网站上7000+张高清水果油画【证件照】 | ![](https://badgen.net/github/stars/jwenjian/usda-fruit-img-spider) ![](https://badgen.net/github/forks/jwenjian/usda-fruit-img-spider) ![](https://badgen.net/github/watchers/jwenjian/usda-fruit-img-spider) |
 | --- | --- | --- |
+| [visitor-count-badge](https://github.com/jwenjian/visitor-count-badge) | 可以统计Github的README文件的访客数量的badge，支持统计总访客数量和当天的访客数量。 | ![](https://badgen.net/github/stars/jwenjian/visitor-count-badge) ![](https://badgen.net/github/forks/jwenjian/visitor-count-badge) ![](https://badgen.net/github/watchers/jwenjian/visitor-count-badge) |
+
 | [gradex](https://github.com/jwenjian/gradex) | 在线读取图片的两个主色设置为网页渐变背景，同时支持下载渐变背景图。 | ![](https://badgen.net/github/stars/jwenjian/gradex) ![](https://badgen.net/github/forks/jwenjian/gradex) ![](https://badgen.net/github/watchers/jwenjian/gradex) |
 
 
