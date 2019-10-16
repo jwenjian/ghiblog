@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/27"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-15 12:23:02"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-16 14:03:55"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -470,10 +470,8 @@ Web wordpress rotation broken link cloud expand expand window download upload op
 </details>
 
 <details>
-<summary>开源	<sup>2:newspaper:</sup></summary>
+<summary>开源	<sup>0:newspaper:</sup></summary>
 
-- [比拼 Kafka 大数据分析新秀Pulsar到底好在哪-InfoQ](https://github.com/jwenjian/ghiblog/issues/100)  <sup>0 :speech_balloon:</sup>  	 
-- [一款与 Python 深度集成的 Excel IDE](https://github.com/jwenjian/ghiblog/issues/84)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
