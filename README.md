@@ -3,7 +3,11 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/27"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
+<<<<<<< HEAD
     <img src="https://badgen.net/badge/last-commit/2019-10-16 22:16:14"/>
+=======
+    <img src="https://badgen.net/badge/last-commit/2019-10-16 14:13:15"/>
+>>>>>>> 091d73955e64a7d78d81a72d8727d145ae16e576
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
