@@ -490,7 +490,4 @@ Add new line in `[main]` section:
 | [usda-fruit-img-spider](https://github.com/jwenjian/usda-fruit-img-spider) | Python爬虫保存美国农业部网站上7000+张高清水果油画【证件照】 | ![](https://badgen.net/github/stars/jwenjian/usda-fruit-img-spider) ![](https://badgen.net/github/forks/jwenjian/usda-fruit-img-spider) ![](https://badgen.net/github/watchers/jwenjian/usda-fruit-img-spider) |
 | --- | --- | --- |
 | [visitor-count-badge](https://github.com/jwenjian/visitor-count-badge) | 可以统计Github的README文件的访客数量的badge，支持统计总访客数量和当天的访客数量。 | ![](https://badgen.net/github/stars/jwenjian/visitor-count-badge) ![](https://badgen.net/github/forks/jwenjian/visitor-count-badge) ![](https://badgen.net/github/watchers/jwenjian/visitor-count-badge) |
-
 | [gradex](https://github.com/jwenjian/gradex) | 在线读取图片的两个主色设置为网页渐变背景，同时支持下载渐变背景图。 | ![](https://badgen.net/github/stars/jwenjian/gradex) ![](https://badgen.net/github/forks/jwenjian/gradex) ![](https://badgen.net/github/watchers/jwenjian/gradex) |
-
-
