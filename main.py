@@ -12,6 +12,7 @@ from nasa_client import NasaClient
 from word_cloud import WordCloudGenerator
 
 user: Github
+username: str
 ghiblog: Repository
 cur_time: str
 
@@ -37,8 +38,9 @@ def update_readme_md_file(contents):
 
 
 def login():
-    global user
-    username = os.environ.get('GITHUB_LOGIN')
+    global user, username
+    github_repo_env = os.environ.get('GITHUB_REPOSITORY')
+    username = github_repo_env[0:github_repo_env.index('/')]
     password = os.environ.get('GITHUB_TOKEN')
     user = Github(username, password)
 
@@ -52,11 +54,11 @@ def bundle_summary_section():
     global ghiblog
     global cur_time
     global user
+    global username
 
     total_label_count = ghiblog.get_labels().totalCount
     total_issue_count = ghiblog.get_issues().totalCount
 
-    user_login = os.environ.get('GITHUB_LOGIN')
     pic_of_the_day = NasaClient().get_picture_of_the_day()
 
     summary_section = '''
@@ -80,7 +82,7 @@ def bundle_summary_section():
     </a>
 </p>
 
-'''.format(user_login, total_label_count, cur_time)
+'''.format(username, total_label_count, cur_time)
 
     return summary_section
 
@@ -100,14 +102,14 @@ def bundle_pinned_issues_section():
 
 
 def format_issue_with_labels(issue: Issue):
-    global user
+    global user, username
 
     labels = issue.get_labels()
     labels_str = ''
 
     for label in labels:
         labels_str += '[%s](https://github.com/%s/ghiblog/labels/%s), ' % (
-            label.name, os.environ.get('GITHUB_LOGIN'), urllib.parse.quote(label.name))
+            label.name, username, urllib.parse.quote(label.name))
 
     if '---' in issue.body:
         body_summary = issue.body[:issue.body.index('---')]
@@ -187,12 +189,13 @@ def bundle_list_by_labels_section():
 """
     return list_by_labels_section
 
+
 def bundle_cover_image_section() -> str:
     global ghiblog
     cover_label = ghiblog.get_label(':framed_picture:封面')
     if cover_label is None:
         return ''
-    cover_issues = ghiblog.get_issues(labels = (cover_label, ))
+    cover_issues = ghiblog.get_issues(labels=(cover_label,))
     if cover_issues is None or cover_issues.totalCount == 0:
         return ''
     comments = cover_issues[0].get_comments()
@@ -222,6 +225,30 @@ def bundle_cover_image_section() -> str:
 </p>
 
     '''.format(c.html_url, img_url, img_desc)
+
+
+def bundle_projects_section() -> str:
+    global ghiblog, username
+    project_label = ghiblog.get_label('开源')
+    if not project_label:
+        return ''
+    issues = ghiblog.get_issues(labels=(project_label,))
+    if not issues or issues.totalCount == 0:
+        return ''
+    content = ''
+    for (idx, i) in enumerate(issues):
+        content += '''
+| [{1}](https://github.com/{0}/{1}) | {2} | ![](https://badgen.net/github/stars/{0}/{1}) ![](https://badgen.net/github/forks/{0}/{1}) ![](https://badgen.net/github/watchers/{0}/{1}) |
+'''.format(username, i.title, i.body)
+        if idx == 0:
+            content += '| --- | --- | --- |'
+    return '''
+# 开源项目
+
+{}
+
+'''.format(content)
+
 
 def execute():
     global cur_time
@@ -254,7 +281,16 @@ def execute():
     cover_image_section = bundle_cover_image_section()
     print(cover_image_section)
 
-    contents = [summary_section, cover_image_section, pinned_issues_section, new_created_section, list_by_labels_section]
+    # 8. projects section
+    projects_section = bundle_projects_section()
+    print(projects_section)
+
+    # 9. about me section
+    # about_me_section = bundle_about_me_section()
+    # print(about_me_section)
+
+    contents = [summary_section, cover_image_section, pinned_issues_section, new_created_section,
+                list_by_labels_section, projects_section]
     update_readme_md_file(contents)
 
     print('README.md updated successfully!!!')

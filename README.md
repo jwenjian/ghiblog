@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/27"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-15 12:23:02"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-16 22:16:14"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -45,6 +45,28 @@
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>5 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [visitor-count-badge](https://github.com/jwenjian/ghiblog/issues/123) <sup>0 :speech_balloon:</sup> 	 2019-10-16 14:12:20
+
+:label: : [开源](https://github.com/jwenjian/ghiblog/labels/%E5%BC%80%E6%BA%90)
+
+可以统计Github的README文件的访客数量的badge，支持统计总访客数量和当天的访客数量。
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/123)
+
+---
+
+
+#### [gradex](https://github.com/jwenjian/ghiblog/issues/122) <sup>0 :speech_balloon:</sup> 	 2019-10-16 14:05:32
+
+:label: : [开源](https://github.com/jwenjian/ghiblog/labels/%E5%BC%80%E6%BA%90)
+
+在线读取图片的两个主色设置为网页渐变背景，同时支持下载渐变背景图。
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/122)
+
+---
+
 
 #### [Set yum proxy in CentOS](https://github.com/jwenjian/ghiblog/issues/121) <sup>0 :speech_balloon:</sup> 	 2019-10-15 02:50:27
 
@@ -88,36 +110,6 @@ top命令是Linux下常用的性能分析工具，能够实时显示系统中各
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/119)
-
----
-
-
-#### [[From Instapaper] : ubuntu系统插入优盘read-only file system - Jessica&jie - 博客园](https://github.com/jwenjian/ghiblog/issues/118) <sup>0 :speech_balloon:</sup> 	 2019-10-10 02:58:26
-
-:label: : 
-
-ubuntu&#31995;&#32479;&#65306;&#25554;&#20837;&#20248;&#30424;read-only file system - Jessica&amp;jie - &#21338;&#23458;&#22253;<br>
-https://ift.tt/1DRCCu1 To fix USB pen drive read only in Ubuntu,follow the given below steps Step 1:&hellip;<br>
-<br>
-<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/118)
-
----
-
-
-#### [[From Instapaper] : Animated Icons - 200 Free Icons](https://github.com/jwenjian/ghiblog/issues/117) <sup>0 :speech_balloon:</sup> 	 2019-10-10 02:58:15
-
-:label: : 
-
-Animated Icons - 200 Free Icons<br>
-Web wordpress rotation broken link cloud expand expand window download upload open letter subscribe 1 subscribe 2 subscribe 3 mailbox Media play button circled&hellip;<br>
-<br>
-<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/117)
 
 ---
 
@@ -472,8 +464,8 @@ Web wordpress rotation broken link cloud expand expand window download upload op
 <details>
 <summary>开源	<sup>2:newspaper:</sup></summary>
 
-- [比拼 Kafka 大数据分析新秀Pulsar到底好在哪-InfoQ](https://github.com/jwenjian/ghiblog/issues/100)  <sup>0 :speech_balloon:</sup>  	 
-- [一款与 Python 深度集成的 Excel IDE](https://github.com/jwenjian/ghiblog/issues/84)  <sup>0 :speech_balloon:</sup>  	 
+- [visitor-count-badge](https://github.com/jwenjian/ghiblog/issues/123)  <sup>0 :speech_balloon:</sup>  	 
+- [gradex](https://github.com/jwenjian/ghiblog/issues/122)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -492,3 +484,12 @@ Web wordpress rotation broken link cloud expand expand window download upload op
 
 
 </details>    
+
+# 开源项目
+
+
+| [visitor-count-badge](https://github.com/jwenjian/visitor-count-badge) | 可以统计Github的README文件的访客数量的badge，支持统计总访客数量和当天的访客数量。 | ![](https://badgen.net/github/stars/jwenjian/visitor-count-badge) ![](https://badgen.net/github/forks/jwenjian/visitor-count-badge) ![](https://badgen.net/github/watchers/jwenjian/visitor-count-badge) |
+| --- | --- | --- |
+| [gradex](https://github.com/jwenjian/gradex) | 在线读取图片的两个主色设置为网页渐变背景，同时支持下载渐变背景图。 | ![](https://badgen.net/github/stars/jwenjian/gradex) ![](https://badgen.net/github/forks/jwenjian/gradex) ![](https://badgen.net/github/watchers/jwenjian/gradex) |
+
+
