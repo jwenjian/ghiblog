@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/27"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-16 14:47:02"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-17 03:46:21"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -46,6 +46,21 @@
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>5 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
+#### [PlantUML Graphviz 安装](https://github.com/jwenjian/ghiblog/issues/126) <sup>0 :speech_balloon:</sup> 	 2019-10-17 03:45:29
+
+:label: : [:beetle:Bug追踪](https://github.com/jwenjian/ghiblog/labels/%3Abeetle%3ABug%E8%BF%BD%E8%B8%AA), [:computer:Windows](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3AWindows), [:hammer:软件](https://github.com/jwenjian/ghiblog/labels/%3Ahammer%3A%E8%BD%AF%E4%BB%B6)
+
+![image](https://user-images.githubusercontent.com/25657798/66976003-e195cc80-f0d2-11e9-85f4-5149bd5e71ed.png)
+
+PlantUML依赖Graphviz渲染除了时序图之外的其他类型的UML。
+
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/126)
+
+---
+
+
 #### [schulte-grid](https://github.com/jwenjian/ghiblog/issues/125) <sup>0 :speech_balloon:</sup> 	 2019-10-16 14:45:47
 
 :label: : [开源](https://github.com/jwenjian/ghiblog/labels/%E5%BC%80%E6%BA%90)
@@ -86,23 +101,6 @@ Python爬虫保存美国农业部网站上7000+张高清水果油画【证件照
 在线读取图片的两个主色设置为网页渐变背景，同时支持下载渐变背景图。
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/122)
-
----
-
-
-#### [Set yum proxy in CentOS](https://github.com/jwenjian/ghiblog/issues/121) <sup>0 :speech_balloon:</sup> 	 2019-10-15 02:50:27
-
-:label: : [:man_technologist:Linux](https://github.com/jwenjian/ghiblog/labels/%3Aman_technologist%3ALinux)
-
-```bash
-sudo vim /etc/yum.conf
-```
-
-Add new line in `[main]` section:
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/121)
 
 ---
 
@@ -151,8 +149,9 @@ Add new line in `[main]` section:
 </details>
 
 <details>
-<summary>:beetle:Bug追踪	<sup>3:newspaper:</sup></summary>
+<summary>:beetle:Bug追踪	<sup>4:newspaper:</sup></summary>
 
+- [PlantUML Graphviz 安装](https://github.com/jwenjian/ghiblog/issues/126)  <sup>0 :speech_balloon:</sup>  	 
 - [Permission denied when running npm install](https://github.com/jwenjian/ghiblog/issues/90)  <sup>0 :speech_balloon:</sup>  	 
 - [Internet troubleshooting: website (www.microsoft.com) is online but isn't responding to connection attempts](https://github.com/jwenjian/ghiblog/issues/66)  <sup>0 :speech_balloon:</sup>  	 
 - [C++: jni.h: no such file or directory ](https://github.com/jwenjian/ghiblog/issues/28)  <sup>0 :speech_balloon:</sup>  	 
@@ -206,8 +205,9 @@ Add new line in `[main]` section:
 </details>
 
 <details>
-<summary>:computer:Windows	<sup>14:newspaper:</sup></summary>
+<summary>:computer:Windows	<sup>15:newspaper:</sup></summary>
 
+- [PlantUML Graphviz 安装](https://github.com/jwenjian/ghiblog/issues/126)  <sup>0 :speech_balloon:</sup>  	 
 - [D盘无法格式化提示Windows无法格式该驱动器怎么办-太平洋IT百科](https://github.com/jwenjian/ghiblog/issues/113)  <sup>0 :speech_balloon:</sup>  	 
 - [解决windows系统某些软件无法卸载或者安装](https://github.com/jwenjian/ghiblog/issues/111)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : CPUID](https://github.com/jwenjian/ghiblog/issues/74)  <sup>0 :speech_balloon:</sup>  	 
@@ -273,8 +273,9 @@ Add new line in `[main]` section:
 </details>
 
 <details>
-<summary>:hammer:软件	<sup>11:newspaper:</sup></summary>
+<summary>:hammer:软件	<sup>12:newspaper:</sup></summary>
 
+- [PlantUML Graphviz 安装](https://github.com/jwenjian/ghiblog/issues/126)  <sup>0 :speech_balloon:</sup>  	 
 - [PowerPoint Countdown Timer](https://github.com/jwenjian/ghiblog/issues/94)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : CPUID](https://github.com/jwenjian/ghiblog/issues/74)  <sup>0 :speech_balloon:</sup>  	 
 - [如何在 Chromium 版 Edge 浏览器上安装 Google Chrome 应用商店的扩展](https://github.com/jwenjian/ghiblog/issues/73)  <sup>0 :speech_balloon:</sup>  	 
