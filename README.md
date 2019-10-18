@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/27"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-18 00:49:35"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-18 11:46:56"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -48,7 +48,7 @@
 
 #### [[From Instapaper] : 技术|30个实例详解TOP命令](https://github.com/jwenjian/ghiblog/issues/128) <sup>0 :speech_balloon:</sup> 	 2019-10-18 00:25:00
 
-:label: : 
+:label: : [:man_technologist:Linux](https://github.com/jwenjian/ghiblog/labels/%3Aman_technologist%3ALinux)
 
 &#25216;&#26415;|30&#20010;&#23454;&#20363;&#35814;&#35299;TOP&#21629;&#20196;<br>
 Linux&#20013;&#30340;top&#21629;&#20196;&#26174;&#31034;&#31995;&#32479;&#19978;&#27491;&#22312;&#36816;&#34892;&#30340;&#36827;&#31243;&#12290;&#23427;&#26159;&#31995;&#32479;&#31649;&#29702;&#21592;&#26368;&#37325;&#35201;&#30340;&#24037;&#20855;&#20043;&#19968;&#12290;&#34987;&#24191;&#27867;&#29992;&#20110;&#30417;&#35270;&#26381;&#21153;&#22120;&#30340;&#36127;&#36733;&#12290;&#22312;&#26412;&#31687;&#20013;&#65292;&#25105;&#20204;&#20250;&#25506;&#32034;top&#21629;&#20196;&#30340;&#32454;&#33410;&#12290;top&#21629;&#20196;&#26159;&#19968;&#20010;&#20132;&#20114;&#21629;&#20196;&#12290;&#22312;&#36816;&#34892;top&#30340;&#26102;&#20505;&#36824;&#21487;&#20197;&#36816;&#34892;&#24456;&#22810;&#21629;&#20196;&#12290;&#25105;&#20204;&#20063;&#20250;&#25506;&#32034;&#36825;&#20123;&#21629;&#20196;&#12290;&hellip;<br>
@@ -311,8 +311,9 @@ Python爬虫保存美国农业部网站上7000+张高清水果油画【证件照
 </details>
 
 <details>
-<summary>:man_technologist:Linux	<sup>11:newspaper:</sup></summary>
+<summary>:man_technologist:Linux	<sup>12:newspaper:</sup></summary>
 
+- [[From Instapaper] : 技术|30个实例详解TOP命令](https://github.com/jwenjian/ghiblog/issues/128)  <sup>0 :speech_balloon:</sup>  	 
 - [Set yum proxy in CentOS](https://github.com/jwenjian/ghiblog/issues/121)  <sup>0 :speech_balloon:</sup>  	 
 - [top命令  实时显示进程动态  Linux命令大全(手册)](https://github.com/jwenjian/ghiblog/issues/119)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : ubuntu系统插入优盘read-only file system - Jessica&jie - 博客园](https://github.com/jwenjian/ghiblog/issues/118)  <sup>0 :speech_balloon:</sup>  	 
