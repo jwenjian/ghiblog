@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/27"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-18 00:25:56"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-18 00:49:35"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -132,9 +132,10 @@ Python爬虫保存美国农业部网站上7000+张高清水果油画【证件照
 </details>
 
 <details>
-<summary>:art:前端	<sup>14:newspaper:</sup></summary>
+<summary>:art:前端	<sup>15:newspaper:</sup></summary>
 
 - [15个必知的Vue指令](https://github.com/jwenjian/ghiblog/issues/120)  <sup>0 :speech_balloon:</sup>  	 
+- [[From Instapaper] : Animated Icons - 200 Free Icons](https://github.com/jwenjian/ghiblog/issues/117)  <sup>0 :speech_balloon:</sup>  	 
 - [日本邮政官网 - 印章生成器](https://github.com/jwenjian/ghiblog/issues/95)  <sup>0 :speech_balloon:</sup>  	 
 - [HTTP Content-type 对照表](https://github.com/jwenjian/ghiblog/issues/93)  <sup>0 :speech_balloon:</sup>  	 
 - [Permission denied when running npm install](https://github.com/jwenjian/ghiblog/issues/90)  <sup>0 :speech_balloon:</sup>  	 
@@ -247,8 +248,9 @@ Python爬虫保存美国农业部网站上7000+张高清水果油画【证件照
 </details>
 
 <details>
-<summary>:earth_africa:网站收藏	<sup>15:newspaper:</sup></summary>
+<summary>:earth_africa:网站收藏	<sup>16:newspaper:</sup></summary>
 
+- [[From Instapaper] : Animated Icons - 200 Free Icons](https://github.com/jwenjian/ghiblog/issues/117)  <sup>0 :speech_balloon:</sup>  	 
 - [AirPano.com: 360° 全景图片 + 视频展示世界各地美景](https://github.com/jwenjian/ghiblog/issues/106)  <sup>0 :speech_balloon:</sup>  	 
 - [Mixkit 发布免费可商用的艺术画与插图平台 - 小众软件](https://github.com/jwenjian/ghiblog/issues/101)  <sup>0 :speech_balloon:</sup>  	 
 - [ColouriseSG: 利用AI给黑白照片上色](https://github.com/jwenjian/ghiblog/issues/96)  <sup>0 :speech_balloon:</sup>  	 
@@ -309,10 +311,11 @@ Python爬虫保存美国农业部网站上7000+张高清水果油画【证件照
 </details>
 
 <details>
-<summary>:man_technologist:Linux	<sup>10:newspaper:</sup></summary>
+<summary>:man_technologist:Linux	<sup>11:newspaper:</sup></summary>
 
 - [Set yum proxy in CentOS](https://github.com/jwenjian/ghiblog/issues/121)  <sup>0 :speech_balloon:</sup>  	 
 - [top命令  实时显示进程动态  Linux命令大全(手册)](https://github.com/jwenjian/ghiblog/issues/119)  <sup>0 :speech_balloon:</sup>  	 
+- [[From Instapaper] : ubuntu系统插入优盘read-only file system - Jessica&jie - 博客园](https://github.com/jwenjian/ghiblog/issues/118)  <sup>0 :speech_balloon:</sup>  	 
 - [Docker配置HTTP/HTTPS代理](https://github.com/jwenjian/ghiblog/issues/88)  <sup>0 :speech_balloon:</sup>  	 
 - [vbox ubuntu虚拟机扩容方案 虚拟分配空间转换为实际分配空间](https://github.com/jwenjian/ghiblog/issues/87)  <sup>0 :speech_balloon:</sup>  	 
 - [在Ubuntu上安装nodejs、npm](https://github.com/jwenjian/ghiblog/issues/65)  <sup>1 :speech_balloon:</sup>  	 
