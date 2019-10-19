@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/27"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-18 11:46:56"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-19 12:23:49"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -22,18 +22,14 @@
 
 
 <p align='center'>
-<a href='https://github.com/jwenjian/ghiblog/issues/116#issuecomment-542184493'>
-<img src='https://user-images.githubusercontent.com/25657798/66830971-46451000-ef89-11e9-84d1-69ea36f09b54.png' width='50%' alt='
-武汉：目前已建成的 10 座长江大桥
-
-'>
+<a href='https://github.com/jwenjian/ghiblog/issues/116#issuecomment-544138233'>
+<img src='https://user-images.githubusercontent.com/25657798/67144834-f24e6a00-f2ad-11e9-9d60-22f1552a13cd.jpg' width='50%' alt='
+2019-10-20，祝母校河南理工大学(HPU)110周岁生日快乐 🎂🎂🎂   '>
 </a>
 </p>
 <p align='center'>
 <span>
-武汉：目前已建成的 10 座长江大桥
-
-</span>
+2019-10-20，祝母校河南理工大学(HPU)110周岁生日快乐 🎂🎂🎂   </span>
 </p>
 
     
@@ -273,7 +269,7 @@ Python爬虫保存美国农业部网站上7000+张高清水果油画【证件照
 <details>
 <summary>:framed_picture:封面	<sup>1:newspaper:</sup></summary>
 
-- [封面](https://github.com/jwenjian/ghiblog/issues/116)  <sup>4 :speech_balloon:</sup>  	 
+- [封面](https://github.com/jwenjian/ghiblog/issues/116)  <sup>5 :speech_balloon:</sup>  	 
 
 
 </details>
