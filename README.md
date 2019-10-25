@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/27"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-25 05:47:42"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-25 13:39:50"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -72,14 +72,14 @@ _|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 ---
 
 
-#### [[From Instapaper] : Python统计文件行数 | LinuxHub](https://github.com/jwenjian/ghiblog/issues/130) <sup>0 :speech_balloon:</sup> 	 2019-10-25 03:05:36
+#### [Python统计文件行数 | LinuxHub](https://github.com/jwenjian/ghiblog/issues/130) <sup>0 :speech_balloon:</sup> 	 2019-10-25 03:05:36
 
-:label: : 
+:label: : [:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)
 
-Python&#32479;&#35745;&#25991;&#20214;&#34892;&#25968; | LinuxHub<br>
-&#32479;&#35745;&#19968;&#20010;2.6G&#30340;&#26085;&#24535;&#25991;&#20214;&#30340;&#34892;&#25968;. &#21738;&#31181;&#26041;&#27861;&#20250;&#24555;&#19968;&#20123;&#21602;&#65311; 1 2 [ root @ dev tmp ] # du -hl /tmp/20151210_api.linuxhub.org.log 2.6G / tmp / 20151210_api.linuxhub.org.log &#26041;&#27861;1: &#20351;&#29992;python&#35835;&#25991;&#20214;&#32479;&#35745; 1&hellip;<br>
-<br>
-<br>
+统计一个2.6G的日志文件的行数. 哪种方法会快一些呢？
+
+这里列出了4种方法：
+
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/130)
@@ -383,8 +383,9 @@ Linux&#20013;&#30340;top&#21629;&#20196;&#26174;&#31034;&#31995;&#32479;&#19978;
 </details>
 
 <details>
-<summary>:snake:Python	<sup>13:newspaper:</sup></summary>
+<summary>:snake:Python	<sup>14:newspaper:</sup></summary>
 
+- [Python统计文件行数 | LinuxHub](https://github.com/jwenjian/ghiblog/issues/130)  <sup>0 :speech_balloon:</sup>  	 
 - [用python爬虫保存美国农业部网站上的水果【证件照】](https://github.com/jwenjian/ghiblog/issues/114)  <sup>0 :speech_balloon:</sup>  	 
 - [Predictably Random](https://github.com/jwenjian/ghiblog/issues/103)  <sup>0 :speech_balloon:</sup>  	 
 - [Python_uuid 学习总结](https://github.com/jwenjian/ghiblog/issues/91)  <sup>0 :speech_balloon:</sup>  	 
