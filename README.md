@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/27"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-22 06:39:03"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-25 03:06:29"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -42,6 +42,36 @@
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>5 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
+#### [[From Instapaper] : Text to ASCII Art Generator (TAAG)](https://github.com/jwenjian/ghiblog/issues/131) <sup>0 :speech_balloon:</sup> 	 2019-10-25 03:06:05
+
+:label: : 
+
+Text to ASCII Art Generator (TAAG)<br>
+* ) ) ( ( ( ` ) /( ( ( /(( ( ( )\ )\ )\ ( )(_))))\( )\())\ ( )\))( ((((_)(((_)(_) (_(_())/((_)\ (_))((_) )\ )((_))\ )\ _ )\)_()_) |_ _(_))((_)| |_ (_)_(_/(&hellip;<br>
+<br>
+<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/131)
+
+---
+
+
+#### [[From Instapaper] : Python统计文件行数 | LinuxHub](https://github.com/jwenjian/ghiblog/issues/130) <sup>0 :speech_balloon:</sup> 	 2019-10-25 03:05:36
+
+:label: : 
+
+Python&#32479;&#35745;&#25991;&#20214;&#34892;&#25968; | LinuxHub<br>
+&#32479;&#35745;&#19968;&#20010;2.6G&#30340;&#26085;&#24535;&#25991;&#20214;&#30340;&#34892;&#25968;. &#21738;&#31181;&#26041;&#27861;&#20250;&#24555;&#19968;&#20123;&#21602;&#65311; 1 2 [ root @ dev tmp ] # du -hl /tmp/20151210_api.linuxhub.org.log 2.6G / tmp / 20151210_api.linuxhub.org.log &#26041;&#27861;1: &#20351;&#29992;python&#35835;&#25991;&#20214;&#32479;&#35745; 1&hellip;<br>
+<br>
+<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/130)
+
+---
+
+
 #### [[From Instapaper] : Control Docker with systemd](https://github.com/jwenjian/ghiblog/issues/129) <sup>0 :speech_balloon:</sup> 	 2019-10-22 06:38:09
 
 :label: : 
@@ -79,32 +109,6 @@ Linux&#20013;&#30340;top&#21629;&#20196;&#26174;&#31034;&#31995;&#32479;&#19978;
 在线生成纯文字，静态图片，动态图片二维码。[awesome-qrcode-ui](https://github.com/jwenjian/awesome-qrcode-ui) 是对应的UI项目。
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/127)
-
----
-
-
-#### [PlantUML Graphviz 安装](https://github.com/jwenjian/ghiblog/issues/126) <sup>0 :speech_balloon:</sup> 	 2019-10-17 03:45:29
-
-:label: : [:beetle:Bug追踪](https://github.com/jwenjian/ghiblog/labels/%3Abeetle%3ABug%E8%BF%BD%E8%B8%AA), [:computer:Windows](https://github.com/jwenjian/ghiblog/labels/%3Acomputer%3AWindows), [:hammer:软件](https://github.com/jwenjian/ghiblog/labels/%3Ahammer%3A%E8%BD%AF%E4%BB%B6)
-
-![image](https://user-images.githubusercontent.com/25657798/66976003-e195cc80-f0d2-11e9-85f4-5149bd5e71ed.png)
-
-PlantUML依赖Graphviz渲染除了时序图之外的其他类型的UML。
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/126)
-
----
-
-
-#### [schulte-grid](https://github.com/jwenjian/ghiblog/issues/125) <sup>0 :speech_balloon:</sup> 	 2019-10-16 14:45:47
-
-:label: : [开源](https://github.com/jwenjian/ghiblog/labels/%E5%BC%80%E6%BA%90)
-
-Vue.js实现的 5 * 5 的舒尔特方格
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/125)
 
 ---
 
