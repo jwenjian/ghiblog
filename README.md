@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/27"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-25 03:06:29"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-25 05:47:42"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -42,14 +42,29 @@
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>5 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [[From Instapaper] : Text to ASCII Art Generator (TAAG)](https://github.com/jwenjian/ghiblog/issues/131) <sup>0 :speech_balloon:</sup> 	 2019-10-25 03:06:05
+#### [Text to ASCII Art Generator (TAAG)](https://github.com/jwenjian/ghiblog/issues/131) <sup>0 :speech_balloon:</sup> 	 2019-10-25 03:06:05
 
-:label: : 
+:label: : [:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F)
 
-Text to ASCII Art Generator (TAAG)<br>
-* ) ) ( ( ( ` ) /( ( ( /(( ( ( )\ )\ )\ ( )(_))))\( )\())\ ( )\))( ((((_)(((_)(_) (_(_())/((_)\ (_))((_) )\ )((_))\ )\ _ )\)_()_) |_ _(_))((_)| |_ (_)_(_/(&hellip;<br>
-<br>
-<br>
+```
+
+   ___    _  _     ___     ___     _       ___     ___   
+  / __|  | || |   |_ _|   | _ )   | |     / _ \   / __|  
+ | (_ |  | __ |    | |    | _ \   | |__  | (_) | | (_ |  
+  \___|  |_||_|   |___|   |___/   |____|  \___/   \___|  
+_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""| 
+"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-' 
+
+```
+
+输入英文字符/数字， 生成对应的ASCII字符画，可用于cli应用程序的banner等。
+
+支持314种字体。
+
+如输入： GHIBLOG
+
+输出：
+
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/131)
@@ -252,8 +267,9 @@ Linux&#20013;&#30340;top&#21629;&#20196;&#26174;&#31034;&#31995;&#32479;&#19978;
 </details>
 
 <details>
-<summary>:earth_africa:网站收藏	<sup>16:newspaper:</sup></summary>
+<summary>:earth_africa:网站收藏	<sup>17:newspaper:</sup></summary>
 
+- [Text to ASCII Art Generator (TAAG)](https://github.com/jwenjian/ghiblog/issues/131)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : Animated Icons - 200 Free Icons](https://github.com/jwenjian/ghiblog/issues/117)  <sup>0 :speech_balloon:</sup>  	 
 - [AirPano.com: 360° 全景图片 + 视频展示世界各地美景](https://github.com/jwenjian/ghiblog/issues/106)  <sup>0 :speech_balloon:</sup>  	 
 - [Mixkit 发布免费可商用的艺术画与插图平台 - 小众软件](https://github.com/jwenjian/ghiblog/issues/101)  <sup>0 :speech_balloon:</sup>  	 
