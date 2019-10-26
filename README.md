@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/27"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-26 00:19:17"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-26 07:59:22"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -22,14 +22,14 @@
 
 
 <p align='center'>
-<a href='https://github.com/jwenjian/ghiblog/issues/116#issuecomment-544138233'>
-<img src='https://user-images.githubusercontent.com/25657798/67144834-f24e6a00-f2ad-11e9-9d60-22f1552a13cd.jpg' width='50%' alt='
-2019-10-20，祝母校河南理工大学(HPU)110周岁生日快乐 🎂🎂🎂   '>
+<a href='https://github.com/jwenjian/ghiblog/issues/116#issuecomment-546580450'>
+<img src='https://user-images.githubusercontent.com/25657798/67616241-0132a080-f809-11e9-8bd9-319b65f6e3f0.png' width='50%' alt='
+[ Why Women Kill ]'>
 </a>
 </p>
 <p align='center'>
 <span>
-2019-10-20，祝母校河南理工大学(HPU)110周岁生日快乐 🎂🎂🎂   </span>
+[ Why Women Kill ]</span>
 </p>
 
     
@@ -293,7 +293,7 @@ Linux&#20013;&#30340;top&#21629;&#20196;&#26174;&#31034;&#31995;&#32479;&#19978;
 <details>
 <summary>:framed_picture:封面	<sup>1:newspaper:</sup></summary>
 
-- [封面](https://github.com/jwenjian/ghiblog/issues/116)  <sup>5 :speech_balloon:</sup>  	 
+- [封面](https://github.com/jwenjian/ghiblog/issues/116)  <sup>6 :speech_balloon:</sup>  	 
 
 
 </details>
