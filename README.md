@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/27"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-25 13:39:50"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-26 00:19:17"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -41,6 +41,17 @@
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>5 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [topa](https://github.com/jwenjian/ghiblog/issues/132) <sup>0 :speech_balloon:</sup> 	 2019-10-26 00:18:22
+
+:label: : [开源](https://github.com/jwenjian/ghiblog/labels/%E5%BC%80%E6%BA%90)
+
+Python 的命令行应用 用于分析 Linux 命令 `top` 的输出结果，分析 CPU, 内存占用情况
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/132)
+
+---
+
 
 #### [Text to ASCII Art Generator (TAAG)](https://github.com/jwenjian/ghiblog/issues/131) <sup>0 :speech_balloon:</sup> 	 2019-10-25 03:06:05
 
@@ -113,17 +124,6 @@ Linux&#20013;&#30340;top&#21629;&#20196;&#26174;&#31034;&#31995;&#32479;&#19978;
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/128)
-
----
-
-
-#### [awesome-qrcode](https://github.com/jwenjian/ghiblog/issues/127) <sup>0 :speech_balloon:</sup> 	 2019-10-17 03:49:21
-
-:label: : [开源](https://github.com/jwenjian/ghiblog/labels/%E5%BC%80%E6%BA%90)
-
-在线生成纯文字，静态图片，动态图片二维码。[awesome-qrcode-ui](https://github.com/jwenjian/awesome-qrcode-ui) 是对应的UI项目。
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/127)
 
 ---
 
@@ -485,8 +485,9 @@ Linux&#20013;&#30340;top&#21629;&#20196;&#26174;&#31034;&#31995;&#32479;&#19978;
 </details>
 
 <details>
-<summary>开源	<sup>5:newspaper:</sup></summary>
+<summary>开源	<sup>6:newspaper:</sup></summary>
 
+- [topa](https://github.com/jwenjian/ghiblog/issues/132)  <sup>0 :speech_balloon:</sup>  	 
 - [awesome-qrcode](https://github.com/jwenjian/ghiblog/issues/127)  <sup>0 :speech_balloon:</sup>  	 
 - [schulte-grid](https://github.com/jwenjian/ghiblog/issues/125)  <sup>0 :speech_balloon:</sup>  	 
 - [usda-fruit-img-spider](https://github.com/jwenjian/ghiblog/issues/124)  <sup>0 :speech_balloon:</sup>  	 
@@ -514,8 +515,9 @@ Linux&#20013;&#30340;top&#21629;&#20196;&#26174;&#31034;&#31995;&#32479;&#19978;
 # 开源项目
 
 
-| [awesome-qrcode](https://github.com/jwenjian/awesome-qrcode) | 在线生成纯文字，静态图片，动态图片二维码。[awesome-qrcode-ui](https://github.com/jwenjian/awesome-qrcode-ui) 是对应的UI项目。 | ![](https://badgen.net/github/stars/jwenjian/awesome-qrcode) ![](https://badgen.net/github/forks/jwenjian/awesome-qrcode) ![](https://badgen.net/github/watchers/jwenjian/awesome-qrcode) |
+| [topa](https://github.com/jwenjian/topa) | Python 的命令行应用 用于分析 Linux 命令 `top` 的输出结果，分析 CPU, 内存占用情况 | ![](https://badgen.net/github/stars/jwenjian/topa) ![](https://badgen.net/github/forks/jwenjian/topa) ![](https://badgen.net/github/watchers/jwenjian/topa) |
 | --- | --- | --- |
+| [awesome-qrcode](https://github.com/jwenjian/awesome-qrcode) | 在线生成纯文字，静态图片，动态图片二维码。[awesome-qrcode-ui](https://github.com/jwenjian/awesome-qrcode-ui) 是对应的UI项目。 | ![](https://badgen.net/github/stars/jwenjian/awesome-qrcode) ![](https://badgen.net/github/forks/jwenjian/awesome-qrcode) ![](https://badgen.net/github/watchers/jwenjian/awesome-qrcode) |
 | [schulte-grid](https://github.com/jwenjian/schulte-grid) | Vue.js实现的 5 * 5 的舒尔特方格 | ![](https://badgen.net/github/stars/jwenjian/schulte-grid) ![](https://badgen.net/github/forks/jwenjian/schulte-grid) ![](https://badgen.net/github/watchers/jwenjian/schulte-grid) |
 | [usda-fruit-img-spider](https://github.com/jwenjian/usda-fruit-img-spider) | Python爬虫保存美国农业部网站上7000+张高清水果油画【证件照】 | ![](https://badgen.net/github/stars/jwenjian/usda-fruit-img-spider) ![](https://badgen.net/github/forks/jwenjian/usda-fruit-img-spider) ![](https://badgen.net/github/watchers/jwenjian/usda-fruit-img-spider) |
 | [visitor-count-badge](https://github.com/jwenjian/visitor-count-badge) | 可以统计Github的README文件的访客数量的badge，支持统计总访客数量和当天的访客数量。 | ![](https://badgen.net/github/stars/jwenjian/visitor-count-badge) ![](https://badgen.net/github/forks/jwenjian/visitor-count-badge) ![](https://badgen.net/github/watchers/jwenjian/visitor-count-badge) |
