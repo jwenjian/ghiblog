@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/27"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-26 07:59:22"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-27 12:10:56"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -41,6 +41,20 @@
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>5 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [生活随拍 [8P]](https://github.com/jwenjian/ghiblog/issues/133) <sup>0 :speech_balloon:</sup> 	 2019-10-27 12:10:01
+
+:label: : [:camera_flash:随拍](https://github.com/jwenjian/ghiblog/labels/%3Acamera_flash%3A%E9%9A%8F%E6%8B%8D)
+
+近期生活随拍 📸 
+IPhone 8 拍摄
+
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/133)
+
+---
+
 
 #### [topa](https://github.com/jwenjian/ghiblog/issues/132) <sup>0 :speech_balloon:</sup> 	 2019-10-26 00:18:22
 
@@ -109,21 +123,6 @@ Estimated reading time: 4 minutes Many Linux distributions use systemd to start 
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/129)
-
----
-
-
-#### [[From Instapaper] : 技术|30个实例详解TOP命令](https://github.com/jwenjian/ghiblog/issues/128) <sup>0 :speech_balloon:</sup> 	 2019-10-18 00:25:00
-
-:label: : [:man_technologist:Linux](https://github.com/jwenjian/ghiblog/labels/%3Aman_technologist%3ALinux)
-
-&#25216;&#26415;|30&#20010;&#23454;&#20363;&#35814;&#35299;TOP&#21629;&#20196;<br>
-Linux&#20013;&#30340;top&#21629;&#20196;&#26174;&#31034;&#31995;&#32479;&#19978;&#27491;&#22312;&#36816;&#34892;&#30340;&#36827;&#31243;&#12290;&#23427;&#26159;&#31995;&#32479;&#31649;&#29702;&#21592;&#26368;&#37325;&#35201;&#30340;&#24037;&#20855;&#20043;&#19968;&#12290;&#34987;&#24191;&#27867;&#29992;&#20110;&#30417;&#35270;&#26381;&#21153;&#22120;&#30340;&#36127;&#36733;&#12290;&#22312;&#26412;&#31687;&#20013;&#65292;&#25105;&#20204;&#20250;&#25506;&#32034;top&#21629;&#20196;&#30340;&#32454;&#33410;&#12290;top&#21629;&#20196;&#26159;&#19968;&#20010;&#20132;&#20114;&#21629;&#20196;&#12290;&#22312;&#36816;&#34892;top&#30340;&#26102;&#20505;&#36824;&#21487;&#20197;&#36816;&#34892;&#24456;&#22810;&#21629;&#20196;&#12290;&#25105;&#20204;&#20063;&#20250;&#25506;&#32034;&#36825;&#20123;&#21629;&#20196;&#12290;&hellip;<br>
-<br>
-<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/128)
 
 ---
 
@@ -199,8 +198,9 @@ Linux&#20013;&#30340;top&#21629;&#20196;&#26174;&#31034;&#31995;&#32479;&#19978;
 </details>
 
 <details>
-<summary>:camera_flash:随拍	<sup>7:newspaper:</sup></summary>
+<summary>:camera_flash:随拍	<sup>8:newspaper:</sup></summary>
 
+- [生活随拍 [8P]](https://github.com/jwenjian/ghiblog/issues/133)  <sup>0 :speech_balloon:</sup>  	 
 - [到此一游 - 天津](https://github.com/jwenjian/ghiblog/issues/115)  <sup>2 :speech_balloon:</sup>  	 
 - [近期生活随拍](https://github.com/jwenjian/ghiblog/issues/89)  <sup>0 :speech_balloon:</sup>  	 
 - [青岛之行随拍](https://github.com/jwenjian/ghiblog/issues/44)  <sup>2 :speech_balloon:</sup>  	 
