@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/27"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-27 12:10:56"/>
+    <img src="https://badgen.net/badge/last-commit/2019-10-27 13:12:34"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -35,7 +35,7 @@
     
 ## 置顶 :thumbsup: 
 - [到此一游 - 天津](https://github.com/jwenjian/ghiblog/issues/115)  <sup>2 :speech_balloon:</sup>  	 
-- [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>4 :speech_balloon:</sup>  	 
+- [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>5 :speech_balloon:</sup>  	 
 - [如果风险投资者问你“如果大公司进入市场与你竞争，怎么办？”，你应该如何回答？](https://github.com/jwenjian/ghiblog/issues/70)  <sup>1 :speech_balloon:</sup>  	 
 - [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43)  <sup>1 :speech_balloon:</sup>  	 
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
@@ -140,7 +140,7 @@ Estimated reading time: 4 minutes Many Linux distributions use systemd to start 
 <summary>:+1:置顶	<sup>6:newspaper:</sup></summary>
 
 - [到此一游 - 天津](https://github.com/jwenjian/ghiblog/issues/115)  <sup>2 :speech_balloon:</sup>  	 
-- [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>4 :speech_balloon:</sup>  	 
+- [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>5 :speech_balloon:</sup>  	 
 - [如果风险投资者问你“如果大公司进入市场与你竞争，怎么办？”，你应该如何回答？](https://github.com/jwenjian/ghiblog/issues/70)  <sup>1 :speech_balloon:</sup>  	 
 - [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43)  <sup>1 :speech_balloon:</sup>  	 
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
@@ -408,7 +408,7 @@ Estimated reading time: 4 minutes Many Linux distributions use systemd to start 
 
 - [近期生活随拍](https://github.com/jwenjian/ghiblog/issues/89)  <sup>0 :speech_balloon:</sup>  	 
 - [舒尔特训练法](https://github.com/jwenjian/ghiblog/issues/75)  <sup>0 :speech_balloon:</sup>  	 
-- [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>4 :speech_balloon:</sup>  	 
+- [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>5 :speech_balloon:</sup>  	 
 - [高铁/动车上插座都在什么位置](https://github.com/jwenjian/ghiblog/issues/59)  <sup>2 :speech_balloon:</sup>  	 
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [2019年的第一次旅行](https://github.com/jwenjian/ghiblog/issues/17)  <sup>0 :speech_balloon:</sup>  	 
