@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/27"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-10-27 13:12:34"/>
+    <img src="https://badgen.net/badge/last-commit/2019-11-02 04:47:14"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -41,6 +41,23 @@
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>5 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [解决：CentOS7 - Cannot find a valid baseurl for repo: base/7/x86_6](https://github.com/jwenjian/ghiblog/issues/134) <sup>0 :speech_balloon:</sup> 	 2019-11-02 04:46:22
+
+:label: : [:man_technologist:Linux](https://github.com/jwenjian/ghiblog/labels/%3Aman_technologist%3ALinux)
+
+首次安装 CentOS7 之后，执行 `sudo yum update` 命令时提示如下错误：
+
+```bash
+Cannot find a valid baseurl for repo: base/7/x86_6
+```
+
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/134)
+
+---
+
 
 #### [生活随拍 [8P]](https://github.com/jwenjian/ghiblog/issues/133) <sup>0 :speech_balloon:</sup> 	 2019-10-27 12:10:01
 
@@ -108,21 +125,6 @@ _|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/130)
-
----
-
-
-#### [[From Instapaper] : Control Docker with systemd](https://github.com/jwenjian/ghiblog/issues/129) <sup>0 :speech_balloon:</sup> 	 2019-10-22 06:38:09
-
-:label: : 
-
-Control Docker with systemd<br>
-Estimated reading time: 4 minutes Many Linux distributions use systemd to start the Docker daemon. This documentshows a few examples of how to customize&hellip;<br>
-<br>
-<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/129)
 
 ---
 
@@ -331,8 +333,9 @@ Estimated reading time: 4 minutes Many Linux distributions use systemd to start 
 </details>
 
 <details>
-<summary>:man_technologist:Linux	<sup>12:newspaper:</sup></summary>
+<summary>:man_technologist:Linux	<sup>13:newspaper:</sup></summary>
 
+- [解决：CentOS7 - Cannot find a valid baseurl for repo: base/7/x86_6](https://github.com/jwenjian/ghiblog/issues/134)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : 技术|30个实例详解TOP命令](https://github.com/jwenjian/ghiblog/issues/128)  <sup>0 :speech_balloon:</sup>  	 
 - [Set yum proxy in CentOS](https://github.com/jwenjian/ghiblog/issues/121)  <sup>0 :speech_balloon:</sup>  	 
 - [top命令  实时显示进程动态  Linux命令大全(手册)](https://github.com/jwenjian/ghiblog/issues/119)  <sup>0 :speech_balloon:</sup>  	 
