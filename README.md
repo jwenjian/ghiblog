@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/27"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-11-02 04:47:14"/>
+    <img src="https://badgen.net/badge/last-commit/2019-11-03 08:40:58"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -41,6 +41,19 @@
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>5 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Docker配置网易云仓库地址](https://github.com/jwenjian/ghiblog/issues/135) <sup>0 :speech_balloon:</sup> 	 2019-11-03 09:40:06
+
+:label: : [:man_technologist:Linux](https://github.com/jwenjian/ghiblog/labels/%3Aman_technologist%3ALinux)
+
+通过下面的操作，使`docker pull`命令使用网易云镜像仓库：
+
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/135)
+
+---
+
 
 #### [解决：CentOS7 - Cannot find a valid baseurl for repo: base/7/x86_6](https://github.com/jwenjian/ghiblog/issues/134) <sup>0 :speech_balloon:</sup> 	 2019-11-02 04:46:22
 
@@ -110,21 +123,6 @@ _|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/131)
-
----
-
-
-#### [Python统计文件行数 | LinuxHub](https://github.com/jwenjian/ghiblog/issues/130) <sup>0 :speech_balloon:</sup> 	 2019-10-25 03:05:36
-
-:label: : [:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)
-
-统计一个2.6G的日志文件的行数. 哪种方法会快一些呢？
-
-这里列出了4种方法：
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/130)
 
 ---
 
@@ -333,8 +331,9 @@ _|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 </details>
 
 <details>
-<summary>:man_technologist:Linux	<sup>13:newspaper:</sup></summary>
+<summary>:man_technologist:Linux	<sup>14:newspaper:</sup></summary>
 
+- [Docker配置网易云仓库地址](https://github.com/jwenjian/ghiblog/issues/135)  <sup>0 :speech_balloon:</sup>  	 
 - [解决：CentOS7 - Cannot find a valid baseurl for repo: base/7/x86_6](https://github.com/jwenjian/ghiblog/issues/134)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : 技术|30个实例详解TOP命令](https://github.com/jwenjian/ghiblog/issues/128)  <sup>0 :speech_balloon:</sup>  	 
 - [Set yum proxy in CentOS](https://github.com/jwenjian/ghiblog/issues/121)  <sup>0 :speech_balloon:</sup>  	 
