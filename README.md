@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/27"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-11-06 10:29:35"/>
+    <img src="https://badgen.net/badge/last-commit/2019-11-08 06:16:35"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -41,6 +41,23 @@
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>5 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [解决: ssh 远程登录虚拟机 Linux 速度很慢的问题](https://github.com/jwenjian/ghiblog/issues/136) <sup>0 :speech_balloon:</sup> 	 2019-11-08 06:15:56
+
+:label: : [:beetle:Bug追踪](https://github.com/jwenjian/ghiblog/labels/%3Abeetle%3ABug%E8%BF%BD%E8%B8%AA), [:man_technologist:Linux](https://github.com/jwenjian/ghiblog/labels/%3Aman_technologist%3ALinux)
+
+主机: Win7
+虚拟机: CentOS7
+虚拟机管理软件: VirtualBox
+网络设置: NAT网络, 映射虚拟机内 22 端口到本机 22 端口
+现象: 从主机(Win7) 用 putty, winSCP 等软件远程连接 CentOS7 时, 速度很慢或无法远程登录
+
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/136)
+
+---
+
 
 #### [Docker配置网易云仓库地址](https://github.com/jwenjian/ghiblog/issues/135) <sup>0 :speech_balloon:</sup> 	 2019-11-03 09:40:06
 
@@ -97,36 +114,6 @@ Python 的命令行应用 用于分析 Linux 命令 `top` 的输出结果，分�
 ---
 
 
-#### [Text to ASCII Art Generator (TAAG)](https://github.com/jwenjian/ghiblog/issues/131) <sup>0 :speech_balloon:</sup> 	 2019-10-25 03:06:05
-
-:label: : [:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F)
-
-```
-
-   ___    _  _     ___     ___     _       ___     ___   
-  / __|  | || |   |_ _|   | _ )   | |     / _ \   / __|  
- | (_ |  | __ |    | |    | _ \   | |__  | (_) | | (_ |  
-  \___|  |_||_|   |___|   |___/   |____|  \___/   \___|  
-_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""| 
-"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-' 
-
-```
-
-输入英文字符/数字， 生成对应的ASCII字符画，可用于cli应用程序的banner等。
-
-支持314种字体。
-
-如输入： GHIBLOG
-
-输出：
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/131)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -172,8 +159,9 @@ _|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 </details>
 
 <details>
-<summary>:beetle:Bug追踪	<sup>4:newspaper:</sup></summary>
+<summary>:beetle:Bug追踪	<sup>5:newspaper:</sup></summary>
 
+- [解决: ssh 远程登录虚拟机 Linux 速度很慢的问题](https://github.com/jwenjian/ghiblog/issues/136)  <sup>0 :speech_balloon:</sup>  	 
 - [PlantUML Graphviz 安装](https://github.com/jwenjian/ghiblog/issues/126)  <sup>0 :speech_balloon:</sup>  	 
 - [Permission denied when running npm install](https://github.com/jwenjian/ghiblog/issues/90)  <sup>0 :speech_balloon:</sup>  	 
 - [Internet troubleshooting: website (www.microsoft.com) is online but isn't responding to connection attempts](https://github.com/jwenjian/ghiblog/issues/66)  <sup>0 :speech_balloon:</sup>  	 
@@ -331,8 +319,9 @@ _|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|
 </details>
 
 <details>
-<summary>:man_technologist:Linux	<sup>14:newspaper:</sup></summary>
+<summary>:man_technologist:Linux	<sup>15:newspaper:</sup></summary>
 
+- [解决: ssh 远程登录虚拟机 Linux 速度很慢的问题](https://github.com/jwenjian/ghiblog/issues/136)  <sup>0 :speech_balloon:</sup>  	 
 - [Docker配置网易云仓库地址](https://github.com/jwenjian/ghiblog/issues/135)  <sup>0 :speech_balloon:</sup>  	 
 - [解决：CentOS7 - Cannot find a valid baseurl for repo: base/7/x86_6](https://github.com/jwenjian/ghiblog/issues/134)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : 技术|30个实例详解TOP命令](https://github.com/jwenjian/ghiblog/issues/128)  <sup>0 :speech_balloon:</sup>  	 
