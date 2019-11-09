@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/27"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-11-08 06:16:35"/>
+    <img src="https://badgen.net/badge/last-commit/2019-11-09 12:39:46"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -41,6 +41,19 @@
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>5 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [配置 pip 使用清华大学 PyPi 镜像站](https://github.com/jwenjian/ghiblog/issues/137) <sup>0 :speech_balloon:</sup> 	 2019-11-09 12:39:02
+
+:label: : [:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)
+
+国内使用 `pip install <package_name>` 时可能会遇到网络问题安装失败的情况， 可以设置 pip 使用清华大学的 PyPi 镜像站。
+
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/137)
+
+---
+
 
 #### [解决: ssh 远程登录虚拟机 Linux 速度很慢的问题](https://github.com/jwenjian/ghiblog/issues/136) <sup>0 :speech_balloon:</sup> 	 2019-11-08 06:15:56
 
@@ -99,17 +112,6 @@ IPhone 8 拍摄
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/133)
-
----
-
-
-#### [topa](https://github.com/jwenjian/ghiblog/issues/132) <sup>0 :speech_balloon:</sup> 	 2019-10-26 00:18:22
-
-:label: : [开源](https://github.com/jwenjian/ghiblog/labels/%E5%BC%80%E6%BA%90)
-
-Python 的命令行应用 用于分析 Linux 命令 `top` 的输出结果，分析 CPU, 内存占用情况
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/132)
 
 ---
 
@@ -374,8 +376,9 @@ Python 的命令行应用 用于分析 Linux 命令 `top` 的输出结果，分�
 </details>
 
 <details>
-<summary>:snake:Python	<sup>14:newspaper:</sup></summary>
+<summary>:snake:Python	<sup>15:newspaper:</sup></summary>
 
+- [配置 pip 使用清华大学 PyPi 镜像站](https://github.com/jwenjian/ghiblog/issues/137)  <sup>0 :speech_balloon:</sup>  	 
 - [Python统计文件行数 | LinuxHub](https://github.com/jwenjian/ghiblog/issues/130)  <sup>0 :speech_balloon:</sup>  	 
 - [用python爬虫保存美国农业部网站上的水果【证件照】](https://github.com/jwenjian/ghiblog/issues/114)  <sup>0 :speech_balloon:</sup>  	 
 - [Predictably Random](https://github.com/jwenjian/ghiblog/issues/103)  <sup>0 :speech_balloon:</sup>  	 
