@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/27"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-11-11 14:44:43"/>
+    <img src="https://badgen.net/badge/last-commit/2019-11-11 14:45:55"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -22,14 +22,16 @@
 
 
 <p align='center'>
-<a href='https://github.com/jwenjian/ghiblog/issues/116#issuecomment-546580450'>
-<img src='https://user-images.githubusercontent.com/25657798/67616241-0132a080-f809-11e9-8bd9-319b65f6e3f0.png' width='50%' alt='
-[ Why Women Kill ]'>
+<a href='https://github.com/jwenjian/ghiblog/issues/116#issuecomment-552473626'>
+<img src='https://wx4.sinaimg.cn/mw690/0071J4U2gy1g8td8xxct7j31ot0z97wi.jpg' width='50%' alt='
+
+LOL S9 冠军 - FPX'>
 </a>
 </p>
 <p align='center'>
 <span>
-[ Why Women Kill ]</span>
+
+LOL S9 冠军 - FPX</span>
 </p>
 
     
@@ -283,7 +285,7 @@ IPhone 8 拍摄
 <details>
 <summary>:framed_picture:封面	<sup>1:newspaper:</sup></summary>
 
-- [封面](https://github.com/jwenjian/ghiblog/issues/116)  <sup>6 :speech_balloon:</sup>  	 
+- [封面](https://github.com/jwenjian/ghiblog/issues/116)  <sup>7 :speech_balloon:</sup>  	 
 
 
 </details>
