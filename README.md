@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/27"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-11-17 23:29:21"/>
+    <img src="https://badgen.net/badge/last-commit/2019-11-17 23:33:14"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -43,6 +43,21 @@ LOL S9 冠军 - FPX</span>
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>5 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [你应该学习的20个Python代码段-InfoQ](https://github.com/jwenjian/ghiblog/issues/139) <sup>0 :speech_balloon:</sup> 	 2019-11-17 23:32:36
+
+:label: : 
+
+&#20320;&#24212;&#35813;&#23398;&#20064;&#30340;20&#20010;Python&#20195;&#30721;&#27573;-InfoQ<br>
+<br>
+<br>
+<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/139)
+
+---
+
 
 #### [不要把大型JAR包放进Docker镜像-InfoQ](https://github.com/jwenjian/ghiblog/issues/138) <sup>0 :speech_balloon:</sup> 	 2019-11-17 23:28:41
 
@@ -98,23 +113,6 @@ LOL S9 冠军 - FPX</span>
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/135)
-
----
-
-
-#### [解决：CentOS7 - Cannot find a valid baseurl for repo: base/7/x86_6](https://github.com/jwenjian/ghiblog/issues/134) <sup>0 :speech_balloon:</sup> 	 2019-11-02 04:46:22
-
-:label: : [:man_technologist:Linux](https://github.com/jwenjian/ghiblog/labels/%3Aman_technologist%3ALinux)
-
-首次安装 CentOS7 之后，执行 `sudo yum update` 命令时提示如下错误：
-
-```bash
-Cannot find a valid baseurl for repo: base/7/x86_6
-```
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/134)
 
 ---
 
