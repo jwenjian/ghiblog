@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/27"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-11-11 14:45:55"/>
+    <img src="https://badgen.net/badge/last-commit/2019-11-17 23:29:21"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -43,6 +43,21 @@ LOL S9 冠军 - FPX</span>
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>5 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [不要把大型JAR包放进Docker镜像-InfoQ](https://github.com/jwenjian/ghiblog/issues/138) <sup>0 :speech_balloon:</sup> 	 2019-11-17 23:28:41
+
+:label: : 
+
+&#19981;&#35201;&#25226;&#22823;&#22411;JAR&#21253;&#25918;&#36827;Docker&#38236;&#20687;-InfoQ<br>
+&#22312; Docker &#23481;&#22120;&#37324;&#25918;&#22823;&#22411; JAR &#21253;&#26159;&#23545;&#23384;&#20648;&#31354;&#38388;&#12289;&#32593;&#32476;&#24102;&#23485;&#21644;&#26102;&#38388;&#30340;&#19968;&#31181;&#28010;&#36153;&#12290;&#25152;&#24184;&#30340;&#26159;&#65292;&#25105;&#20204;&#21487;&#20197;&#21033;&#29992; Docker &#38236;&#20687;&#30340;&#20998;&#23618;&#26426;&#21046;&#21644;&#27880;&#20876;&#34920;&#32531;&#23384;&#26469;&#21019;&#24314;&#22686;&#37327;&#24335;&#30340;&#23567;&#24037;&#20214;&#65292;&#29978;&#33267;&#21487;&#20197;&#23558;&#19968;&#20010;&#24037;&#20214;&#30340;&#22823;&#23567;&#20174; 75MB &#20943;&#21040; 1MB&#12290;&#20540;&#24471;&#19968;&#25552;&#30340;&#26159;&#65292;&#29616;&#22312;&#26377;&#19968;&#20010; Maven &#21644; Gradle &#25554;&#20214;&#21487;&#20197;&#22788;&#29702;&#36825;&#20123;&#20107;&#24773;&#12290; &#38382;&#39064;&#65306;&#22823;&#22411; JAR&hellip;<br>
+<br>
+<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/138)
+
+---
+
 
 #### [配置 pip 使用清华大学 PyPi 镜像站](https://github.com/jwenjian/ghiblog/issues/137) <sup>0 :speech_balloon:</sup> 	 2019-11-09 12:39:02
 
@@ -100,20 +115,6 @@ Cannot find a valid baseurl for repo: base/7/x86_6
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/134)
-
----
-
-
-#### [生活随拍 [8P]](https://github.com/jwenjian/ghiblog/issues/133) <sup>0 :speech_balloon:</sup> 	 2019-10-27 12:10:01
-
-:label: : [:camera_flash:随拍](https://github.com/jwenjian/ghiblog/labels/%3Acamera_flash%3A%E9%9A%8F%E6%8B%8D)
-
-近期生活随拍 📸 
-IPhone 8 拍摄
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/133)
 
 ---
 
