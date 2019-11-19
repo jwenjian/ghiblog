@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/27"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-11-17 23:33:14"/>
+    <img src="https://badgen.net/badge/last-commit/2019-11-19 04:49:49"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -43,6 +43,21 @@ LOL S9 冠军 - FPX</span>
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>5 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [JVM故障分析及性能优化系列之六JVM Heap Dump堆转储文件的生成和MAT的使用  爪哇堂](https://github.com/jwenjian/ghiblog/issues/140) <sup>0 :speech_balloon:</sup> 	 2019-11-19 04:49:08
+
+:label: : 
+
+JVM&#25925;&#38556;&#20998;&#26512;&#21450;&#24615;&#33021;&#20248;&#21270;&#31995;&#21015;&#20043;&#20845;&#65306;JVM Heap Dump&#65288;&#22534;&#36716;&#20648;&#25991;&#20214;&#65289;&#30340;&#29983;&#25104;&#21644;MAT&#30340;&#20351;&#29992; &ndash; &#29226;&#21703;&#22530;<br>
+JVM&#25925;&#38556;&#20998;&#26512;&#21450;&#24615;&#33021;&#20248;&#21270;&#31995;&#21015;&#25991;&#31456; JVM&#25925;&#38556;&#20998;&#26512;&#21450;&#24615;&#33021;&#20248;&#21270;&#31995;&#21015;&#20043;&#19968;&#65306;&#20351;&#29992;jstack&#23450;&#20301;&#32447;&#31243;&#22534;&#26632;&#20449;&#24687; JVM&#25925;&#38556;&#20998;&#26512;&#21450;&#24615;&#33021;&#20248;&#21270;&#31995;&#21015;&#20043;&#20108;&#65306;jstack&#29983;&#25104;&#30340;Thread Dump&#26085;&#24535;&#32467;&#26500;&#35299;&#26512; JVM&#25925;&#38556;&#20998;&#26512;&#21450;&#24615;&#33021;&#20248;&#21270;&#31995;&#21015;&#20043;&#19977;&#65306;jstat&#21629;&#20196;&#30340;&#20351;&#29992;&#21450;VM Thread&#20998;&#26512;&hellip;<br>
+<br>
+<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/140)
+
+---
+
 
 #### [你应该学习的20个Python代码段-InfoQ](https://github.com/jwenjian/ghiblog/issues/139) <sup>0 :speech_balloon:</sup> 	 2019-11-17 23:32:36
 
@@ -100,19 +115,6 @@ LOL S9 冠军 - FPX</span>
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/136)
-
----
-
-
-#### [Docker配置网易云仓库地址](https://github.com/jwenjian/ghiblog/issues/135) <sup>0 :speech_balloon:</sup> 	 2019-11-03 09:40:06
-
-:label: : [:man_technologist:Linux](https://github.com/jwenjian/ghiblog/labels/%3Aman_technologist%3ALinux)
-
-通过下面的操作，使`docker pull`命令使用网易云镜像仓库：
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/135)
 
 ---
 
