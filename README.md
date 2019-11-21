@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/27"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-11-19 04:49:49"/>
+    <img src="https://badgen.net/badge/last-commit/2019-11-21 01:52:04"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -43,6 +43,21 @@ LOL S9 冠军 - FPX</span>
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于CircleCI自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>5 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Python 异步编程入门](https://github.com/jwenjian/ghiblog/issues/141) <sup>0 :speech_balloon:</sup> 	 2019-11-21 01:51:17
+
+:label: : 
+
+Python &#24322;&#27493;&#32534;&#31243;&#20837;&#38376;<br>
+&#26412;&#25991;&#26159;&#20889;&#32473; JavaScript &#31243;&#24207;&#21592;&#30340; Python &#25945;&#31243;&#12290; Python &#30340;&#24322;&#27493;&#32534;&#31243;&#65292;&#20854;&#20182;&#20154;&#21487;&#33021;&#35273;&#24471;&#24456;&#38590;&#65292;&#20294;&#26159; JavaScript &#31243;&#24207;&#21592;&#24212;&#35813;&#29305;&#21035;&#23481;&#26131;&#29702;&#35299;&#65292;&#22240;&#20026;&#20004;&#32773;&#30340;&#27010;&#24565;&#21644;&#35821;&#27861;&#31867;&#20284;&#12290; JavaScript &#30340;&#24322;&#27493;&#27169;&#22411; [1] &#26356;&#31616;&#21333;&#30452;&#35266;&#65292;&#24456;&#36866;&#21512;&#20316;&#20026;&#23398;&#20064; Python &#24322;&#27493;&#30340;&#22522;&#30784;&#12290; &#26412;&#25991;&#35299;&#37322; Python&hellip;<br>
+<br>
+<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/141)
+
+---
+
 
 #### [JVM故障分析及性能优化系列之六JVM Heap Dump堆转储文件的生成和MAT的使用  爪哇堂](https://github.com/jwenjian/ghiblog/issues/140) <sup>0 :speech_balloon:</sup> 	 2019-11-19 04:49:08
 
@@ -98,23 +113,6 @@ JVM&#25925;&#38556;&#20998;&#26512;&#21450;&#24615;&#33021;&#20248;&#21270;&#319
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/137)
-
----
-
-
-#### [解决: ssh 远程登录虚拟机 Linux 速度很慢的问题](https://github.com/jwenjian/ghiblog/issues/136) <sup>0 :speech_balloon:</sup> 	 2019-11-08 06:15:56
-
-:label: : [:beetle:Bug追踪](https://github.com/jwenjian/ghiblog/labels/%3Abeetle%3ABug%E8%BF%BD%E8%B8%AA), [:man_technologist:Linux](https://github.com/jwenjian/ghiblog/labels/%3Aman_technologist%3ALinux)
-
-主机: Win7
-虚拟机: CentOS7
-虚拟机管理软件: VirtualBox
-网络设置: NAT网络, 映射虚拟机内 22 端口到本机 22 端口
-现象: 从主机(Win7) 用 putty, winSCP 等软件远程连接 CentOS7 时, 速度很慢或无法远程登录
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/136)
 
 ---
 
