@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/27"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-11-26 05:08:30"/>
+    <img src="https://badgen.net/badge/last-commit/2019-11-26 11:04:35"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -43,6 +43,21 @@ LOL S9 冠军 - FPX</span>
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>7 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Apache Maven Resources Plugin  Specifying a character encoding scheme](https://github.com/jwenjian/ghiblog/issues/144) <sup>0 :speech_balloon:</sup> 	 2019-11-26 11:03:46
+
+:label: : 
+
+Apache Maven Resources Plugin &ndash; Specifying a character encoding scheme<br>
+A character encoding scheme such as ASCII , UTF-8 or UTF-16 can be chosen to be used for the reading and writing of files. The best practice is to define&hellip;<br>
+<br>
+<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/144)
+
+---
+
 
 #### [Python 异步编程入门](https://github.com/jwenjian/ghiblog/issues/141) <sup>0 :speech_balloon:</sup> 	 2019-11-21 01:51:17
 
@@ -100,19 +115,6 @@ JVM&#25925;&#38556;&#20998;&#26512;&#21450;&#24615;&#33021;&#20248;&#21270;&#319
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/138)
-
----
-
-
-#### [配置 pip 使用清华大学 PyPi 镜像站](https://github.com/jwenjian/ghiblog/issues/137) <sup>0 :speech_balloon:</sup> 	 2019-11-09 12:39:02
-
-:label: : [:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)
-
-国内使用 `pip install <package_name>` 时可能会遇到网络问题安装失败的情况， 可以设置 pip 使用清华大学的 PyPi 镜像站。
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/137)
 
 ---
 
