@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/27"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-11-27 13:59:24"/>
+    <img src="https://badgen.net/badge/last-commit/2019-11-27 14:00:44"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -43,6 +43,17 @@ LOL S9 冠军 - FPX</span>
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>9 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [gallery](https://github.com/jwenjian/ghiblog/issues/145) <sup>0 :speech_balloon:</sup> 	 2019-11-27 14:00:03
+
+:label: : [开源](https://github.com/jwenjian/ghiblog/labels/%E5%BC%80%E6%BA%90)
+
+基于Github issue的相册，随时随地分享你的摄影作品。
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/145)
+
+---
+
 
 #### [Apache Maven Resources Plugin  Specifying a character encoding scheme](https://github.com/jwenjian/ghiblog/issues/144) <sup>0 :speech_balloon:</sup> 	 2019-11-26 11:03:46
 
@@ -100,21 +111,6 @@ JVM&#25925;&#38556;&#20998;&#26512;&#21450;&#24615;&#33021;&#20248;&#21270;&#319
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/139)
-
----
-
-
-#### [不要把大型JAR包放进Docker镜像-InfoQ](https://github.com/jwenjian/ghiblog/issues/138) <sup>0 :speech_balloon:</sup> 	 2019-11-17 23:28:41
-
-:label: : 
-
-&#19981;&#35201;&#25226;&#22823;&#22411;JAR&#21253;&#25918;&#36827;Docker&#38236;&#20687;-InfoQ<br>
-&#22312; Docker &#23481;&#22120;&#37324;&#25918;&#22823;&#22411; JAR &#21253;&#26159;&#23545;&#23384;&#20648;&#31354;&#38388;&#12289;&#32593;&#32476;&#24102;&#23485;&#21644;&#26102;&#38388;&#30340;&#19968;&#31181;&#28010;&#36153;&#12290;&#25152;&#24184;&#30340;&#26159;&#65292;&#25105;&#20204;&#21487;&#20197;&#21033;&#29992; Docker &#38236;&#20687;&#30340;&#20998;&#23618;&#26426;&#21046;&#21644;&#27880;&#20876;&#34920;&#32531;&#23384;&#26469;&#21019;&#24314;&#22686;&#37327;&#24335;&#30340;&#23567;&#24037;&#20214;&#65292;&#29978;&#33267;&#21487;&#20197;&#23558;&#19968;&#20010;&#24037;&#20214;&#30340;&#22823;&#23567;&#20174; 75MB &#20943;&#21040; 1MB&#12290;&#20540;&#24471;&#19968;&#25552;&#30340;&#26159;&#65292;&#29616;&#22312;&#26377;&#19968;&#20010; Maven &#21644; Gradle &#25554;&#20214;&#21487;&#20197;&#22788;&#29702;&#36825;&#20123;&#20107;&#24773;&#12290; &#38382;&#39064;&#65306;&#22823;&#22411; JAR&hellip;<br>
-<br>
-<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/138)
 
 ---
 
@@ -482,8 +478,9 @@ JVM&#25925;&#38556;&#20998;&#26512;&#21450;&#24615;&#33021;&#20248;&#21270;&#319
 </details>
 
 <details>
-<summary>开源	<sup>6:newspaper:</sup></summary>
+<summary>开源	<sup>7:newspaper:</sup></summary>
 
+- [gallery](https://github.com/jwenjian/ghiblog/issues/145)  <sup>0 :speech_balloon:</sup>  	 
 - [topa](https://github.com/jwenjian/ghiblog/issues/132)  <sup>0 :speech_balloon:</sup>  	 
 - [awesome-qrcode](https://github.com/jwenjian/ghiblog/issues/127)  <sup>0 :speech_balloon:</sup>  	 
 - [schulte-grid](https://github.com/jwenjian/ghiblog/issues/125)  <sup>0 :speech_balloon:</sup>  	 
@@ -512,8 +509,9 @@ JVM&#25925;&#38556;&#20998;&#26512;&#21450;&#24615;&#33021;&#20248;&#21270;&#319
 # 开源项目
 
 
-| [topa](https://github.com/jwenjian/topa) | Python 的命令行应用 用于分析 Linux 命令 `top` 的输出结果，分析 CPU, 内存占用情况 | ![](https://badgen.net/github/stars/jwenjian/topa) ![](https://badgen.net/github/forks/jwenjian/topa) ![](https://badgen.net/github/watchers/jwenjian/topa) |
+| [gallery](https://github.com/jwenjian/gallery) | 基于Github issue的相册，随时随地分享你的摄影作品。 | ![](https://badgen.net/github/stars/jwenjian/gallery) ![](https://badgen.net/github/forks/jwenjian/gallery) ![](https://badgen.net/github/watchers/jwenjian/gallery) |
 | --- | --- | --- |
+| [topa](https://github.com/jwenjian/topa) | Python 的命令行应用 用于分析 Linux 命令 `top` 的输出结果，分析 CPU, 内存占用情况 | ![](https://badgen.net/github/stars/jwenjian/topa) ![](https://badgen.net/github/forks/jwenjian/topa) ![](https://badgen.net/github/watchers/jwenjian/topa) |
 | [awesome-qrcode](https://github.com/jwenjian/awesome-qrcode) | 在线生成纯文字，静态图片，动态图片二维码。[awesome-qrcode-ui](https://github.com/jwenjian/awesome-qrcode-ui) 是对应的UI项目。 | ![](https://badgen.net/github/stars/jwenjian/awesome-qrcode) ![](https://badgen.net/github/forks/jwenjian/awesome-qrcode) ![](https://badgen.net/github/watchers/jwenjian/awesome-qrcode) |
 | [schulte-grid](https://github.com/jwenjian/schulte-grid) | Vue.js实现的 5 * 5 的舒尔特方格 | ![](https://badgen.net/github/stars/jwenjian/schulte-grid) ![](https://badgen.net/github/forks/jwenjian/schulte-grid) ![](https://badgen.net/github/watchers/jwenjian/schulte-grid) |
 | [usda-fruit-img-spider](https://github.com/jwenjian/usda-fruit-img-spider) | Python爬虫保存美国农业部网站上7000+张高清水果油画【证件照】 | ![](https://badgen.net/github/stars/jwenjian/usda-fruit-img-spider) ![](https://badgen.net/github/forks/jwenjian/usda-fruit-img-spider) ![](https://badgen.net/github/watchers/jwenjian/usda-fruit-img-spider) |
