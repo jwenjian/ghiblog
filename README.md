@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/27"/>
+    <img src="https://badgen.net/badge/labels/28"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-11-28 12:27:43"/>
+    <img src="https://badgen.net/badge/last-commit/2019-11-28 12:35:44"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -200,9 +200,10 @@ JVM&#25925;&#38556;&#20998;&#26512;&#21450;&#24615;&#33021;&#20248;&#21270;&#319
 </details>
 
 <details>
-<summary>:coffee:JAVA	<sup>10:newspaper:</sup></summary>
+<summary>:coffee:JAVA	<sup>11:newspaper:</sup></summary>
 
 - [配置 apache maven resource plugin 的编码方式为UTF-8](https://github.com/jwenjian/ghiblog/issues/144)  <sup>0 :speech_balloon:</sup>  	 
+- [不要把大型JAR包放进Docker镜像-InfoQ](https://github.com/jwenjian/ghiblog/issues/138)  <sup>0 :speech_balloon:</sup>  	 
 - [消灭 Java 代码的坏味道-InfoQ](https://github.com/jwenjian/ghiblog/issues/109)  <sup>0 :speech_balloon:</sup>  	 
 - [springboot + mybatis 打印SQL日志到控制台](https://github.com/jwenjian/ghiblog/issues/105)  <sup>0 :speech_balloon:</sup>  	 
 - [负载均衡](https://github.com/jwenjian/ghiblog/issues/104)  <sup>0 :speech_balloon:</sup>  	 
@@ -440,9 +441,10 @@ JVM&#25925;&#38556;&#20998;&#26512;&#21450;&#24615;&#33021;&#20248;&#21270;&#319
 </details>
 
 <details>
-<summary>Maven	<sup>6:newspaper:</sup></summary>
+<summary>Maven	<sup>7:newspaper:</sup></summary>
 
 - [配置 apache maven resource plugin 的编码方式为UTF-8](https://github.com/jwenjian/ghiblog/issues/144)  <sup>0 :speech_balloon:</sup>  	 
+- [不要把大型JAR包放进Docker镜像-InfoQ](https://github.com/jwenjian/ghiblog/issues/138)  <sup>0 :speech_balloon:</sup>  	 
 - [Install parent POM without building Child modules](https://github.com/jwenjian/ghiblog/issues/82)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : maven getting "Not Authorized" when trying to access nexus private repository](https://github.com/jwenjian/ghiblog/issues/48)  <sup>0 :speech_balloon:</sup>  	 
 - [Maven: maven-dependency-plugin:get 通过命令行下载jar包到本地仓库 无需pom文件](https://github.com/jwenjian/ghiblog/issues/39)  <sup>0 :speech_balloon:</sup>  	 
@@ -464,6 +466,14 @@ JVM&#25925;&#38556;&#20998;&#26512;&#21450;&#24615;&#33021;&#20248;&#21270;&#319
 <summary>Vue	<sup>1:newspaper:</sup></summary>
 
 - [15个必知的Vue指令](https://github.com/jwenjian/ghiblog/issues/120)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>docker	<sup>1:newspaper:</sup></summary>
+
+- [不要把大型JAR包放进Docker镜像-InfoQ](https://github.com/jwenjian/ghiblog/issues/138)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
