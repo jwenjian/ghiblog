@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/28"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-11-28 13:25:13"/>
+    <img src="https://badgen.net/badge/last-commit/2019-11-30 02:28:50"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -43,6 +43,21 @@ LOL S9 冠军 - FPX</span>
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [2019年 北京的初雪 [16P]](https://github.com/jwenjian/ghiblog/issues/146) <sup>0 :speech_balloon:</sup> 	 2019-11-30 02:28:10
+
+:label: : [:camera_flash:随拍](https://github.com/jwenjian/ghiblog/labels/%3Acamera_flash%3A%E9%9A%8F%E6%8B%8D)
+
+2019/11/29 北京初雪，30号早上起床去公园拍雪景。
+
+![图片](https://user-images.githubusercontent.com/25657798/69894541-03ce6b80-135c-11ea-8322-cc230c3476e3.png)
+
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/146)
+
+---
+
 
 #### [gallery](https://github.com/jwenjian/ghiblog/issues/145) <sup>0 :speech_balloon:</sup> 	 2019-11-27 14:00:03
 
@@ -94,21 +109,6 @@ JVM&#25925;&#38556;&#20998;&#26512;&#21450;&#24615;&#33021;&#20248;&#21270;&#319
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/140)
-
----
-
-
-#### [你应该学习的20个Python代码段-InfoQ](https://github.com/jwenjian/ghiblog/issues/139) <sup>0 :speech_balloon:</sup> 	 2019-11-17 23:32:36
-
-:label: : 
-
-&#20320;&#24212;&#35813;&#23398;&#20064;&#30340;20&#20010;Python&#20195;&#30721;&#27573;-InfoQ<br>
-<br>
-<br>
-<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/139)
 
 ---
 
@@ -185,8 +185,9 @@ JVM&#25925;&#38556;&#20998;&#26512;&#21450;&#24615;&#33021;&#20248;&#21270;&#319
 </details>
 
 <details>
-<summary>:camera_flash:随拍	<sup>8:newspaper:</sup></summary>
+<summary>:camera_flash:随拍	<sup>9:newspaper:</sup></summary>
 
+- [2019年 北京的初雪 [16P]](https://github.com/jwenjian/ghiblog/issues/146)  <sup>0 :speech_balloon:</sup>  	 
 - [生活随拍 [8P]](https://github.com/jwenjian/ghiblog/issues/133)  <sup>0 :speech_balloon:</sup>  	 
 - [到此一游 - 天津](https://github.com/jwenjian/ghiblog/issues/115)  <sup>4 :speech_balloon:</sup>  	 
 - [近期生活随拍](https://github.com/jwenjian/ghiblog/issues/89)  <sup>0 :speech_balloon:</sup>  	 
