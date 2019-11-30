@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/28"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-11-30 02:28:50"/>
+    <img src="https://badgen.net/badge/last-commit/2019-11-30 02:36:28"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -22,16 +22,16 @@
 
 
 <p align='center'>
-<a href='https://github.com/jwenjian/ghiblog/issues/116#issuecomment-552473626'>
-<img src='https://wx4.sinaimg.cn/mw690/0071J4U2gy1g8td8xxct7j31ot0z97wi.jpg' width='50%' alt='
-
-LOL S9 冠军 - FPX'>
+<a href='https://github.com/jwenjian/ghiblog/issues/116#issuecomment-559906422'>
+<img src='https://user-images.githubusercontent.com/25657798/69894618-11382580-135d-11ea-9b60-583d26d6eed8.png' width='50%' alt='
+2019，北京初雪
+'>
 </a>
 </p>
 <p align='center'>
 <span>
-
-LOL S9 冠军 - FPX</span>
+2019，北京初雪
+</span>
 </p>
 
     
@@ -283,7 +283,7 @@ JVM&#25925;&#38556;&#20998;&#26512;&#21450;&#24615;&#33021;&#20248;&#21270;&#319
 <details>
 <summary>:framed_picture:封面	<sup>1:newspaper:</sup></summary>
 
-- [封面](https://github.com/jwenjian/ghiblog/issues/116)  <sup>7 :speech_balloon:</sup>  	 
+- [封面](https://github.com/jwenjian/ghiblog/issues/116)  <sup>8 :speech_balloon:</sup>  	 
 
 
 </details>
