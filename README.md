@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/28"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-11-30 02:36:28"/>
+    <img src="https://badgen.net/badge/last-commit/2019-12-01 12:02:55"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -36,13 +36,26 @@
 
     
 ## 置顶 :thumbsup: 
+- [【Notion】博客(人工)同步到 Notion](https://github.com/jwenjian/ghiblog/issues/147)  <sup>0 :speech_balloon:</sup>  	 
 - [到此一游 - 天津](https://github.com/jwenjian/ghiblog/issues/115)  <sup>4 :speech_balloon:</sup>  	 
 - [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>5 :speech_balloon:</sup>  	 
 - [如果风险投资者问你“如果大公司进入市场与你竞争，怎么办？”，你应该如何回答？](https://github.com/jwenjian/ghiblog/issues/70)  <sup>1 :speech_balloon:</sup>  	 
 - [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43)  <sup>1 :speech_balloon:</sup>  	 
-- [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [【Notion】博客(人工)同步到 Notion](https://github.com/jwenjian/ghiblog/issues/147) <sup>0 :speech_balloon:</sup> 	 2019-12-01 12:02:12
+
+:label: : [:+1:置顶](https://github.com/jwenjian/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)
+
+最近入手了 [Notion](https://notion.so) ，一个非常有效率的 all-in-one 笔记软件。准备把当前的所有 issue 人工同步过去， 以后发布的时候也会同步发布。
+
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/147)
+
+---
+
 
 #### [2019年 北京的初雪 [16P]](https://github.com/jwenjian/ghiblog/issues/146) <sup>0 :speech_balloon:</sup> 	 2019-11-30 02:28:10
 
@@ -98,21 +111,6 @@ Python &#24322;&#27493;&#32534;&#31243;&#20837;&#38376;<br>
 ---
 
 
-#### [JVM故障分析及性能优化系列之六JVM Heap Dump堆转储文件的生成和MAT的使用  爪哇堂](https://github.com/jwenjian/ghiblog/issues/140) <sup>0 :speech_balloon:</sup> 	 2019-11-19 04:49:08
-
-:label: : 
-
-JVM&#25925;&#38556;&#20998;&#26512;&#21450;&#24615;&#33021;&#20248;&#21270;&#31995;&#21015;&#20043;&#20845;&#65306;JVM Heap Dump&#65288;&#22534;&#36716;&#20648;&#25991;&#20214;&#65289;&#30340;&#29983;&#25104;&#21644;MAT&#30340;&#20351;&#29992; &ndash; &#29226;&#21703;&#22530;<br>
-JVM&#25925;&#38556;&#20998;&#26512;&#21450;&#24615;&#33021;&#20248;&#21270;&#31995;&#21015;&#25991;&#31456; JVM&#25925;&#38556;&#20998;&#26512;&#21450;&#24615;&#33021;&#20248;&#21270;&#31995;&#21015;&#20043;&#19968;&#65306;&#20351;&#29992;jstack&#23450;&#20301;&#32447;&#31243;&#22534;&#26632;&#20449;&#24687; JVM&#25925;&#38556;&#20998;&#26512;&#21450;&#24615;&#33021;&#20248;&#21270;&#31995;&#21015;&#20043;&#20108;&#65306;jstack&#29983;&#25104;&#30340;Thread Dump&#26085;&#24535;&#32467;&#26500;&#35299;&#26512; JVM&#25925;&#38556;&#20998;&#26512;&#21450;&#24615;&#33021;&#20248;&#21270;&#31995;&#21015;&#20043;&#19977;&#65306;jstat&#21629;&#20196;&#30340;&#20351;&#29992;&#21450;VM Thread&#20998;&#26512;&hellip;<br>
-<br>
-<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/140)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -125,11 +123,11 @@ JVM&#25925;&#38556;&#20998;&#26512;&#21450;&#24615;&#33021;&#20248;&#21270;&#319
 <details>
 <summary>:+1:置顶	<sup>6:newspaper:</sup></summary>
 
+- [【Notion】博客(人工)同步到 Notion](https://github.com/jwenjian/ghiblog/issues/147)  <sup>0 :speech_balloon:</sup>  	 
 - [到此一游 - 天津](https://github.com/jwenjian/ghiblog/issues/115)  <sup>4 :speech_balloon:</sup>  	 
 - [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>5 :speech_balloon:</sup>  	 
 - [如果风险投资者问你“如果大公司进入市场与你竞争，怎么办？”，你应该如何回答？](https://github.com/jwenjian/ghiblog/issues/70)  <sup>1 :speech_balloon:</sup>  	 
 - [我给GitHub的README做了个访客数量统计功能](https://github.com/jwenjian/ghiblog/issues/43)  <sup>1 :speech_balloon:</sup>  	 
-- [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 
 
