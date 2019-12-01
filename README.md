@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/28"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-12-01 12:05:08"/>
+    <img src="https://badgen.net/badge/last-commit/2019-12-01 12:07:07"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -392,7 +392,7 @@ Python &#24322;&#27493;&#32534;&#31243;&#20837;&#38376;<br>
 
 - [近期生活随拍](https://github.com/jwenjian/ghiblog/issues/89)  <sup>0 :speech_balloon:</sup>  	 
 - [舒尔特训练法](https://github.com/jwenjian/ghiblog/issues/75)  <sup>0 :speech_balloon:</sup>  	 
-- [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>5 :speech_balloon:</sup>  	 
+- [影视节目单](https://github.com/jwenjian/ghiblog/issues/71)  <sup>6 :speech_balloon:</sup>  	 
 - [高铁/动车上插座都在什么位置](https://github.com/jwenjian/ghiblog/issues/59)  <sup>2 :speech_balloon:</sup>  	 
 - [书单](https://github.com/jwenjian/ghiblog/issues/22)  <sup>0 :speech_balloon:</sup>  	 
 - [2019年的第一次旅行](https://github.com/jwenjian/ghiblog/issues/17)  <sup>0 :speech_balloon:</sup>  	 
