@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/28"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-12-01 12:16:12"/>
+    <img src="https://badgen.net/badge/last-commit/2019-12-03 13:33:00"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -36,11 +36,11 @@
 
     
 ## 置顶 :thumbsup: 
-- [【Notion】博客(人工)同步到 Notion](https://github.com/jwenjian/ghiblog/issues/147)  <sup>0 :speech_balloon:</sup>  	 
+- [【Notion】博客(人工)同步到 Notion](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [【Notion】博客(人工)同步到 Notion](https://github.com/jwenjian/ghiblog/issues/147) <sup>0 :speech_balloon:</sup> 	 2019-12-01 12:02:12
+#### [【Notion】博客(人工)同步到 Notion](https://github.com/jwenjian/ghiblog/issues/147) <sup>1 :speech_balloon:</sup> 	 2019-12-01 12:02:12
 
 :label: : [:+1:置顶](https://github.com/jwenjian/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)
 
@@ -119,7 +119,7 @@ Python &#24322;&#27493;&#32534;&#31243;&#20837;&#38376;<br>
 <details>
 <summary>:+1:置顶	<sup>2:newspaper:</sup></summary>
 
-- [【Notion】博客(人工)同步到 Notion](https://github.com/jwenjian/ghiblog/issues/147)  <sup>0 :speech_balloon:</sup>  	 
+- [【Notion】博客(人工)同步到 Notion](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 
 
