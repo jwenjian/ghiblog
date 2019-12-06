@@ -1,9 +1,9 @@
 
 
 <p align='center'>
-    <img src="https://badgen.net/badge/labels/28"/>
+    <img src="https://badgen.net/badge/labels/30"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-12-04 14:21:27"/>
+    <img src="https://badgen.net/badge/last-commit/2019-12-06 11:45:10"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -39,6 +39,22 @@
 - [【Notion】博客(人工)同步到 Notion](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [MySQL学习笔记一](https://github.com/jwenjian/ghiblog/issues/148) <sup>0 :speech_balloon:</sup> 	 2019-12-06 11:44:26
+
+:label: : [MySQL](https://github.com/jwenjian/ghiblog/labels/MySQL), [数据库](https://github.com/jwenjian/ghiblog/labels/%E6%95%B0%E6%8D%AE%E5%BA%93)
+
+最近在补极客时间的MySQL课程，会从这篇文章开始记录[学习笔记](https://6url.cn/pHYelZ)。
+
+- MySQL由引擎层和Server层组成
+    - 引擎层负责数据的存储和提取
+    - Server层提供MySQL的核心功能，主要包括
+        - 连接
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/148)
+
+---
+
 
 #### [【Notion】博客(人工)同步到 Notion](https://github.com/jwenjian/ghiblog/issues/147) <sup>1 :speech_balloon:</sup> 	 2019-12-01 12:02:12
 
@@ -88,21 +104,6 @@
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/144)
-
----
-
-
-#### [Python 异步编程入门](https://github.com/jwenjian/ghiblog/issues/141) <sup>0 :speech_balloon:</sup> 	 2019-11-21 01:51:17
-
-:label: : 
-
-Python &#24322;&#27493;&#32534;&#31243;&#20837;&#38376;<br>
-&#26412;&#25991;&#26159;&#20889;&#32473; JavaScript &#31243;&#24207;&#21592;&#30340; Python &#25945;&#31243;&#12290; Python &#30340;&#24322;&#27493;&#32534;&#31243;&#65292;&#20854;&#20182;&#20154;&#21487;&#33021;&#35273;&#24471;&#24456;&#38590;&#65292;&#20294;&#26159; JavaScript &#31243;&#24207;&#21592;&#24212;&#35813;&#29305;&#21035;&#23481;&#26131;&#29702;&#35299;&#65292;&#22240;&#20026;&#20004;&#32773;&#30340;&#27010;&#24565;&#21644;&#35821;&#27861;&#31867;&#20284;&#12290; JavaScript &#30340;&#24322;&#27493;&#27169;&#22411; [1] &#26356;&#31616;&#21333;&#30452;&#35266;&#65292;&#24456;&#36866;&#21512;&#20316;&#20026;&#23398;&#20064; Python &#24322;&#27493;&#30340;&#22522;&#30784;&#12290; &#26412;&#25991;&#35299;&#37322; Python&hellip;<br>
-<br>
-<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/141)
 
 ---
 
@@ -446,6 +447,14 @@ Python &#24322;&#27493;&#32534;&#31243;&#20837;&#38376;<br>
 </details>
 
 <details>
+<summary>MySQL	<sup>1:newspaper:</sup></summary>
+
+- [MySQL学习笔记一](https://github.com/jwenjian/ghiblog/issues/148)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
 <summary>Nginx	<sup>1:newspaper:</sup></summary>
 
 - [Linux-编译安装nginx源码](https://github.com/jwenjian/ghiblog/issues/9)  <sup>0 :speech_balloon:</sup>  	 
@@ -488,6 +497,14 @@ Python &#24322;&#27493;&#32534;&#31243;&#20837;&#38376;<br>
 - [usda-fruit-img-spider](https://github.com/jwenjian/ghiblog/issues/124)  <sup>0 :speech_balloon:</sup>  	 
 - [visitor-count-badge](https://github.com/jwenjian/ghiblog/issues/123)  <sup>0 :speech_balloon:</sup>  	 
 - [gradex](https://github.com/jwenjian/ghiblog/issues/122)  <sup>0 :speech_balloon:</sup>  	 
+
+
+</details>
+
+<details>
+<summary>数据库	<sup>1:newspaper:</sup></summary>
+
+- [MySQL学习笔记一](https://github.com/jwenjian/ghiblog/issues/148)  <sup>0 :speech_balloon:</sup>  	 
 
 
 </details>
