@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/30"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-12-06 14:44:41"/>
+    <img src="https://badgen.net/badge/last-commit/2019-12-06 15:25:16"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -39,6 +39,26 @@
 - [【Notion】博客(人工)同步到 Notion](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Ubuntu设置/修改系统时区](https://github.com/jwenjian/ghiblog/issues/150) <sup>0 :speech_balloon:</sup> 	 2019-12-06 15:24:29
+
+:label: : [:man_technologist:Linux](https://github.com/jwenjian/ghiblog/labels/%3Aman_technologist%3ALinux)
+
+- 用 `time -R` 查看当前时区
+
+如当前的时区为UTC+0, 则显示如下：
+```bash
+wenjian@localdev:~/service/mysql$ date -R
+Fri, 06 Dec 2019 14:53:55 +0000
+```
+当前时区为 `UTC+0`
+
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/150)
+
+---
+
 
 #### [解决Ubuntu执行sudo命令反应慢的问题](https://github.com/jwenjian/ghiblog/issues/149) <sup>0 :speech_balloon:</sup> 	 2019-12-06 14:43:57
 
@@ -93,17 +113,6 @@
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/146)
-
----
-
-
-#### [gallery](https://github.com/jwenjian/ghiblog/issues/145) <sup>0 :speech_balloon:</sup> 	 2019-11-27 14:00:03
-
-:label: : [开源](https://github.com/jwenjian/ghiblog/labels/%E5%BC%80%E6%BA%90)
-
-基于Github issue的相册，随时随地分享你的摄影作品。
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/145)
 
 ---
 
@@ -313,8 +322,9 @@
 </details>
 
 <details>
-<summary>:man_technologist:Linux	<sup>16:newspaper:</sup></summary>
+<summary>:man_technologist:Linux	<sup>17:newspaper:</sup></summary>
 
+- [Ubuntu设置/修改系统时区](https://github.com/jwenjian/ghiblog/issues/150)  <sup>0 :speech_balloon:</sup>  	 
 - [解决Ubuntu执行sudo命令反应慢的问题](https://github.com/jwenjian/ghiblog/issues/149)  <sup>0 :speech_balloon:</sup>  	 
 - [解决: ssh 远程登录虚拟机 Linux 速度很慢的问题](https://github.com/jwenjian/ghiblog/issues/136)  <sup>0 :speech_balloon:</sup>  	 
 - [Docker配置网易云仓库地址](https://github.com/jwenjian/ghiblog/issues/135)  <sup>0 :speech_balloon:</sup>  	 
