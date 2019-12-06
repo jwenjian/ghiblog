@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/30"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-12-06 11:45:10"/>
+    <img src="https://badgen.net/badge/last-commit/2019-12-06 14:44:41"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -39,6 +39,19 @@
 - [【Notion】博客(人工)同步到 Notion](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [解决Ubuntu执行sudo命令反应慢的问题](https://github.com/jwenjian/ghiblog/issues/149) <sup>0 :speech_balloon:</sup> 	 2019-12-06 14:43:57
+
+:label: : [:beetle:Bug追踪](https://github.com/jwenjian/ghiblog/labels/%3Abeetle%3ABug%E8%BF%BD%E8%B8%AA), [:man_technologist:Linux](https://github.com/jwenjian/ghiblog/labels/%3Aman_technologist%3ALinux)
+
+最近本地装了个Ubuntu1804 server， 但是发现只要是执行`sudo`的命令都反应特别慢， 哪怕是一个简单的 `sudo ls` 都要反应个一分钟左右。
+
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/149)
+
+---
+
 
 #### [MySQL学习笔记一](https://github.com/jwenjian/ghiblog/issues/148) <sup>0 :speech_balloon:</sup> 	 2019-12-06 11:44:26
 
@@ -95,19 +108,6 @@
 ---
 
 
-#### [配置 apache maven resource plugin 的编码方式为UTF-8](https://github.com/jwenjian/ghiblog/issues/144) <sup>0 :speech_balloon:</sup> 	 2019-11-26 11:03:46
-
-:label: : [:coffee:JAVA](https://github.com/jwenjian/ghiblog/labels/%3Acoffee%3AJAVA), [Maven](https://github.com/jwenjian/ghiblog/labels/Maven)
-
-配置 apache maven resource plugin 的编码方式为UTF-8
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/144)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -149,8 +149,9 @@
 </details>
 
 <details>
-<summary>:beetle:Bug追踪	<sup>5:newspaper:</sup></summary>
+<summary>:beetle:Bug追踪	<sup>6:newspaper:</sup></summary>
 
+- [解决Ubuntu执行sudo命令反应慢的问题](https://github.com/jwenjian/ghiblog/issues/149)  <sup>0 :speech_balloon:</sup>  	 
 - [解决: ssh 远程登录虚拟机 Linux 速度很慢的问题](https://github.com/jwenjian/ghiblog/issues/136)  <sup>0 :speech_balloon:</sup>  	 
 - [PlantUML Graphviz 安装](https://github.com/jwenjian/ghiblog/issues/126)  <sup>0 :speech_balloon:</sup>  	 
 - [Permission denied when running npm install](https://github.com/jwenjian/ghiblog/issues/90)  <sup>0 :speech_balloon:</sup>  	 
@@ -312,8 +313,9 @@
 </details>
 
 <details>
-<summary>:man_technologist:Linux	<sup>15:newspaper:</sup></summary>
+<summary>:man_technologist:Linux	<sup>16:newspaper:</sup></summary>
 
+- [解决Ubuntu执行sudo命令反应慢的问题](https://github.com/jwenjian/ghiblog/issues/149)  <sup>0 :speech_balloon:</sup>  	 
 - [解决: ssh 远程登录虚拟机 Linux 速度很慢的问题](https://github.com/jwenjian/ghiblog/issues/136)  <sup>0 :speech_balloon:</sup>  	 
 - [Docker配置网易云仓库地址](https://github.com/jwenjian/ghiblog/issues/135)  <sup>0 :speech_balloon:</sup>  	 
 - [解决：CentOS7 - Cannot find a valid baseurl for repo: base/7/x86_6](https://github.com/jwenjian/ghiblog/issues/134)  <sup>0 :speech_balloon:</sup>  	 
