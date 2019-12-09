@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/30"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-12-06 15:25:16"/>
+    <img src="https://badgen.net/badge/last-commit/2019-12-09 14:17:15"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -39,6 +39,20 @@
 - [【Notion】博客(人工)同步到 Notion](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [MySQL学习笔记二](https://github.com/jwenjian/ghiblog/issues/151) <sup>0 :speech_balloon:</sup> 	 2019-12-09 14:16:27
+
+:label: : [MySQL](https://github.com/jwenjian/ghiblog/labels/MySQL), [数据库](https://github.com/jwenjian/ghiblog/labels/%E6%95%B0%E6%8D%AE%E5%BA%93)
+
+- MySQL中的WAL, Write-Ahead-Logging, 即先写日志，后写磁盘
+- MySQL执行更新语句时，InnoDb引擎会先将操作(更新)记录写到redo log中，并更新内存，此时就算更新完成了
+- InnoDb引擎会在空闲或适当的时候将操作记录写到磁盘上
+- InnoDb
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/151)
+
+---
+
 
 #### [Ubuntu设置/修改系统时区](https://github.com/jwenjian/ghiblog/issues/150) <sup>0 :speech_balloon:</sup> 	 2019-12-06 15:24:29
 
@@ -98,21 +112,6 @@ Fri, 06 Dec 2019 14:53:55 +0000
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/147)
-
----
-
-
-#### [2019年 北京的初雪 [16P]](https://github.com/jwenjian/ghiblog/issues/146) <sup>0 :speech_balloon:</sup> 	 2019-11-30 02:28:10
-
-:label: : [:camera_flash:随拍](https://github.com/jwenjian/ghiblog/labels/%3Acamera_flash%3A%E9%9A%8F%E6%8B%8D)
-
-2019/11/29 北京初雪，30号早上起床去公园拍雪景。
-
-![图片](https://user-images.githubusercontent.com/25657798/69894541-03ce6b80-135c-11ea-8322-cc230c3476e3.png)
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/146)
 
 ---
 
@@ -459,8 +458,9 @@ Fri, 06 Dec 2019 14:53:55 +0000
 </details>
 
 <details>
-<summary>MySQL	<sup>1:newspaper:</sup></summary>
+<summary>MySQL	<sup>2:newspaper:</sup></summary>
 
+- [MySQL学习笔记二](https://github.com/jwenjian/ghiblog/issues/151)  <sup>0 :speech_balloon:</sup>  	 
 - [MySQL学习笔记一](https://github.com/jwenjian/ghiblog/issues/148)  <sup>0 :speech_balloon:</sup>  	 
 
 
@@ -514,8 +514,9 @@ Fri, 06 Dec 2019 14:53:55 +0000
 </details>
 
 <details>
-<summary>数据库	<sup>1:newspaper:</sup></summary>
+<summary>数据库	<sup>2:newspaper:</sup></summary>
 
+- [MySQL学习笔记二](https://github.com/jwenjian/ghiblog/issues/151)  <sup>0 :speech_balloon:</sup>  	 
 - [MySQL学习笔记一](https://github.com/jwenjian/ghiblog/issues/148)  <sup>0 :speech_balloon:</sup>  	 
 
 
