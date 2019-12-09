@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/30"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-12-09 14:17:15"/>
+    <img src="https://badgen.net/badge/last-commit/2019-12-09 15:05:33"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -39,6 +39,28 @@
 - [【Notion】博客(人工)同步到 Notion](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [解决：pip3 cannot import name main](https://github.com/jwenjian/ghiblog/issues/152) <sup>0 :speech_balloon:</sup> 	 2019-12-09 15:04:46
+
+:label: : [:beetle:Bug追踪](https://github.com/jwenjian/ghiblog/labels/%3Abeetle%3ABug%E8%BF%BD%E8%B8%AA), [:man_technologist:Linux](https://github.com/jwenjian/ghiblog/labels/%3Aman_technologist%3ALinux), [:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)
+
+linux环境下，安装pip3之后，执行了下面的命令：
+
+```bash
+wenjian@localdev:~/service$ pip3 install -i https://pypi.tuna.tsinghua.edu.cn/simple pip -U
+Collecting pip
+  Downloading https://pypi.tuna.tsinghua.edu.cn/packages/00/b6/9cfa56b4081ad13874b0c6f96af8ce16cfbc1cb06bedf8e9164ce5551ec1/pip-19.3.1-py2.py3-none-any.whl (1.4MB)
+    100% | 1.4MB 1.0MB/s
+Installing collected packages: pip
+Successfully installed pip-19.3.1
+```
+
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/152)
+
+---
+
 
 #### [MySQL学习笔记二](https://github.com/jwenjian/ghiblog/issues/151) <sup>0 :speech_balloon:</sup> 	 2019-12-09 14:16:27
 
@@ -103,19 +125,6 @@ Fri, 06 Dec 2019 14:53:55 +0000
 ---
 
 
-#### [【Notion】博客(人工)同步到 Notion](https://github.com/jwenjian/ghiblog/issues/147) <sup>1 :speech_balloon:</sup> 	 2019-12-01 12:02:12
-
-:label: : [:+1:置顶](https://github.com/jwenjian/ghiblog/labels/%3A%2B1%3A%E7%BD%AE%E9%A1%B6)
-
-最近入手了 [Notion](https://notion.so) ，一个非常有效率的 all-in-one 笔记软件。准备把当前的所有 issue 人工同步过去， 以后发布的时候也会同步发布。
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/147)
-
----
-
-
 ## 分类  :card_file_box: 
 
 <details open="open">
@@ -157,8 +166,9 @@ Fri, 06 Dec 2019 14:53:55 +0000
 </details>
 
 <details>
-<summary>:beetle:Bug追踪	<sup>6:newspaper:</sup></summary>
+<summary>:beetle:Bug追踪	<sup>7:newspaper:</sup></summary>
 
+- [解决：pip3 cannot import name main](https://github.com/jwenjian/ghiblog/issues/152)  <sup>0 :speech_balloon:</sup>  	 
 - [解决Ubuntu执行sudo命令反应慢的问题](https://github.com/jwenjian/ghiblog/issues/149)  <sup>0 :speech_balloon:</sup>  	 
 - [解决: ssh 远程登录虚拟机 Linux 速度很慢的问题](https://github.com/jwenjian/ghiblog/issues/136)  <sup>0 :speech_balloon:</sup>  	 
 - [PlantUML Graphviz 安装](https://github.com/jwenjian/ghiblog/issues/126)  <sup>0 :speech_balloon:</sup>  	 
@@ -321,8 +331,9 @@ Fri, 06 Dec 2019 14:53:55 +0000
 </details>
 
 <details>
-<summary>:man_technologist:Linux	<sup>17:newspaper:</sup></summary>
+<summary>:man_technologist:Linux	<sup>18:newspaper:</sup></summary>
 
+- [解决：pip3 cannot import name main](https://github.com/jwenjian/ghiblog/issues/152)  <sup>0 :speech_balloon:</sup>  	 
 - [Ubuntu设置/修改系统时区](https://github.com/jwenjian/ghiblog/issues/150)  <sup>0 :speech_balloon:</sup>  	 
 - [解决Ubuntu执行sudo命令反应慢的问题](https://github.com/jwenjian/ghiblog/issues/149)  <sup>0 :speech_balloon:</sup>  	 
 - [解决: ssh 远程登录虚拟机 Linux 速度很慢的问题](https://github.com/jwenjian/ghiblog/issues/136)  <sup>0 :speech_balloon:</sup>  	 
@@ -378,8 +389,9 @@ Fri, 06 Dec 2019 14:53:55 +0000
 </details>
 
 <details>
-<summary>:snake:Python	<sup>15:newspaper:</sup></summary>
+<summary>:snake:Python	<sup>16:newspaper:</sup></summary>
 
+- [解决：pip3 cannot import name main](https://github.com/jwenjian/ghiblog/issues/152)  <sup>0 :speech_balloon:</sup>  	 
 - [配置 pip 使用清华大学 PyPi 镜像站](https://github.com/jwenjian/ghiblog/issues/137)  <sup>0 :speech_balloon:</sup>  	 
 - [Python统计文件行数 | LinuxHub](https://github.com/jwenjian/ghiblog/issues/130)  <sup>0 :speech_balloon:</sup>  	 
 - [用python爬虫保存美国农业部网站上的水果【证件照】](https://github.com/jwenjian/ghiblog/issues/114)  <sup>8 :speech_balloon:</sup>  	 
