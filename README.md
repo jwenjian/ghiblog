@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-12-14 00:46:43"/>
+    <img src="https://badgen.net/badge/last-commit/2019-12-15 11:50:06"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -39,6 +39,19 @@
 - [【Notion】博客(人工)同步到 Notion](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [MySQL学习笔记三](https://github.com/jwenjian/ghiblog/issues/154) <sup>0 :speech_balloon:</sup> 	 2019-12-15 11:49:24
+
+:label: : [MySQL](https://github.com/jwenjian/ghiblog/labels/MySQL), [数据库](https://github.com/jwenjian/ghiblog/labels/%E6%95%B0%E6%8D%AE%E5%BA%93)
+
+- ACID（Atomicity、Consistency、Isolation、Durability，即原子性、一致性、隔离性、持久性）
+
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/154)
+
+---
+
 
 #### [CSS滤镜(filter)使用场景](https://github.com/jwenjian/ghiblog/issues/153) <sup>0 :speech_balloon:</sup> 	 2019-12-14 00:45:56
 
@@ -105,19 +118,6 @@ Fri, 06 Dec 2019 14:53:55 +0000
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/150)
-
----
-
-
-#### [解决Ubuntu执行sudo命令反应慢的问题](https://github.com/jwenjian/ghiblog/issues/149) <sup>0 :speech_balloon:</sup> 	 2019-12-06 14:43:57
-
-:label: : [:beetle:Bug追踪](https://github.com/jwenjian/ghiblog/labels/%3Abeetle%3ABug%E8%BF%BD%E8%B8%AA), [:man_technologist:Linux](https://github.com/jwenjian/ghiblog/labels/%3Aman_technologist%3ALinux)
-
-最近本地装了个Ubuntu1804 server， 但是发现只要是执行`sudo`的命令都反应特别慢， 哪怕是一个简单的 `sudo ls` 都要反应个一分钟左右。
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/149)
 
 ---
 
@@ -468,8 +468,9 @@ Fri, 06 Dec 2019 14:53:55 +0000
 </details>
 
 <details>
-<summary>MySQL	<sup>2:newspaper:</sup></summary>
+<summary>MySQL	<sup>3:newspaper:</sup></summary>
 
+- [MySQL学习笔记三](https://github.com/jwenjian/ghiblog/issues/154)  <sup>0 :speech_balloon:</sup>  	 
 - [MySQL学习笔记二](https://github.com/jwenjian/ghiblog/issues/151)  <sup>0 :speech_balloon:</sup>  	 
 - [MySQL学习笔记一](https://github.com/jwenjian/ghiblog/issues/148)  <sup>0 :speech_balloon:</sup>  	 
 
@@ -532,8 +533,9 @@ Fri, 06 Dec 2019 14:53:55 +0000
 </details>
 
 <details>
-<summary>数据库	<sup>2:newspaper:</sup></summary>
+<summary>数据库	<sup>3:newspaper:</sup></summary>
 
+- [MySQL学习笔记三](https://github.com/jwenjian/ghiblog/issues/154)  <sup>0 :speech_balloon:</sup>  	 
 - [MySQL学习笔记二](https://github.com/jwenjian/ghiblog/issues/151)  <sup>0 :speech_balloon:</sup>  	 
 - [MySQL学习笔记一](https://github.com/jwenjian/ghiblog/issues/148)  <sup>0 :speech_balloon:</sup>  	 
 
