@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-12-25 14:01:57"/>
+    <img src="https://badgen.net/badge/last-commit/2019-12-25 14:03:44"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -387,9 +387,10 @@ Fri, 06 Dec 2019 14:53:55 +0000
 </details>
 
 <details>
-<summary>:snake:Python	<sup>16:newspaper:</sup></summary>
+<summary>:snake:Python	<sup>17:newspaper:</sup></summary>
 
 - [解决：pip3 cannot import name main](https://github.com/jwenjian/ghiblog/issues/152)  <sup>0 :speech_balloon:</sup>  	 
+- [你应该学习的20个Python代码段-InfoQ](https://github.com/jwenjian/ghiblog/issues/139)  <sup>0 :speech_balloon:</sup>  	 
 - [配置 pip 使用清华大学 PyPi 镜像站](https://github.com/jwenjian/ghiblog/issues/137)  <sup>0 :speech_balloon:</sup>  	 
 - [Python统计文件行数 | LinuxHub](https://github.com/jwenjian/ghiblog/issues/130)  <sup>0 :speech_balloon:</sup>  	 
 - [用python爬虫保存美国农业部网站上的水果【证件照】](https://github.com/jwenjian/ghiblog/issues/114)  <sup>8 :speech_balloon:</sup>  	 
