@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-12-25 14:03:44"/>
+    <img src="https://badgen.net/badge/last-commit/2019-12-31 06:45:00"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -39,6 +39,17 @@
 - [【Notion】博客(人工)同步到 Notion](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [这才是我想要的彩虹进度条-[vue-ins-progress-bar] added to 遇见 on Trello](https://github.com/jwenjian/ghiblog/issues/155) <sup>0 :speech_balloon:</sup> 	 2019-12-31 06:44:15
+
+:label: : 
+
+<b>Wenjian Jiang</b> added the card <a href="https://trello.com/c/KDl8SxiT">&#36825;&#25165;&#26159;&#25105;&#24819;&#35201;&#30340;&#24425;&#34425;&#
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/155)
+
+---
+
 
 #### [MySQL学习笔记三](https://github.com/jwenjian/ghiblog/issues/154) <sup>0 :speech_balloon:</sup> 	 2019-12-15 11:49:24
 
@@ -98,26 +109,6 @@ Successfully installed pip-19.3.1
 - InnoDb
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/151)
-
----
-
-
-#### [Ubuntu设置/修改系统时区](https://github.com/jwenjian/ghiblog/issues/150) <sup>0 :speech_balloon:</sup> 	 2019-12-06 15:24:29
-
-:label: : [:man_technologist:Linux](https://github.com/jwenjian/ghiblog/labels/%3Aman_technologist%3ALinux)
-
-- 用 `time -R` 查看当前时区
-
-如当前的时区为UTC+0, 则显示如下：
-```bash
-wenjian@localdev:~/service/mysql$ date -R
-Fri, 06 Dec 2019 14:53:55 +0000
-```
-当前时区为 `UTC+0`
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/150)
 
 ---
 
