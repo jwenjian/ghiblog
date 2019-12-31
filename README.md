@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-12-31 09:11:01"/>
+    <img src="https://badgen.net/badge/last-commit/2019-12-31 10:00:12"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -36,7 +36,7 @@
 
     
 ## 置顶 :thumbsup: 
-- [【Notion】博客(人工)同步到 Notion](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
+- [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
@@ -111,7 +111,7 @@ CSS的filter属性，可以为HTML元素加上滤镜效果。常用的滤镜效�
 <details>
 <summary>:+1:置顶	<sup>2:newspaper:</sup></summary>
 
-- [【Notion】博客(人工)同步到 Notion](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
+- [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 
 
