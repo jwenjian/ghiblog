@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-12-31 06:47:56"/>
+    <img src="https://badgen.net/badge/last-commit/2019-12-31 09:11:01"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -39,6 +39,17 @@
 - [【Notion】博客(人工)同步到 Notion](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [数据库时区那些事儿 - MySQL的时区处理 - 颇忒脱 - SegmentFault 思否](https://github.com/jwenjian/ghiblog/issues/157) <sup>0 :speech_balloon:</sup> 	 2019-12-31 09:10:13
+
+:label: : 
+
+**Wenjian Jiang** added the card [&#25968;&#25454;&#24211;&#26102;&#21306;&#37027;&#20123;&#20107;&#20799; - MySQL&#30340;&#26102;&#21306;&#22788;&#29702; - &#39047;&#24530;&#33073; - SegmentFault &#24605;&#21542;](https://ift.tt/2MKVp3X) to the **&#26550;&#26500;/&#20013;&#38388;&#20214;/&#25968;&#25454;&#24211;** list in the **&#36935;&#35265;** board at `December 31, 2019 at 05:09PM` &gt; &#24403;JVM&#26102;&#21306;&#21644;&#25968;&#25454;&#24211;&#26102;&#21306;&#19981;&#19968;&#33268;&#30340;&#26102;&#20505;&#65292;&#20250;&#21457;&#29983;&#20160;&#20040;&#65311;&#36825;&#20010;&#38382;&#39064;&#20063;&#35768;&#20320;&#20174;&#26469;&#27809;&#26377;&#27880;&#24847;&#36807;&#65292;&#20294;&#26159;&#24403;&#25226;Java&#31243;&#24207;&#23481;&#22120;&#21270;&#30340;&#26102;&#20505;&#65292;&#38382;&#39064;&#23601;&#28014;&#29616;&#20986;&#26469;&#20102;&#65292;&#22240;&#20026;&#30446;&#21069;&#20960;&#20046;&#25152;&#26377;&#30340;Docker Image&#30340;&#26102;&#21306;&#37117;&#26159;UTC&#12290;&#26412;&#25991;&#25506;&#31350;&#20102;MySQL&#21450;&#20854;JDBC&#39537;&#21160;&#23545;&#20110;&#26102;&#21306;&#30340;&#22788;&#29702;&#26041;&#24335;&#65292;&#24182;&#23581;&#35797;&#32473;&#20986;&#26368;&#20339;&#23454;&#36341;&#12290; 
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/157)
+
+---
+
 
 #### [浏览器中原生运行的第四种语言诞生WebAssembly 1.0成为W3C的推荐标准-InfoQ added to 遇见 on Trello](https://github.com/jwenjian/ghiblog/issues/156) <sup>0 :speech_balloon:</sup> 	 2019-12-31 06:47:09
 
@@ -84,28 +95,6 @@ CSS的filter属性，可以为HTML元素加上滤镜效果。常用的滤镜效�
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/153)
-
----
-
-
-#### [解决：pip3 cannot import name main](https://github.com/jwenjian/ghiblog/issues/152) <sup>0 :speech_balloon:</sup> 	 2019-12-09 15:04:46
-
-:label: : [:beetle:Bug追踪](https://github.com/jwenjian/ghiblog/labels/%3Abeetle%3ABug%E8%BF%BD%E8%B8%AA), [:man_technologist:Linux](https://github.com/jwenjian/ghiblog/labels/%3Aman_technologist%3ALinux), [:snake:Python](https://github.com/jwenjian/ghiblog/labels/%3Asnake%3APython)
-
-linux环境下，安装pip3之后，执行了下面的命令：
-
-```bash
-wenjian@localdev:~/service$ pip3 install -i https://pypi.tuna.tsinghua.edu.cn/simple pip -U
-Collecting pip
-  Downloading https://pypi.tuna.tsinghua.edu.cn/packages/00/b6/9cfa56b4081ad13874b0c6f96af8ce16cfbc1cb06bedf8e9164ce5551ec1/pip-19.3.1-py2.py3-none-any.whl (1.4MB)
-    100% | 1.4MB 1.0MB/s
-Installing collected packages: pip
-Successfully installed pip-19.3.1
-```
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/152)
 
 ---
 
