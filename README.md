@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2019-12-31 06:45:00"/>
+    <img src="https://badgen.net/badge/last-commit/2019-12-31 06:47:56"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -39,6 +39,17 @@
 - [【Notion】博客(人工)同步到 Notion](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [浏览器中原生运行的第四种语言诞生WebAssembly 1.0成为W3C的推荐标准-InfoQ added to 遇见 on Trello](https://github.com/jwenjian/ghiblog/issues/156) <sup>0 :speech_balloon:</sup> 	 2019-12-31 06:47:09
+
+:label: : 
+
+<b>Wenjian Jiang</b> added the card <a href="https://trello.com/c/foS26Op9">&#27983;&#35272;&#22120;&#20013;&#21407;&#29983;&#36816;&#34892;&#30340;&#
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/156)
+
+---
+
 
 #### [这才是我想要的彩虹进度条-[vue-ins-progress-bar] added to 遇见 on Trello](https://github.com/jwenjian/ghiblog/issues/155) <sup>0 :speech_balloon:</sup> 	 2019-12-31 06:44:15
 
@@ -95,20 +106,6 @@ Successfully installed pip-19.3.1
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/152)
-
----
-
-
-#### [MySQL学习笔记二](https://github.com/jwenjian/ghiblog/issues/151) <sup>0 :speech_balloon:</sup> 	 2019-12-09 14:16:27
-
-:label: : [MySQL](https://github.com/jwenjian/ghiblog/labels/MySQL), [数据库](https://github.com/jwenjian/ghiblog/labels/%E6%95%B0%E6%8D%AE%E5%BA%93)
-
-- MySQL中的WAL, Write-Ahead-Logging, 即先写日志，后写磁盘
-- MySQL执行更新语句时，InnoDb引擎会先将操作(更新)记录写到redo log中，并更新内存，此时就算更新完成了
-- InnoDb引擎会在空闲或适当的时候将操作记录写到磁盘上
-- InnoDb
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/151)
 
 ---
 
