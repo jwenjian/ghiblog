@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-01-02 07:46:23"/>
+    <img src="https://badgen.net/badge/last-commit/2020-01-02 09:25:50"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -39,6 +39,21 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [rm命令: 根据文件后缀名递归删除](https://github.com/jwenjian/ghiblog/issues/159) <sup>0 :speech_balloon:</sup> 	 2020-01-02 09:25:02
+
+:label: : 
+
+Card [rm&#21629;&#20196;: &#26681;&#25454;&#25991;&#20214;&#21518;&#32512;&#21517;&#36882;&#24402;&#21024;&#38500;](https://ift.tt/2swqYI2) added the to the **Linux** list in the **&#36935;&#35265;** board at `January 2, 2020 at 04:59PM`<br>
+&nbsp;<br>
+&gt; &#20808;&#20351;&#29992; `find` &#21629;&#20196;&#36882;&#24402;&#26597;&#25214;&#25351;&#23450;&#21518;&#32512;&#21517;&#30340;&#25991;&#20214;, &#20877;&#36890;&#36807;&#31649;&#36947; `|` &#21644; `xargs` &#26500;&#36896;&#20986;&#21442;&#25968;&#21015;&#34920;&#20256;&#36882;&#32473; `rm` &#21629;&#20196;: ```bash find . -name "*.log" | xargs rm -f ```<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/159)
+
+---
+
 
 #### [Netty Client重连实现 | 鸟窝](https://github.com/jwenjian/ghiblog/issues/158) <sup>0 :speech_balloon:</sup> 	 2020-01-02 07:45:36
 
@@ -84,19 +99,6 @@ Card [Netty Client&#37325;&#36830;&#23454;&#29616; | &#40479;&#31389;](https://i
 <b>Wenjian Jiang</b> added the card <a href="https://trello.com/c/KDl8SxiT">&#36825;&#25165;&#26159;&#25105;&#24819;&#35201;&#30340;&#24425;&#34425;&#
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/155)
-
----
-
-
-#### [MySQL学习笔记三](https://github.com/jwenjian/ghiblog/issues/154) <sup>0 :speech_balloon:</sup> 	 2019-12-15 11:49:24
-
-:label: : [MySQL](https://github.com/jwenjian/ghiblog/labels/MySQL), [数据库](https://github.com/jwenjian/ghiblog/labels/%E6%95%B0%E6%8D%AE%E5%BA%93)
-
-- ACID（Atomicity、Consistency、Isolation、Durability，即原子性、一致性、隔离性、持久性）
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/154)
 
 ---
 
