@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-01-02 09:25:50"/>
+    <img src="https://badgen.net/badge/last-commit/2020-01-03 09:55:58"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -39,6 +39,21 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [随拍@20200103](https://github.com/jwenjian/ghiblog/issues/160) <sup>0 :speech_balloon:</sup> 	 2020-01-03 09:55:14
+
+:label: : 
+
+Card [&#38543;&#25293;@20200103](https://ift.tt/35kGdB4) added the to the **&#38750;&#33879;&#21517;&#25668;&#24433;&#24072;** list in the **&#36935;&#35265;** board at `January 3, 2020 at 05:47PM`<br>
+&nbsp;<br>
+&gt;<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/160)
+
+---
+
 
 #### [rm命令: 根据文件后缀名递归删除](https://github.com/jwenjian/ghiblog/issues/159) <sup>0 :speech_balloon:</sup> 	 2020-01-02 09:25:02
 
@@ -88,17 +103,6 @@ Card [Netty Client&#37325;&#36830;&#23454;&#29616; | &#40479;&#31389;](https://i
 <b>Wenjian Jiang</b> added the card <a href="https://trello.com/c/foS26Op9">&#27983;&#35272;&#22120;&#20013;&#21407;&#29983;&#36816;&#34892;&#30340;&#
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/156)
-
----
-
-
-#### [这才是我想要的彩虹进度条-[vue-ins-progress-bar] added to 遇见 on Trello](https://github.com/jwenjian/ghiblog/issues/155) <sup>0 :speech_balloon:</sup> 	 2019-12-31 06:44:15
-
-:label: : 
-
-<b>Wenjian Jiang</b> added the card <a href="https://trello.com/c/KDl8SxiT">&#36825;&#25165;&#26159;&#25105;&#24819;&#35201;&#30340;&#24425;&#34425;&#
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/155)
 
 ---
 
