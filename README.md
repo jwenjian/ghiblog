@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-01-03 23:53:16"/>
+    <img src="https://badgen.net/badge/last-commit/2020-01-06 06:25:50"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -39,6 +39,21 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [centos7 - No temporary password in mysqld.log - Stack Overflow](https://github.com/jwenjian/ghiblog/issues/163) <sup>0 :speech_balloon:</sup> 	 2020-01-06 06:25:06
+
+:label: : 
+
+Card [centos7 - No temporary password in mysqld.log - Stack Overflow](https://ift.tt/2Qpc7Il) added the to the **&#26550;&#26500;/&#20013;&#38388;&#20214;/&#25968;&#25454;&#24211;/MySQL** list in the **&#36935;&#35265;** board at `January 6, 2020 at 02:22PM`<br>
+&nbsp;<br>
+&gt; - install centos 7 with mysql selected, mysql version is 5.5. - Remove it by: yum remove mysql-serverl. - Install 5.7.16 by this tutorial. Has these error. - Yum remove mysql-community-server, install 5.7 again. Still has these error. - Yum remove mysql-community-server, but delete dir /var/lib/mysql. - Then install again, it works. - The key point is need to **remove** `/var/lib/mysql manually`<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/163)
+
+---
+
 
 #### [区块链入门教程|阮一峰的网络日志](https://github.com/jwenjian/ghiblog/issues/162) <sup>0 :speech_balloon:</sup> 	 2020-01-03 15:31:22
 
@@ -96,17 +111,6 @@ Card [Netty Client&#37325;&#36830;&#23454;&#29616; | &#40479;&#31389;](https://i
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/158)
-
----
-
-
-#### [数据库时区那些事儿 - MySQL的时区处理 - 颇忒脱 - SegmentFault 思否](https://github.com/jwenjian/ghiblog/issues/157) <sup>0 :speech_balloon:</sup> 	 2019-12-31 09:10:13
-
-:label: : 
-
-**Wenjian Jiang** added the card [&#25968;&#25454;&#24211;&#26102;&#21306;&#37027;&#20123;&#20107;&#20799; - MySQL&#30340;&#26102;&#21306;&#22788;&#29702; - &#39047;&#24530;&#33073; - SegmentFault &#24605;&#21542;](https://ift.tt/2MKVp3X) to the **&#26550;&#26500;/&#20013;&#38388;&#20214;/&#25968;&#25454;&#24211;** list in the **&#36935;&#35265;** board at `December 31, 2019 at 05:09PM` &gt; &#24403;JVM&#26102;&#21306;&#21644;&#25968;&#25454;&#24211;&#26102;&#21306;&#19981;&#19968;&#33268;&#30340;&#26102;&#20505;&#65292;&#20250;&#21457;&#29983;&#20160;&#20040;&#65311;&#36825;&#20010;&#38382;&#39064;&#20063;&#35768;&#20320;&#20174;&#26469;&#27809;&#26377;&#27880;&#24847;&#36807;&#65292;&#20294;&#26159;&#24403;&#25226;Java&#31243;&#24207;&#23481;&#22120;&#21270;&#30340;&#26102;&#20505;&#65292;&#38382;&#39064;&#23601;&#28014;&#29616;&#20986;&#26469;&#20102;&#65292;&#22240;&#20026;&#30446;&#21069;&#20960;&#20046;&#25152;&#26377;&#30340;Docker Image&#30340;&#26102;&#21306;&#37117;&#26159;UTC&#12290;&#26412;&#25991;&#25506;&#31350;&#20102;MySQL&#21450;&#20854;JDBC&#39537;&#21160;&#23545;&#20110;&#26102;&#21306;&#30340;&#22788;&#29702;&#26041;&#24335;&#65292;&#24182;&#23581;&#35797;&#32473;&#20986;&#26368;&#20339;&#23454;&#36341;&#12290; 
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/157)
 
 ---
 
