@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-01-07 07:25:52"/>
+    <img src="https://badgen.net/badge/last-commit/2020-01-07 07:56:02"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -39,6 +39,21 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [JEP 358: Helpful NullPointerExceptions](https://github.com/jwenjian/ghiblog/issues/165) <sup>0 :speech_balloon:</sup> 	 2020-01-07 07:55:17
+
+:label: : 
+
+Card [JEP 358: Helpful NullPointerExceptions](https://ift.tt/301DhZc) added the to the **Java/Maven/Spring(boot)/Mybatis** list in the **&#36935;&#35265;** board at `January 7, 2020 at 03:35PM`<br>
+&nbsp;<br>
+&gt; JDK14&#30340;&#26032;&#29305;&#24615;, JVM&#20250;&#25552;&#20379;&#26356;&#26377;&#29992;&#30340;&#31354;&#25351;&#38024;&#24322;&#24120;&#20449;&#24687;, &#21363;, &#20250;&#25351;&#20986;&#26159;&#21738;&#20010;&#23545;&#35937;&#30340;&#21738;&#20010;&#21464;&#37327;&#20026;null&#25165;&#23548;&#33268;&#20102;&#31354;&#25351;&#38024;&#24322;&#24120;. The JVM throws a NullPointerException (NPE) at the point in a program where code tries to dereference a null reference. By analyzing the program's bytecode instructions, the JVM will determine precisely which variable was null, and describe the variable (in terms of source code) with a null-detail message in the NPE. The null-detail message will then be shown in the JVM's message, alongside the method, filename, and line number. Note: The JVM displays an exception message on the same line as the exception type, which can result in long lines. For readability in a web browser, this JEP shows the null-detail message on a second line, after the exception type. For example, an NPE from the assignment statement a.i = 99; would generate this message: Exception in thread "main" java.lang.NullPointerException: Cannot assign field "i" because "a" is null at Prog.main(Prog.java:5) If the more complex statement a.b.c.i = 99; throws an NPE, the message would dissect the statement and pinpoint the cause by showing the full access path which led up to the null: Exception in thread "main" java.lang.NullPointerException: Cannot read field "c" because "a.b" is null at Prog.main(Prog.java:5)<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/165)
+
+---
+
 
 #### [微软北大造出超逼真AI换脸框架顺便搞了个伪人脸检测器网友自造矛和盾-InfoQ](https://github.com/jwenjian/ghiblog/issues/164) <sup>0 :speech_balloon:</sup> 	 2020-01-07 07:25:08
 
@@ -96,21 +111,6 @@ Card [&#38543;&#25293;@20200103](https://ift.tt/35kGdB4) added the to the **&#38
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/160)
-
----
-
-
-#### [rm命令: 根据文件后缀名递归删除](https://github.com/jwenjian/ghiblog/issues/159) <sup>0 :speech_balloon:</sup> 	 2020-01-02 09:25:02
-
-:label: : 
-
-Card [rm&#21629;&#20196;: &#26681;&#25454;&#25991;&#20214;&#21518;&#32512;&#21517;&#36882;&#24402;&#21024;&#38500;](https://ift.tt/2swqYI2) added the to the **Linux** list in the **&#36935;&#35265;** board at `January 2, 2020 at 04:59PM`<br>
-&nbsp;<br>
-&gt; &#20808;&#20351;&#29992; `find` &#21629;&#20196;&#36882;&#24402;&#26597;&#25214;&#25351;&#23450;&#21518;&#32512;&#21517;&#30340;&#25991;&#20214;, &#20877;&#36890;&#36807;&#31649;&#36947; `|` &#21644; `xargs` &#26500;&#36896;&#20986;&#21442;&#25968;&#21015;&#34920;&#20256;&#36882;&#32473; `rm` &#21629;&#20196;: ```bash find . -name "*.log" | xargs rm -f ```<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/159)
 
 ---
 
