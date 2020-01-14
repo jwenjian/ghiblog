@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-01-14 06:28:52"/>
+    <img src="https://badgen.net/badge/last-commit/2020-01-14 06:58:55"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -39,6 +39,21 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Linux Tips Tricks and Tutorials | Linuxize](https://github.com/jwenjian/ghiblog/issues/174) <sup>0 :speech_balloon:</sup> 	 2020-01-14 06:58:12
+
+:label: : 
+
+Card [Linux Tips, Tricks and Tutorials | Linuxize](https://ift.tt/2TkcB4j) added the to the **Linux** list in the **&#36935;&#35265;** board at `January 14, 2020 at 02:43PM`<br>
+&nbsp;<br>
+&gt; Linuxize is a Linux Sysadmin and DevOps blog that publishes articles and tutorials about server operations, new techniques and Linux security.<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/174)
+
+---
+
 
 #### [How to Install Python 3 on CentOS 7 | Linuxize](https://github.com/jwenjian/ghiblog/issues/173) <sup>0 :speech_balloon:</sup> 	 2020-01-14 06:28:12
 
@@ -96,21 +111,6 @@ Card [&#26368;&#36817;&#29190;&#32418;&#30340;NFT&#31350;&#31455;&#26159;&#20160
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/170)
-
----
-
-
-#### [年会 中大奖](https://github.com/jwenjian/ghiblog/issues/169) <sup>0 :speech_balloon:</sup> 	 2020-01-14 01:58:05
-
-:label: : 
-
-Card [&#24180;&#20250; &#20013;&#22823;&#22870;&#129351;&#127873;](https://ift.tt/2FQudNa) added the to the **&#38750;&#33879;&#21517;&#25668;&#24433;&#24072;** list in the **&#36935;&#35265;** board at `January 14, 2020 at 09:35AM`<br>
-&nbsp;<br>
-&gt;<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/169)
 
 ---
 
