@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-01-14 01:58:46"/>
+    <img src="https://badgen.net/badge/last-commit/2020-01-14 02:29:05"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -40,6 +40,51 @@
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
+#### [华为开源镜像站_软件开发服务_华为云](https://github.com/jwenjian/ghiblog/issues/172) <sup>0 :speech_balloon:</sup> 	 2020-01-14 02:28:25
+
+:label: : 
+
+Card [&#21326;&#20026;&#24320;&#28304;&#38236;&#20687;&#31449;_&#36719;&#20214;&#24320;&#21457;&#26381;&#21153;_&#21326;&#20026;&#20113;](https://ift.tt/2Tkx4Gn) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `January 14, 2020 at 10:21AM`<br>
+&nbsp;<br>
+&gt; &#21326;&#20026;&#20113;DevCloud&#22242;&#38431;&#25552;&#20379;&#30340;&#20840;&#31867;&#22411;&#38236;&#20687;&#31449;&#26381;&#21153;&#65292;&#25552;&#20379;&#20027;&#27969;&#24320;&#21457;&#35821;&#35328;&#32452;&#20214;&#12289;&#25805;&#20316;&#31995;&#32479;&#12289;&#24120;&#29992;&#24037;&#20855;&#21644;&#24211;&#31561;&#38236;&#20687;&#65292;&#26497;&#36895;&#19979;&#36733;&#65292;&#20840;&#31449;CDN&#65292;&#23448;&#26041;&#21512;&#20316;&#12290;<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/172)
+
+---
+
+
+#### [Huawei's Linux Distribution openEuler is Available Now!](https://github.com/jwenjian/ghiblog/issues/171) <sup>0 :speech_balloon:</sup> 	 2020-01-14 02:28:24
+
+:label: : 
+
+Card [Huawei's Linux Distribution openEuler is Available Now!](https://ift.tt/2FOMWZO) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `January 14, 2020 at 10:10AM`<br>
+&nbsp;<br>
+&gt; My teammate Abhishek tried to use openEuler but the ISO provided on their website is not suitable for making a bootable USB. This is the error it shows: openEuler Linux ISO The openEuler ISO doesn&rsquo;t work properly An incomplete website, broken ISO. It seems Huawei was in too much of a hurry and didn&rsquo;t prepare things very well.<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/171)
+
+---
+
+
+#### [最近爆红的NFT究竟是什么-InfoQ](https://github.com/jwenjian/ghiblog/issues/170) <sup>0 :speech_balloon:</sup> 	 2020-01-14 02:28:23
+
+:label: : 
+
+Card [&#26368;&#36817;&#29190;&#32418;&#30340;NFT&#31350;&#31455;&#26159;&#20160;&#20040;&#65311;-InfoQ](https://ift.tt/3880uf3) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `January 14, 2020 at 10:00AM`<br>
+&nbsp;<br>
+&gt; &#20174; 2017 &#24180;&#26411;&#36855;&#24651;&#29483; (cryptokitties) &#30340;&#29190;&#32418;&#33267;&#20170;&#24050;&#36807;&#21435;&#20102;&#25509;&#36817; 2 &#24180;&#65292;&#23427;&#24102;&#26469;&#20102; ERC721 &#21327;&#35758;&#65292;&#20063;&#35753;&#20154;&#20204;&#35265;&#35782;&#21040;&#20102; NFT &#30340;&#39764;&#21147;&#12290;&#26412;&#25991;&#23558;&#20250;&#23545; NFT &#30340;&#20215;&#20540;&#28857;&#12289;&#24212;&#29992;&#22330;&#26223;&#21644;&#25216;&#26415;&#38754;&#36827;&#34892;&#20840;&#26041;&#20301;&#35299;&#35835;&#65292;&#24182;&#23545;&#20027;&#27969;&#30340; NFT &#36164;&#20135;&#26631;&#20934;&#36827;&#34892;&#23545;&#27604;&#20998;&#26512;&#12290;<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/170)
+
+---
+
+
 #### [年会 中大奖](https://github.com/jwenjian/ghiblog/issues/169) <sup>0 :speech_balloon:</sup> 	 2020-01-14 01:58:05
 
 :label: : 
@@ -66,51 +111,6 @@ Card [&#32654;&#22242;&#24320;&#28304;Logan Web&#65306;&#21069;&#31471;&#26085;&
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/168)
-
----
-
-
-#### [一文讲透微服务架构下如何保证事务的一致性-InfoQ](https://github.com/jwenjian/ghiblog/issues/167) <sup>0 :speech_balloon:</sup> 	 2020-01-08 02:25:16
-
-:label: : 
-
-Card [&#19968;&#25991;&#35762;&#36879;&#24494;&#26381;&#21153;&#26550;&#26500;&#19979;&#22914;&#20309;&#20445;&#35777;&#20107;&#21153;&#30340;&#19968;&#33268;&#24615;-InfoQ](https://ift.tt/37M8jHa) added the to the **&#26550;&#26500;/&#20013;&#38388;&#20214;/&#25968;&#25454;&#24211;/MySQL** list in the **&#36935;&#35265;** board at `January 8, 2020 at 10:24AM`<br>
-&nbsp;<br>
-&gt; &#38543;&#30528;&#19994;&#21153;&#30340;&#24555;&#36895;&#21457;&#23637;&#12289;&#19994;&#21153;&#22797;&#26434;&#24230;&#36234;&#26469;&#36234;&#39640;&#65292;&#20256;&#32479;&#21333;&#20307;&#24212;&#29992;&#36880;&#28176;&#26292;&#38706;&#20986;&#20102;&#19968;&#20123;&#38382;&#39064;&#65292;&#20363;&#22914;&#24320;&#21457;&#25928;&#29575;&#20302;&#12289;&#21487;&#32500;&#25252;&#24615;&#24046;&#12289;&#26550;&#26500;&#25193;&#23637;&#24615;&#24046;&#12289;&#37096;&#32626;&#19981;&#28789;&#27963;&#12289;&#20581;&#22766;&#24615;&#24046;&#31561;&#31561;&#12290;&#32780;&#24494;&#26381;&#21153;&#26550;&#26500;&#26159;&#23558;&#21333;&#20010;&#26381;&#21153;&#25286;&#20998;&#25104;&#19968;&#31995;&#21015;&#23567;&#26381;&#21153;&#65292;&#19988;&#36825;&#20123;&#23567;&#26381;&#21153;&#37117;&#25317;&#26377;&#29420;&#31435;&#30340;&#36827;&#31243;&#65292;&#24444;&#27492;&#29420;&#31435;&#65292;&#24456;&#22909;&#22320;&#35299;&#20915;&#20102;&#20256;&#32479;&#21333;&#20307;&#24212;&#29992;&#30340;&#19978;&#36848;&#38382;&#39064;&#65292;&#20294;&#26159;&#22312;&#24494;&#26381;&#21153;&#26550;&#26500;&#19979;&#22914;&#20309;&#20445;&#35777;&#20107;&#21153;&#30340;&#19968;&#33268;&#24615;&#21602;&#65311;&#26412;&#25991;&#20316;&#32773;&#23558;&#20026;&#22823;&#23478;&#35814;&#32454;&#35299;&#31572;&#12290;<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/167)
-
----
-
-
-#### [TexturePacker - Create Sprite Sheets for your game!](https://github.com/jwenjian/ghiblog/issues/166) <sup>0 :speech_balloon:</sup> 	 2020-01-07 09:25:10
-
-:label: : 
-
-Card [TexturePacker - Create Sprite Sheets for your game!](https://ift.tt/2uqiZNc) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `January 7, 2020 at 05:22PM`<br>
-&nbsp;<br>
-&gt; TexturePacker creates sprite sheets for your game engine<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/166)
-
----
-
-
-#### [JEP 358: Helpful NullPointerExceptions](https://github.com/jwenjian/ghiblog/issues/165) <sup>0 :speech_balloon:</sup> 	 2020-01-07 07:55:17
-
-:label: : 
-
-Card [JEP 358: Helpful NullPointerExceptions](https://ift.tt/301DhZc) added the to the **Java/Maven/Spring(boot)/Mybatis** list in the **&#36935;&#35265;** board at `January 7, 2020 at 03:35PM`<br>
-&nbsp;<br>
-&gt; JDK14&#30340;&#26032;&#29305;&#24615;, JVM&#20250;&#25552;&#20379;&#26356;&#26377;&#29992;&#30340;&#31354;&#25351;&#38024;&#24322;&#24120;&#20449;&#24687;, &#21363;, &#20250;&#25351;&#20986;&#26159;&#21738;&#20010;&#23545;&#35937;&#30340;&#21738;&#20010;&#21464;&#37327;&#20026;null&#25165;&#23548;&#33268;&#20102;&#31354;&#25351;&#38024;&#24322;&#24120;. The JVM throws a NullPointerException (NPE) at the point in a program where code tries to dereference a null reference. By analyzing the program's bytecode instructions, the JVM will determine precisely which variable was null, and describe the variable (in terms of source code) with a null-detail message in the NPE. The null-detail message will then be shown in the JVM's message, alongside the method, filename, and line number. Note: The JVM displays an exception message on the same line as the exception type, which can result in long lines. For readability in a web browser, this JEP shows the null-detail message on a second line, after the exception type. For example, an NPE from the assignment statement a.i = 99; would generate this message: Exception in thread "main" java.lang.NullPointerException: Cannot assign field "i" because "a" is null at Prog.main(Prog.java:5) If the more complex statement a.b.c.i = 99; throws an NPE, the message would dissect the statement and pinpoint the cause by showing the full access path which led up to the null: Exception in thread "main" java.lang.NullPointerException: Cannot read field "c" because "a.b" is null at Prog.main(Prog.java:5)<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/165)
 
 ---
 
