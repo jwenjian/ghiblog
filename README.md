@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-01-14 02:29:05"/>
+    <img src="https://badgen.net/badge/last-commit/2020-01-14 06:28:52"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -39,6 +39,21 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [How to Install Python 3 on CentOS 7 | Linuxize](https://github.com/jwenjian/ghiblog/issues/173) <sup>0 :speech_balloon:</sup> 	 2020-01-14 06:28:12
+
+:label: : 
+
+Card [How to Install Python 3 on CentOS 7 | Linuxize](https://ift.tt/2QOPY6C) added the to the **Linux** list in the **&#36935;&#35265;** board at `January 14, 2020 at 02:25PM`<br>
+&nbsp;<br>
+&gt; This tutorial will guide you through installing Python 3 on a CentOS 7 system using the Software Collections (SCL) along side the distribution default Python version 2.7. We will also show you how to create a Python virtual environment.<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/173)
+
+---
+
 
 #### [华为开源镜像站_软件开发服务_华为云](https://github.com/jwenjian/ghiblog/issues/172) <sup>0 :speech_balloon:</sup> 	 2020-01-14 02:28:25
 
@@ -96,21 +111,6 @@ Card [&#24180;&#20250; &#20013;&#22823;&#22870;&#129351;&#127873;](https://ift.t
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/169)
-
----
-
-
-#### [美团开源Logan Web前端日志在Web端的实现-InfoQ](https://github.com/jwenjian/ghiblog/issues/168) <sup>0 :speech_balloon:</sup> 	 2020-01-13 03:58:07
-
-:label: : 
-
-Card [&#32654;&#22242;&#24320;&#28304;Logan Web&#65306;&#21069;&#31471;&#26085;&#24535;&#22312;Web&#31471;&#30340;&#23454;&#29616;-InfoQ](https://ift.tt/2R9smIN) added the to the **&#21069;&#31471;/HTML/JS/CSS/vuejs** list in the **&#36935;&#35265;** board at `January 13, 2020 at 11:46AM`<br>
-&nbsp;<br>
-&gt; Logan &#26159;&#32654;&#22242;&#28857;&#35780;&#25512;&#20986;&#30340;&#22823;&#21069;&#31471;&#26085;&#24535;&#31995;&#32479;&#65292;&#25903;&#25345;&#22810;&#31471;&#29615;&#22659;&#36816;&#34892;&#65292;&#21487;&#20026;&#23458;&#25143;&#31471;&#12289;Web&#12289;&#23567;&#31243;&#24207;&#31561;&#29992;&#25143;&#31471;&#29615;&#22659;&#25552;&#20379;&#21069;&#31471;&#26085;&#24535;&#30340;&#23384;&#20648;&#12289;&#25910;&#38598;&#12289;&#19978;&#25253;&#21450;&#20998;&#26512;&#33021;&#21147;&#65292;&#33021;&#22815;&#24110;&#21161;&#24320;&#21457;&#20154;&#21592;&#24555;&#36895;&#23450;&#20301;&#24182;&#35299;&#20915;&#31471;&#19978;&#38382;&#39064;&#65292;&#20415;&#20110;&#21450;&#26102;&#21709;&#24212;&#29992;&#25143;&#21453;&#39304;&#19982;&#25490;&#38500;&#24322;&#24120;&#12290;<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/168)
 
 ---
 
