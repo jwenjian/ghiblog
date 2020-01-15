@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-01-15 06:04:09"/>
+    <img src="https://badgen.net/badge/last-commit/2020-01-15 06:07:19"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -22,16 +22,16 @@
 
 
 <p align='center'>
-<a href='https://github.com/jwenjian/ghiblog/issues/116#issuecomment-559906422'>
-<img src='https://user-images.githubusercontent.com/25657798/69894618-11382580-135d-11ea-9b60-583d26d6eed8.png' width='50%' alt='
-2019，北京初雪
-'>
+<a href='https://github.com/jwenjian/ghiblog/issues/116#issuecomment-574510919'>
+<img src='https://user-images.githubusercontent.com/25657798/72409229-154ec400-37a0-11ea-9ebd-2fe652355eaf.jpeg' width='50%' alt='
+
+2020公司年会，中了一等奖!  :tada: :tada: :tada:'>
 </a>
 </p>
 <p align='center'>
 <span>
-2019，北京初雪
-</span>
+
+2020公司年会，中了一等奖!  :tada: :tada: :tada:</span>
 </p>
 
     
@@ -284,7 +284,7 @@ Card [Huawei's Linux Distribution openEuler is Available Now!](https://ift.tt/2F
 <details>
 <summary>:framed_picture:封面	<sup>1:newspaper:</sup></summary>
 
-- [封面](https://github.com/jwenjian/ghiblog/issues/116)  <sup>8 :speech_balloon:</sup>  	 
+- [封面](https://github.com/jwenjian/ghiblog/issues/116)  <sup>9 :speech_balloon:</sup>  	 
 
 
 </details>
