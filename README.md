@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-01-15 02:43:55"/>
+    <img src="https://badgen.net/badge/last-commit/2020-01-15 03:06:59"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -39,6 +39,21 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Redis 深度历险核心原理与应用实践 - 老錢 - 掘金小册](https://github.com/jwenjian/ghiblog/issues/176) <sup>0 :speech_balloon:</sup> 	 2020-01-15 03:06:02
+
+:label: : 
+
+Card [Redis &#28145;&#24230;&#21382;&#38505;&#65306;&#26680;&#24515;&#21407;&#29702;&#19982;&#24212;&#29992;&#23454;&#36341; - &#32769;&#37666; - &#25496;&#37329;&#23567;&#20876;](https://ift.tt/2QUJgfg) added the to the **&#26550;&#26500;/&#20013;&#38388;&#20214;/&#25968;&#25454;&#24211;/MySQL** list in the **&#36935;&#35265;** board at `January 15, 2020 at 09:57AM`<br>
+&nbsp;<br>
+&gt; Redis 2.8 &#29256;&#26412;&#20013;&#20316;&#32773;&#21152;&#20837;&#20102; set &#25351;&#20196;&#30340;&#25193;&#23637;&#21442;&#25968;&#65292;&#20351;&#24471; setnx &#21644; expire &#25351;&#20196;&#21487;&#20197;&#19968;&#36215;&#25191;&#34892;&#65292;&#24443;&#24213;&#35299;&#20915;&#20102;&#20998;&#24067;&#24335;&#38145;&#30340;&#20081;&#35937;&#12290;&#20174;&#27492;&#20197;&#21518;&#25152;&#26377;&#30340;&#31532;&#19977;&#26041;&#20998;&#24067;&#24335;&#38145; library &#21487;&#20197;&#20241;&#24687;&#20102;&#12290; &gt; set lock:codehole true ex 5 nx OK ... do something critical ... &gt; del lock:codehole &#19978;&#38754;&#36825;&#20010;&#25351;&#20196;&#23601;&#26159; setnx &#21644; expire &#32452;&#21512;&#22312;&#19968;&#36215;&#30340;&#21407;&#23376;&#25351;&#20196;&#65292;&#23427;&#23601;&#26159;&#20998;&#24067;&#24335;&#38145;&#30340;&#22885;&#20041;&#25152;&#22312;&#12290;<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/176)
+
+---
+
 
 #### [Redis 深度历险核心原理与应用实践 - 老錢 - 掘金小册](https://github.com/jwenjian/ghiblog/issues/175) <sup>0 :speech_balloon:</sup> 	 2020-01-15 02:43:04
 
@@ -96,21 +111,6 @@ Card [&#21326;&#20026;&#24320;&#28304;&#38236;&#20687;&#31449;_&#36719;&#20214;&
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/172)
-
----
-
-
-#### [Huawei's Linux Distribution openEuler is Available Now!](https://github.com/jwenjian/ghiblog/issues/171) <sup>0 :speech_balloon:</sup> 	 2020-01-14 02:28:24
-
-:label: : 
-
-Card [Huawei's Linux Distribution openEuler is Available Now!](https://ift.tt/2FOMWZO) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `January 14, 2020 at 10:10AM`<br>
-&nbsp;<br>
-&gt; My teammate Abhishek tried to use openEuler but the ISO provided on their website is not suitable for making a bootable USB. This is the error it shows: openEuler Linux ISO The openEuler ISO doesn&rsquo;t work properly An incomplete website, broken ISO. It seems Huawei was in too much of a hurry and didn&rsquo;t prepare things very well.<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/171)
 
 ---
 
