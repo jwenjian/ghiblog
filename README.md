@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-01-14 06:58:55"/>
+    <img src="https://badgen.net/badge/last-commit/2020-01-15 02:43:55"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -39,6 +39,21 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Redis 深度历险核心原理与应用实践 - 老錢 - 掘金小册](https://github.com/jwenjian/ghiblog/issues/175) <sup>0 :speech_balloon:</sup> 	 2020-01-15 02:43:04
+
+:label: : 
+
+Card [Redis &#28145;&#24230;&#21382;&#38505;&#65306;&#26680;&#24515;&#21407;&#29702;&#19982;&#24212;&#29992;&#23454;&#36341; - &#32769;&#37666; - &#25496;&#37329;&#23567;&#20876;](https://ift.tt/2QUJgfg) added the to the **&#26550;&#26500;/&#20013;&#38388;&#20214;/&#25968;&#25454;&#24211;/MySQL** list in the **&#36935;&#35265;** board at `January 15, 2020 at 09:57AM`<br>
+&nbsp;<br>
+&gt; Redis 2.8 &#29256;&#26412;&#20013;&#20316;&#32773;&#21152;&#20837;&#20102; set &#25351;&#20196;&#30340;&#25193;&#23637;&#21442;&#25968;&#65292;&#20351;&#24471; setnx &#21644; expire &#25351;&#20196;&#21487;&#20197;&#19968;&#36215;&#25191;&#34892;&#65292;&#24443;&#24213;&#35299;&#20915;&#20102;&#20998;&#24067;&#24335;&#38145;&#30340;&#20081;&#35937;&#12290;&#20174;&#27492;&#20197;&#21518;&#25152;&#26377;&#30340;&#31532;&#19977;&#26041;&#20998;&#24067;&#24335;&#38145; library &#21487;&#20197;&#20241;&#24687;&#20102;&#12290; &gt; set lock:codehole true ex 5 nx OK ... do something critical ... &gt; del lock:codehole &#19978;&#38754;&#36825;&#20010;&#25351;&#20196;&#23601;&#26159; setnx &#21644; expire &#32452;&#21512;&#22312;&#19968;&#36215;&#30340;&#21407;&#23376;&#25351;&#20196;&#65292;&#23427;&#23601;&#26159;&#20998;&#24067;&#24335;&#38145;&#30340;&#22885;&#20041;&#25152;&#22312;&#12290;<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/175)
+
+---
+
 
 #### [Linux Tips Tricks and Tutorials | Linuxize](https://github.com/jwenjian/ghiblog/issues/174) <sup>0 :speech_balloon:</sup> 	 2020-01-14 06:58:12
 
@@ -96,21 +111,6 @@ Card [Huawei's Linux Distribution openEuler is Available Now!](https://ift.tt/2F
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/171)
-
----
-
-
-#### [最近爆红的NFT究竟是什么-InfoQ](https://github.com/jwenjian/ghiblog/issues/170) <sup>0 :speech_balloon:</sup> 	 2020-01-14 02:28:23
-
-:label: : 
-
-Card [&#26368;&#36817;&#29190;&#32418;&#30340;NFT&#31350;&#31455;&#26159;&#20160;&#20040;&#65311;-InfoQ](https://ift.tt/3880uf3) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `January 14, 2020 at 10:00AM`<br>
-&nbsp;<br>
-&gt; &#20174; 2017 &#24180;&#26411;&#36855;&#24651;&#29483; (cryptokitties) &#30340;&#29190;&#32418;&#33267;&#20170;&#24050;&#36807;&#21435;&#20102;&#25509;&#36817; 2 &#24180;&#65292;&#23427;&#24102;&#26469;&#20102; ERC721 &#21327;&#35758;&#65292;&#20063;&#35753;&#20154;&#20204;&#35265;&#35782;&#21040;&#20102; NFT &#30340;&#39764;&#21147;&#12290;&#26412;&#25991;&#23558;&#20250;&#23545; NFT &#30340;&#20215;&#20540;&#28857;&#12289;&#24212;&#29992;&#22330;&#26223;&#21644;&#25216;&#26415;&#38754;&#36827;&#34892;&#20840;&#26041;&#20301;&#35299;&#35835;&#65292;&#24182;&#23545;&#20027;&#27969;&#30340; NFT &#36164;&#20135;&#26631;&#20934;&#36827;&#34892;&#23545;&#27604;&#20998;&#26512;&#12290;<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/170)
 
 ---
 
