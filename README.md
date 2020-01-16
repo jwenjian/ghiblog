@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-01-15 06:07:19"/>
+    <img src="https://badgen.net/badge/last-commit/2020-01-16 02:43:52"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -39,6 +39,21 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [澳本聪要拿关键证据自证中本聪BSV一夜成为全球第四大加密货币-InfoQ](https://github.com/jwenjian/ghiblog/issues/177) <sup>0 :speech_balloon:</sup> 	 2020-01-16 02:43:04
+
+:label: : 
+
+Card [&#28595;&#26412;&#32874;&#35201;&#25343;&#20851;&#38190;&#35777;&#25454;&#33258;&#35777;&#20013;&#26412;&#32874;&#65281;BSV&#19968;&#22812;&#25104;&#20026;&#20840;&#29699;&#31532;&#22235;&#22823;&#21152;&#23494;&#36135;&#24065;-InfoQ](https://ift.tt/2Tz5rcu) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `January 16, 2020 at 10:07AM`<br>
+&nbsp;<br>
+&gt; &#20851;&#20110;&#28595;&#26412;&#32874;&#26377;&#36825;&#26679;&#19968;&#21477;&#35805;&#65292;&#24403;&#28595;&#26412;&#32874;&#19968;&#27425;&#27425;&#35797;&#22270;&#36890;&#36807;&#21508;&#31181;&#25163;&#27573;&#35777;&#26126;&#33258;&#24049;&#26159;&#20013;&#26412;&#32874;&#30340;&#26102;&#20505;&#65292;&#22823;&#23478;&#30340;&#21453;&#24212;&#26159;&#65306;&ldquo;&#21734;&#65311;&#23601;&#20250;&#30606;&#21561;&#65292;&#26377;&#26412;&#20107;&#26194;&#31169;&#38053;&#21834;&#12290;&rdquo;&#24403;&#28595;&#26412;&#32874;&#19968;&#35328;&#19981;&#21457;&#25289;&#30424;&#30340;&#26102;&#20505;&#65292;&#22823;&#23478;&#30340;&#21453;&#24212;&#26159;&#65306;&ldquo;&#28595;&#26412;&#32874;&#26524;&#28982;&#26159;&#20013;&#26412;&#32874;&#65281;&rdquo;&#20170;&#26085;&#20940;&#26216; BSV &#24378;&#21183;&#25289;&#21319;&#65292;&#28072;&#24133;&#36229;&#36807; 150%&#65292;&#26368;&#39640;&#35302;&#21450; 455.55 &#32654;&#20803;&#65292;&#24066;&#20540;&#20063;&#25104;&#21151;&#36229;&#36807;&#27604;&#29305;&#22823;&#38470;&#25903;&#25345;&#30340; BCH&#65292;&#25104;&#20026;&#20840;&#29699;&#31532;&#22235;&#22823;&#21152;&#23494;&#36135;&#24065;&#12290;<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/177)
+
+---
+
 
 #### [Redis 深度历险核心原理与应用实践 - 老錢 - 掘金小册](https://github.com/jwenjian/ghiblog/issues/176) <sup>0 :speech_balloon:</sup> 	 2020-01-15 03:06:02
 
@@ -96,21 +111,6 @@ Card [&#21326;&#20026;&#24320;&#28304;&#38236;&#20687;&#31449;_&#36719;&#20214;&
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/172)
-
----
-
-
-#### [Huawei's Linux Distribution openEuler is Available Now!](https://github.com/jwenjian/ghiblog/issues/171) <sup>0 :speech_balloon:</sup> 	 2020-01-14 02:28:24
-
-:label: : 
-
-Card [Huawei's Linux Distribution openEuler is Available Now!](https://ift.tt/2FOMWZO) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `January 14, 2020 at 10:10AM`<br>
-&nbsp;<br>
-&gt; My teammate Abhishek tried to use openEuler but the ISO provided on their website is not suitable for making a bootable USB. This is the error it shows: openEuler Linux ISO The openEuler ISO doesn&rsquo;t work properly An incomplete website, broken ISO. It seems Huawei was in too much of a hurry and didn&rsquo;t prepare things very well.<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/171)
 
 ---
 
