@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-01-16 02:43:52"/>
+    <img src="https://badgen.net/badge/last-commit/2020-01-16 06:33:53"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -39,6 +39,21 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [PDU 编码规则](https://github.com/jwenjian/ghiblog/issues/178) <sup>0 :speech_balloon:</sup> 	 2020-01-16 06:33:06
+
+:label: : 
+
+Card [PDU &#32534;&#30721;&#35268;&#21017;](https://ift.tt/2Nw5Gl7) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `January 16, 2020 at 02:05PM`<br>
+&nbsp;<br>
+&gt; PDU &#20869;&#23481;&#24635;&#38271;&#24230; 140 &#20010;&#23383;&#33410; (1120&#20301;)&#65292;&#25903;&#25345;&#37319;&#29992;&#19977;&#31181;&#32534;&#30721;&#26041;&#24335;&#65306;7-bit&#12289;8-bit &#21644; UCS2 &#32534;&#30721;&#12290; 7-bit &#32534;&#30721;&mdash;&mdash;&#29992;&#20110;&#21457;&#36865;&#26222;&#36890;&#30340; ASCII &#23383;&#31526;&#65292;ASCII&#30721;&#34920;&#26368;&#22823;&#21040;0x7X&#65292;&#26368;&#39640;&#20301;&#20026;0&#65292;&#24635; 7-bit&#65292;&#23454;&#38469;&#32534;&#30721;&#26102;&#21017;&#21487;&#25226;8-bit&#30340;&#26368;&#39640;&#20301;&#27604;&#29305;&#20351;&#29992;&#36215;&#26469;&#65292;&#25152;&#20197;&#21487;&#25903;&#25345;1120/7=160&#20010;&#23383;&#31526;&#65307;<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/178)
+
+---
+
 
 #### [澳本聪要拿关键证据自证中本聪BSV一夜成为全球第四大加密货币-InfoQ](https://github.com/jwenjian/ghiblog/issues/177) <sup>0 :speech_balloon:</sup> 	 2020-01-16 02:43:04
 
@@ -96,21 +111,6 @@ Card [How to Install Python 3 on CentOS 7 | Linuxize](https://ift.tt/2QOPY6C) ad
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/173)
-
----
-
-
-#### [华为开源镜像站_软件开发服务_华为云](https://github.com/jwenjian/ghiblog/issues/172) <sup>0 :speech_balloon:</sup> 	 2020-01-14 02:28:25
-
-:label: : 
-
-Card [&#21326;&#20026;&#24320;&#28304;&#38236;&#20687;&#31449;_&#36719;&#20214;&#24320;&#21457;&#26381;&#21153;_&#21326;&#20026;&#20113;](https://ift.tt/2Tkx4Gn) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `January 14, 2020 at 10:21AM`<br>
-&nbsp;<br>
-&gt; &#21326;&#20026;&#20113;DevCloud&#22242;&#38431;&#25552;&#20379;&#30340;&#20840;&#31867;&#22411;&#38236;&#20687;&#31449;&#26381;&#21153;&#65292;&#25552;&#20379;&#20027;&#27969;&#24320;&#21457;&#35821;&#35328;&#32452;&#20214;&#12289;&#25805;&#20316;&#31995;&#32479;&#12289;&#24120;&#29992;&#24037;&#20855;&#21644;&#24211;&#31561;&#38236;&#20687;&#65292;&#26497;&#36895;&#19979;&#36733;&#65292;&#20840;&#31449;CDN&#65292;&#23448;&#26041;&#21512;&#20316;&#12290;<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/172)
 
 ---
 
