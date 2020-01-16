@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-01-16 06:33:53"/>
+    <img src="https://badgen.net/badge/last-commit/2020-01-16 09:45:04"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -39,6 +39,36 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [asciinema - Record and share your terminal sessions the right way](https://github.com/jwenjian/ghiblog/issues/180) <sup>0 :speech_balloon:</sup> 	 2020-01-16 09:44:22
+
+:label: : 
+
+Card [asciinema - Record and share your terminal sessions, the right way](https://ift.tt/2RpcOAy) added the to the **Linux** list in the **&#36935;&#35265;** board at `January 16, 2020 at 05:08PM`<br>
+&nbsp;<br>
+&gt; Forget screen recording apps and blurry video. Enjoy a lightweight, purely text-based approach to terminal recording.<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/180)
+
+---
+
+
+#### [漫画什么是字符串匹配算法](https://github.com/jwenjian/ghiblog/issues/179) <sup>0 :speech_balloon:</sup> 	 2020-01-16 08:08:16
+
+:label: : 
+
+Card [&#28459;&#30011;&#65306;&#20160;&#20040;&#26159;&#23383;&#31526;&#20018;&#21305;&#37197;&#31639;&#27861;&#65311;](https://ift.tt/2RoH6n1) added the to the **Java/Maven/Spring(boot)/Mybatis** list in the **&#36935;&#35265;** board at `January 16, 2020 at 04:03PM`<br>
+&nbsp;<br>
+&gt;<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/179)
+
+---
+
 
 #### [PDU 编码规则](https://github.com/jwenjian/ghiblog/issues/178) <sup>0 :speech_balloon:</sup> 	 2020-01-16 06:33:06
 
@@ -81,36 +111,6 @@ Card [Redis &#28145;&#24230;&#21382;&#38505;&#65306;&#26680;&#24515;&#21407;&#29
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/176)
-
----
-
-
-#### [Linux Tips Tricks and Tutorials | Linuxize](https://github.com/jwenjian/ghiblog/issues/174) <sup>0 :speech_balloon:</sup> 	 2020-01-14 06:58:12
-
-:label: : 
-
-Card [Linux Tips, Tricks and Tutorials | Linuxize](https://ift.tt/2TkcB4j) added the to the **Linux** list in the **&#36935;&#35265;** board at `January 14, 2020 at 02:43PM`<br>
-&nbsp;<br>
-&gt; Linuxize is a Linux Sysadmin and DevOps blog that publishes articles and tutorials about server operations, new techniques and Linux security.<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/174)
-
----
-
-
-#### [How to Install Python 3 on CentOS 7 | Linuxize](https://github.com/jwenjian/ghiblog/issues/173) <sup>0 :speech_balloon:</sup> 	 2020-01-14 06:28:12
-
-:label: : 
-
-Card [How to Install Python 3 on CentOS 7 | Linuxize](https://ift.tt/2QOPY6C) added the to the **Linux** list in the **&#36935;&#35265;** board at `January 14, 2020 at 02:25PM`<br>
-&nbsp;<br>
-&gt; This tutorial will guide you through installing Python 3 on a CentOS 7 system using the Software Collections (SCL) along side the distribution default Python version 2.7. We will also show you how to create a Python virtual environment.<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/173)
 
 ---
 
