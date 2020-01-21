@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-01-20 09:07:08"/>
+    <img src="https://badgen.net/badge/last-commit/2020-01-21 01:45:04"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -39,6 +39,36 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Nitter - a new reverse proxied twitter](https://github.com/jwenjian/ghiblog/issues/186) <sup>0 :speech_balloon:</sup> 	 2020-01-21 01:44:23
+
+:label: : 
+
+Card [Nitter - a new reverse proxied twitter](https://ift.tt/37eirIM) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `January 21, 2020 at 09:36AM`<br>
+&nbsp;<br>
+&gt;<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/186)
+
+---
+
+
+#### [The Order of CSS Classes in HTML Doesnt Matter | CSS-Tricks](https://github.com/jwenjian/ghiblog/issues/185) <sup>0 :speech_balloon:</sup> 	 2020-01-21 01:44:22
+
+:label: : 
+
+Card [The Order of CSS Classes in HTML Doesn&rsquo;t Matter | CSS-Tricks](https://ift.tt/30KOopB) added the to the **&#21069;&#31471;/HTML/JS/CSS/vuejs** list in the **&#36935;&#35265;** board at `January 21, 2020 at 09:28AM`<br>
+&nbsp;<br>
+&gt; But the text in the example above will always be blue no matter what order those CSS classes are in. And that&rsquo;s because the markup is just reading the CSS in the order that it&rsquo;s written &mdash; the cascade wins in this example. &gt; Because it&rsquo;s CASCADE Style Sheet. The cascade order is what matters.<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/185)
+
+---
+
 
 #### [GeohashExplorer](https://github.com/jwenjian/ghiblog/issues/184) <sup>0 :speech_balloon:</sup> 	 2020-01-20 09:06:05
 
@@ -81,36 +111,6 @@ Card [A free online course - Elements of AI](https://ift.tt/2svJXCj) added the t
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/182)
-
----
-
-
-#### [Happy Hues - Curated colors in context.](https://github.com/jwenjian/ghiblog/issues/181) <sup>0 :speech_balloon:</sup> 	 2020-01-17 03:41:06
-
-:label: : 
-
-Card [Happy Hues - Curated colors in context.](https://ift.tt/3aivdrx) added the to the **&#21069;&#31471;/HTML/JS/CSS/vuejs** list in the **&#36935;&#35265;** board at `January 17, 2020 at 11:27AM`<br>
-&nbsp;<br>
-&gt; See color palette inspiration on a real example website. As you click on different palettes every color on this site updates to give you context of how that color could be used for your design or illustration projects.<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/181)
-
----
-
-
-#### [asciinema - Record and share your terminal sessions the right way](https://github.com/jwenjian/ghiblog/issues/180) <sup>0 :speech_balloon:</sup> 	 2020-01-16 09:44:22
-
-:label: : 
-
-Card [asciinema - Record and share your terminal sessions, the right way](https://ift.tt/2RpcOAy) added the to the **Linux** list in the **&#36935;&#35265;** board at `January 16, 2020 at 05:08PM`<br>
-&nbsp;<br>
-&gt; Forget screen recording apps and blurry video. Enjoy a lightweight, purely text-based approach to terminal recording.<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/180)
 
 ---
 
