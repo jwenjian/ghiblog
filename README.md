@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-01-21 01:45:04"/>
+    <img src="https://badgen.net/badge/last-commit/2020-02-11 03:28:35"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -39,6 +39,21 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [阿里云maven镜像站](https://github.com/jwenjian/ghiblog/issues/187) <sup>0 :speech_balloon:</sup> 	 2020-02-11 03:27:51
+
+:label: : 
+
+Card [&#38463;&#37324;&#20113;maven&#38236;&#20687;&#31449;](https://ift.tt/2vnH87k) added the to the **Java/Maven/Spring(boot)/Mybatis** list in the **&#36935;&#35265;** board at `February 11, 2020 at 11:23AM`<br>
+&nbsp;<br>
+&gt; maven.aliyun.com&#20195;&#29702;&#20102;&#24456;&#22810;&#20844;&#20849;&#30340;maven&#20179;&#24211;&#12290;&#20351;&#29992;maven.aliyun.com&#20013;&#30340;&#20179;&#24211;&#22320;&#22336;&#20316;&#20026;&#19979;&#36733;&#28304;&#65292;&#36895;&#24230;&#26356;&#24555;&#26356;&#31283;&#23450;&#12290;<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/187)
+
+---
+
 
 #### [Nitter - a new reverse proxied twitter](https://github.com/jwenjian/ghiblog/issues/186) <sup>0 :speech_balloon:</sup> 	 2020-01-21 01:44:23
 
@@ -96,21 +111,6 @@ Card [&#19968;&#20010;&#36755;&#20837;&#26694;&#20320;&#35201;&#20570;&#19968;&#
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/183)
-
----
-
-
-#### [A free online course - Elements of AI](https://github.com/jwenjian/ghiblog/issues/182) <sup>0 :speech_balloon:</sup> 	 2020-01-17 03:41:07
-
-:label: : 
-
-Card [A free online course - Elements of AI](https://ift.tt/2svJXCj) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `January 17, 2020 at 11:30AM`<br>
-&nbsp;<br>
-&gt; &#33452;&#20848;&#25919;&#24220;&#21457;&#24067;&#20813;&#36153;&#35838;&#31243;&#12298;&#20154;&#24037;&#26234;&#33021;&#31616;&#20171;&#12299;&#65292;&#21521;&#27431;&#27954;&#30340;&#26222;&#36890;&#20844;&#27665;&#20171;&#32461;&#20154;&#24037;&#26234;&#33021;&#30693;&#35782;&#12290;&#20869;&#23481;&#28085;&#30422;&#20102;&#20174;AI&#30340;&#21746;&#23398;&#21547;&#20041;&#21040;&#35832;&#22914;&#36125;&#21494;&#26031;&#27010;&#29575;&#20043;&#31867;&#30340;&#25216;&#26415;&#20027;&#39064;&#65292;&#22823;&#27010;&#38656;&#35201;&#20845;&#21608;&#30340;&#26102;&#38388;&#25165;&#33021;&#23436;&#25104;&#65292;&#27599;&#20010;&#37096;&#20998;&#38656;&#35201;5&#21040;10&#20010;&#23567;&#26102;&#12290;<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/182)
 
 ---
 
