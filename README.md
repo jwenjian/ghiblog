@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-03-05 11:08:06"/>
+    <img src="https://badgen.net/badge/last-commit/2020-03-06 03:36:04"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -39,6 +39,21 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [How to solve springboot CommandLineRunner run not called problem?](https://github.com/jwenjian/ghiblog/issues/204) <sup>0 :speech_balloon:</sup> 	 2020-03-06 03:35:23
+
+:label: : 
+
+Card [How to solve springboot CommandLineRunner run not called problem?](https://ift.tt/39tZ7Zd) added the to the **Java/Maven/Spring(boot)/Mybatis** list in the **&#36935;&#35265;** board at `March 6, 2020 at 11:11AM`<br>
+&nbsp;<br>
+&gt; 1. The purpose of this post When we use CommandLineRunner in springboot applications, we expect its run to be called when the app starts. But , sometimes the run is not called even if the code and the settings is both ok.<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/204)
+
+---
+
 
 #### [Open Peeps Hand-Drawn Illustration Library](https://github.com/jwenjian/ghiblog/issues/203) <sup>0 :speech_balloon:</sup> 	 2020-03-05 11:07:25
 
@@ -96,21 +111,6 @@ Card [Remove Video Background &ndash; Unscreen](https://ift.tt/2TpSzW0) added th
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/200)
-
----
-
-
-#### [能看视频的图片浏览器 替代windows默认看图软件](https://github.com/jwenjian/ghiblog/issues/199) <sup>0 :speech_balloon:</sup> 	 2020-02-29 10:51:04
-
-:label: : 
-
-Card [&#33021;&#30475;&#35270;&#39057;&#30340;&#22270;&#29255;&#27983;&#35272;&#22120; &#26367;&#20195;windows&#40664;&#35748;&#30475;&#22270;&#36719;&#20214;](https://ift.tt/3aerY3x) added the to the **&#35745;&#31639;&#26426;/HTTP&#21327;&#35758;/windows** list in the **&#36935;&#35265;** board at `February 29, 2020 at 06:11PM`<br>
-&nbsp;<br>
-&gt;<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/199)
 
 ---
 
