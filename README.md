@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-03-06 03:36:04"/>
+    <img src="https://badgen.net/badge/last-commit/2020-03-06 11:54:14"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -39,6 +39,28 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [SpringBoot为什么我的 CommandLineRunner 不 run ?](https://github.com/jwenjian/ghiblog/issues/206) <sup>0 :speech_balloon:</sup> 	 2020-03-06 11:53:57
+
+:label: : 
+
+Card [&#12304;SpringBoot&#12305;&#20026;&#20160;&#20040;&#25105;&#30340; CommandLineRunner &#19981; run ?](https://ift.tt/2Ts5RRx) added the to the **
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/206)
+
+---
+
+
+#### [SpringBoot为什么我的 CommandLineRunner 不 run ?](https://github.com/jwenjian/ghiblog/issues/205) <sup>0 :speech_balloon:</sup> 	 2020-03-06 11:53:34
+
+:label: : 
+
+Card [&#12304;SpringBoot&#12305;&#20026;&#20160;&#20040;&#25105;&#30340; CommandLineRunner &#19981; run ?](https://ift.tt/2Ts5RRx) added the to the **
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/205)
+
+---
+
 
 #### [How to solve springboot CommandLineRunner run not called problem?](https://github.com/jwenjian/ghiblog/issues/204) <sup>0 :speech_balloon:</sup> 	 2020-03-06 03:35:23
 
@@ -81,36 +103,6 @@ Card [Hex Palette](https://ift.tt/3asb2GN) added the to the **&#32593;&#32476;&#
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/202)
-
----
-
-
-#### [Hex Palette](https://github.com/jwenjian/ghiblog/issues/201) <sup>0 :speech_balloon:</sup> 	 2020-03-05 10:07:22
-
-:label: : 
-
-Card [Hex Palette](https://ift.tt/3asb2GN) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `March 5, 2020 at 05:52PM`<br>
-&nbsp;<br>
-&gt; Hex Palette is to discover new color palettes<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/201)
-
----
-
-
-#### [Remove Video Background  Unscreen](https://github.com/jwenjian/ghiblog/issues/200) <sup>0 :speech_balloon:</sup> 	 2020-03-05 10:07:21
-
-:label: : 
-
-Card [Remove Video Background &ndash; Unscreen](https://ift.tt/2TpSzW0) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `March 5, 2020 at 05:47PM`<br>
-&nbsp;<br>
-&gt; Remove the background of any video / GIF - 100% automatically, online &amp; free! Goodbye Greenscreen. Hello Unscreen.<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/200)
 
 ---
 
