@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-03-06 11:56:38"/>
+    <img src="https://badgen.net/badge/last-commit/2020-03-08 13:02:34"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -39,6 +39,21 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Java 14将于3月17号发布新特性一览 - InfoQ](https://github.com/jwenjian/ghiblog/issues/207) <sup>0 :speech_balloon:</sup> 	 2020-03-08 13:01:47
+
+:label: : 
+
+Card [Java 14&#23558;&#20110;3&#26376;17&#21495;&#21457;&#24067;&#65292;&#26032;&#29305;&#24615;&#19968;&#35272; - InfoQ](https://ift.tt/2Itcddf) added the to the **Java/Maven/Spring(boot)/Mybatis** list in the **&#36935;&#35265;** board at `March 8, 2020 at 08:52PM`<br>
+&nbsp;<br>
+&gt; Java &#26032;&#29305;&#24615;&#65306; &#25913;&#36827;&#30340; switch &#34920;&#36798;&#24335;&#12290;&#36825;&#19968;&#29305;&#24615;&#24050;&#32463;&#20316;&#20026;&#39044;&#35272;&#29256;&#20986;&#29616;&#22312; Java 12 &#21644; Java 13 &#20013;&#65292;&#32780; Java 14 &#23558;&#24102;&#26469;&#23427;&#30340;&#23436;&#25972;&#27491;&#24335;&#29256;&#12290; instanceof &#30340;&#27169;&#24335;&#21305;&#37197;&#65288;&#36825;&#26159;&#20010;&#19968;&#35821;&#35328;&#29305;&#24615;&#65289;&#12290; &#38750;&#24120;&#26377;&#29992;&#30340; NullPointerException &#20449;&#24687;&#65288;&#36825;&#26159;&#19968;&#20010; JVM &#29305;&#24615;&#65289;&#12290;<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/207)
+
+---
+
 
 #### [SpringBoot为什么我的 CommandLineRunner 不 run ?](https://github.com/jwenjian/ghiblog/issues/206) <sup>0 :speech_balloon:</sup> 	 2020-03-06 11:53:57
 
@@ -96,21 +111,6 @@ Card [Hex Palette](https://ift.tt/3asb2GN) added the to the **&#32593;&#32476;&#
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/202)
-
----
-
-
-#### [Remove Video Background  Unscreen](https://github.com/jwenjian/ghiblog/issues/200) <sup>0 :speech_balloon:</sup> 	 2020-03-05 10:07:21
-
-:label: : 
-
-Card [Remove Video Background &ndash; Unscreen](https://ift.tt/2TpSzW0) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `March 5, 2020 at 05:47PM`<br>
-&nbsp;<br>
-&gt; Remove the background of any video / GIF - 100% automatically, online &amp; free! Goodbye Greenscreen. Hello Unscreen.<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/200)
 
 ---
 
