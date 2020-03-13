@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-03-13 03:38:49"/>
+    <img src="https://badgen.net/badge/last-commit/2020-03-13 04:38:48"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -39,6 +39,21 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [咋摆Pose? - V2方圆](https://github.com/jwenjian/ghiblog/issues/210) <sup>0 :speech_balloon:</sup> 	 2020-03-13 04:38:14
+
+:label: : 
+
+Card [&#21643;&#25670;Pose? - V2&#26041;&#22278;](https://ift.tt/2WbtpMm) added the to the **&#29983;&#27963;/&#38405;&#35835;/&#25919;&#27835;** list in the **&#36935;&#35265;** board at `March 13, 2020 at 11:51AM`<br>
+&nbsp;<br>
+&gt;<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/210)
+
+---
+
 
 #### [未知攻焉知防XXE漏洞攻防 - 博客 - 腾讯安全应急响应中心](https://github.com/jwenjian/ghiblog/issues/209) <sup>0 :speech_balloon:</sup> 	 2020-03-13 03:38:08
 
@@ -96,21 +111,6 @@ Card [&#12304;SpringBoot&#12305;&#20026;&#20160;&#20040;&#25105;&#30340; Command
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/206)
-
----
-
-
-#### [How to solve springboot CommandLineRunner run not called problem?](https://github.com/jwenjian/ghiblog/issues/204) <sup>0 :speech_balloon:</sup> 	 2020-03-06 03:35:23
-
-:label: : 
-
-Card [How to solve springboot CommandLineRunner run not called problem?](https://ift.tt/39tZ7Zd) added the to the **Java/Maven/Spring(boot)/Mybatis** list in the **&#36935;&#35265;** board at `March 6, 2020 at 11:11AM`<br>
-&nbsp;<br>
-&gt; 1. The purpose of this post When we use CommandLineRunner in springboot applications, we expect its run to be called when the app starts. But , sometimes the run is not called even if the code and the settings is both ok.<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/204)
 
 ---
 
