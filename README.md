@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-04-10 05:40:46"/>
+    <img src="https://badgen.net/badge/last-commit/2020-04-11 08:17:27"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -12,10 +12,7 @@
 
 <p align='center'>
     <a href="https://github.com/jwenjian/visitor-count-badge">
-        <img src="https://visitor-count-badge.herokuapp.com/total.svg?repo_id=jwenjian.ghiblog"/>
-    </a>
-    <a href="https://github.com/jwenjian/visitor-count-badge">
-        <img src="https://visitor-count-badge.herokuapp.com/today.svg?repo_id=jwenjian.ghiblog"/>
+        <img src="https://visitor-badge.glitch.me/badge?page_id=jwenjian.ghiblog"/>
     </a>
 </p>
 
@@ -42,7 +39,7 @@
 
 #### [4 CSS Grid Properties (and One Value) for Most of Your Layout Needs | CSS-Tricks](https://github.com/jwenjian/ghiblog/issues/219) <sup>0 :speech_balloon:</sup> 	 2020-04-05 11:37:20
 
-:label: : 
+:label: : [:art:前端](https://github.com/jwenjian/ghiblog/labels/%3Aart%3A%E5%89%8D%E7%AB%AF)
 
 Card [4 CSS Grid Properties (and One Value) for Most of Your Layout Needs | CSS-Tricks](https://ift.tt/2JEaiDd) added the to the **&#21069;&#31471;/HTML/JS/CSS/vuejs** list in the **&#36935;&#35265;** board at `April 5, 2020 at 06:09PM`<br>
 &nbsp;<br>
@@ -134,8 +131,9 @@ Card [Indicating Scroll Position on a Page With CSS | CSS-Tricks](https://ift.tt
 </details>
 
 <details>
-<summary>:art:前端	<sup>16:newspaper:</sup></summary>
+<summary>:art:前端	<sup>17:newspaper:</sup></summary>
 
+- [4 CSS Grid Properties (and One Value) for Most of Your Layout Needs | CSS-Tricks](https://github.com/jwenjian/ghiblog/issues/219)  <sup>0 :speech_balloon:</sup>  	 
 - [CSS滤镜(filter)使用场景](https://github.com/jwenjian/ghiblog/issues/153)  <sup>0 :speech_balloon:</sup>  	 
 - [15个必知的Vue指令](https://github.com/jwenjian/ghiblog/issues/120)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : Animated Icons - 200 Free Icons](https://github.com/jwenjian/ghiblog/issues/117)  <sup>0 :speech_balloon:</sup>  	 
