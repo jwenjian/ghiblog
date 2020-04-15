@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-04-14 02:58:55"/>
+    <img src="https://badgen.net/badge/last-commit/2020-04-15 09:58:46"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -36,6 +36,21 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>13 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Disable XML validation in Eclipse - Stack Overflow](https://github.com/jwenjian/ghiblog/issues/222) <sup>0 :speech_balloon:</sup> 	 2020-04-15 09:58:04
+
+:label: : 
+
+Card [Disable XML validation in Eclipse - Stack Overflow](https://ift.tt/3cq9PRD) added the to the **Java/Maven/Spring(boot)/Mybatis** list in the **&#36935;&#35265;** board at `April 15, 2020 at 05:41PM`<br>
+&nbsp;<br>
+&gt; You have two options: Configure Workspace Settings (disable the validation for the current workspace): Go to Window &gt; Preferences &gt; Validation and uncheck the manual and build for: XML Schema Validator, XML Validator Check enable project specific settings (disable the validation for this project): Right-click on the project, select Properties &gt; Validation and uncheck the manual and build for: XML Schema Validator, XML Validator Right-click on the project and select Validate to make the errors disappear.<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/222)
+
+---
+
 
 #### [No-Class CSS Frameworks | CSS-Tricks](https://github.com/jwenjian/ghiblog/issues/221) <sup>0 :speech_balloon:</sup> 	 2020-04-14 02:58:12
 
@@ -93,21 +108,6 @@ Card [Responsive Images the Simple Way - Cloud Four](https://ift.tt/3bWGAFt) add
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/218)
-
----
-
-
-#### [Responsive Image Breakpoints Generator by Cloudinary](https://github.com/jwenjian/ghiblog/issues/217) <sup>0 :speech_balloon:</sup> 	 2020-04-05 11:37:18
-
-:label: : 
-
-Card [Responsive Image Breakpoints Generator by Cloudinary](https://ift.tt/2RdigHF) added the to the **&#21069;&#31471;/HTML/JS/CSS/vuejs** list in the **&#36935;&#35265;** board at `April 5, 2020 at 06:04PM`<br>
-&nbsp;<br>
-&gt; &#36755;&#20837;&#21407;&#22270;&#65292;&#29983;&#25104;&#19981;&#21516;&#23610;&#23544; &#19981;&#21516;&#20998;&#36776;&#29575;&#30340;&#22270;&#29255;&#65292;&#29992;&#26469;&#22312;&#39029;&#38754;&#19978;&#26681;&#25454;&#20998;&#36776;&#29575;&#30340;&#22823;&#23567;&#21644;&#23631;&#24149;&#23610;&#23544;&#30340;&#22823;&#23567;&#21709;&#24212;&#24335;&#30340;&#26174;&#31034;&#22270;&#29255;<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/217)
 
 ---
 
