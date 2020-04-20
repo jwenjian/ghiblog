@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-04-19 11:13:53"/>
+    <img src="https://badgen.net/badge/last-commit/2020-04-20 08:06:52"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -229,7 +229,7 @@ Card [Responsive Images the Simple Way - Cloud Four](https://ift.tt/3bWGAFt) add
 - [[From Instapaper] : Task Scheduler - Windows applications | Windows上的定时任务管理器](https://github.com/jwenjian/ghiblog/issues/57)  <sup>1 :speech_balloon:</sup>  	 
 - [pydice: Python的GUI应用 - 课堂点名工具](https://github.com/jwenjian/ghiblog/issues/36)  <sup>1 :speech_balloon:</sup>  	 
 - [PAGE - Python Automatic GUI Generator](https://github.com/jwenjian/ghiblog/issues/35)  <sup>0 :speech_balloon:</sup>  	 
-- [调整Typora显示宽度](https://github.com/jwenjian/ghiblog/issues/18)  <sup>2 :speech_balloon:</sup>  	 
+- [调整Typora显示宽度](https://github.com/jwenjian/ghiblog/issues/18)  <sup>3 :speech_balloon:</sup>  	 
 - [Windows截图工具-Snipaste](https://github.com/jwenjian/ghiblog/issues/13)  <sup>0 :speech_balloon:</sup>  	 
 - [Windows工具-制作启动U盘](https://github.com/jwenjian/ghiblog/issues/11)  <sup>0 :speech_balloon:</sup>  	 
 - [智能屏幕护眼软件: f.lux](https://github.com/jwenjian/ghiblog/issues/5)  <sup>0 :speech_balloon:</sup>  	 
@@ -297,7 +297,7 @@ Card [Responsive Images the Simple Way - Cloud Four](https://ift.tt/3bWGAFt) add
 - [C++: Ignore warnings C4996](https://github.com/jwenjian/ghiblog/issues/30)  <sup>0 :speech_balloon:</sup>  	 
 - [Eclipse.ini使用-vm参数指定JVM](https://github.com/jwenjian/ghiblog/issues/26)  <sup>0 :speech_balloon:</sup>  	 
 - [Eclipse网络代理配置](https://github.com/jwenjian/ghiblog/issues/19)  <sup>0 :speech_balloon:</sup>  	 
-- [调整Typora显示宽度](https://github.com/jwenjian/ghiblog/issues/18)  <sup>2 :speech_balloon:</sup>  	 
+- [调整Typora显示宽度](https://github.com/jwenjian/ghiblog/issues/18)  <sup>3 :speech_balloon:</sup>  	 
 - [Windows截图工具-Snipaste](https://github.com/jwenjian/ghiblog/issues/13)  <sup>0 :speech_balloon:</sup>  	 
 - [Windows工具-制作启动U盘](https://github.com/jwenjian/ghiblog/issues/11)  <sup>0 :speech_balloon:</sup>  	 
 - [智能屏幕护眼软件: f.lux](https://github.com/jwenjian/ghiblog/issues/5)  <sup>0 :speech_balloon:</sup>  	 
@@ -336,7 +336,7 @@ Card [Responsive Images the Simple Way - Cloud Four](https://ift.tt/3bWGAFt) add
 - [vbox ubuntu虚拟机扩容方案 虚拟分配空间转换为实际分配空间](https://github.com/jwenjian/ghiblog/issues/87)  <sup>0 :speech_balloon:</sup>  	 
 - [在Ubuntu上安装nodejs、npm](https://github.com/jwenjian/ghiblog/issues/65)  <sup>1 :speech_balloon:</sup>  	 
 - [为Ubuntu系统包管理工具apt配置代理](https://github.com/jwenjian/ghiblog/issues/61)  <sup>0 :speech_balloon:</sup>  	 
-- [调整Typora显示宽度](https://github.com/jwenjian/ghiblog/issues/18)  <sup>2 :speech_balloon:</sup>  	 
+- [调整Typora显示宽度](https://github.com/jwenjian/ghiblog/issues/18)  <sup>3 :speech_balloon:</sup>  	 
 - [Linux命令在线查询手册](https://github.com/jwenjian/ghiblog/issues/12)  <sup>0 :speech_balloon:</sup>  	 
 - [Linux-编译安装nginx源码](https://github.com/jwenjian/ghiblog/issues/9)  <sup>0 :speech_balloon:</sup>  	 
 - [Nginx代理Oracle数据库连接](https://github.com/jwenjian/ghiblog/issues/6)  <sup>0 :speech_balloon:</sup>  	 
