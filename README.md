@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-04-28 06:14:12"/>
+    <img src="https://badgen.net/badge/last-commit/2020-04-29 08:07:48"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -36,6 +36,21 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>16 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [这些商务英语缩写咋还记不住呢 - 知乎](https://github.com/jwenjian/ghiblog/issues/227) <sup>0 :speech_balloon:</sup> 	 2020-04-29 08:07:06
+
+:label: : 
+
+Card [&#36825;&#20123;&#21830;&#21153;&#33521;&#35821;&#32553;&#20889;&#65292;&#21643;&#36824;&#35760;&#19981;&#20303;&#21602;&#65311; - &#30693;&#20046;](https://ift.tt/2ScE3jh) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `April 29, 2020 at 03:51PM`<br>
+&nbsp;<br>
+&gt; &#20960;&#20010;&#21508;&#34892;&#21508;&#19994;&#36890;&#29992;&#30340;&#32553;&#20889;&#65306; FY19&mdash;&mdash;2019&#36130;&#24180; Q4/Q3/Q2/Q1&mdash;&mdash;4&#23395;&#24230;&#65295;3&#23395;&#24230;/2&#23395;&#24230;/1&#23395;&#24230; H1&mdash;&mdash;&#19978;&#21322;&#24180;&#65292;H2&#23601;&#26159;&#19979;&#21322;&#24180; YOY&mdash;&mdash;&#19982;&#21435;&#24180;&#24230;&#30456;&#27604; YTD&mdash;&mdash;&#25130;&#27490;&#21040;&#20170;&#22825;&#20026;&#27490;&#20170;&#24180;&#30340;....<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/227)
+
+---
+
 
 #### [Flutter Nike Shop](https://github.com/jwenjian/ghiblog/issues/226) <sup>0 :speech_balloon:</sup> 	 2020-04-28 06:13:22
 
@@ -93,21 +108,6 @@ Card [Maximum Depth of Binary Tree - Submission Detail - LeetCode](https://ift.t
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/223)
-
----
-
-
-#### [Disable XML validation in Eclipse - Stack Overflow](https://github.com/jwenjian/ghiblog/issues/222) <sup>0 :speech_balloon:</sup> 	 2020-04-15 09:58:04
-
-:label: : 
-
-Card [Disable XML validation in Eclipse - Stack Overflow](https://ift.tt/3cq9PRD) added the to the **Java/Maven/Spring(boot)/Mybatis** list in the **&#36935;&#35265;** board at `April 15, 2020 at 05:41PM`<br>
-&nbsp;<br>
-&gt; You have two options: Configure Workspace Settings (disable the validation for the current workspace): Go to Window &gt; Preferences &gt; Validation and uncheck the manual and build for: XML Schema Validator, XML Validator Check enable project specific settings (disable the validation for this project): Right-click on the project, select Properties &gt; Validation and uncheck the manual and build for: XML Schema Validator, XML Validator Right-click on the project and select Validate to make the errors disappear.<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/222)
 
 ---
 
