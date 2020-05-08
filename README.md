@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-04-30 07:38:04"/>
+    <img src="https://badgen.net/badge/last-commit/2020-05-08 06:53:05"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -36,6 +36,21 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>16 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [注意Tomcat Get请求的坑 - 知乎](https://github.com/jwenjian/ghiblog/issues/229) <sup>0 :speech_balloon:</sup> 	 2020-05-08 06:52:28
+
+:label: : 
+
+Card [&#27880;&#24847;&#65306;Tomcat Get&#35831;&#27714;&#30340;&#22353;&#65281; - &#30693;&#20046;](https://ift.tt/3beneuP) added the to the **&#26550;&#26500;/&#20013;&#38388;&#20214;/&#25968;&#25454;&#24211;/MySQL** list in the **&#36935;&#35265;** board at `May 8, 2020 at 02:48PM`<br>
+&nbsp;<br>
+&gt; Tomcat8.5&#65292;&#24403;Get&#35831;&#27714;&#20013;&#21253;&#21547;&#20102;&#26410;&#32463;&#32534;&#30721;&#30340;&#20013;&#25991;&#23383;&#31526;&#26102;&#65292;&#20250;&#25253;&#20197;&#19979;&#38169;&#35823;&#65292;&#35831;&#27714;&#26410;&#21040;&#24212;&#29992;&#31243;&#24207;&#22312;Tomcat&#23618;&#23601;&#34987;&#25318;&#25130;&#20102;&#12290;Tomcat&#25253;&#38169;&#65306; java.lang.IllegalArgumentException: Invalid character found in the request target. &hellip;<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/229)
+
+---
+
 
 #### [How to disable Oracle XE component which is listening on 8080? - Stack Overflow](https://github.com/jwenjian/ghiblog/issues/228) <sup>0 :speech_balloon:</sup> 	 2020-04-30 07:37:12
 
@@ -93,21 +108,6 @@ Card [Character Encoding - Apache Tomcat - Apache Software Foundation](https://i
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/225)
-
----
-
-
-#### [USFCA: Data Structure Visualization](https://github.com/jwenjian/ghiblog/issues/224) <sup>0 :speech_balloon:</sup> 	 2020-04-21 05:46:12
-
-:label: : 
-
-Card [ USFCA: Data Structure Visualization](https://ift.tt/2VNNir9) added the to the **&#35745;&#31639;&#26426;/HTTP&#21327;&#35758;/windows** list in the **&#36935;&#35265;** board at `April 21, 2020 at 01:39PM`<br>
-&nbsp;<br>
-&gt; University of San Francisco &#20986;&#21697;&#30340;&#31639;&#27861;&#21487;&#35270;&#21270;&#32593;&#31449;&#65292;&#21253;&#21547;&#26632;&#65292;&#38431;&#21015;&#65292;&#20108;&#21449;&#26641;&#65292;&#20108;&#21449;&#26597;&#25214;&#26641;&#65292;AVL&#26641;&#31561;&#25968;&#25454;&#32467;&#26500;&#20197;&#21450;&#21508;&#31181;&#25490;&#24207;&#31639;&#27861;&#30340;&#21487;&#35270;&#21270;&#12290;<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/224)
 
 ---
 
