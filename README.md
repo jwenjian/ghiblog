@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-05-08 06:53:05"/>
+    <img src="https://badgen.net/badge/last-commit/2020-05-08 08:53:09"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -36,6 +36,21 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>16 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [KidsOS Child Friendly Operating System for Android](https://github.com/jwenjian/ghiblog/issues/230) <sup>0 :speech_balloon:</sup> 	 2020-05-08 08:52:27
+
+:label: : 
+
+Card [KidsOS Child Friendly Operating System for Android](https://ift.tt/3bdC30R) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `May 8, 2020 at 04:51PM`<br>
+&nbsp;<br>
+&gt; The world's first kid safe mobile phone operating system for Android phones. KidsOS is a child friendly cell phone created by Techless.<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/230)
+
+---
+
 
 #### [注意Tomcat Get请求的坑 - 知乎](https://github.com/jwenjian/ghiblog/issues/229) <sup>0 :speech_balloon:</sup> 	 2020-05-08 06:52:28
 
@@ -93,21 +108,6 @@ Card [Flutter Nike Shop](https://ift.tt/3bJdRVh) added the to the **&#21069;&#31
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/226)
-
----
-
-
-#### [Character Encoding - Apache Tomcat - Apache Software Foundation](https://github.com/jwenjian/ghiblog/issues/225) <sup>0 :speech_balloon:</sup> 	 2020-04-24 06:09:10
-
-:label: : 
-
-Card [Character Encoding - Apache Tomcat - Apache Software Foundation](https://ift.tt/350jTy9) added the to the **&#26550;&#26500;/&#20013;&#38388;&#20214;/&#25968;&#25454;&#24211;/MySQL** list in the **&#36935;&#35265;** board at `April 24, 2020 at 01:50PM`<br>
-&nbsp;<br>
-&gt; Apache tomat FaQ about character encoding; What is the default character encoding of the request or response body? Why does everything have to be this way? Default encoding for request and response bodies? Default encoding for GET; Default Encoding for POST; How do I change how GET parameters are interpreted?<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/225)
 
 ---
 
