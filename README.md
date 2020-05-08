@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-05-08 08:53:09"/>
+    <img src="https://badgen.net/badge/last-commit/2020-05-08 10:22:44"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -36,6 +36,21 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>16 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [How to setup network after RHEL/CentOS 7 minimal installation](https://github.com/jwenjian/ghiblog/issues/231) <sup>0 :speech_balloon:</sup> 	 2020-05-08 10:22:05
+
+:label: : 
+
+Card [How to setup network after RHEL/CentOS 7 minimal installation](https://ift.tt/2YLWfEC) added the to the **Linux** list in the **&#36935;&#35265;** board at `May 8, 2020 at 05:59PM`<br>
+&nbsp;<br>
+&gt; In this tutorial I will show you how to configure network on RHEL/CentOS 7 using Network manager.<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/231)
+
+---
+
 
 #### [KidsOS Child Friendly Operating System for Android](https://github.com/jwenjian/ghiblog/issues/230) <sup>0 :speech_balloon:</sup> 	 2020-05-08 08:52:27
 
@@ -93,21 +108,6 @@ Card [&#36825;&#20123;&#21830;&#21153;&#33521;&#35821;&#32553;&#20889;&#65292;&#
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/227)
-
----
-
-
-#### [Flutter Nike Shop](https://github.com/jwenjian/ghiblog/issues/226) <sup>0 :speech_balloon:</sup> 	 2020-04-28 06:13:22
-
-:label: : 
-
-Card [Flutter Nike Shop](https://ift.tt/3bJdRVh) added the to the **&#21069;&#31471;/HTML/JS/CSS/vuejs** list in the **&#36935;&#35265;** board at `April 28, 2020 at 02:02PM`<br>
-&nbsp;<br>
-&gt; codepen.io &#25903;&#25345; Flutter &#20102;<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/226)
 
 ---
 
