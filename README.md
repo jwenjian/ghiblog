@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-05-09 08:35:36"/>
+    <img src="https://badgen.net/badge/last-commit/2020-05-09 08:38:39"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -19,16 +19,16 @@
 
 
 <p align='center'>
-<a href='https://github.com/jwenjian/ghiblog/issues/116#issuecomment-574510919'>
-<img src='https://user-images.githubusercontent.com/25657798/72409229-154ec400-37a0-11ea-9ebd-2fe652355eaf.jpeg' width='50%' alt='
+<a href='https://github.com/jwenjian/ghiblog/issues/116#issuecomment-626129807'>
+<img src='https://user-images.githubusercontent.com/25657798/81468646-68e39280-9213-11ea-8706-e006634b875b.jpeg' width='50%' alt='
 
-2020公司年会，中了一等奖!  :tada: :tada: :tada:'>
+小区花园的月季花'>
 </a>
 </p>
 <p align='center'>
 <span>
 
-2020公司年会，中了一等奖!  :tada: :tada: :tada:</span>
+小区花园的月季花</span>
 </p>
 
     
@@ -282,7 +282,7 @@ Card [&#36825;&#20123;&#21830;&#21153;&#33521;&#35821;&#32553;&#20889;&#65292;&#
 <details>
 <summary>:framed_picture:封面	<sup>1:newspaper:</sup></summary>
 
-- [封面](https://github.com/jwenjian/ghiblog/issues/116)  <sup>9 :speech_balloon:</sup>  	 
+- [封面](https://github.com/jwenjian/ghiblog/issues/116)  <sup>10 :speech_balloon:</sup>  	 
 
 
 </details>
