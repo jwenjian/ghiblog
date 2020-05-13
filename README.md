@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-05-09 08:38:39"/>
+    <img src="https://badgen.net/badge/last-commit/2020-05-13 02:51:00"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -36,6 +36,21 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>16 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Find a file and delete it Using find rm](https://github.com/jwenjian/ghiblog/issues/232) <sup>0 :speech_balloon:</sup> 	 2020-05-13 02:50:22
+
+:label: : 
+
+Card [Find a file and delete it Using find, rm](https://ift.tt/365JGWl) added the to the **Linux** list in the **&#36935;&#35265;** board at `May 13, 2020 at 10:30AM`<br>
+&nbsp;<br>
+&gt; find filename -print0 | xargs -0 rm<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/232)
+
+---
+
 
 #### [How to setup network after RHEL/CentOS 7 minimal installation](https://github.com/jwenjian/ghiblog/issues/231) <sup>0 :speech_balloon:</sup> 	 2020-05-08 10:22:05
 
@@ -93,21 +108,6 @@ Card [How to disable Oracle XE component which is listening on 8080? - Stack Ove
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/228)
-
----
-
-
-#### [这些商务英语缩写咋还记不住呢 - 知乎](https://github.com/jwenjian/ghiblog/issues/227) <sup>0 :speech_balloon:</sup> 	 2020-04-29 08:07:06
-
-:label: : 
-
-Card [&#36825;&#20123;&#21830;&#21153;&#33521;&#35821;&#32553;&#20889;&#65292;&#21643;&#36824;&#35760;&#19981;&#20303;&#21602;&#65311; - &#30693;&#20046;](https://ift.tt/2ScE3jh) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `April 29, 2020 at 03:51PM`<br>
-&nbsp;<br>
-&gt; &#20960;&#20010;&#21508;&#34892;&#21508;&#19994;&#36890;&#29992;&#30340;&#32553;&#20889;&#65306; FY19&mdash;&mdash;2019&#36130;&#24180; Q4/Q3/Q2/Q1&mdash;&mdash;4&#23395;&#24230;&#65295;3&#23395;&#24230;/2&#23395;&#24230;/1&#23395;&#24230; H1&mdash;&mdash;&#19978;&#21322;&#24180;&#65292;H2&#23601;&#26159;&#19979;&#21322;&#24180; YOY&mdash;&mdash;&#19982;&#21435;&#24180;&#24230;&#30456;&#27604; YTD&mdash;&mdash;&#25130;&#27490;&#21040;&#20170;&#22825;&#20026;&#27490;&#20170;&#24180;&#30340;....<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/227)
 
 ---
 
