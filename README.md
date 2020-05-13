@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-05-13 02:51:00"/>
+    <img src="https://badgen.net/badge/last-commit/2020-05-13 03:50:50"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -36,6 +36,21 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>16 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Redis Mass Insertion  Redis](https://github.com/jwenjian/ghiblog/issues/233) <sup>0 :speech_balloon:</sup> 	 2020-05-13 03:50:10
+
+:label: : 
+
+Card [Redis Mass Insertion &ndash; Redis](https://ift.tt/2WoMfiK) added the to the **&#26550;&#26500;/&#20013;&#38388;&#20214;/&#25968;&#25454;&#24211;/MySQL** list in the **&#36935;&#35265;** board at `May 13, 2020 at 11:21AM`<br>
+&nbsp;<br>
+&gt; the preferred way to mass import data into Redis is to generate a text file containing the Redis protocol, in raw format, in order to call the commands needed to insert the required data. For instance if I need to generate a large data set where there are billions of keys in the form: `keyN -&gt; ValueN' I will create a file containing the following commands in the Redis protocol format: SET Key0 Value0 SET Key1 Value1 ... SET KeyN ValueN Once this file is created, the remaining action is to feed it to Redis as fast as possible. In the past the way to do this was to use the netcat with the following command: (cat data.txt; sleep 10) | nc localhost 6379 &gt; /dev/null<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/233)
+
+---
+
 
 #### [Find a file and delete it Using find rm](https://github.com/jwenjian/ghiblog/issues/232) <sup>0 :speech_balloon:</sup> 	 2020-05-13 02:50:22
 
@@ -93,21 +108,6 @@ Card [&#27880;&#24847;&#65306;Tomcat Get&#35831;&#27714;&#30340;&#22353;&#65281;
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/229)
-
----
-
-
-#### [How to disable Oracle XE component which is listening on 8080? - Stack Overflow](https://github.com/jwenjian/ghiblog/issues/228) <sup>0 :speech_balloon:</sup> 	 2020-04-30 07:37:12
-
-:label: : 
-
-Card [How to disable Oracle XE component which is listening on 8080? - Stack Overflow](https://ift.tt/2YiGMLR) added the to the **&#26550;&#26500;/&#20013;&#38388;&#20214;/&#25968;&#25454;&#24211;/MySQL** list in the **&#36935;&#35265;** board at `April 30, 2020 at 03:19PM`<br>
-&nbsp;<br>
-&gt; sqlplus '/ as sysdba' EXEC DBMS_XDB.SETHTTPPORT(0); commit;<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/228)
 
 ---
 
