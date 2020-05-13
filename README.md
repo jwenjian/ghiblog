@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-05-13 03:50:50"/>
+    <img src="https://badgen.net/badge/last-commit/2020-05-13 04:21:08"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -36,6 +36,21 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>16 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Redis server-assisted client side caching  Redis](https://github.com/jwenjian/ghiblog/issues/234) <sup>0 :speech_balloon:</sup> 	 2020-05-13 04:20:31
+
+:label: : 
+
+Card [Redis server-assisted client side caching &ndash; Redis](https://ift.tt/2Wqlj23) added the to the **&#26550;&#26500;/&#20013;&#38388;&#20214;/&#25968;&#25454;&#24211;/MySQL** list in the **&#36935;&#35265;** board at `May 13, 2020 at 11:57AM`<br>
+&nbsp;<br>
+&gt; redis official introduce of client side caching which included in redis 6.0<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/234)
+
+---
+
 
 #### [Redis Mass Insertion  Redis](https://github.com/jwenjian/ghiblog/issues/233) <sup>0 :speech_balloon:</sup> 	 2020-05-13 03:50:10
 
@@ -93,21 +108,6 @@ Card [KidsOS Child Friendly Operating System for Android](https://ift.tt/3bdC30R
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/230)
-
----
-
-
-#### [注意Tomcat Get请求的坑 - 知乎](https://github.com/jwenjian/ghiblog/issues/229) <sup>0 :speech_balloon:</sup> 	 2020-05-08 06:52:28
-
-:label: : 
-
-Card [&#27880;&#24847;&#65306;Tomcat Get&#35831;&#27714;&#30340;&#22353;&#65281; - &#30693;&#20046;](https://ift.tt/3beneuP) added the to the **&#26550;&#26500;/&#20013;&#38388;&#20214;/&#25968;&#25454;&#24211;/MySQL** list in the **&#36935;&#35265;** board at `May 8, 2020 at 02:48PM`<br>
-&nbsp;<br>
-&gt; Tomcat8.5&#65292;&#24403;Get&#35831;&#27714;&#20013;&#21253;&#21547;&#20102;&#26410;&#32463;&#32534;&#30721;&#30340;&#20013;&#25991;&#23383;&#31526;&#26102;&#65292;&#20250;&#25253;&#20197;&#19979;&#38169;&#35823;&#65292;&#35831;&#27714;&#26410;&#21040;&#24212;&#29992;&#31243;&#24207;&#22312;Tomcat&#23618;&#23601;&#34987;&#25318;&#25130;&#20102;&#12290;Tomcat&#25253;&#38169;&#65306; java.lang.IllegalArgumentException: Invalid character found in the request target. &hellip;<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/229)
 
 ---
 
