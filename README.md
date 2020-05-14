@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-05-13 23:35:44"/>
+    <img src="https://badgen.net/badge/last-commit/2020-05-14 09:35:49"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -36,6 +36,21 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>16 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Android ABIs | Android NDK | Android Developers](https://github.com/jwenjian/ghiblog/issues/236) <sup>0 :speech_balloon:</sup> 	 2020-05-14 09:35:07
+
+:label: : 
+
+Card [Android ABIs &nbsp;|&nbsp; Android NDK &nbsp;|&nbsp; Android Developers](https://ift.tt/3bAbC5r) added the to the **Java/Maven/Spring(boot)/Mybatis** list in the **&#36935;&#35265;** board at `May 14, 2020 at 05:32PM`<br>
+&nbsp;<br>
+&gt; Supported ABIs: armeabi-v7a: 32bit arm64-v8a: 64bit x86: 32bit x86_64: 64bit<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/236)
+
+---
+
 
 #### [aardio编程语言 - 官网](https://github.com/jwenjian/ghiblog/issues/235) <sup>0 :speech_balloon:</sup> 	 2020-05-13 23:35:08
 
@@ -93,21 +108,6 @@ Card [Find a file and delete it Using find, rm](https://ift.tt/365JGWl) added th
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/232)
-
----
-
-
-#### [How to setup network after RHEL/CentOS 7 minimal installation](https://github.com/jwenjian/ghiblog/issues/231) <sup>0 :speech_balloon:</sup> 	 2020-05-08 10:22:05
-
-:label: : 
-
-Card [How to setup network after RHEL/CentOS 7 minimal installation](https://ift.tt/2YLWfEC) added the to the **Linux** list in the **&#36935;&#35265;** board at `May 8, 2020 at 05:59PM`<br>
-&nbsp;<br>
-&gt; In this tutorial I will show you how to configure network on RHEL/CentOS 7 using Network manager.<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/231)
 
 ---
 
