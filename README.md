@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-05-14 09:35:49"/>
+    <img src="https://badgen.net/badge/last-commit/2020-05-14 10:06:23"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -36,6 +36,21 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>16 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Gallery of AI Generated Faces | Generated.photos](https://github.com/jwenjian/ghiblog/issues/237) <sup>0 :speech_balloon:</sup> 	 2020-05-14 10:05:24
+
+:label: : 
+
+Card [Gallery of AI Generated Faces | Generated.photos](https://ift.tt/2LEFSSx) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `May 14, 2020 at 05:41PM`<br>
+&nbsp;<br>
+&gt; Download a face you need in Generated Photos gallery to add to your project. Get a diverse library of AI-generated faces.<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/237)
+
+---
+
 
 #### [Android ABIs | Android NDK | Android Developers](https://github.com/jwenjian/ghiblog/issues/236) <sup>0 :speech_balloon:</sup> 	 2020-05-14 09:35:07
 
@@ -93,21 +108,6 @@ Card [Redis Mass Insertion &ndash; Redis](https://ift.tt/2WoMfiK) added the to t
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/233)
-
----
-
-
-#### [Find a file and delete it Using find rm](https://github.com/jwenjian/ghiblog/issues/232) <sup>0 :speech_balloon:</sup> 	 2020-05-13 02:50:22
-
-:label: : 
-
-Card [Find a file and delete it Using find, rm](https://ift.tt/365JGWl) added the to the **Linux** list in the **&#36935;&#35265;** board at `May 13, 2020 at 10:30AM`<br>
-&nbsp;<br>
-&gt; find filename -print0 | xargs -0 rm<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/232)
 
 ---
 
