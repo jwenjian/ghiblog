@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-05-16 09:35:57"/>
+    <img src="https://badgen.net/badge/last-commit/2020-05-24 09:59:00"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -19,16 +19,16 @@
 
 
 <p align='center'>
-<a href='https://github.com/jwenjian/ghiblog/issues/116#issuecomment-626129807'>
-<img src='https://user-images.githubusercontent.com/25657798/81468646-68e39280-9213-11ea-8706-e006634b875b.jpeg' width='50%' alt='
+<a href='https://github.com/jwenjian/ghiblog/issues/116#issuecomment-633206928'>
+<img src='https://user-images.githubusercontent.com/25657798/82751172-1647d000-9de8-11ea-934f-6ba166099a05.png' width='50%' alt='
 
-小区花园的月季花'>
+个人开发的第一个小程序'>
 </a>
 </p>
 <p align='center'>
 <span>
 
-小区花园的月季花</span>
+个人开发的第一个小程序</span>
 </p>
 
     
@@ -282,7 +282,7 @@ Card [Redis server-assisted client side caching &ndash; Redis](https://ift.tt/2W
 <details>
 <summary>:framed_picture:封面	<sup>1:newspaper:</sup></summary>
 
-- [封面](https://github.com/jwenjian/ghiblog/issues/116)  <sup>10 :speech_balloon:</sup>  	 
+- [封面](https://github.com/jwenjian/ghiblog/issues/116)  <sup>11 :speech_balloon:</sup>  	 
 
 
 </details>
