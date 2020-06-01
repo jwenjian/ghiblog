@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-05-29 10:25:55"/>
+    <img src="https://badgen.net/badge/last-commit/2020-06-01 06:25:59"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -36,6 +36,21 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>16 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [2000 Free Poster & Frame Images - Pixabay](https://github.com/jwenjian/ghiblog/issues/242) <sup>0 :speech_balloon:</sup> 	 2020-06-01 06:25:21
+
+:label: : 
+
+Card [2,000+ Free Poster &amp; Frame Images - Pixabay](https://ift.tt/2XP3tWc) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `June 1, 2020 at 01:40PM`<br>
+&nbsp;<br>
+&gt; &#20813;&#36153;&#65292;&#26080;&#29256;&#26435;&#21487;&#21830;&#29992;&#30340;&#28023;&#25253;&#27169;&#26495; &#28023;&#25253;&#22270;&#29255;&#32972;&#26223;<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/242)
+
+---
+
 
 #### [Vertical Timeline in CSS and JavaScript | CodyHouse](https://github.com/jwenjian/ghiblog/issues/241) <sup>0 :speech_balloon:</sup> 	 2020-05-29 10:25:18
 
@@ -93,21 +108,6 @@ Card [Beautiful Free Images &amp; Pictures | Unsplash](https://ift.tt/2LxmtCX) a
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/238)
-
----
-
-
-#### [Gallery of AI Generated Faces | Generated.photos](https://github.com/jwenjian/ghiblog/issues/237) <sup>0 :speech_balloon:</sup> 	 2020-05-14 10:05:24
-
-:label: : 
-
-Card [Gallery of AI Generated Faces | Generated.photos](https://ift.tt/2LEFSSx) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `May 14, 2020 at 05:41PM`<br>
-&nbsp;<br>
-&gt; Download a face you need in Generated Photos gallery to add to your project. Get a diverse library of AI-generated faces.<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/237)
 
 ---
 
