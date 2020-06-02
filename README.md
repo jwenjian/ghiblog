@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-06-02 08:25:48"/>
+    <img src="https://badgen.net/badge/last-commit/2020-06-02 10:26:34"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -36,6 +36,21 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>16 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [从想法到输出这 7 个网站串联我的 Keynote / PPT 设计工作流 - 少数派](https://github.com/jwenjian/ghiblog/issues/247) <sup>0 :speech_balloon:</sup> 	 2020-06-02 10:25:15
+
+:label: : 
+
+Card [&#20174;&#24819;&#27861;&#21040;&#36755;&#20986;&#65292;&#36825; 7 &#20010;&#32593;&#31449;&#20018;&#32852;&#25105;&#30340; Keynote / PPT &#35774;&#35745;&#24037;&#20316;&#27969; - &#23569;&#25968;&#27966;](https://ift.tt/3csc5ak) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `June 2, 2020 at 06:11PM`<br>
+&nbsp;<br>
+&gt; Matrix &#31934;&#36873;Matrix &#26159;&#23569;&#25968;&#27966;&#30340;&#20889;&#20316;&#31038;&#21306;&#65292;&#25105;&#20204;&#20027;&#24352;&#20998;&#20139;&#30495;&#23454;&#30340;&#20135;&#21697;&#20307;&#39564;&#65292;&#26377;&#23454;&#29992;&#20215;&#20540;&#30340;&#32463;&#39564;&#19982;&#24605;&#32771;&#12290;&#25105;&#20204;&#20250;&#19981;&#23450;&#26399;&#25361;&#36873; Matrix &#26368;&#20248;&#36136;&#30340;&#25991;&#31456;&#65292;&#23637;&#31034;&#26469;&#33258;&#29992;&#25143;&#30340;&#26368;&#30495;&#23454;&#30340;&#20307;&#39564;&#21644;&#35266;&#28857;&#12290;&#25991;&#31456;&#20195;&#34920;&#20316;&#32773;&#20010;&#20154;...<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/247)
+
+---
+
 
 #### [A Complete Guide to Flexbox | CSS-Tricks](https://github.com/jwenjian/ghiblog/issues/246) <sup>0 :speech_balloon:</sup> 	 2020-06-02 08:25:10
 
@@ -93,21 +108,6 @@ Card [A Whole Bunch of Amazing Stuff Pseudo Elements Can Do | CSS-Tricks](https:
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/243)
-
----
-
-
-#### [2000 Free Poster & Frame Images - Pixabay](https://github.com/jwenjian/ghiblog/issues/242) <sup>0 :speech_balloon:</sup> 	 2020-06-01 06:25:21
-
-:label: : 
-
-Card [2,000+ Free Poster &amp; Frame Images - Pixabay](https://ift.tt/2XP3tWc) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `June 1, 2020 at 01:40PM`<br>
-&nbsp;<br>
-&gt; &#20813;&#36153;&#65292;&#26080;&#29256;&#26435;&#21487;&#21830;&#29992;&#30340;&#28023;&#25253;&#27169;&#26495; &#28023;&#25253;&#22270;&#29255;&#32972;&#26223;<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/242)
 
 ---
 
