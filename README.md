@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-06-01 10:25:42"/>
+    <img src="https://badgen.net/badge/last-commit/2020-06-02 08:25:48"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -36,6 +36,21 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>16 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [A Complete Guide to Flexbox | CSS-Tricks](https://github.com/jwenjian/ghiblog/issues/246) <sup>0 :speech_balloon:</sup> 	 2020-06-02 08:25:10
+
+:label: : 
+
+Card [A Complete Guide to Flexbox | CSS-Tricks](https://ift.tt/2MiGkWP) added the to the **&#21069;&#31471;/HTML/JS/CSS/vuejs** list in the **&#36935;&#35265;** board at `June 2, 2020 at 04:03PM`<br>
+&nbsp;<br>
+&gt; Our comprehensive guide to CSS flexbox layout. This complete guide explains everything about flexbox, focusing on all the different possible properties for the parent element (the flex container) and the child elements (the flex items). It also includes history, demos, patterns, and a browser support chart.<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/246)
+
+---
+
 
 #### [Lorem Ipsum - All the facts - Lipsum generator](https://github.com/jwenjian/ghiblog/issues/245) <sup>0 :speech_balloon:</sup> 	 2020-06-01 10:25:07
 
@@ -93,21 +108,6 @@ Card [2,000+ Free Poster &amp; Frame Images - Pixabay](https://ift.tt/2XP3tWc) a
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/242)
-
----
-
-
-#### [Vertical Timeline in CSS and JavaScript | CodyHouse](https://github.com/jwenjian/ghiblog/issues/241) <sup>0 :speech_balloon:</sup> 	 2020-05-29 10:25:18
-
-:label: : 
-
-Card [Vertical Timeline in CSS and JavaScript | CodyHouse](https://ift.tt/2TO4KM3) added the to the **&#21069;&#31471;/HTML/JS/CSS/vuejs** list in the **&#36935;&#35265;** board at `May 29, 2020 at 05:42PM`<br>
-&nbsp;<br>
-&gt; Today's resource is an easy to customize, responsive timeline. We used some CSS3 tricks and a bit of JavaScript to create some bounce animations that affect desktop users only, while on mobile the structure is more minimal.<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/241)
 
 ---
 
