@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-06-03 02:25:49"/>
+    <img src="https://badgen.net/badge/last-commit/2020-06-05 09:25:45"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -36,6 +36,21 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>16 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [判断1/n是否为无限小数__张洪基-CSDN博客](https://github.com/jwenjian/ghiblog/issues/250) <sup>0 :speech_balloon:</sup> 	 2020-06-05 09:25:03
+
+:label: : 
+
+Card [&#21028;&#26029;1/n&#26159;&#21542;&#20026;&#26080;&#38480;&#23567;&#25968;__&#24352;&#27946;&#22522;-CSDN&#21338;&#23458;](https://ift.tt/3eKxGMW) added the to the **Python** list in the **&#36935;&#35265;** board at `June 5, 2020 at 05:05PM`<br>
+&nbsp;<br>
+&gt; &#21407;&#29702;&#65306; &#21482;&#35201;&#34987;&#38500;&#25968;n&#21487;&#20197;&#36716;&#21270;&#20026;2&#30340;&#27425;&#24130;&#25110;&#32773;&#36716;&#21270;&#20026;2&#19982;5&#30340;&#32452;&#21512; &#21363;&#20026;&#26377;&#38480;&#23567;&#25968; &#21542;&#21017;&#26080;&#38480;&#23567;&#25968; bool iint(int n) { if(n==1) return false; else if(n%2==0) { return iint(n/2); } else if(n%5==0) { return iint(n/5); } else return true; }<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/250)
+
+---
+
 
 #### [A Complete Guide to Data Attributes | CSS-Tricks](https://github.com/jwenjian/ghiblog/issues/249) <sup>0 :speech_balloon:</sup> 	 2020-06-03 02:25:12
 
@@ -93,21 +108,6 @@ Card [A Complete Guide to Flexbox | CSS-Tricks](https://ift.tt/2MiGkWP) added th
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/246)
-
----
-
-
-#### [Lorem Ipsum - All the facts - Lipsum generator](https://github.com/jwenjian/ghiblog/issues/245) <sup>0 :speech_balloon:</sup> 	 2020-06-01 10:25:07
-
-:label: : 
-
-Card [Lorem Ipsum - All the facts - Lipsum generator](https://ift.tt/2ZWxKos) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `June 1, 2020 at 06:14PM`<br>
-&nbsp;<br>
-&gt; placeholder text generator, &#21344;&#20301;&#25991;&#26412;&#29983;&#25104;&#22120;&#65292;&#35753;&#20320;&#30340;&#21344;&#20301;&#25991;&#26412;&#26356;&#20687;&#19968;&#27573;&#27573;&#27491;&#24120;&#30340;&#33521;&#25991;&#27573;&#33853;&#65292;&#32780;&#19981;&#26159;&#65306;&#36825;&#26159;&#19968;&#27573;&#25991;&#26412; &#36825;&#26159;&#19968;&#27573;&#25991;&#26412;<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/245)
 
 ---
 
