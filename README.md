@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-06-06 02:25:50"/>
+    <img src="https://badgen.net/badge/last-commit/2020-06-09 02:25:50"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -36,6 +36,21 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>16 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [command line - Not able to execute a .sh file: /bin/bashM: bad interpreter - Ask Ubuntu](https://github.com/jwenjian/ghiblog/issues/256) <sup>0 :speech_balloon:</sup> 	 2020-06-09 02:25:14
+
+:label: : 
+
+Card [command line - Not able to execute a .sh file: /bin/bash^M: bad interpreter - Ask Ubuntu](https://ift.tt/2XHtcRw) added the to the **Linux** list in the **&#36935;&#35265;** board at `June 9, 2020 at 10:14AM`<br>
+&nbsp;<br>
+&gt; In vim you could also use :set ff=unix and then save the file, or :set ff=dos to get DOS formatting again.<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/256)
+
+---
+
 
 #### [36 Days of Type墨西哥设计师Francisco Cortés的字母乐器 - 设计之家](https://github.com/jwenjian/ghiblog/issues/255) <sup>0 :speech_balloon:</sup> 	 2020-06-06 02:25:13
 
@@ -93,21 +108,6 @@ Card [Overflow | HTML5 UP](https://ift.tt/2U7T7j9) added the to the **&#21069;&#
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/252)
-
----
-
-
-#### [判断1/n是否为无限小数__张洪基-CSDN博客](https://github.com/jwenjian/ghiblog/issues/251) <sup>0 :speech_balloon:</sup> 	 2020-06-05 10:25:21
-
-:label: : 
-
-Card [&#21028;&#26029;1/n&#26159;&#21542;&#20026;&#26080;&#38480;&#23567;&#25968;__&#24352;&#27946;&#22522;-CSDN&#21338;&#23458;](https://ift.tt/3eKxGMW) added the to the **Python** list in the **&#36935;&#35265;** board at `June 5, 2020 at 05:05PM`<br>
-&nbsp;<br>
-&gt; &#21407;&#29702;&#65306; &#21482;&#35201;&#34987;&#38500;&#25968;n&#21487;&#20197;&#36716;&#21270;&#20026;2&#30340;&#27425;&#24130;&#25110;&#32773;&#36716;&#21270;&#20026;2&#19982;5&#30340;&#32452;&#21512; &#21363;&#20026;&#26377;&#38480;&#23567;&#25968; &#21542;&#21017;&#26080;&#38480;&#23567;&#25968; bool iint(int n) { if(n==1) return false; else if(n%2==0) { return iint(n/2); } else if(n%5==0) { return iint(n/5); } else return true; }<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/251)
 
 ---
 
