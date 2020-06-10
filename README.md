@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-06-09 02:25:50"/>
+    <img src="https://badgen.net/badge/last-commit/2020-06-10 03:25:46"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -36,6 +36,21 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>16 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Migrating Spring Boot's Build to Gradle](https://github.com/jwenjian/ghiblog/issues/257) <sup>0 :speech_balloon:</sup> 	 2020-06-10 03:25:03
+
+:label: : 
+
+Card [Migrating Spring Boot's Build to Gradle](https://ift.tt/3hd63OB) added the to the **Java/Maven/Spring(boot)/Mybatis** list in the **&#36935;&#35265;** board at `June 10, 2020 at 10:26AM`<br>
+&nbsp;<br>
+&gt; We made a fairly significant change to Spring Boot in 2.3.0.M1. It was the first release of the project to be built with Gradle rather than Maven<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/257)
+
+---
+
 
 #### [command line - Not able to execute a .sh file: /bin/bashM: bad interpreter - Ask Ubuntu](https://github.com/jwenjian/ghiblog/issues/256) <sup>0 :speech_balloon:</sup> 	 2020-06-09 02:25:14
 
@@ -93,21 +108,6 @@ Card [Free Logo Maker - Create your own logo in minutes!](https://ift.tt/2A7GTAf
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/253)
-
----
-
-
-#### [Overflow | HTML5 UP](https://github.com/jwenjian/ghiblog/issues/252) <sup>0 :speech_balloon:</sup> 	 2020-06-05 10:25:21
-
-:label: : 
-
-Card [Overflow | HTML5 UP](https://ift.tt/2U7T7j9) added the to the **&#21069;&#31471;/HTML/JS/CSS/vuejs** list in the **&#36935;&#35265;** board at `June 5, 2020 at 05:15PM`<br>
-&nbsp;<br>
-&gt; This is Overflow, a single page responsive site template by me, AJ, for HTML5 UP. As you can tell it's a bit unusual (it was inspired by a flowchart I was working on a few months back), but I think it'd make for a pretty cool portfolio. Includes a pop-up gallery, styling for all basic page elements, a handy configuration (see the top of js/init.js), and some experimental stuff I've been messing with lately (like the parallax background effect). Demo images by Felicia Simion.<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/252)
 
 ---
 
