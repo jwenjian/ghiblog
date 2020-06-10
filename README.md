@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-06-10 03:25:46"/>
+    <img src="https://badgen.net/badge/last-commit/2020-06-10 07:25:54"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -36,6 +36,38 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>16 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Preload prefetch and other
+tags: what they do and when to use them  PerfPerfPerf](https://github.com/jwenjian/ghiblog/issues/259) <sup>0 :speech_balloon:</sup> 	 2020-06-10 07:25:17
+
+:label: : 
+
+Card [Preload, prefetch and other
+tags: what they do and when to use them &middot; PerfPerfPerf](https://ift.tt/30oDN5H) added the to the **&#21069;&#31471;/HTML/JS/CSS/vuejs** list in the **&#36935;&#35265;** board at `June 10, 2020 at 03:21PM`<br>
+&nbsp;<br>
+&gt; There&rsquo;re multiple ways to improve web performance (see Web Performance 101 for a full overview). One of those ways is to preload content you&rsquo;ll need later in advance. Prefetch a CSS file, prerender a full page, or resolve a domain ahead of time &ndash; and you won&rsquo;t have to wait for it when it&rsquo;s actually needed! Sounds cool.<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/259)
+
+---
+
+
+#### [Case study: Analyzing Notion app performance  PerfPerfPerf](https://github.com/jwenjian/ghiblog/issues/258) <sup>0 :speech_balloon:</sup> 	 2020-06-10 07:25:16
+
+:label: : 
+
+Card [Case study: Analyzing Notion app performance &middot; PerfPerfPerf](https://ift.tt/3cRi74F) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `June 10, 2020 at 02:48PM`<br>
+&nbsp;<br>
+&gt; Web performance isn&rsquo;t going to save you in this crisis. But if you&rsquo;re building a software product, chances are you&rsquo;re relatively unaffected. And in this case, having a quick app is more important than ever. Internet is slowing down due to increased demand, and people are holding on to their phones for longer &ndash; so if your app is slow, your users will be affected by it. And slow app means worse business. Today, let&rsquo;s take a look at Notion &ndash; an advanced note-taking web app. Notion is a great product, but one thing customers complain about is its startup time: Notion app and my laptop OS take the same time to boot. Beautiful application but it's tooooo slow&#128532; &mdash; Aniket Mandle (@aniketmandle11) May 2, 2020 Notion shipped tremendous speed enhancements recently, but there&rsquo;s still a lot of space to improve. Let&rsquo;s reverse-engineer it and see what else can be optimized!<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/258)
+
+---
+
 
 #### [Migrating Spring Boot's Build to Gradle](https://github.com/jwenjian/ghiblog/issues/257) <sup>0 :speech_balloon:</sup> 	 2020-06-10 03:25:03
 
@@ -78,36 +110,6 @@ Card [36 Days of Type&#65306;&#22696;&#35199;&#21733;&#35774;&#35745;&#24072;Fra
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/255)
-
----
-
-
-#### [HTML Color Picker](https://github.com/jwenjian/ghiblog/issues/254) <sup>0 :speech_balloon:</sup> 	 2020-06-05 10:25:23
-
-:label: : 
-
-Card [HTML Color Picker](https://ift.tt/3gSFY7g) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `June 5, 2020 at 05:44PM`<br>
-&nbsp;<br>
-&gt; HTML Color Picker<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/254)
-
----
-
-
-#### [Free Logo Maker - Create your own logo in minutes!](https://github.com/jwenjian/ghiblog/issues/253) <sup>0 :speech_balloon:</sup> 	 2020-06-05 10:25:22
-
-:label: : 
-
-Card [Free Logo Maker - Create your own logo in minutes!](https://ift.tt/2A7GTAf) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `June 5, 2020 at 05:37PM`<br>
-&nbsp;<br>
-&gt; Create &amp; design your logo for free using an easy logo maker tool. Choose from hundreds of fonts and icons. Then just save your new logo on to your computer! Watch our video tutorial on how to create your logo.<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/253)
 
 ---
 
