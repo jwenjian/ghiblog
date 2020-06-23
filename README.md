@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-06-23 08:25:59"/>
+    <img src="https://badgen.net/badge/last-commit/2020-06-23 09:33:06"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -163,7 +163,7 @@ Card [Grid for layout, Flexbox for components](https://ift.tt/30qTaKS) added the
 - [PlantUML Graphviz 安装](https://github.com/jwenjian/ghiblog/issues/126)  <sup>0 :speech_balloon:</sup>  	 
 - [Permission denied when running npm install](https://github.com/jwenjian/ghiblog/issues/90)  <sup>0 :speech_balloon:</sup>  	 
 - [Internet troubleshooting: website (www.microsoft.com) is online but isn't responding to connection attempts](https://github.com/jwenjian/ghiblog/issues/66)  <sup>0 :speech_balloon:</sup>  	 
-- [C++: jni.h: no such file or directory ](https://github.com/jwenjian/ghiblog/issues/28)  <sup>0 :speech_balloon:</sup>  	 
+- [C++: jni.h: no such file or directory ](https://github.com/jwenjian/ghiblog/issues/28)  <sup>1 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -248,7 +248,7 @@ Card [Grid for layout, Flexbox for components](https://ift.tt/30qTaKS) added the
 - [关于浏览器自动填充](https://github.com/jwenjian/ghiblog/issues/42)  <sup>0 :speech_balloon:</sup>  	 
 - [C++: Ignore warnings C4996](https://github.com/jwenjian/ghiblog/issues/30)  <sup>0 :speech_balloon:</sup>  	 
 - [C++: 引用和指针](https://github.com/jwenjian/ghiblog/issues/29)  <sup>0 :speech_balloon:</sup>  	 
-- [C++: jni.h: no such file or directory ](https://github.com/jwenjian/ghiblog/issues/28)  <sup>0 :speech_balloon:</sup>  	 
+- [C++: jni.h: no such file or directory ](https://github.com/jwenjian/ghiblog/issues/28)  <sup>1 :speech_balloon:</sup>  	 
 - [C语言-位运算符](https://github.com/jwenjian/ghiblog/issues/27)  <sup>0 :speech_balloon:</sup>  	 
 - [HSTS](https://github.com/jwenjian/ghiblog/issues/14)  <sup>0 :speech_balloon:</sup>  	 
 
