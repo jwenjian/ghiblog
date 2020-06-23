@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-06-23 03:25:36"/>
+    <img src="https://badgen.net/badge/last-commit/2020-06-23 08:25:59"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -36,6 +36,21 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>16 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [FFMpeg无损合并视频的多种方法_doublefi123的专栏-CSDN博客_ffmpeg合并视频](https://github.com/jwenjian/ghiblog/issues/266) <sup>0 :speech_balloon:</sup> 	 2020-06-23 08:25:22
+
+:label: : 
+
+Card [FFMpeg&#26080;&#25439;&#21512;&#24182;&#35270;&#39057;&#30340;&#22810;&#31181;&#26041;&#27861;_doublefi123&#30340;&#19987;&#26639;-CSDN&#21338;&#23458;_ffmpeg&#21512;&#24182;&#35270;&#39057;](https://ift.tt/2Nmdzcf) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `June 23, 2020 at 03:30PM`<br>
+&nbsp;<br>
+&gt; &#26041;&#27861;&#20108;&#65306;FFmpeg concat &#20998;&#31163;&#22120; &#36825;&#31181;&#26041;&#27861;&#25104;&#21151;&#29575;&#24456;&#39640;&#65292;&#20063;&#26159;&#26368;&#22909;&#30340;&#65292;&#20294;&#26159;&#38656;&#35201; FFmpeg 1.1 &#20197;&#19978;&#29256;&#26412;&#12290;&#20808;&#21019;&#24314;&#19968;&#20010;&#25991;&#26412;&#25991;&#20214;filelist.txt&#65306; file 'input1.mkv' file 'input2.mkv' file 'input3.mkv' &#28982;&#21518;&#65306; ffmpeg -f concat -i filelist.txt -c copy output.mkv &#27880;&#24847;&#65306;&#20351;&#29992; FFmpeg concat &#20998;&#31163;&#22120;&#26102;&#65292;&#22914;&#26524;&#25991;&#20214;&#21517;&#26377;&#22855;&#24618;&#30340;&#23383;&#31526;&#65292;&#35201;&#22312;&nbsp;filelist.txt&nbsp;&#20013;&#36716;&#20041;&#12290;<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/266)
+
+---
+
 
 #### [javascript - There is always a gap on my Audio Loop in Safari - Stack Overflow](https://github.com/jwenjian/ghiblog/issues/265) <sup>0 :speech_balloon:</sup> 	 2020-06-23 03:25:02
 
@@ -93,21 +108,6 @@ Card [Grid for layout, Flexbox for components](https://ift.tt/30qTaKS) added the
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/262)
-
----
-
-
-#### [Short basics of caching | Ivan Akulovs blog](https://github.com/jwenjian/ghiblog/issues/261) <sup>0 :speech_balloon:</sup> 	 2020-06-10 09:25:05
-
-:label: : 
-
-Card [Short basics of caching | Ivan Akulov&rsquo;s blog](https://ift.tt/2UoS3HN) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `June 10, 2020 at 03:39PM`<br>
-&nbsp;<br>
-&gt; Short basics of caching<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/261)
 
 ---
 
