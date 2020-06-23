@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-06-12 03:26:00"/>
+    <img src="https://badgen.net/badge/last-commit/2020-06-23 03:25:36"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -36,6 +36,21 @@
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>16 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [javascript - There is always a gap on my Audio Loop in Safari - Stack Overflow](https://github.com/jwenjian/ghiblog/issues/265) <sup>0 :speech_balloon:</sup> 	 2020-06-23 03:25:02
+
+:label: : 
+
+Card [javascript - There is always a gap on my Audio Loop in Safari - Stack Overflow](https://ift.tt/3hU4KUY) added the to the **&#21069;&#31471;/HTML/JS/CSS/vuejs** list in the **&#36935;&#35265;** board at `June 23, 2020 at 10:33AM`<br>
+&nbsp;<br>
+&gt; safari &#27983;&#35272;&#22120;&#19978;&#20351;&#29992; html &#26631;&#31614; audio &#24490;&#29615;&#25773;&#25918;&#38899;&#39057;&#26102;&#65292;&#22312;&#27599;&#19968;&#27425;&#25773;&#25918;&#23436;&#20043;&#21518;&#65292;&#19979;&#19968;&#27425;&#25773;&#25918;&#20043;&#21069;&#24635;&#20250;&#26377;&#32422; 1s &#30340;&#38388;&#38548; &#65288;gap&#65289;&#65292;&#36825;&#26102;&#20505;&#25512;&#33616;&#20351;&#29992; howler.js &#26469;&#25773;&#25918;&#38899;&#39057;&#65292;&#21487;&#20197;&#23436;&#32654;&#35299;&#20915;&#36825;&#20010;&#38382;&#39064;<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/265)
+
+---
+
 
 #### [How to Create a Motion Hover Effect for a Background Image Grid | Codrops](https://github.com/jwenjian/ghiblog/issues/264) <sup>0 :speech_balloon:</sup> 	 2020-06-12 03:25:20
 
@@ -93,21 +108,6 @@ Card [Short basics of caching | Ivan Akulov&rsquo;s blog](https://ift.tt/2UoS3HN
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/261)
-
----
-
-
-#### [Short basics of caching | Ivan Akulovs blog](https://github.com/jwenjian/ghiblog/issues/260) <sup>0 :speech_balloon:</sup> 	 2020-06-10 08:25:06
-
-:label: : 
-
-Card [Short basics of caching | Ivan Akulov&rsquo;s blog](https://ift.tt/2UoS3HN) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `June 10, 2020 at 03:39PM`<br>
-&nbsp;<br>
-&gt; Short basics of caching<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/260)
 
 ---
 
