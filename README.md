@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-06-28 06:14:56"/>
+    <img src="https://badgen.net/badge/last-commit/2020-06-28 06:27:15"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -19,16 +19,16 @@
 
 
 <p align='center'>
-<a href='https://github.com/jwenjian/ghiblog/issues/116#issuecomment-633206928'>
-<img src='https://user-images.githubusercontent.com/25657798/82751172-1647d000-9de8-11ea-934f-6ba166099a05.png' width='50%' alt='
+<a href='https://github.com/jwenjian/ghiblog/issues/116#issuecomment-650704493'>
+<img src='https://i.loli.net/2020/06/28/ueOEUQGq1HgbnmL.png' width='50%' alt='
 
-个人开发的第一个小程序'>
+LuckyYou - 一个跨平台工具，用于抽奖/课堂点名'>
 </a>
 </p>
 <p align='center'>
 <span>
 
-个人开发的第一个小程序</span>
+LuckyYou - 一个跨平台工具，用于抽奖/课堂点名</span>
 </p>
 
     
@@ -282,7 +282,7 @@ Card [Grid for layout, Flexbox for components](https://ift.tt/30qTaKS) added the
 <details>
 <summary>:framed_picture:封面	<sup>1:newspaper:</sup></summary>
 
-- [封面](https://github.com/jwenjian/ghiblog/issues/116)  <sup>11 :speech_balloon:</sup>  	 
+- [封面](https://github.com/jwenjian/ghiblog/issues/116)  <sup>12 :speech_balloon:</sup>  	 
 
 
 </details>
