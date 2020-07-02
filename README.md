@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-07-01 03:25:49"/>
+    <img src="https://badgen.net/badge/last-commit/2020-07-02 02:25:59"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -36,6 +36,36 @@ LuckyYou - 一个跨平台工具，用于抽奖/课堂点名</span>
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>19 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Domain-Driven Design with Relational Databases Using Spring Data JDBC](https://github.com/jwenjian/ghiblog/issues/269) <sup>0 :speech_balloon:</sup> 	 2020-07-02 02:25:20
+
+:label: : 
+
+Card [Domain-Driven Design with Relational Databases Using Spring Data JDBC](https://ift.tt/2VDVpar) added the to the **&#26550;&#26500;/&#20013;&#38388;&#20214;/&#25968;&#25454;&#24211;/MySQL** list in the **&#36935;&#35265;** board at `July 2, 2020 at 09:55AM`<br>
+&nbsp;<br>
+&gt; Jens Schauder discusses how to design an object model the DDD way, why this might be a good idea, and how to build a persistence layer for it backed by Spring Data JDBC.<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/269)
+
+---
+
+
+#### [Delay startup of your Spring Boot application until your DB is up.](https://github.com/jwenjian/ghiblog/issues/268) <sup>0 :speech_balloon:</sup> 	 2020-07-02 02:25:19
+
+:label: : 
+
+Card [Delay startup of your Spring Boot application until your DB is up.](https://ift.tt/2ZnzKo0) added the to the **Java/Maven/Spring(boot)/Mybatis** list in the **&#36935;&#35265;** board at `July 2, 2020 at 09:46AM`<br>
+&nbsp;<br>
+&gt; &#22312; Springboot &#20013;&#20351;&#29992; DatabaseStartupValidator &#26469;&#23454;&#29616;: &#24310;&#36831;&#36816;&#34892;springboot &#39033;&#30446;&#30452;&#21040;&#20320;&#30340;&#39033;&#30446;&#21487;&#20197;&#36830;&#25509;&#19978;&#25968;&#25454;&#24211;.<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/268)
+
+---
+
 
 #### [CloudConvert](https://github.com/jwenjian/ghiblog/issues/267) <sup>0 :speech_balloon:</sup> 	 2020-07-01 03:25:14
 
@@ -78,36 +108,6 @@ Card [javascript - There is always a gap on my Audio Loop in Safari - Stack Over
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/265)
-
----
-
-
-#### [How to Create a Motion Hover Effect for a Background Image Grid | Codrops](https://github.com/jwenjian/ghiblog/issues/264) <sup>0 :speech_balloon:</sup> 	 2020-06-12 03:25:20
-
-:label: : 
-
-Card [How to Create a Motion Hover Effect for a Background Image Grid | Codrops](https://ift.tt/2BWmY7P) added the to the **&#21069;&#31471;/HTML/JS/CSS/vuejs** list in the **&#36935;&#35265;** board at `June 12, 2020 at 10:25AM`<br>
-&nbsp;<br>
-&gt; A short tutorial on how to achieve a motion hover effect on a background image grid.<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/264)
-
----
-
-
-#### [Learn Box Alignment](https://github.com/jwenjian/ghiblog/issues/263) <sup>0 :speech_balloon:</sup> 	 2020-06-11 06:25:02
-
-:label: : 
-
-Card [Learn Box Alignment](https://ift.tt/2MKI0Zi) added the to the **&#21069;&#31471;/HTML/JS/CSS/vuejs** list in the **&#36935;&#35265;** board at `June 11, 2020 at 02:23PM`<br>
-&nbsp;<br>
-&gt; Ahmad Shadeed - Learn Box Alignment, a very good tutorial to show FlexBox and Grid<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/263)
 
 ---
 
