@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-07-02 02:25:59"/>
+    <img src="https://badgen.net/badge/last-commit/2020-07-03 02:25:50"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -36,6 +36,21 @@ LuckyYou - 一个跨平台工具，用于抽奖/课堂点名</span>
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>19 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Shoes! The easiest little GUI toolkit for Ruby.](https://github.com/jwenjian/ghiblog/issues/270) <sup>0 :speech_balloon:</sup> 	 2020-07-03 02:25:15
+
+:label: : 
+
+Card [Shoes! The easiest little GUI toolkit, for Ruby.](https://ift.tt/3irHEWc) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `July 3, 2020 at 09:50AM`<br>
+&nbsp;<br>
+&gt; The website for Shoes, a GUI toolkit for Ruby<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/270)
+
+---
+
 
 #### [Domain-Driven Design with Relational Databases Using Spring Data JDBC](https://github.com/jwenjian/ghiblog/issues/269) <sup>0 :speech_balloon:</sup> 	 2020-07-02 02:25:20
 
@@ -93,21 +108,6 @@ Card [FFMpeg&#26080;&#25439;&#21512;&#24182;&#35270;&#39057;&#30340;&#22810;&#31
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/266)
-
----
-
-
-#### [javascript - There is always a gap on my Audio Loop in Safari - Stack Overflow](https://github.com/jwenjian/ghiblog/issues/265) <sup>0 :speech_balloon:</sup> 	 2020-06-23 03:25:02
-
-:label: : 
-
-Card [javascript - There is always a gap on my Audio Loop in Safari - Stack Overflow](https://ift.tt/3hU4KUY) added the to the **&#21069;&#31471;/HTML/JS/CSS/vuejs** list in the **&#36935;&#35265;** board at `June 23, 2020 at 10:33AM`<br>
-&nbsp;<br>
-&gt; safari &#27983;&#35272;&#22120;&#19978;&#20351;&#29992; html &#26631;&#31614; audio &#24490;&#29615;&#25773;&#25918;&#38899;&#39057;&#26102;&#65292;&#22312;&#27599;&#19968;&#27425;&#25773;&#25918;&#23436;&#20043;&#21518;&#65292;&#19979;&#19968;&#27425;&#25773;&#25918;&#20043;&#21069;&#24635;&#20250;&#26377;&#32422; 1s &#30340;&#38388;&#38548; &#65288;gap&#65289;&#65292;&#36825;&#26102;&#20505;&#25512;&#33616;&#20351;&#29992; howler.js &#26469;&#25773;&#25918;&#38899;&#39057;&#65292;&#21487;&#20197;&#23436;&#32654;&#35299;&#20915;&#36825;&#20010;&#38382;&#39064;<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/265)
 
 ---
 
