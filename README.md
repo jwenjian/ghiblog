@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-07-07 06:16:17"/>
+    <img src="https://badgen.net/badge/last-commit/2020-07-07 11:26:04"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -36,6 +36,21 @@ LuckyYou - 一个跨平台工具，用于抽奖/课堂点名</span>
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>19 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Maven仓库理解和优先级 | ShenWenFang](https://github.com/jwenjian/ghiblog/issues/272) <sup>0 :speech_balloon:</sup> 	 2020-07-07 11:25:12
+
+:label: : 
+
+Card [Maven&#20179;&#24211;&#29702;&#35299;&#21644;&#20248;&#20808;&#32423; | ShenWenFang](https://ift.tt/3gCI0ro) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `July 7, 2020 at 06:38PM`<br>
+&nbsp;<br>
+&gt; 5 Seven 2017 &#21069;&#35328;&#20351;&#29992; maven &#20063;&#26377;&#19968;&#27573;&#26102;&#38388;&#20102;&#65292;&#26377;&#26102;&#20505;&#22312;&#37197;&#32622; repository,mirror,profile&#30340;&#26102;&#20505;&#65292;&#24635;&#20250;&#23548;&#33268; jar &#25289;&#21462;&#19981;&#21040;&#12290;&#25152;&#20197;&#35748;&#30495;&#30340;&#20998;&#26512;&#20102; maven &#33719;&#21462; jar &#21253;&#26102;&#20505;&#30340;&#20248;&#20808;&#32423;&#12290;<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/272)
+
+---
+
 
 #### [Microsoft Edge 新的标签页对应着一个网页](https://github.com/jwenjian/ghiblog/issues/271) <sup>0 :speech_balloon:</sup> 	 2020-07-07 06:15:36
 
@@ -91,21 +106,6 @@ Card [Delay startup of your Spring Boot application until your DB is up.](https:
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/268)
-
----
-
-
-#### [CloudConvert](https://github.com/jwenjian/ghiblog/issues/267) <sup>0 :speech_balloon:</sup> 	 2020-07-01 03:25:14
-
-:label: : 
-
-Card [CloudConvert](https://ift.tt/3dN4K6a) added the to the **&#35774;&#35745;&#127912;** list in the **&#36935;&#35265;** board at `July 1, 2020 at 10:47AM`<br>
-&nbsp;<br>
-&gt; &gt;File converter service - more than 200 different audio, video, document, ebook, archive, image, spreadsheet and presentation formats supported.<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/267)
 
 ---
 
