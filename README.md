@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-07-03 02:25:50"/>
+    <img src="https://badgen.net/badge/last-commit/2020-07-07 06:16:17"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -36,6 +36,19 @@ LuckyYou - 一个跨平台工具，用于抽奖/课堂点名</span>
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>19 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Microsoft Edge 新的标签页对应着一个网页](https://github.com/jwenjian/ghiblog/issues/271) <sup>0 :speech_balloon:</sup> 	 2020-07-07 06:15:36
+
+:label: : 
+
+https://ntp.msn.cn/edge/ntp?locale=en&dsp=0&sp=Google&query=enterprise&startpage=1
+
+在 edge 里输入这个网址 会直接跳转到新标签页
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/271)
+
+---
+
 
 #### [Shoes! The easiest little GUI toolkit for Ruby.](https://github.com/jwenjian/ghiblog/issues/270) <sup>0 :speech_balloon:</sup> 	 2020-07-03 02:25:15
 
@@ -93,21 +106,6 @@ Card [CloudConvert](https://ift.tt/3dN4K6a) added the to the **&#35774;&#35745;&
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/267)
-
----
-
-
-#### [FFMpeg无损合并视频的多种方法_doublefi123的专栏-CSDN博客_ffmpeg合并视频](https://github.com/jwenjian/ghiblog/issues/266) <sup>0 :speech_balloon:</sup> 	 2020-06-23 08:25:22
-
-:label: : 
-
-Card [FFMpeg&#26080;&#25439;&#21512;&#24182;&#35270;&#39057;&#30340;&#22810;&#31181;&#26041;&#27861;_doublefi123&#30340;&#19987;&#26639;-CSDN&#21338;&#23458;_ffmpeg&#21512;&#24182;&#35270;&#39057;](https://ift.tt/2Nmdzcf) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `June 23, 2020 at 03:30PM`<br>
-&nbsp;<br>
-&gt; &#26041;&#27861;&#20108;&#65306;FFmpeg concat &#20998;&#31163;&#22120; &#36825;&#31181;&#26041;&#27861;&#25104;&#21151;&#29575;&#24456;&#39640;&#65292;&#20063;&#26159;&#26368;&#22909;&#30340;&#65292;&#20294;&#26159;&#38656;&#35201; FFmpeg 1.1 &#20197;&#19978;&#29256;&#26412;&#12290;&#20808;&#21019;&#24314;&#19968;&#20010;&#25991;&#26412;&#25991;&#20214;filelist.txt&#65306; file 'input1.mkv' file 'input2.mkv' file 'input3.mkv' &#28982;&#21518;&#65306; ffmpeg -f concat -i filelist.txt -c copy output.mkv &#27880;&#24847;&#65306;&#20351;&#29992; FFmpeg concat &#20998;&#31163;&#22120;&#26102;&#65292;&#22914;&#26524;&#25991;&#20214;&#21517;&#26377;&#22855;&#24618;&#30340;&#23383;&#31526;&#65292;&#35201;&#22312;&nbsp;filelist.txt&nbsp;&#20013;&#36716;&#20041;&#12290;<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/266)
 
 ---
 
