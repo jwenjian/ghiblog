@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-07-12 13:26:06"/>
+    <img src="https://badgen.net/badge/last-commit/2020-07-12 15:26:04"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -36,6 +36,21 @@ LuckyYou - 一个跨平台工具，用于抽奖/课堂点名</span>
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>19 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Animista](https://github.com/jwenjian/ghiblog/issues/279) <sup>0 :speech_balloon:</sup> 	 2020-07-12 15:25:18
+
+:label: : 
+
+Card [Animista](https://ift.tt/32b1tes) added the to the **&#21069;&#31471;/HTML/JS/CSS/vuejs** list in the **&#36935;&#35265;** board at `July 12, 2020 at 10:35PM`<br>
+&nbsp;<br>
+&gt; Animista is a place where you can play with a collection of ready to use CSS animations, tweak them and download only those you will actually use.<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/279)
+
+---
+
 
 #### [Blobmaker - Make organic SVG shapes for your next design](https://github.com/jwenjian/ghiblog/issues/278) <sup>0 :speech_balloon:</sup> 	 2020-07-12 13:25:30
 
@@ -93,21 +108,6 @@ Card [tablericons](https://ift.tt/2AOZaCM) added the to the **&#35774;&#35745;&#
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/275)
-
----
-
-
-#### [In One Motion](https://github.com/jwenjian/ghiblog/issues/274) <sup>0 :speech_balloon:</sup> 	 2020-07-10 11:25:19
-
-:label: : 
-
-Card [In One Motion](https://ift.tt/3gQAut3) added the to the **&#32593;&#32476;&#25910;&#34255;&#22841;** list in the **&#36935;&#35265;** board at `July 10, 2020 at 06:59PM`<br>
-&nbsp;<br>
-&gt; &#20813;&#36153;&#35797;&#29992; 1 &#23567;&#26102;&#19968;&#20010; windows &#31995;&#32479;&#65292;64g &#20869;&#23384;&#12290;<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/274)
 
 ---
 
