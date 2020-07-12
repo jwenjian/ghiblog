@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-07-10 11:26:05"/>
+    <img src="https://badgen.net/badge/last-commit/2020-07-12 12:26:02"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -36,6 +36,21 @@ LuckyYou - 一个跨平台工具，用于抽奖/课堂点名</span>
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>19 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Remix Icon - Open source icon library](https://github.com/jwenjian/ghiblog/issues/276) <sup>0 :speech_balloon:</sup> 	 2020-07-12 12:25:22
+
+:label: : 
+
+Card [Remix Icon - Open source icon library](https://ift.tt/2Zm3brD) added the to the **&#35774;&#35745;&#127912;** list in the **&#36935;&#35265;** board at `July 12, 2020 at 07:36PM`<br>
+&nbsp;<br>
+&gt; Remix Icon is a set of open source neutral style system symbols elaborately crafted for designers and developers. All of the icons are free to use for both personal and commercial.<br>
+&nbsp;<br>
+
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/276)
+
+---
+
 
 #### [tablericons](https://github.com/jwenjian/ghiblog/issues/275) <sup>0 :speech_balloon:</sup> 	 2020-07-10 11:25:20
 
@@ -93,19 +108,6 @@ Card [Maven&#20179;&#24211;&#29702;&#35299;&#21644;&#20248;&#20808;&#32423; | Sh
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/272)
-
----
-
-
-#### [Microsoft Edge 新的标签页对应着一个网页](https://github.com/jwenjian/ghiblog/issues/271) <sup>0 :speech_balloon:</sup> 	 2020-07-07 06:15:36
-
-:label: : 
-
-https://ntp.msn.cn/edge/ntp?locale=en&dsp=0&sp=Google&query=enterprise&startpage=1
-
-在 edge 里输入这个网址 会直接跳转到新标签页
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/271)
 
 ---
 
