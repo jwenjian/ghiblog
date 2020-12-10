@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-11-26 10:03:17"/>
+    <img src="https://badgen.net/badge/last-commit/2020-12-10 03:25:22"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -36,6 +36,19 @@ LuckyYou - 一个跨平台工具，用于抽奖/课堂点名</span>
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>19 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [JVM 参数解析： SurvivorRatio](https://github.com/jwenjian/ghiblog/issues/291) <sup>0 :speech_balloon:</sup> 	 2020-12-10 03:24:45
+
+:label: : [:coffee:JAVA](https://github.com/jwenjian/ghiblog/labels/%3Acoffee%3AJAVA)
+
+JAVA 虚拟机将堆空间分为新生代和老年代，新生代又被划分为 Eden 区和两个大小相同的 Survivor 区。
+
+![image](https://user-images.githubusercontent.com/25657798/101717031-81819700-3ad9-11eb-
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/291)
+
+---
+
 
 #### [sourceware.org: Free software! Get your fresh hot free software!](https://github.com/jwenjian/ghiblog/issues/290) <sup>0 :speech_balloon:</sup> 	 2020-08-24 07:25:04
 
@@ -93,21 +106,6 @@ Card [Determine the signature of a method - Real's Java How-to](https://ift.tt/3
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/287)
-
----
-
-
-#### [CSS Color Palette Generator: beautiful color palettes for free](https://github.com/jwenjian/ghiblog/issues/286) <sup>0 :speech_balloon:</sup> 	 2020-07-23 01:25:25
-
-:label: : 
-
-Card [CSS Color Palette Generator: beautiful color palettes for free](https://ift.tt/39ljF6N) added the to the **&#35774;&#35745;&#127912;** list in the **&#36935;&#35265;** board at `July 23, 2020 at 08:50AM`<br>
-&nbsp;<br>
-&gt; Free CSS color palette generator. Perfect for brand colors and UI design on your website, easy to use.<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/286)
 
 ---
 
@@ -200,8 +198,9 @@ Card [CSS Color Palette Generator: beautiful color palettes for free](https://if
 </details>
 
 <details>
-<summary>:coffee:JAVA	<sup>11:newspaper:</sup></summary>
+<summary>:coffee:JAVA	<sup>12:newspaper:</sup></summary>
 
+- [JVM 参数解析： SurvivorRatio](https://github.com/jwenjian/ghiblog/issues/291)  <sup>0 :speech_balloon:</sup>  	 
 - [配置 apache maven resource plugin 的编码方式为UTF-8](https://github.com/jwenjian/ghiblog/issues/144)  <sup>0 :speech_balloon:</sup>  	 
 - [不要把大型JAR包放进Docker镜像-InfoQ](https://github.com/jwenjian/ghiblog/issues/138)  <sup>0 :speech_balloon:</sup>  	 
 - [消灭 Java 代码的坏味道-InfoQ](https://github.com/jwenjian/ghiblog/issues/109)  <sup>0 :speech_balloon:</sup>  	 
