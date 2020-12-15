@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2020-12-10 03:25:22"/>
+    <img src="https://badgen.net/badge/last-commit/2020-12-15 12:52:35"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -37,7 +37,7 @@ LuckyYou - 一个跨平台工具，用于抽奖/课堂点名</span>
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>19 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
-#### [JVM 参数解析： SurvivorRatio](https://github.com/jwenjian/ghiblog/issues/291) <sup>0 :speech_balloon:</sup> 	 2020-12-10 03:24:45
+#### [JVM 参数解析： SurvivorRatio](https://github.com/jwenjian/ghiblog/issues/291) <sup>1 :speech_balloon:</sup> 	 2020-12-10 03:24:45
 
 :label: : [:coffee:JAVA](https://github.com/jwenjian/ghiblog/labels/%3Acoffee%3AJAVA)
 
@@ -200,7 +200,7 @@ Card [Determine the signature of a method - Real's Java How-to](https://ift.tt/3
 <details>
 <summary>:coffee:JAVA	<sup>12:newspaper:</sup></summary>
 
-- [JVM 参数解析： SurvivorRatio](https://github.com/jwenjian/ghiblog/issues/291)  <sup>0 :speech_balloon:</sup>  	 
+- [JVM 参数解析： SurvivorRatio](https://github.com/jwenjian/ghiblog/issues/291)  <sup>1 :speech_balloon:</sup>  	 
 - [配置 apache maven resource plugin 的编码方式为UTF-8](https://github.com/jwenjian/ghiblog/issues/144)  <sup>0 :speech_balloon:</sup>  	 
 - [不要把大型JAR包放进Docker镜像-InfoQ](https://github.com/jwenjian/ghiblog/issues/138)  <sup>0 :speech_balloon:</sup>  	 
 - [消灭 Java 代码的坏味道-InfoQ](https://github.com/jwenjian/ghiblog/issues/109)  <sup>0 :speech_balloon:</sup>  	 
