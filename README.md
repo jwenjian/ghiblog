@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2021-03-21 00:44:37"/>
+    <img src="https://badgen.net/badge/last-commit/2021-03-30 08:07:49"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -36,6 +36,17 @@ LuckyYou - 一个跨平台工具，用于抽奖/课堂点名</span>
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>19 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [这篇文章收集了很多 SVG 在线工具](https://github.com/jwenjian/ghiblog/issues/293) <sup>0 :speech_balloon:</sup> 	 2021-03-30 08:07:13
+
+:label: : 
+
+https://www.smashingmagazine.com/2021/03/svg-generators/?ref=sidebar
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/293)
+
+---
+
 
 #### [在线转换/下载 ytb 视频](https://github.com/jwenjian/ghiblog/issues/292) <sup>0 :speech_balloon:</sup> 	 2021-03-21 00:44:07
 
@@ -87,21 +98,6 @@ Card [C++ &#20013;&#30340; inline &#29992;&#27861; | &#33756;&#40479;&#25945;&#3
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/289)
-
----
-
-
-#### [gcc 生成 .a静态库和 .so动态库 - only_eVonne - 博客园](https://github.com/jwenjian/ghiblog/issues/288) <sup>0 :speech_balloon:</sup> 	 2020-08-03 09:25:12
-
-:label: : 
-
-Card [gcc &#29983;&#25104; .a&#38745;&#24577;&#24211;&#21644; .so&#21160;&#24577;&#24211; - only_eVonne - &#21338;&#23458;&#22253;](https://ift.tt/2PkjG1C) added the to the **C&#23478;&#26063;** list in the **&#36935;&#35265;** board at `August 3, 2020 at 05:22PM`<br>
-&nbsp;<br>
-&gt; &#20989;&#25968;&#24211;&#20998;&#20026;&#38745;&#24577;&#24211;&#21644;&#21160;&#24577;&#24211;&#20004; &#31181;&#12290;&#38745;&#24577;&#24211;&#22312;&#31243;&#24207;&#32534;&#35793;&#26102;&#20250;&#34987;&#36830;&#25509;&#21040;&#30446;&#26631;&#20195;&#30721;&#20013;&#65292;&#31243;&#24207;&#36816;&#34892;&#26102;&#23558;&#19981;&#20877;&#38656;&#35201;&#35813;&#38745;&#24577;&#24211;&#12290;&#21160;&#24577; &#24211;&#22312;&#31243;&#24207;&#32534;&#35793;&#26102;&#24182;&#19981;&#20250;&#34987;&#36830;&#25509;&#21040;&#30446;&#26631;&#20195;&#30721;&#20013;&#65292;&#32780;&#26159;&#22312;&#31243;&#24207;&#36816;&#34892;&#26159;&#25165;&#34987;&#36733;&#20837;&#65292;&#22240;&#27492;&#22312;&#31243;&#24207;&#36816; &#34892;&#26102;&#36824;&#38656;&#35201;&#21160;&#24577;&#24211;&#23384;&#22312;&#12290;<br>
-&nbsp;<br>
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/288)
 
 ---
 
