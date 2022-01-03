@@ -112,6 +112,9 @@ def format_issue_with_labels(issue: Issue):
         body_summary = issue.body[:issue.body.index('---')]
     else:
         body_summary = issue.body[:150]
+        # 如果前150个字符中有代码块，则在 150 个字符中重新截取代码块之前的部分作为 summary
+        if '```' in body_summary:
+            body_summary = body_summary[:body_summary.index('```')]
 
     return '''
 #### [{0}]({1}) {2} \t {3}
