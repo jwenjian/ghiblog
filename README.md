@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-01-04 05:22:16"/>
+    <img src="https://badgen.net/badge/last-commit/2022-01-04 07:28:36"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -34,7 +34,7 @@ LuckyYou - 一个跨平台工具，用于抽奖/课堂点名</span>
     
 ## 置顶 :thumbsup: 
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
-- [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>25 :speech_balloon:</sup>  	 
+- [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>26 :speech_balloon:</sup>  	 
 ## 最新 :new: 
 
 #### [Code Radio 在线FM，敲代码必备背景音乐](https://github.com/jwenjian/ghiblog/issues/299) <sup>0 :speech_balloon:</sup> 	 2022-01-04 05:21:51
@@ -111,7 +111,7 @@ https://codepen.io/Ma5a/full/jOBWBYw
 <summary>:+1:置顶	<sup>2:newspaper:</sup></summary>
 
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
-- [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>25 :speech_balloon:</sup>  	 
+- [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>26 :speech_balloon:</sup>  	 
 
 
 </details>
@@ -426,7 +426,7 @@ https://codepen.io/Ma5a/full/jOBWBYw
 <summary>good first issue	<sup>2:newspaper:</sup></summary>
 
 - [如果风险投资者问你“如果大公司进入市场与你竞争，怎么办？”，你应该如何回答？](https://github.com/jwenjian/ghiblog/issues/70)  <sup>1 :speech_balloon:</sup>  	 
-- [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>25 :speech_balloon:</sup>  	 
+- [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>26 :speech_balloon:</sup>  	 
 
 
 </details>
