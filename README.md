@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-01-04 05:16:46"/>
+    <img src="https://badgen.net/badge/last-commit/2022-01-04 05:22:16"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -36,6 +36,19 @@ LuckyYou - 一个跨平台工具，用于抽奖/课堂点名</span>
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>25 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [Code Radio 在线FM，敲代码必备背景音乐](https://github.com/jwenjian/ghiblog/issues/299) <sup>0 :speech_balloon:</sup> 	 2022-01-04 05:21:51
+
+:label: : [:earth_africa:网站收藏](https://github.com/jwenjian/ghiblog/labels/%3Aearth_africa%3A%E7%BD%91%E7%AB%99%E6%94%B6%E8%97%8F)
+
+FreeCodeCamp 出品，7 * 24 小时不间断播放，可作为敲代码的背景音乐。
+
+地址： https://coderadio.freecodecamp.org/
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/299)
+
+---
+
 
 #### [win11 ReactJS 复刻](https://github.com/jwenjian/ghiblog/issues/298) <sup>0 :speech_balloon:</sup> 	 2021-07-19 09:16:25
 
@@ -81,19 +94,6 @@ https://codepen.io/Ma5a/full/jOBWBYw
 
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/295)
-
----
-
-
-#### [这个网站可以生成外卖订单五星评论，让你轻松赚取商家返现红包](https://github.com/jwenjian/ghiblog/issues/294) <sup>0 :speech_balloon:</sup> 	 2021-05-04 06:42:48
-
-:label: : 
-
-https://easy-comment.vercel.app/#/
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/294)
 
 ---
 
@@ -243,8 +243,9 @@ https://easy-comment.vercel.app/#/
 </details>
 
 <details>
-<summary>:earth_africa:网站收藏	<sup>17:newspaper:</sup></summary>
+<summary>:earth_africa:网站收藏	<sup>18:newspaper:</sup></summary>
 
+- [Code Radio 在线FM，敲代码必备背景音乐](https://github.com/jwenjian/ghiblog/issues/299)  <sup>0 :speech_balloon:</sup>  	 
 - [Text to ASCII Art Generator (TAAG)](https://github.com/jwenjian/ghiblog/issues/131)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : Animated Icons - 200 Free Icons](https://github.com/jwenjian/ghiblog/issues/117)  <sup>0 :speech_balloon:</sup>  	 
 - [AirPano.com: 360° 全景图片 + 视频展示世界各地美景](https://github.com/jwenjian/ghiblog/issues/106)  <sup>0 :speech_balloon:</sup>  	 
