@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-01-04 08:34:54"/>
+    <img src="https://badgen.net/badge/last-commit/2022-02-24 02:31:41"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -36,6 +36,21 @@ LuckyYou - 一个跨平台工具，用于抽奖/课堂点名</span>
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>27 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [另外一个 GitHub Issue Blog 的方案](https://github.com/jwenjian/ghiblog/issues/300) <sup>0 :speech_balloon:</sup> 	 2022-02-24 02:31:12
+
+:label: : 
+
+
+![image](https://user-images.githubusercontent.com/25657798/155446112-f63870ba-6302-44f7-b5b8-a7738053966a.png)
+
+
+具体移步： https://github.com/djyde/
+
+[更多>>>](https://github.com/jwenjian/ghiblog/issues/300)
+
+---
+
 
 #### [Code Radio 在线FM，敲代码必备背景音乐](https://github.com/jwenjian/ghiblog/issues/299) <sup>0 :speech_balloon:</sup> 	 2022-01-04 05:21:51
 
@@ -81,19 +96,6 @@ https://win11.blueedge.me/
 [**youtube to mp3**](https://yt-mp3.co/en/)
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/296)
-
----
-
-
-#### [小狗找骨头，一个非常可爱的搜索算法可视化的网页](https://github.com/jwenjian/ghiblog/issues/295) <sup>0 :speech_balloon:</sup> 	 2021-05-25 08:55:41
-
-:label: : 
-
-https://codepen.io/Ma5a/full/jOBWBYw
-
-
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/295)
 
 ---
 
