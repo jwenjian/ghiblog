@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-02-24 02:31:41"/>
+    <img src="https://badgen.net/badge/last-commit/2022-06-06 17:13:20"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -36,6 +36,19 @@ LuckyYou - 一个跨平台工具，用于抽奖/课堂点名</span>
 - [【Trello】博客同步Trello看板](https://github.com/jwenjian/ghiblog/issues/147)  <sup>1 :speech_balloon:</sup>  	 
 - [基于Github Action自动生成并更新GitHub Issue博客的ReadMe](https://github.com/jwenjian/ghiblog/issues/1)  <sup>27 :speech_balloon:</sup>  	 
 ## 最新 :new: 
+
+#### [feat: modify secrets key](https://github.com/jwenjian/ghiblog/pull/301) <sup>1 :speech_balloon:</sup> 	 2022-06-06 17:12:25
+
+:label: : 
+
+Failed to add secret. Secret names must not start with GITHUB_.
+
+<img width="762" alt="image" src="https://user-images.githubusercontent.com/2425062
+
+[更多>>>](https://github.com/jwenjian/ghiblog/pull/301)
+
+---
+
 
 #### [另外一个 GitHub Issue Blog 的方案](https://github.com/jwenjian/ghiblog/issues/300) <sup>0 :speech_balloon:</sup> 	 2022-02-24 02:31:12
 
@@ -85,17 +98,6 @@ https://win11.blueedge.me/
 [**yt a mp3**](https://yt-mp3.co/es/)
 
 [更多>>>](https://github.com/jwenjian/ghiblog/issues/297)
-
----
-
-
-#### [youtube to mp3](https://github.com/jwenjian/ghiblog/issues/296) <sup>2 :speech_balloon:</sup> 	 2021-05-30 20:09:25
-
-:label: : 
-
-[**youtube to mp3**](https://yt-mp3.co/en/)
-
-[更多>>>](https://github.com/jwenjian/ghiblog/issues/296)
 
 ---
 
