@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-06-07 03:39:34"/>
+    <img src="https://badgen.net/badge/last-commit/2022-10-31 12:58:42"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -374,7 +374,7 @@ https://win11.blueedge.me/
 - [你应该学习的20个Python代码段-InfoQ](https://github.com/jwenjian/ghiblog/issues/139)  <sup>0 :speech_balloon:</sup>  	 
 - [配置 pip 使用清华大学 PyPi 镜像站](https://github.com/jwenjian/ghiblog/issues/137)  <sup>0 :speech_balloon:</sup>  	 
 - [Python统计文件行数 | LinuxHub](https://github.com/jwenjian/ghiblog/issues/130)  <sup>0 :speech_balloon:</sup>  	 
-- [用python爬虫保存美国农业部网站上的水果【证件照】](https://github.com/jwenjian/ghiblog/issues/114)  <sup>11 :speech_balloon:</sup>  	 
+- [用python爬虫保存美国农业部网站上的水果【证件照】](https://github.com/jwenjian/ghiblog/issues/114)  <sup>12 :speech_balloon:</sup>  	 
 - [Predictably Random](https://github.com/jwenjian/ghiblog/issues/103)  <sup>0 :speech_balloon:</sup>  	 
 - [Python_uuid 学习总结](https://github.com/jwenjian/ghiblog/issues/91)  <sup>0 :speech_balloon:</sup>  	 
 - [[From Instapaper] : How to use Python virtualenv](https://github.com/jwenjian/ghiblog/issues/64)  <sup>1 :speech_balloon:</sup>  	 
