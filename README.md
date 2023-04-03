@@ -3,7 +3,7 @@
 <p align='center'>
     <img src="https://badgen.net/badge/labels/31"/>
     <img src="https://badgen.net/github/issues/jwenjian/ghiblog"/>
-    <img src="https://badgen.net/badge/last-commit/2022-12-29 07:04:54"/>
+    <img src="https://badgen.net/badge/last-commit/2023-04-03 12:24:57"/>
     <img src="https://badgen.net/github/forks/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/stars/jwenjian/ghiblog"/>
     <img src="https://badgen.net/github/watchers/jwenjian/ghiblog"/>
@@ -148,7 +148,7 @@ FreeCodeCamp 出品，7 * 24 小时不间断播放，可作为敲代码的背景
 <summary>:beetle:Bug追踪	<sup>7:newspaper:</sup></summary>
 
 - [解决：pip3 cannot import name main](https://github.com/jwenjian/ghiblog/issues/152)  <sup>0 :speech_balloon:</sup>  	 
-- [解决Ubuntu执行sudo命令反应慢的问题](https://github.com/jwenjian/ghiblog/issues/149)  <sup>0 :speech_balloon:</sup>  	 
+- [解决Ubuntu执行sudo命令反应慢的问题](https://github.com/jwenjian/ghiblog/issues/149)  <sup>1 :speech_balloon:</sup>  	 
 - [解决: ssh 远程登录虚拟机 Linux 速度很慢的问题](https://github.com/jwenjian/ghiblog/issues/136)  <sup>0 :speech_balloon:</sup>  	 
 - [PlantUML Graphviz 安装](https://github.com/jwenjian/ghiblog/issues/126)  <sup>0 :speech_balloon:</sup>  	 
 - [Permission denied when running npm install](https://github.com/jwenjian/ghiblog/issues/90)  <sup>0 :speech_balloon:</sup>  	 
@@ -316,7 +316,7 @@ FreeCodeCamp 出品，7 * 24 小时不间断播放，可作为敲代码的背景
 
 - [解决：pip3 cannot import name main](https://github.com/jwenjian/ghiblog/issues/152)  <sup>0 :speech_balloon:</sup>  	 
 - [Ubuntu设置/修改系统时区](https://github.com/jwenjian/ghiblog/issues/150)  <sup>0 :speech_balloon:</sup>  	 
-- [解决Ubuntu执行sudo命令反应慢的问题](https://github.com/jwenjian/ghiblog/issues/149)  <sup>0 :speech_balloon:</sup>  	 
+- [解决Ubuntu执行sudo命令反应慢的问题](https://github.com/jwenjian/ghiblog/issues/149)  <sup>1 :speech_balloon:</sup>  	 
 - [解决: ssh 远程登录虚拟机 Linux 速度很慢的问题](https://github.com/jwenjian/ghiblog/issues/136)  <sup>0 :speech_balloon:</sup>  	 
 - [Docker配置网易云仓库地址](https://github.com/jwenjian/ghiblog/issues/135)  <sup>0 :speech_balloon:</sup>  	 
 - [解决：CentOS7 - Cannot find a valid baseurl for repo: base/7/x86_6](https://github.com/jwenjian/ghiblog/issues/134)  <sup>0 :speech_balloon:</sup>  	 
